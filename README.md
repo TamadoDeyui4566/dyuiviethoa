@@ -1,7 +1,7 @@
 ## Được Việt Hóa bởi @DYUI_YT (Duy)
 Tất cả thông tin sớm được cập nhập nên chờ đợi các bản cập nhập tiếp theo
 
-## Người hỗ trợ cho mod này
+## Lời cảm ơn
 [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa
 
 ## Về hướng dẫn

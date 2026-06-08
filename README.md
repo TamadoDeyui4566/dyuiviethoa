@@ -9,3 +9,7 @@ Tất cả thông tin sớm được cập nhập nên chờ đợi các bản c
 2. Sau khi thực hiện xong, bước biếp theo chuẩn bị 2 file đó là "dynamic.rsb.smf" và "init.rsb.smf" [theo đường link này](https://drive.google.com/drive/folders/1zmeYb0VYpUJW1GbGMWWSkv5gwKs9KfHs)
 3. Tải app [ZAchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en) về điện thoại. Lưu ý, nếu hệ điều hành android từ 15 trở lên nên cài thêm app [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en)
 4. Cách thực hiện: Mọi thứ sẽ nằm trong video hướng dẫn của tôi (sớm có)
+
+## Vấn đề khác
+- Nếu có yêu cần thêm Việt Hóa vào mod của [Evilhack28](https://github.com/evilhack28) thì ib qua facebook hoặc discord, vì tôi sẽ không thêm mod bất kỳ vì có nhiều rủi ro nên **tôi không chịu trách nhiệm về vấn đề này**
+- Trong qua trình tải file mà không mang theo "init.rsb.smf" thì gây ra tình trạng lỗi font nên lưu ý vấn đề này

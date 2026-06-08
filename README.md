@@ -2,3 +2,4 @@
 Tất cả thông tin sớm được cập nhập nên chờ đợi các bản cập nhập tiếp theo
 
 ## Người hỗ trợ cho mod này
+https://github.com/Nvdtn19

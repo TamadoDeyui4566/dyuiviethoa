@@ -1,1 +1,1 @@
-Hướng dẫn cách hoạt động như nào thì sỡm sẽ cập nhập
+Đọc cũng được, xem để trang trí :))

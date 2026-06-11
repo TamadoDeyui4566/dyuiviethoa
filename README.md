@@ -17,4 +17,4 @@ Tất cả thông tin sớm được cập nhập nên chờ đợi các bản c
 ## Đa phương tiện
 - [Discord Server](https://discord.gg/UhQ6sfJaqE)
 - [Group Facebook](https://www.facebook.com/groups/1540381394319503/?ref=share&mibextid=NSMWBT)
-- [YouTube- Dyui VV](https://m.youtube.com/@DYUI_YT)
+- [YouTube - Dyui VV](https://m.youtube.com/@DYUI_YT)

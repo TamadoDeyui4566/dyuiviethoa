@@ -15,6 +15,6 @@ Tất cả thông tin sớm được cập nhập nên chờ đợi các bản c
 - Trong qua trình tải file mà không mang theo "init.rsb.smf" thì gây ra tình trạng lỗi font nên lưu ý vấn đề này
 - Đây là bản Việt Hóa **hoàn toàn miễn phí** nếu ai đang kinh doanh liên quan đến bản VH thì ***tôi sẽ không hoàn toàn chịu trách nhiệm vấn đề đó*** 
 ## Đa phương tiện
-(Discord Server)[https://discord.gg/UhQ6sfJaqE]
-(Group Facebook)[https://www.facebook.com/groups/1540381394319503/?ref=share&mibextid=NSMWBT]
-(YouTube- Dyui VV)[https://m.youtube.com/@DYUI_YT]
+[Discord Server](https://discord.gg/UhQ6sfJaqE)
+[Group Facebook](https://www.facebook.com/groups/1540381394319503/?ref=share&mibextid=NSMWBT)
+[YouTube- Dyui VV](https://m.youtube.com/@DYUI_YT)

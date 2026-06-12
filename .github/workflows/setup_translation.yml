@@ -22,11 +22,11 @@ jobs:
       - name: Process Translation
         run: |
           for version in $(ls raw); do
-            for language in $(ls raw/$version); do
+            for language in $(ls raw); do
               # Android
-              android_input="raw/$version/$language/android_file.txt"
-              android_res_release="translation/$version/$language/ad/res_release"
-              android_res_shipping="translation/$version/$language/ad/res_shipping"
+              android_input="raw/$language/android_file.txt"
+              android_res_release="translation/$language/ad/res_release"
+              android_res_shipping="translation/$language/ad/res_shipping"
               if [ -f $android_input ]; then
                 mkdir -p $android_res_release
                 mkdir -p $android_res_shipping

@@ -1,5 +1,5 @@
 # Thông tin chính
-- Được Việt Hóa bởi @DYUI_YT (Duy)
+- Được Việt Hóa bởi @DYUI_YT ([Duy](https://github.com/TamadoDeyui4566))
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa

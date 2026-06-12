@@ -3,6 +3,7 @@
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa
+- Cảm ơn [Cybersteve](http://github.com/CyberSteve777) vì đoạn mã trên GitHub!
 - Và một số hội đồng tại discord của "Mần Du Ký - MDK Team" đã hỗ trợ Việt Hóa thành công trong thời gian qua
 
 ## Về hướng dẫn

@@ -19289,10 +19289,10 @@ Sự kiện nạp 1 tệ hoàn trả Kim cương
 Thẻ tuần Kim cương
 
 [PRODUCT_IOS_CUKE_PACKAGE]
-Gói quà Dưa chuột 1 tệ
+Gói quà Dưa leo 1 tệ
 
 [PRODUCT_IOS_CUKE_PACKAGE_SHORTDESC]
-Gói quà Dưa chuột 1 tệ
+Gói quà Dưa leo 1 tệ
 
 [PRODUCT_MONTHLY_CARD]
 Thẻ tháng trải nghiệm 30 tệ
@@ -56336,7 +56336,7 @@ Kim cương
 Pha lê bí ẩn
 
 [SECRET_GACHA_COIN_PENDANT]
-Bom Dưa Chuột
+Bom Dưa Leo
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DESC_PARAM]
 Hướng dẫn hoạt động, từ ngày {START} đến ngày {END} tháng {MONTH}, điểm danh mỗi ngày nhận phần thưởng phong phú, trong thời gian diễn ra nạp Kim Cương bất kỳ còn nhận thêm phần thưởng cao cấp.
@@ -79466,7 +79466,7 @@ Cắt giảm cái giá phải trả khi kích hoạt mây lành, tỷ lệ Mặt
 Khi trồng có xác suất trung bình kích hoạt trực tiếp tuyệt kỹ Plant Food
 
 [APSARLOTUS_NEW_SKILL_LEVEL5_DES]
-Nếu việc trồng cây trên mây lành kích hoạt khả năng giải phóng Năng Lượng Đậu khi tiếp đất của chính cây đó, Bệ Sen Mây Lành sẽ khấu trừ đi 50% tiêu hao Mặt trời của nó, lập tức nối tiếp無缝 liên tục tự động giải phóng tuyệt kỹ Năng Lượng Đậu một lần nữa.
+Nếu việc trồng cây trên mây lành kích hoạt khả năng giải phóng Plant Food khi tiếp đất của chính cây đó, Bệ Sen Mây Lành sẽ khấu trừ đi 50% tiêu hao Mặt trời của nó, lập tức nối tiếp無缝 liên tục tự động giải phóng tuyệt kỹ Plant Food một lần nữa.
 
 [APSARLOTUS_PLANTFOOD_DESCRIPTION]
 Tạo ra một vùng mây lành nằm ngang trong khu vực 1x3 phía trước, kéo dài trong 10 giây.
@@ -82009,7 +82009,7 @@ Thời gian hồi trồng cây giảm 30%
 Xương Rồng - Bóng Đêm Biển Sâu
 
 [NEW_AVATAR_DESCRIPTION_CACTUS_2]
-Lần đầu dùng Năng Lượng Đậu khi lặn, số lượng gai phóng ra ở đợt đầu tiên tăng gấp đôi
+Lần đầu dùng Plant Food khi lặn, số lượng gai phóng ra ở đợt đầu tiên tăng gấp đôi
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPLITPEA_2]
 Đậu Hai Đầu - Khăn Đỏ
@@ -87290,5 +87290,672 @@ Cầu Thủ Nhí
 
 [DAVECUP_HEAD_DES_ID_25889]
 Phần thưởng cột mốc của Cúp Dave
+
+[DAVE_SHOP_TITLE]
+Cửa hàng Penny
+
+[DAVE_SHOP_ITEM_LEFT]
+Còn：
+
+[DAVE_SHOP_BUY]
+Mua
+
+[DAVE_SHOP_ITEM_UNIT]
+cái
+
+[EXTRA_MSG_ERROR_DESC_UNKNOWN]
+Dữ liệu trò chơi gặp sự cố, vui lòng thử lại.
+<Mã lỗi： {NUMBER}>
+
+[EXTRA_MSG_ERROR_DESC_20701]
+Không có thông tin người chơi
+
+[EXTRA_MSG_ERROR_DESC_29001]
+Loại sự kiện không hợp lệ
+
+[EXTRA_MSG_ERROR_DESC_29002]
+Thông tin Cửa hàng Dave của người chơi chưa được khởi tạo
+
+[EXTRA_MSG_ERROR_DESC_29003]
+Vật phẩm đã bán hết
+
+[EXTRA_MSG_ERROR_DESC_29004]
+ID vật phẩm không tồn tại
+
+[EXTRA_MSG_ERROR_DESC_29006]
+Người dùng không đủ điều kiện dùng thử
+
+[EXTRA_MSG_ERROR_DESC_29007]
+Người dùng không phải là VIP tháng
+
+[EXTRA_MSG_ERROR_DESC_29008]
+Người dùng đã nhận Kim cương miễn phí hôm nay rồi
+
+[EXTRA_MSG_ERROR_DESC_29009]
+Lỗi nạp tiền
+
+[EXTRA_MSG_ERROR_DESC_29010]
+Người dùng đã sử dụng hết Taco miễn phí hôm nay
+
+[EXTRA_MSG_ERROR_DESC_40022]
+Sự kiện đã kết thúc
+
+[EXTRA_MSG_ERROR_DESC_40033]
+Sự kiện chưa bắt đầu hoặc đã kết thúc
+
+[EXTRA_MSG_ERROR_DESC_40034]
+Không còn lượt thử thách nào
+
+[MONTHLY_VIP_TITLE]
+Thành viên VIP
+
+[MONTHLY_VIP_BUY_BTN]
+10 tệ/tháng
+
+[MONTHLY_VIP_INFO_SUM]
+Thêm ^cc0000^ {NUMBER} ^oldclr^ mặt trời bắt đầu
+
+[MONTHLY_VIP_TIP_NONE]
+Bạn chưa phải là thành viên VIP.
+Mua ngay để nhận các quyền lợi trên.
+
+[MONTHLY_VIP_TIP_BE]
+Bạn đã là thành viên VIP.
+Đây là tất cả các quyền lợi của bạn.
+
+[MONTHLY_VIP_INFO_GOLD]
+Nhận ^cc0000^ {NUMBER} ^oldclr^ tiền vàng miễn phí hàng ngày
+
+[MONTHLY_CARD_TITLE]
+Thẻ Thông Hành Tháng 30 tệ
+
+[MONTHLY_CARD_TITLE_AND]
+Thẻ Thông Hành Tháng 30 tệ
+
+[MONTHLY_CARD_BUY]
+Mua ngay
+
+[MONTHLY_CARD_NOT_BUY]
+Không thể mua
+
+[MONTHLY_CARD_DRAW]
+Phần thưởng
+
+[MONTHLY_CARD_DRAW_ALREADY]
+Đã nhận
+
+[MONTHLY_CARD_CONTINUE_PAY]
+Gia hạn ngay
+
+[MONTHLY_CARD_TRY]
+Dùng thử miễn phí
+
+[MONTHLY_CARD_TIP_NONE]
+Bạn chưa mua Thẻ Thông Hành Tháng.
+Mua ngay để tận hưởng các quyền lợi sau trong 30 ngày:
+
+[MONTHLY_CARD_MAKE_UP_TIP_NONE]
+Bạn chưa mua Thẻ Pro.
+Mua ngay để tận hưởng các quyền lợi sau trong 30 ngày:
+
+[MONTHLY_CARD_SUPER_TIP_NONE]
+Bạn chưa mua Thẻ Siêu Cấp.
+Mua ngay để tận hưởng các quyền lợi sau trong 30 ngày:
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_NONE]
+Bạn chưa mua Thẻ Thông Hành VIP Tháng.
+Mua ngay để tận hưởng các quyền lợi sau:
+
+[MONTHLY_CARD_TIP_CAN_TRY]
+Bạn hiện có thể dùng thử miễn phí Thẻ Thông Hành Tháng trong {NUMBER} ngày
+
+[MONTHLY_CARD_MAKE_UP_TIP_CAN_TRY]
+Bạn hiện có thể dùng thử miễn phí Thẻ Pro trong {NUMBER} ngày
+
+[MONTHLY_CARD_SUPER_TIP_CAN_TRY]
+Bạn hiện có thể dùng thử miễn phí Thẻ Siêu Cấp trong {NUMBER} ngày
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_CAN_TRY]
+Bạn hiện có thể dùng thử miễn phí Thẻ Thông Hành VIP Tháng trong {NUMBER} ngày
+
+[MONTHLY_CARD_MAKE_UP_TIP_NORMAL]
+Bạn đã mua Thẻ Pro, còn {NUMBER} ngày sử dụng
+
+[MONTHLY_CARD_SUPER_TIP_NORMAL]
+Bạn đã mua Thẻ Siêu Cấp, còn {NUMBER} ngày sử dụng
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_NORMAL]
+Bạn đã mua Thẻ Thông Hành VIP Tháng, còn {NUMBER} ngày sử dụng
+
+[MONTHLY_CARD_TIP_NORMAL]
+Bạn đã mua Thẻ Thông Hành Tháng, còn {NUMBER} ngày sử dụng
+
+[MONTHLY_CARD_TIP_NORMAL_TEL]
+Bạn đã mua sản phẩm này trong tháng này. Có thể mua tiếp vào tháng sau.
+Số ngày còn lại của Thẻ Thông Hành Tháng: {NUMBER}
+
+[MONTHLY_CARD_MAKE_UP_TIP_NORMAL_TEL]
+Bạn đã mua sản phẩm này trong tháng này. Có thể mua tiếp vào tháng sau.
+Số ngày còn lại của Thẻ Pro: {NUMBER}
+
+[MONTHLY_CARD_SUPER_TIP_NORMAL_TEL]
+Bạn đã mua sản phẩm này trong tháng này. Có thể mua tiếp vào tháng sau.
+Số ngày còn lại của Thẻ Siêu Cấp: {NUMBER}
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_NORMAL_CM]
+Bạn đã mua sản phẩm này trong tháng này. Có thể mua tiếp vào tháng sau.
+Số ngày còn lại của Thẻ Thông Hành VIP Tháng: {NUMBER}
+
+[MONTHLY_CARD_TIP_TRY]
+Bạn hiện đang dùng thử Thẻ Thông Hành Tháng, còn {NUMBER} ngày
+
+[MONTHLY_CARD_MAKE_UP_TIP_TRY]
+Bạn hiện đang dùng thử Thẻ Pro, còn {NUMBER} ngày
+
+[MONTHLY_CARD_SUPER_TIP_TRY]
+Bạn hiện đang dùng thử Thẻ Siêu Cấp, còn {NUMBER} ngày
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_TRY]
+Bạn hiện đang dùng thử Thẻ Thông Hành VIP Tháng, còn {NUMBER} ngày
+
+[MONTHLY_CARD_INFO_GEMS]
+Nhận ^cc0000^ {NUMBER} ^oldclr^ Kim cương miễn phí hàng ngày
+
+[MONTHLY_CARD_INFO_BOMB]
+Sử dụng ^cc0000^ {NUMBER} ^oldclr^ dưa leo miễn phí hàng ngày
+
+[MONTHLY_CARD_INFO_SUM]
+Mặt trời bắt đầu tăng thêm ^cc0000^ {NUMBER} ^oldclr^
+
+[MONTHLY_CARD_INFO_AUTO_SUM]
+Tự động thu thập mặt trời
+
+[MONTHLY_CARD_INFO_AUTO_EN]
+Tự động thu thập Plant Food
+
+[MONTHLY_CARD_INFO_STAGE]
++ ^cc0000^ 1 ^oldclr^ lượt thử thách thêm cho Khủng Hoảng Khổng Lồ & Đại Sư Xâm Lăng
+
+[MONTHLY_CARD_BUY_TITLE]
+Mua Thẻ Thông Hành Tháng
+
+[MONTHLY_CARD_BUY_CANCEL]
+Mua sau
+
+[ANNIVERSARY_TITLE]
+Phần thưởng nạp tiền
+
+[ANNIVERSARY_AND_TITLE]
+Phần thưởng nạp tiền
+
+[COUNTDOWN_LABEL]
+Kết thúc trong：
+
+[COUNTDOWN_FORMAT_D_H]
+{DAYS} ngày và {HOURS} giờ
+
+[COUNTDOWN_FORMAT_HH_MM_SS]
+{HH}：{MM}：{SS}
+
+[RECHARGE_LABEL]
+Đã nạp：
+
+[REAL_MONEY_FORMAT]
+{NUMBER} tệ
+
+[ANNIVERSARY_DESC]
+^FFFFFF【300 Kim cương】Trước đây tặng 30, nay tặng 60
+【680 Kim cương】Trước đây tặng 100, nay tặng 200
+【1280 Kim cương】Trước đây tặng 250, nay tặng 500
+^FDEE01【3280 Kim cương】Trước đây tặng 828, nay tặng 1288
+【6480 Kim cương】Trước đây tặng 1988, nay tặng 2588
+
+[QUARE_BRACKET_LEFT]
+【
+
+[QUARE_BRACKET_RIGHT]
+】
+
+[RECHARGE]
+Nạp tiền
+
+[RECHARGE_TOTAL]
+Tổng đã nạp
+
+[RECHARGE_CLOSED]
+Sự kiện đã kết thúc,
+hãy đến nhận phần thưởng của bạn!
+
+[ANNIVERSARY_PIECE_AMOUNT]
+Chúc mừng! Đã nhận được {PIECES}
+
+[ANNIVERSARY_REWARD_TIP]
+Tất cả ba bậc phần thưởng có thể được nhận cùng lúc; cây trồng sẽ tự động tổng hợp hoặc nâng cấp sau khi nhận.
+
+[ANNIVERSARY_REWARD_TITLE]
+Nhận thành công
+
+[ANNIVERSARY_REWARD_TIP_PLANT_UNLOCK]
+Bạn đã nhận được ^4FC148{PLANT} ^oldclr^!
+
+[ANNIVERSARY_REWARD_TIP_PLANT_AUTO_LEVELUP]
+^4FC148 {PLANT} ^oldclr^ đã tự động nâng cấp thành công!
+
+[ANNIVERSARY_REWARD_TIP_PLANT_LEVELUP_NEED]
+Mua thêm ^ff0000^ {PIECES} ^oldclr^ mảnh nữa để tự động nâng cấp lên cấp tiếp theo
+
+[ANNIVERSARY_REWARD_TIP_PIECE_GET]
+Bạn đã nhận được ^ff0000^ {PIECES} ^oldclr^ mảnh
+
+[WORLD_UNLOCK_PACK_TITLE]
+Gói Phiêu lưu
+
+[WORLD_UNLOCK_PACK_RETURN_GEM_TIP]
+Mua gói thế giới đã mở khóa sẽ được hoàn lại ^ff0000 {NUMBER} ^oldclr^ tiền vàng
+
+[WORLD_UNLOCK_PACK_LUXURY_TITLE]
+Gói Thế giới Cao cấp
+
+[WORLD_UNLOCK_PACK_NORMAL_TITLE]
+Gói Thế giới Cổ điển
+
+[WORLD_UNLOCK_PACK_STANDARD_TITLE]
+Gói Thế giới Phiêu lưu
+
+[WORLD_UNLOCK_PACK_BUY_LABEL]
+Mua với giá {PRICE}
+
+[WORLD_UNLOCK_PACK_BUY_CONFIRM_TITLE]
+Mua Gói
+
+[WORLD_UNLOCK_PACK_BUY_CONFIRM_MSG]
+Tiêu ^009900 {PRICE} ^oldclr^ Kim cương để mua ^009900 {ITEM_NAME} ^oldclr^ và bắt đầu hành trình phiêu lưu thế giới mới của bạn ngay lập tức.
+
+[WORLD_UNLOCK_PACK_UNLOCK_TITLE]
+Mở khóa thành công
+
+[WORLD_UNLOCK_PACK_UNLOCK_WORLD_INFO]
+Đã mở khóa thành công ^ff0000 {WORLD_NAME} ^oldclr^!
+
+[WORLD_UNLOCK_PACK_UNLOCK_PACK_INFO]
+Bạn đã mua ^ff0000 {ITEM_NAME} ^oldclr^. Những loài cây mạnh mẽ đã gia nhập đội quân của bạn:
+
+[WORLD_UNLOCK_PACK_UNLOCK_PIECE_TIP]
+(Các loài cây đã sở hữu sẽ được chuyển đổi thành ^ff0000 10 ^oldclr^ mảnh)
+
+[WORLD_UNLOCK_PACK_UNLOCK_OK]
+OK
+
+[ENDLESS_EXCHANGE_SHOP_TITLE]
+Cửa hàng vô tận
+
+[ENDLESS_RECOMMENDED_SHOP_TITLE]
+Cửa hàng cây trồng khuyến nghị cho Vô Tận
+
+[ENDLESS_SHOP_NUTRIENT_TIP]
+Thuốc tăng trưởng dùng để nâng cấp cây từ cấp 4 lên cấp 5
+
+[ENDLESS_BOOST_SUN]
+Thêm Mặt trời
+
+[ENDLESS_BOOST_ENERGY]
+Plant Food
+
+[ENDLESS_BOOST_PLANT_ALL]
+Tất cả cây
+
+[ENDLESS_BOOST_PLANT_LEV_1]
+Cây trắng
+
+[ENDLESS_BOOST_PLANT_LEV_2]
+Cây lục
+
+[ENDLESS_BOOST_PLANT_LEV_3]
+Cây lam
+
+[ENDLESS_BOOST_PLANT_LEV_4]
+Cây tím
+
+[ENDLESS_BOOST_PLANT_LEV_5]
+Cây cam
+
+[ENDLESS_BOOST_BUY_DESC]
+Bạn có chắc muốn tiêu ^00e46e {NUMBER} Kim cương ^oldclr^ để mua {ITEM} không?
+
+[ENDLESS_BOOST_LIMIT]
+{ITEM} sẽ vượt quá giới hạn. Xác nhận để chọn kỹ năng này?
+
+[SPRING_SHOP_TITLE]
+Thương nhân Mùa xuân
+
+[SPRING_SHOP_BUY_LIMIT]
+Giới hạn sự kiện: {NUMBER}
+
+[SPRING_SHOP_MEDAL_NOT_ENOUGH]
+Không đủ Phiếu kho báu
+
+[BOSSCHALLENGE_TAB_BOSS]
+Thử thách Boss
+
+[BOSSCHALLENGE_TAB_DRAW]
+Vòng quay may mắn
+
+[BOSSCHALLENGE_TAB_DESC]
+Hướng dẫn thử thách
+
+[BOSSCHALLENGE_TAB_RANK]
+Bảng xếp hạng
+
+[BOSSCHALLENGE_TAB_DRAW]
+Quay thưởng
+
+[BOSSCHALLENGE_TAB_DESC]
+Hướng dẫn thử thách
+
+[BOSSCHALLENGE_TAB_RANK]
+Bảng xếp hạng
+
+[BOSSCHALLENGE_BOSS_TITLE]
+^FFB400 Defeat Dr. Zomboss quickly to earn crystals, draw ^27A800 rare plants
+
+[BOSSCHALLENGE_BOSS_TYPE1_PLANT]
+Đặc điểm cây: Cây màu lam +50% tấn công, khác -50% tấn công
+
+[BOSSCHALLENGE_BOSS_TYPE2_PLANT]
+Đặc điểm cây: Cây màu đỏ +50% tấn công, khác -50% tấn công
+
+[BOSSCHALLENGE_BOSS_TYPE3_PLANT]
+Đặc điểm cây: 100,000 vôn +50% tấn công, khác -50% tấn công
+
+[BOSSCHALLENGE_BOSS_TYPE4_PLANT]
+Đặc điểm cây: Cây mà tím +50% tấn công, khác -50% tấn công
+
+[BOSSCHALLENGE_BOSS_TYPE5_PLANT]
+Đặc điểm cây: Dòng máu rồng +50% tấn công, khác -50% tấn công
+
+[BOSSCHALLENGE_BOSS_TYPE6_PLANT]
+Đặc điểm cây: Cây Thế Giới Kung Fu +50% tấn công, khác -50% tấn công
+
+[BOSSCHALLENGE_BUYCHALLENGE_TIPS1]
+Tiêu ^00e46e {COST} kim cương ^oldclr cho thử thách khác không?
+(Mua hàng còn： {NUMBER})
+
+[BOSSCHALLENGE_BUYCHALLENGE_TIPS2]
+Hôm nay không còn hàng để mua. Ngày mai gặp lại!
+
+[BOSSCHALLENGE_RANK_TITLE_DAY]
+Hạng theo ngày
+
+[BOSSCHALLENGE_RANK_TITLE_MONTH]
+Hạng theo mùa
+
+[BOSSCHALLENGE_RANK_USER]
+Điểm của tôi
+
+[BOSSCHALLENGE_RANK_USER_DESC]
+Hạng： {N}
+
+[MINIGAME_RANK_NOORDER]
+Chưa xếp hạng
+
+[BOSSCHALLENGE_RANK_DAY_DESC]
+Kỷ lục ngày: {N} điểm
+
+[BOSSCHALLENGE_RANK_MONTH_DESC]
+Kỷ lục mùa: {N} điểm
+
+[BOSSCHALLENGE_END_TIPS]
+^000000 Sự kiện kết thúc sau ^FF3000 {NUMBER} ^000000 ngày
+
+[BOSSCHALLENGE_END_HOUR_TIPS]
+^000000 Sự kiện kết thúc sau ^FF3000 {NUMBER} ^000000 giờ
+
+[DINOSAURDANGER_TITLE]
+Nguy hiểm Khủng long
+
+[DINOSAURDANGER_TITLE1]
+Chủ đề hôm nay:
+
+[DINOSAURDANGER_DAY_TIMES]
+Số lượt thử thách còn lại trong hôm nay: ^ff0000^ {NUMBER} ^oldclr^
+
+[DINOSAURDANGER_INFO1]
+Cách chơi
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER1]
+Cuộc diễu hành của Gà
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER1]
+Sử dụng Khoai lang để thu hút gà, Đại Bác Dừa để tiêu diệt chúng.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER2]
+Gà Khổng lồ
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER2]
+Sử dụng Cải Xoăn Bão tố để chặn Gã khổng lồ, Pháo Ngô để đánh bại hắn.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER3]
+Khủng long ăn thịt cuồng nộ
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER3]
+Sử dụng Đào Xung Điện Từ để vô hiệu hóa Zombie Tương Lai, Võ Sĩ Cải Thìa để phòng thủ chống lại chúng.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER4]
+Tống cựu nghinh tân
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER4]
+Sử dụng Bồ Công Anh và Bồ Công Anh Cổ Đại để phòng thủ chống lại Zombie Kung Fu.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER5]
+Đại tá gà rán
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER5]
+Sử dụng Cẩu Ngô và Pháo Ngô để phòng thủ chống lại Zombie Cướp biển.
+
+[DINOSAURDANGER_END]
+Sự kiện kết thúc sau ^ff0000^ {PIECES} ^oldclr^ ngày
+
+[DINOSAURDANGER_END_HOURS]
+Sự kiện kết thúc sau ^ff0000^ {PIECES} ^oldclr^ giờ
+
+[DINOSAURDANGER_RESETCHALLENGE_TIPS]
+Tiêu ^00e46e {COST} Kim cương ^oldclr^ để mua thêm 1 lượt thử thách?
+
+[DINOSAURDANGER_BTN]
+Thử thách ngay
+
+[PLANT_TREE_HINTGET2]
+Nhận lượt tưới cây từ Nhiệm vụ tăng trưởng
+
+[PLANT_TREE_HINTGET3]
+Hoàn thành nhiệm vụ tăng trưởng để nhận lượt tưới cây
+
+[PLANT_TREE_HINTGET]
+Cứ 3 lần tưới sẽ mọc một quả chứa mảnh cây & tiền vàng
+
+[PLANT_TREE_TITLE1]
+Trồng cây vui vẻ
+
+[PLANT_TREE_TITLE2]
+Nhiệm vụ tăng trưởng
+
+[PLANT_TREE_BTN_GET]
+Thu hoạch
+
+[PLANT_TREE_REFRESHFRUIT]
+Làm mới quả
+
+[PLANT_TREE_BUY_WATER]
+Giá： {COST}
+
+[PLANT_TREE_BUY_WATER1]
+Mua {NUM}
+
+[PLANT_TREE_FRUITFULL]
+Cây đã ra quả - hãy thu hoạch trước
+
+[PLANTTREE_COUNTDOWN_FORMAT_D_H]
+Kết thúc sau: {DAYS} Ngày {HOURS} Giờ
+
+[PLANTTREE_COUNTDOWN_FORMAT_HH_MM_SS]
+Sự kiện kết thúc sau: {HH}:{MM}:{SS}
+
+[PLANT_TREE_ACTIVITY_OVER]
+Sự kiện Trồng cây đã kết thúc
+
+[MONTHLY_CARD_TELECOM_CANCEL_ORDER]
+Đây là sản phẩm đăng ký theo tháng. Dịch vụ có hiệu lực ngay sau khi đặt hàng thành công và tự động gia hạn vào tháng tới.
+Để hủy đăng ký, hãy gửi tin nhắn SMS "qdb0010" đến số 1180719 và làm theo hướng dẫn. Hiệu lực hủy ngay lập tức sau khi hoàn tất.
+Chăm sóc khách hàng QQ: 4008932088
+
+[MONTHLY_CARD_CHINA_MOBILE_CANCEL_ORDER]
+Lưu ý: Dịch vụ tự động gia hạn hàng tháng khi hết hạn. Để hủy đăng ký, vui lòng gọi 10086 để được hỗ trợ.
+
+[MINIGAME_SHOP_TITLE]
+Cửa hàng Mini
+
+[MINIGAME_UI_TITLE_DESC1]
+Thử thách hôm nay: Đấu trường Ai Cập
+
+[MINIGAME_UI_TITLE_DESC2]
+Thử thách hôm nay: Hải tặc Pháo thủ
+
+[MINIGAME_UI_TITLE_DESC3]
+Thử thách hôm nay: Bắn hạ trên không
+
+[MINIGAME_UI_TITLE_DESC4]
+Thử thách hôm nay: Hoán đổi Tương lai
+
+[MINIGAME_UI_TITLE_DESC5]
+Thử thách hôm nay: Nhà heo đen tối
+
+[MINIGAME_UI_TITLE_DESC6]
+Thử thách hôm nay: Rắn thủy triều
+
+[MINIGAME_UI_TITLE_DESC7]
+Thử thách hôm nay: Đoán lon
+
+[MONTHLY_CARD_TAB_1]
+Thẻ Siêu Cấp 50 tệ
+
+[MONTHLY_CARD_TAB_2]
+Thẻ Thông Hành Tháng 30 tệ
+
+[MONTHLY_CARD_TAB_3]
+Thẻ Pro 6 tệ
+
+[MONTHLY_CARD_TAB_4]
+Thẻ Thông Hành VIP Tháng
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_1]
+Hiệu ứng VIP trên ảnh đại diện người chơi
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_2]
+Hiệu ứng VIP trên bảng xếp hạng Vô tận
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_3]
+Hiệu ứng VIP trên bảng xếp hạng Đấu trường
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_4]
+Hiệu ứng VIP trên bảng xếp hạng Truy tìm của Penny
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_5]
+Tùy chỉnh màu
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_6]
+Đổi tên miễn phí
+
+[MONTHLY_CARD_SUPER_1]
+Bao gồm quyền lợi của Thẻ Thông Hành Tháng
+
+[MONTHLY_CARD_SUPER_2]
+Bao gồm quyền lợi của Thẻ Pro
+
+[MONTHLY_CARD_SUPER_3]
+Gấp đôi phần thưởng điểm danh
+
+[MONTHLY_CARD_SUPER_4]
+Tự động thu thập Tiền xu & Bạc
+
+[MONTHLY_CARD_SUPER_5]
+Nhận 40 Vé trang phục mỗi ngày
+
+[MONTHLY_CARD_SUPER_6]
+Nhận 1 Phiếu Battle Pass mỗi ngày
+
+[MONTHLY_CARD_SUPER_7]
+Nhận Pin năng lượng mỗi ngày
+
+[MONTHLY_CARD_30_1]
+Nhận ^cc0000 30 ^oldclr^ Kim cương miễn phí mỗi ngày
+
+[MONTHLY_CARD_30_2]
+Sử dụng ^cc0000 2 ^oldclr^ dưa leo miễn phí mỗi ngày
+
+[MONTHLY_CARD_30_3]
+Mặt trời ban đầu tăng thêm ^cc0000 50 ^oldclr^
+
+[MONTHLY_CARD_30_4]
+Tự động thu thập mặt trời
+
+[MONTHLY_CARD_30_5]
+Tự động thu thập Plant Food
+
+[MONTHLY_CARD_30_6]
+Nhận ^cc0000 1000 ^oldclr^ Tinh thể bí ẩn miễn phí mỗi ngày
+
+[MONTHLY_CARD_30_7]
++ ^cc0000 1 ^oldclr^ lượt thử thách thêm cho Khủng Hoảng Khổng Lồ & Đại Sư Xâm Lăng
+
+[MONTHLY_CARD_TIP_SUPER_GOT_CLASSIC]
+Bạn đã sở hữu Thẻ Siêu Cấp, bao gồm tất cả các tính năng của Thẻ Thông Hành Tháng
+
+[MONTHLY_CARD_TIP_SUPER_GOT_MAKEUP]
+Bạn đã sở hữu Thẻ Siêu Cấp, bao gồm tất cả các tính năng của Thẻ Pro
+
+[MONTHLY_CARD_TIP_CLASS_GOT_MAKEUP]
+Bạn đã sở hữu Thẻ Thông Hành Tháng, bao gồm tất cả các tính năng của Thẻ Pro
+
+[MONTHLY_CARD_EVENT_TRY]
+Kích hoạt miễn phí
+
+[MONTHLY_CARD_SUPER_TIP_EVENT_SUPER_CAN_TRY]
+Chúc mừng! Bạn đã nhận được {NUMBER} ngày dùng thử Thẻ Siêu Cấp. Kích hoạt ngay để tận hưởng!
+
+[MONTHLY_CARD_ENENT_TRY_MAKEUP_TIPS]
+Đã kích hoạt dùng thử Thẻ Siêu Cấp! Thẻ Pro của bạn được gia hạn thêm 3 ngày (Còn: {NUMBER} ngày)
+
+[MONTHLY_CARD_ENENT_TRY_CLASSIC_TIPS]
+Đã kích hoạt dùng thử Thẻ Siêu Cấp! Thẻ Thông Hành Tháng của bạn được gia hạn thêm 3 ngày (Còn: {NUMBER} ngày)
+
+[MONTHLY_CARD_REMIND_TITLE]
+Thông báo Thẻ Thông Hành Tháng
+
+[MONTHLY_CARD_FIRST_REMIND_DESC]
+Thẻ dùng thử của bạn sẽ hết hạn vào ngày mai. Hãy mua Thẻ Siêu Cấp để tiếp tục tận hưởng các quyền lợi siêu cấp!
+
+[MONTHLY_CARD_FIRST_REMIND_GO]
+Mua ngay
+
+[MONTHLY_CARD_FIRST_REMIND_LEAVE]
+Để sau đi
+
+[MONTHLY_CARD_SECOND_REMIND_DESC]
+Thẻ đặc quyền dùng thử của bạn đã hết hạn. Bạn có thể mua thẻ đặc quyền—có sẵn 3 loại, chỉ từ 6 tệ.
+
+[MONTHLY_CARD_SECOND_REMIND_GO]
+Xem thử
+
+[MONTHLY_CARD_SECOND_REMIND_LEAVE]
+Có lẽ để sau
+
+[DAVE_SHOP_BUY_CONFIRM_TITLE]
+Xác nhận mua hàng
+
+[DAVE_SHOP_BUY_CONFIRM_COIN]
+Tiêu {NUMS} xu để mua?
+
+[DAVE_SHOP_BUY_CONFIRM_GEM]
+Tiêu {NUMS} Kim cương để mua?
 
 [PVZ2_CHINESE_END]

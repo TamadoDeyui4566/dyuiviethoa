@@ -1,5 +1,6 @@
 # Thông tin chính
 - Được Việt Hóa bởi @DYUI_YT ([Duy](https://github.com/TamadoDeyui4566))
+- Thông tin cập nhập: v3.1.4 đã fix một số văn bản của sự kiện đã được Việt Hóa
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa

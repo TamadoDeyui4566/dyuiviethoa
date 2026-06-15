@@ -1,7 +1,7 @@
 # Thông tin chính
-- Được Việt Hóa bởi @DYUI_YT ([Duy](https://github.com/TamadoDeyui4566))
+- Được Việt Hóa bởi [@DYUI_YT](https://www.youtube.com/@DYUI_YT) ([Duy](https://github.com/TamadoDeyui4566))
 - Thành lập: 30/6/2023
-- Ngày đăng đầu tiên: [11/7/2023](https://youtu.be/wXcEynKn25Q)
+- Ngày đăng đầu tiên: 11/7/2023 + [video](https://youtu.be/wXcEynKn25Q)
 - Thông tin cập nhập: v3.1.4 đã fix một số văn bản của sự kiện đã được Việt Hóa
 
 ## Lời cảm ơn

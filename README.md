@@ -7,7 +7,7 @@
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa
 - Cảm ơn [Cybersteve](http://github.com/CyberSteve777) vì đoạn mã trên GitHub!
-- Và một số hội đồng tại discord của "Mần Du Ký - MDK Team" đã hỗ trợ Việt Hóa thành công trong thời gian qua
+- Trợ lý M0niku hỗ trợ Việt Hóa
 
 ## Về hướng dẫn
 1. Nếu bạn muốn chơi mà không biết cách tải như nào thì xem video hướng dẫn bởi [Nvdtn19](https://github.com/Nvdtn19): [Nhấn vào đây](https://www.youtube.com/watch?v=bfxErjhg9eM). Nếu khó hiểu quá thì liên hệ tôi. Link ở cần thực hiện dưới:

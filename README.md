@@ -22,7 +22,7 @@
   - Sao chép 2 file đó vào mục ***Android/Data/com.popcap.pvz2…/files/***
   - Dán file mục đó thì nó hiện thông báo "Bạn có muốn ghi đè/thay thế không". Chọn **ghi đè/thay thế**
   - Tận hưởng và chúc may mắn
-5. Video chi tiết: Sớm có
+5. Video chi tiết: Nhấp vào [đây](https://youtu.be/FYi0R4DD6hw)
 
 ## Vấn đề khác
 - Nếu có yêu cần thêm Việt Hóa vào mod của [Evilhack28](https://github.com/evilhack28) thì ib qua facebook hoặc discord, và tôi sẽ không thêm mod vào link chính cửa tôi bất kỳ vì có nhiều rủi ro nên *miễn trừ trách nhiệm*

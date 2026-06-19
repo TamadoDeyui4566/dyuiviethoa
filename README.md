@@ -4,6 +4,7 @@
 - Ngày đăng đầu tiên: 11/7/2023 + [video](https://youtu.be/wXcEynKn25Q)
 - Thông tin cập nhập:
   + Vào 2:16 ngày 19/6/2026: sửa tên cây Củ Cải Phóng Thanh thành Củ Dền Phóng Thanh và thêm missing [DAVE_WAITING]
+  + Và một số thứ khác
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa

@@ -145,7 +145,7 @@ Hãy nhớ dự trữ Plant Food để đề phòng!
 Sử dụng kim cương để mua thêm Plant Food!
 
 [ADVICE_CANT_PLANT_THERE]
-Bạn không thể trồng ở đó
+Không thể trồng ở đó
 
 [ADVICE_CANT_SHOVEL_THERE]
 Bạn không thể nhổ cây ở đó!
@@ -154,10 +154,10 @@ Bạn không thể nhổ cây ở đó!
 Bạn không thể dùng Plant Food ở đó!
 
 [ADVICE_CLICK_COIN]
-Nhấn vào xu để thu thập!
+Nhấp vào xu để thu thập!
 
 [ADVICE_CLICK_KEY]
-Nhấn vào phím để nhặt nó lên!
+Nhấp vào phím để nhặt nó lên!
 
 [ADVICE_CLICK_ON_GRASS]
 Kéo một gói hạt giống vào bãi cỏ!
@@ -220,19 +220,19 @@ Tốt lắm! Bạn đã có đủ mặt trời
 cho lần trồng cây tiếp theo rồi!
 
 [ADVICE_PLANT_NOT_ON_TENT]
-Bạn không thể trồng cây trên lều
+Không thể trồng cây trên lều
 
 [ADVICE_PLANT_NOT_ON_FISHERMAN]
-Bạn không thể trồng cây trên Zombie Câu Cá
+Không thể trồng cây trên Zombie Câu Cá
 
 [ADVICE_GET_MORE_STARS]
 Có nhiều sao đã được mở khóa! Quay lại các cấp độ trước để thu thập tất cả!
 
 [ADVICE_GOTO_ALMANAC]
-Vui lòng nhấn vào Niêm Giám
+Nhấp vào Niêm Giám
 
 [ADVICE_GOTO_STORE]
-Ghé thăm cửa hàng
+Đến cửa hàng
 
 [ADVICE_GOTO_GACHA]
 Bạn đã có quyền truy cập vào kho báu của Penny! Hãy thử ngay bây giờ!
@@ -244,7 +244,7 @@ Bạn đã hoàn thành Ai Cập Cổ Đại! Hãy nhấn vào nút Vũ trụ!
 Cây Ăn Mộ chỉ có thể được trồng trên mộ
 
 [ADVICE_HUGE_WAVE]
-MỘT ĐỢT SÓNG LỚN CỦA NHỮNG ZOMBIE ĐANG TIẾN LÊN!
+MỘT ĐỢT ZOMBIE LỚN ĐANG TIẾN ĐẾN!
 
 [ADVICE_SOCCER_NEAR_END]
 Còn 30 giây nữa!
@@ -297,67 +297,67 @@ Hãy thử trồng chúng xa hơn về phía bên trái!
 Plant Food đã đầy! Sử dụng một lần trước khi lấy thêm!
 
 [ADVICE_PLANT_NOT_ON_GRAVE]
-Bạn không thể trồng cây trên mộ
+Không thể trồng cây trên mộ
 
 [ADVICE_PLANT_NOT_ON_SARRACENIA_FOSSIL]
-Bạn không thể trồng cây trên zombie hóa đá
+Không thể trồng cây trên zombie hóa đá
 
 [ADVICE_PLANT_NOT_ON_GLIDING]
-Bạn không thể trồng cây trên mảnh vỡ máy bay
+Không thể trồng cây trên mảnh vỡ máy bay
 
 [ADVICE_PLANT_NOT_ON_HEALERSTAFF]
-Bạn không thể trồng cây trên cây gậy
+Không thể trồng cây trên cây gậy
 
 [ADVICE_PLANT_NOT_ON_LOLLIPOPS]
-Bạn không thể trồng cây trên cây kẹo
+Không thể trồng cây trên cây kẹo
 
 [ADVICE_PLANT_NOT_ON_GUN]
-Bạn không thể trồng cây trên súng
+Không thể trồng cây trên súng
 
 [ADVICE_PLANT_NOT_ON_KING]
-Bạn không thể trồng cây trên Zombie Quốc Vương
+Không thể trồng cây trên Zombie Quốc Vương
 
 [ADVICE_PLANT_NOT_ON_MOLD]
-Bạn không thể trồng cây trên các thuộc địa nấm mốc
+Không thể trồng cây trên các thuộc địa nấm mốc
 
 [ADVICE_PLANT_NOT_ON_POTIONS]
-Bạn không thể trồng cây trên thuốc độc
+Không thể trồng cây trên thuốc độc
 
 [ADVICE_PLANT_NOT_ON_DUMPLING]
-Bạn không thể trồng cây trên bánh bao
+Không thể trồng cây trên bánh bao
 
 [ADVICE_PLANT_NOT_ON_TANGYUAN]
-Bạn không thể trồng cây trên bánh xếp ngọt
+Không thể trồng cây trên bánh xếp ngọt
 
 [ADVICE_PLANT_NOT_ON_PIGBANK]
-Bạn không thể trồng cây trên con heo đất
+Không thể trồng cây trên con heo đất
 
 [ADVICE_PLANT_NOT_ON_PLANTSEED]
-Bạn không thể trồng cây trên hạt giống cây trồng
+Không thể trồng cây trên hạt giống cây trồng
 
 [ADVICE_PLANT_NOT_ON_ZOMBIE_CHANGER]
-Bạn không thể trồng cây trên thiết bị chuyển đổi
+Không thể trồng cây trên thiết bị chuyển đổi
 
 [ADVICE_PLANT_NOT_ON_TURKEY]
-Bạn không thể trồng cây trên gà tây
+Không thể trồng cây trên gà tây
 
 [ADVICE_PLANT_NOT_ON_FIRECRACKER]
-Bạn không thể trồng cây trên pháo nổ
+Không thể trồng cây trên pháo nổ
 
 [ADVICE_PLANT_NOT_ON_RAIL]
-Bạn không thể trồng cây trên đường ray nếu không có xe goòng
+Không thể trồng cây trên đường ray nếu không có xe goòng
 
 [ADVICE_PLANT_NOT_ON_SEEING_STAR]
-Bạn không thể trồng cây khác trong lưới được chỉ định
+Không thể trồng cây khác trong lưới được chỉ định
 
 [ADVICE_PLANT_NOT_ON_SCORCH]
-Bạn không thể trồng cây trên ô bị cháy xém
+Không thể trồng cây trên ô bị cháy xém
 
 [ADVICE_PLANT_NOT_ON_SHARKS]
-Bạn không thể trồng cây trên cá mập
+Không thể trồng cây trên cá mập
 
 [ADVICE_PLANT_NOT_ON_SURFBOARD]
-Bạn không thể trồng cây trên ván lướt sóng
+Không thể trồng cây trên ván lướt sóng
 
 [ADVICE_PLANT_NOT_ON_WATER]
 Hãy trồng Lá Súng trước
@@ -375,7 +375,7 @@ Không thể trồng cây khi tàu ngầm đang di chuyển
 Cây này không thể trồng ở đây
 
 [ADVICE_PLANT_NOT_ON_GUIDE_DOOR]
-Bạn không thể trồng cây trên cửa dẫn hướng
+Không thể trồng cây trên cửa dẫn hướng
 
 [ADVICE_PLANT_SUNFLOWER1]
 Hoa Hướng Dương là loài cây rất quan trọng!
@@ -5931,13 +5931,13 @@ Không thể trồng trên sushi
 Không thể trồng trên hộp
 
 [PLANTING_NOT_ON_HEAVY_SHIELD]
-Bạn không thể trồng cây trên cái khiên
+Không thể trồng cây trên cái khiên
 
 [PLANTING_NOT_ON_FOG]
-Bạn không thể trồng cây trên sương mù
+Không thể trồng cây trên sương mù
 
 [PLANTING_NOT_ON_VAN_MIST]
-Bạn không thể trồng cây trên sương khói
+Không thể trồng cây trên sương khói
 
 [PLANTING_BESIEGE_BOX_NOT_HERE]
 Không thể được đặt hộp ở đây, ít nhất phải có một lối đi
@@ -23463,7 +23463,7 @@ Khi chết sẽ phun ra lượng lớn thạch thạch nóng chảy, oanh tạc 
 Không thể trồng Ổi Dung Nham trên xe mỏ.
 
 [ADVICE_PLANT_NOT_ON_LAVA]
-Bạn không thể trồng bất kỳ cây nào đè lên hố dung nham.
+Không thể trồng bất kỳ cây nào đè lên hố dung nham.
 
 [CREDITS_VA_LAVAGUAVA]
 Ổi Dung Nham
@@ -24102,10 +24102,10 @@ Cấp {NUMBER}
 Bắt đầu:
 
 [AFTER_LEVEL_SCORE]
-Điểm:          điểm
+Điểm:                                     điểm
 
 [OVER_PLAYER]
-Vượt mặt             người chơi
+Vượt                                     người chơi
 
 [DANGERROOM_TRAINING_START_HINT]
 Bạn đã bắt đầu huấn luyện 
@@ -24496,7 +24496,7 @@ Hệ thống PVP chưa mở cửa
 Không đủ Xu Sao
 
 [PVP_ERROR_PVPCUP_NOT_ENOUCH]
-Không đủ số lượng cúp
+Không đủ cúp
 
 [PVP_ERROR_PVP_TRAINING_NO_ZOMBIE]
 Không có zombie nào đang được huấn luyện
@@ -25426,7 +25426,7 @@ Hôm nay còn có thể khiêu chiến ^FFF000 {NUMBER} ^oldclr lần
 ^000000 Thời gian cho đến khi sự kiện kết thúc còn: ^FF3000 {NUMBER} ^000000 giờ
 
 [ACTIVITY_SUMMERY_DRAW_DESC]
-Khi thanh may mắn được nạp đầy để quay thưởng, bạn sẽ nhận thêm phần thưởng hiếm!
+Khi thanh được nạp đầy, bạn sẽ nhận x10 mảnh cây!
 
 [ACTIVITY_SUMMERY_FIRE_COST]
 Tinh Thể Hỏa may mắn: {COUNT}
@@ -26005,7 +26005,7 @@ Trồng Cỏ Xạ Hương Thời Gian ba lần trong cùng một cửa ải
 Trở về từ tương lai 3
 
 [ACHIEVE_EIGHTIES_BEET_IT_DESC]
-Chỉ sử dụng Củ Cải Phóng Thanh để đánh bại zombie và hoàn thành một cửa ải
+Chỉ sử dụng Củ Dền Phóng Thanh để đánh bại zombie và hoàn thành một cửa ải
 
 [ACHIEVE_EIGHTIES_BEET_IT_TITLE]
 Bão Củ Cải
@@ -26397,7 +26397,7 @@ Hãy nhớ rằng, vẫn còn rất nhiều ải ở các thế giới khác.
 Rễ Đào Tẩu không thể trồng trên xe mỏ.
 
 [ADVICE_NO_JACKOLANTERN_ON_RAILCART]
-Bạn không thể trồng Bí Ngô Lồng Đèn trên xe mỏ.
+Không thể trồng Bí Ngô Lồng Đèn trên xe mỏ.
 
 [ADVICE_NOT_ON_CRATERS]
 Không thể trồng cây trên hố bom.
@@ -28216,10 +28216,10 @@ Sử dụng Cây Ăn Mộ để lập tức nghiền nát các bia mộ! Hoàn t
 Mở khóa Cây Ăn Mộ!
 
 [FINISH_EIGHTIES_1_DESC]
-Củ Cải Phóng Thanh mang theo những nhịp điệu xập xình và tạo ra sát thương diện rộng khắp nơi! Hoàn thành Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 1!
+Củ Dền Phóng Thanh mang theo những nhịp điệu xập xình và tạo ra sát thương diện rộng khắp nơi! Hoàn thành Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 1!
 
 [FINISH_EIGHTIES_1_TITLE]
-Mở khóa Củ Cải Phóng Thanh!
+Mở khóa Củ Dền Phóng Thanh!
 
 [FINISH_EIGHTIES_16_DESC]
 Tiêu diệt Zombie Khổng Lồ hệ âm nhạc ở Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 16 để giành chiếc Chìa khóa Thời Không của chính nghĩa!
@@ -31578,14 +31578,14 @@ Chào mừng, nhà du hành thời không.
 Đang tải xuống......
 
 [PHATBEET]
-Củ Cải Phóng Thanh
+Củ Dền Phóng Thanh
 
 [PHATBEET_DESCRIPTION]
 {KEYWORD}Đặc điểm của cây: {STAT}Cây màu đỏ
-{FLAVOR}Củ Cải Phóng Thanh sở hữu những nhịp điệu bass cực cháy cùng những khúc nhạc vô cùng cuốn hút, tiếc là bản nhạc chỉ kéo dài vỏn vẹn trong vài giây ngắn ngủi.
+{FLAVOR}Củ Dền Phóng Thanh sở hữu những nhịp điệu bass cực cháy cùng những khúc nhạc vô cùng cuốn hút, tiếc là bản nhạc chỉ kéo dài vỏn vẹn trong vài giây ngắn ngủi.
 
 [PHATBEET_DESCRIPTION_HEADER]
-Củ Cải Phóng Thanh định kỳ mỗi vài giây sẽ phát nhạc để gây Sát thương xung quanh.
+Củ Dền Phóng Thanh định kỳ mỗi vài giây sẽ phát nhạc để gây Sát thương xung quanh.
 
 [PHATBEET_TOOLTIP]
 Định kỳ mỗi vài giây phát nhạc gây Sát thương
@@ -33897,7 +33897,7 @@ Chiếc xô sắt giúp hấp thụ Sát thương, không có lý do tại sao c
 Zombie Máy Phát Nhạc
 
 [ZOMBIE_EIGHTIES_BOOMBOX_DESCRIPTION]
-{KEYWORD}Tính năng: {STAT} Máy phát nhạc không có tác dụng đối với Củ Cải Phóng Thanh
+{KEYWORD}Tính năng: {STAT} Máy phát nhạc không có tác dụng đối với Củ Dền Phóng Thanh
 {FLAVOR}Zombie Máy Phát Nhạc chẳng muốn mua, bán hay gia công bất cứ thứ gì cả, anh ta chỉ muốn ăn não của bạn thôi.
 
 [ZOMBIE_EIGHTIES_BOOMBOX_DESCRIPTION_HEADER]
@@ -34061,41 +34061,41 @@ Sức tàn phá từ một con khủng long đã được máy móc hóa.
 Zombot Sân Khấu Sôi Động
 
 [ZOMBIE_ZOMBOSSMECH_EIGHTIES_DESCRIPTION]
-{KEYWORD}Tính năng: {STAT}Hệ thống loa tạo ra Sát thương chấn động (ngoại trừ cây trồng dưới đất và Củ Cải Phóng Thanh), đồng thời kích hoạt tấn công bằng sóng xung kích
+{KEYWORD}Tính năng: {STAT}Hệ thống loa tạo ra Sát thương chấn động (ngoại trừ cây trồng dưới đất và Củ Dền Phóng Thanh), đồng thời kích hoạt tấn công bằng sóng xung kích
 {FLAVOR}Ở một thế giới khác, một thời gian khác, Tiến sĩ Zomboss lẽ ra đã nhận được những tràng pháo tay nồng nhiệt, nhưng ở đây thì không, đừng hòng mơ tưởng.
 
 [ZOMBIE_ZOMBOSSMECH_EIGHTIES_DESCRIPTION_HEADER]
 Một buổi tối tiếp xúc thân mật với thành quả khám phá mới nhất và cũng là đau đớn nhất của Tiến sĩ Zomboss.
 
 [PHATBEET_PRODUCT_SHORT_DESC]
-Củ Cải Phóng Thanh có thể phát ra sóng âm, gây Sát thương cho các mục tiêu xung quanh.
+Củ Dền Phóng Thanh có thể phát ra sóng âm, gây Sát thương cho các mục tiêu xung quanh.
 
 [PHATBEET_AVATAR_NAME]
-Trang phục Củ Cải Phóng Thanh
+Trang phục Củ Dền Phóng Thanh
 
 [STORE_PRODUCT_AVATAR_PHATBEET]
 Tuyệt kỹ có thể đánh bay một số mục tiêu.
 
 [STORE_PRODUCT_AVATAR_PHATBEET_TITLE]
-Trang phục Củ Cải Phóng Thanh
+Trang phục Củ Dền Phóng Thanh
 
 [PHATBEET_SKILL_LEVEL1]
 Ma Âm Vang Vọng
 
 [PHATBEET_SKILL_LEVEL1_DES]
-Tăng tỷ lệ phát ra đòn tấn công trọng âm của Củ Cải Phóng Thanh.
+Tăng tỷ lệ phát ra đòn tấn công trọng âm của Củ Dền Phóng Thanh.
 
 [PHATBEET_SKILL_LEVEL2]
 Sóng Âm Chấn Động
 
 [PHATBEET_SKILL_LEVEL2_DES]
-Tăng Sát thương đòn tấn công trọng âm của Củ Cải Phóng Thanh.
+Tăng Sát thương đòn tấn công trọng âm của Củ Dền Phóng Thanh.
 
 [PHATBEET_SKILL_LEVEL5]
 Bạo Lực Nhạc Rock
 
 [PHATBEET_SKILL_LEVEL5_DES]
-Củ Cải Phóng Thanh nhấp nháy cực nhanh, phóng ra sóng âm mạnh mẽ hất tung mục tiêu lên không trung và đánh bay giáp bảo hộ của chúng.
+Củ Dền Phóng Thanh nhấp nháy cực nhanh, phóng ra sóng âm mạnh mẽ hất tung mục tiêu lên không trung và đánh bay giáp bảo hộ của chúng.
 
 [THYMEWARP_PRODUCT_SHORT_DESC]
 Cỏ Xạ Hương Thời Gian có thể dịch chuyển một số mục tiêu trên sân về phía bên phải bản đồ.
@@ -34475,7 +34475,7 @@ Cấp 1 Hoa Lửa + trang phục
 Cấp 1 Đậu Súng Máy + trang phục
 
 [GEMS_RESTORE_CODE_RECHARGE_PHATBEET_LV0_SUCCEED_CONTENT]
-Cấp 1 Củ Cải Phóng Thanh + trang phục
+Cấp 1 Củ Dền Phóng Thanh + trang phục
 
 [GEMS_RESTORE_CODE_RECHARGE_THYMEWARP_LV0_SUCCEED_CONTENT]
 Cấp 1 Cỏ Xạ Hương Thời Gian + trang phục
@@ -34547,7 +34547,7 @@ Cấp 3 Hoa Lửa
 Cấp 3 Đậu Súng Máy
 
 [GEMS_RESTORE_CODE_RECHARGE_PHATBEET_LV3_SUCCEED_CONTENT]
-Cấp 3 Củ Cải Phóng Thanh
+Cấp 3 Củ Dền Phóng Thanh
 
 [GEMS_RESTORE_CODE_RECHARGE_THYMEWARP_LV3_SUCCEED_CONTENT]
 Cấp 3 Cỏ Xạ Hương Thời Gian
@@ -36705,19 +36705,19 @@ Cấu hình sự kiện trống
 Nhận thất bại, vui lòng kiểm tra lại kết nối mạng
 
 [PLANTING_NOT_ON_DUSKSEED]
-Bạn không thể trồng cây trên dây leo
+Không thể trồng cây trên dây leo
 
 [PLANTING_NOT_ON_BOUNDTILE]
-Bạn không thể trồng cây trên ván bật nảy
+Không thể trồng cây trên ván bật nảy
 
 [PLANTING_NOT_ON_OBSTACLE]
 Không thể trồng cây trên băng
 
 [PLANTING_NOT_ON_COAL_TRUCK]
-Bạn không thể trồng cây trên xe mỏ than
+Không thể trồng cây trên xe mỏ than
 
 [PLANTING_NOT_ON_COAL]
-Bạn không thể trồng cây trên mỏ than
+Không thể trồng cây trên mỏ than
 
 [WECHAT_SHARE_SUCCESS_MSG_SECOND]
 Chia sẻ thành công
@@ -44645,7 +44645,7 @@ Tay Trống Rau Má mang lại lượng lớn thuộc tính gia tăng cho các c
 Tay Trống Rau Má mang lại lượng lớn thuộc tính gia tăng cho các cây trồng, đặc biệt tăng nhiều nhất cho hệ ban nhạc
 
 [STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER]
-Có thể mang lại hiệu quả tăng 40% sức tấn công và 35% tốc độ đánh cho các cây hệ ban nhạc trên sân (DJ Bìm Bịp, Tulip Thổi Kèn, Củ Cải Phóng Thanh, Vũ Công Chuối, Ớt Ma), các cây trồng còn lại tăng 25% sức tấn công và tốc độ đánh
+Có thể mang lại hiệu quả tăng 40% sức tấn công và 35% tốc độ đánh cho các cây hệ ban nhạc trên sân (DJ Bìm Bịp, Tulip Thổi Kèn, Củ Dền Phóng Thanh, Vũ Công Chuối, Ớt Ma), các cây trồng còn lại tăng 25% sức tấn công và tốc độ đánh
 
 [STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER_TITLE]
 Trang phục Tay Trống Rau Má
@@ -44654,7 +44654,7 @@ Trang phục Tay Trống Rau Má
 Đại Ban Nhạc
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL1_DES]
-Mang lại hiệu quả tăng 25% sức tấn công và tốc độ đánh cho các cây hệ ban nhạc được trồng ở lân cận (DJ Bìm Bịp, Tulip Thổi Kèn, Củ Cải Phóng Thanh, Vũ Công Chuối, Ớt Ma)
+Mang lại hiệu quả tăng 25% sức tấn công và tốc độ đánh cho các cây hệ ban nhạc được trồng ở lân cận (DJ Bìm Bịp, Tulip Thổi Kèn, Củ Dền Phóng Thanh, Vũ Công Chuối, Ớt Ma)
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL2]
 Ban Nhạc Cuồng Hoan
@@ -51006,7 +51006,7 @@ Võ Sĩ Cải Thìa - sát thương chiêu cuối tăng {Param_1}%
 Hoa Sen Sức Mạnh - thời gian hồi cây giảm {Param_1}%
 
 [GENE_DESCRIPTION_PHATBEET]
-Củ Cải Phóng Thanh - sát thương chiêu cuối tăng {Param_1}%
+Củ Dền Phóng Thanh - sát thương chiêu cuối tăng {Param_1}%
 
 [GENE_DESCRIPTION_HURRIKALE]
 Cải Xoăn Bão - thời gian hồi cây giảm {Param_1}%
@@ -78286,7 +78286,7 @@ Khai hỏa toàn lực, đem ra rất nhiều khẩu súng máy xả đạn bắ
 Khai hỏa toàn lực, đem ra rất nhiều khẩu súng máy xả đạn bắn quét kẻ địch ở ba hàng bên phải, ^ff0000^sử dụng tất cả các loại đạn bao gồm đạn băng, đạn lửa, đạn lửa quỷ (ảnh hồn đạn).^oldclr^
 
 [PHATBEET_NEW_SKILL_LEVEL1_DES]
-Khi có zombie xuất hiện trong phạm vi 3x3 lấy Củ Cải Phóng Thanh làm trung tâm, Củ Cải Phóng Thanh gõ chiếc trống trong tay tạo ra sóng chấn động, đồng thời gây sát thương cho zombie trong phạm vi. Cứ sau mỗi 4-6 lần chấn động, Củ Cải Phóng Thanh sẽ phát động một đòn trọng âm kích gây gấp đôi sát thương.
+Khi có zombie xuất hiện trong phạm vi 3x3 lấy Củ Dền Phóng Thanh làm trung tâm, Củ Dền Phóng Thanh gõ chiếc trống trong tay tạo ra sóng chấn động, đồng thời gây sát thương cho zombie trong phạm vi. Cứ sau mỗi 4-6 lần chấn động, Củ Dền Phóng Thanh sẽ phát động một đòn trọng âm kích gây gấp đôi sát thương.
 
 [PHATBEET_NEW_SKILL_LEVEL2_DES]
 Cứ sau mỗi 2-4 lần chấn động sẽ phát động một đòn trọng âm kích.
@@ -78301,10 +78301,10 @@ Khi trồng có xác suất cao kích hoạt trực tiếp tuyệt kỹ Plant Fo
 Cứ sau mỗi 8 giây có thể phát động một đòn chấn kích đặc biệt, có thể đánh chấn rơi đạo cụ phòng thủ không ổn định của zombie có cấp bậc không cao hơn cấp 8, đồng thời gây 270 sát thương/giây, kéo dài trong 3 giây.
 
 [PHATBEET_PLANTFOOD_DESCRIPTION]
-Củ Cải Phóng Thanh phát ra một luồng sóng âm mãnh liệt gây sát thương cho zombie trong phạm vi 3x3, kế đó tiếp tục gây sát thương cho zombie trong phạm vi 5x5.
+Củ Dền Phóng Thanh phát ra một luồng sóng âm mãnh liệt gây sát thương cho zombie trong phạm vi 3x3, kế đó tiếp tục gây sát thương cho zombie trong phạm vi 5x5.
 
 [PHATBEET_AVATAR_PLANTFOOD_DESCRIPTION]
-Củ Cải Phóng Thanh phát ra một luồng sóng âm mãnh liệt gây sát thương cho zombie trong phạm vi 3x3, kế đó tiếp tục gây sát thương cho zombie trong phạm vi 5x5, ^ff0000^có thể đánh chấn hất zombie rời khỏi mặt đất.^oldclr^
+Củ Dền Phóng Thanh phát ra một luồng sóng âm mãnh liệt gây sát thương cho zombie trong phạm vi 3x3, kế đó tiếp tục gây sát thương cho zombie trong phạm vi 5x5, ^ff0000^có thể đánh chấn hất zombie rời khỏi mặt đất.^oldclr^
 
 [THYMEWARP_NEW_SKILL_LEVEL1_DES]
 Cỏ Xạ Hương Thời Gian nắm giữ sức mạnh thời không, trong vòng 2.5 giây sau khi trồng sẽ làm cho 5 con zombie địch ngoài cùng bên trái sân biến mất, và xuất hiện lại ở rìa ngoài cùng bên phải của hàng tương ứng sau 3 giây. Zombie sau khi hiện hình hoàn toàn sẽ bị xóa bỏ các trạng thái bất thường của chúng (ngoại trừ thu nhỏ), đồng thời hồi phục lượng máu về mức đầy tràn. Zombie bị dịch chuyển không thể hành động trong suốt toàn bộ quá trình.
@@ -79821,7 +79821,7 @@ Khi trồng có xác suất trung bình kích hoạt trực tiếp tuyệt kỹ 
 Đậu Bắp Kiếm Gai lập tức bắn 3 phát đạn gai độc lớn xuyên thấu toàn bộ hàng, gây sát thương cho tất cả zombie kèm hiệu ứng ^701edf^nhiễm độc I^oldclr^, ^ff0000^đồng thời để lại sương độc gây sát thương liên tục trên lộ trình bay.^oldclr^ Số lượng đạn gai độc lớn tăng theo cấp bậc: cấp 2 bắn 4 viên, cấp 3 và 4 bắn 5 viên, cấp 5 bắn 6 viên.
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL1_DES]
-Mỗi 15 giây gõ trống một hồi, mang lại 10% lực tấn công và tăng tốc độ tấn công cho các cây trong phạm vi 3x3 xung quanh, cây hệ phòng thủ hồi phục 10% lượng máu. Các cây thuộc ban nhạc (DJ Bìm Bịp, Tulip Thổi Kèn, Củ Cải Phóng Thanh, Vũ Công Chuối, Ớt Ma) được tăng cường thêm 5% lực tấn công và tốc độ tấn công.
+Mỗi 15 giây gõ trống một hồi, mang lại 10% lực tấn công và tăng tốc độ tấn công cho các cây trong phạm vi 3x3 xung quanh, cây hệ phòng thủ hồi phục 10% lượng máu. Các cây thuộc ban nhạc (DJ Bìm Bịp, Tulip Thổi Kèn, Củ Dền Phóng Thanh, Vũ Công Chuối, Ớt Ma) được tăng cường thêm 5% lực tấn công và tốc độ tấn công.
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL2_DES]
 Tỷ lệ tăng lực tấn công và tốc độ tấn công nâng lên 15%, lượng máu hồi phục nâng lên 15%, biên độ tăng thêm của cây ban nhạc nâng lên 10%.
@@ -83460,10 +83460,10 @@ Hiển thị một câu quy tắc ngắn gọn
 Cổ vũ hết mình
 
 [DAVECUP_SUPPORT_LEFT]
-Cổ vũ bên trái
+Bên trái
 
 [DAVECUP_SUPPORT_RIGHT]
-Cổ vũ bên phải
+Bên phải
 
 [DAVECUP_ROUND]
 Vòng ^FFFF00 {NUM} ^oldclr
@@ -83477,6 +83477,8 @@ Vòng ^FFFF00 {NUM} ^oldclr
 [DAVECUP_SELECT_SUPPORT]
 Vui lòng chọn đội muốn cổ vũ
 
+[DAVECUP_WAITING]
+Các tuyển thủ đang tiến vào sàn đấu...
 
 [MINIGAME_COLLECTION_TITLE]
 Cuộc Thi Vui Nhộn
@@ -85979,7 +85981,7 @@ Phần thưởng "Số lần thử thách chế độ trợ chiến" bao gồm:
 Mô tả phần thưởng
 
 [UNCHARTED_PHATBEET]
-Bí Cảnh Củ Cải Phóng Thanh
+Bí Cảnh Củ Dền Phóng Thanh
 
 [UNCHARTED_PHATBEET_TOOLTIP]
 Mỗi vài giây sẽ đánh một bản nhạc phát ra sóng âm gây sát thương.
@@ -87037,7 +87039,7 @@ Thợ Đập Bình
 Đập vỡ tổng cộng 2000 bình trong Đập Bình.
 
 [TIME_TUNNEL_SKIP]
-Chạm vùng bất kỳ để bỏ qua...
+Chạm vùng bất kỳ để bỏ qua hoạt ảnh...
 
 [ACTIVITY_NEW_GIFTFORETURN_TIPS]
 Quy tắc chia Kim Cương:
@@ -87656,7 +87658,7 @@ Hướng dẫn thử thách
 Bảng xếp hạng
 
 [BOSSCHALLENGE_BOSS_TITLE]
-^FFB400 Defeat Dr. Zomboss quickly to earn crystals, draw ^27A800 rare plants
+^FFB400 Đánh bại Tiến sĩ Zomboss thật nhanh để nhận tinh thể, rút ^27A800 các loài cây hiếm
 
 [BOSSCHALLENGE_BOSS_TYPE1_PLANT]
 Đặc điểm cây: Cây màu lam +50% tấn công, khác -50% tấn công

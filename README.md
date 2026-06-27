@@ -3,7 +3,7 @@
 - Thành lập: 30/6/2023
 - Ngày đăng đầu tiên: 11/7/2023 + [video](https://youtu.be/wXcEynKn25Q)
 - Thông tin cập nhập:
-  + Vào 2:16 ngày 19/6/2026: sửa tên cây Củ Cải Phóng Thanh thành Củ Dền Phóng Thanh và thêm missing [DAVE_WAITING]
+  + Vào 19:09 ngày 27/6/2026: fix một số văn bản quá dài
   + Và một số thứ khác
 
 ## Lời cảm ơn

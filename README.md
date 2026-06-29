@@ -10,6 +10,7 @@
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa
 - Cảm ơn [Cybersteve](http://github.com/CyberSteve777) vì đoạn mã trên GitHub!
+- [Evilhack28](https://github.com/evilhack28) là người tạo mod và bản dịch Tiếng Anh của pvz2cn
 - Trợ lý [M0niku](https://github.com/BruhM0niku) hỗ trợ Việt Hóa
 
 ## Cách tải

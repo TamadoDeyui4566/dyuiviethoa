@@ -40,7 +40,7 @@ II. Ios
 ## Vấn đề khác
 - Trong qua trình tải file mà không mang theo "init.rsb.smf" thì gây ra tình trạng lỗi font nên lưu ý vấn đề này
 - Đây là bản Việt Hóa **hoàn toàn miễn phí** nếu ai đang kinh doanh liên quan đến bản VH thì ***tôi sẽ không hoàn toàn chịu trách nhiệm vấn đề đó***
-- Tôi đã add mod của [Evilhack28](https://github.com/evilhack28) vào trong Việt Hóa rồi thì nên **né** các chế độ online (pvp, arena, penny,..), không nên đứng top 100 người chơi,... vì có thể bị quét và cấm chơi ngay lúc đó.
+- Tôi đã add mod của [Evilhack28](https://github.com/evilhack28) vào trong Việt Hóa rồi thì nên **né** các chế độ online (pvp, arena, penny,..), không nên đứng top 100 người chơi,... vì có thể bị quét và cấm chơi ngay lúc đó và không bị cấm nếu chỉ là "bản Việt Hóa bình thường".
 - [lINK MOD CHÍNH THỨC CHỈ DÀNH CHO ANDROID](https://drive.google.com/drive/folders/1zmeYb0VYpUJW1GbGMWWSkv5gwKs9KfHs) sắp cập nhập trong bản sắp tới (IOS SỚM CÓ)
 - **NẾU KHÔNG VIỆT HÓA ĐƯỢC THÌ DO THỰC HIỆN KHÔNG ĐÚNG CÁCH HÃY XEM KỸ LẠI NẾU MÀ NHẮN TUI THÌ CHO ĂN TÁT**
 ## Đa phương tiện

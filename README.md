@@ -4,8 +4,8 @@
 - Thành lập: 30/6/2023
 - Ngày đăng đầu tiên: 11/7/2023 + [video](https://youtu.be/wXcEynKn25Q)
 - Thông tin cập nhập:
-  + Vào 19:09 ngày 27/6/2026: fix một số văn bản quá dài
-  + Và một số thứ khác
+  + Vào 17:30 ngày 30/6/2026: thêm văn bản từ v4.1.3 qua v4.1.5
+  + Sớm add văn bản "missing"
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa

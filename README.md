@@ -1,4 +1,4 @@
-# Lưu ý: ĐỌC KỸ THÔNG TIN GIÚP TÔI NẾU CÓ CÓ VẤN ĐỀ GÌ ĐỪNG HỎI CÂU ĐÓ, TÔI CHO BỊT MÕN HẾT :)!
+# Lưu ý: ĐỌC KỸ THÔNG TIN GIÚP TÔI NẾU CÓ CÓ VẤN ĐỀ GÌ ĐỪNG HỎI CÂU ĐÓ, TÔI CHO BỊT MÕM HẾT :)!
 # Thông tin chính
 - Được Việt Hóa bởi [@DYUI_YT](https://www.youtube.com/@DYUI_YT) ([Duy](https://github.com/TamadoDeyui4566))
 - Thành lập: 30/6/2023

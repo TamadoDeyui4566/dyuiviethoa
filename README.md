@@ -27,7 +27,7 @@ II. Ios
 2. [Link](https://apps.apple.com/cn/app/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B82/id639516529) (không cần thiết)
 ## Cách sử dụng
 I. Android
-1. Đầu tiên, chuẩn bị 2 file đó là "dynamic.rsb.smf" và "init.rsb.smf" nằm ngay trong mục release bằng các kéo xuống CUỐI trang đối với điện thoại và bên phải đối với pc
+1. Đầu tiên, chuẩn bị 2 file đó là "dynamic.rsb.smf" và "init.rsb.smf" nằm ngay trong mục release bằng các kéo xuống CUỐI trang đối với điện thoại và bên phải đối với pc, khó quá vô [ĐÂY](https://github.com/TamadoDeyui4566/dyuiviethoa/releases)
 2. Tải app [ZAchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en) về điện thoại. Lưu ý, nếu hệ điều hành android từ 15 trở lên nên cài thêm app [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en) hoặc [link này](https://shizuku-manager.en.uptodown.com/android) nếu không thể cài đặt trên ch play (mục đích cái apk đó để cấp quyền truy cập file **Android/Data**, bạn có thể xem video của tôi xem cách làm.)
 3. Cách thực hiện:
   - Tải 2 file *dynamic.rsb.smf* và *init.rsb.smf* và nó sẽ được lưu ở mục *Download*

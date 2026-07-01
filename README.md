@@ -5,6 +5,7 @@
 - Ngày đăng đầu tiên: 11/7/2023 + [video](https://youtu.be/wXcEynKn25Q)
 - Thông tin cập nhập:
   + Vào 17:30 ngày 30/6/2026: thêm văn bản từ v4.1.3 qua v4.1.5
+  + Cập nhập lần cuối: vào 23:45 ngày 1/7/2026: đã thêm và sửa lỗi phù hợp với bản hiện tại
   + Sớm add văn bản "missing"
 
 ## Lời cảm ơn

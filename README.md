@@ -37,7 +37,9 @@ I. Android
   - Tận hưởng và chúc may mắn
 
 II. Ios
-- Vì không có ai thử nên up file ở đây sớm luôn nếu lỗi thì ib sớm cập nhập
+- Link tải: [ĐÂY](https://drive.google.com/drive/folders/1zmeYb0VYpUJW1GbGMWWSkv5gwKs9KfHs)
+- Link video hướng dẫn bởi [Evilhack28](https://github.com/evilhack28): [Nhấp vào ĐÂY để xem video](https://youtu.be/4PrktGp7dJg?si=1TOQLEY730WN5pyy)
+- Đừng liên hệ tôi vì tôi **không phải người dùng IOS**, nếu có thể liên hệ chủ video đó (phải chat bằng tiếng anh) để hỗ trợ.
 ## Vấn đề khác
 - Trong qua trình tải file mà không mang theo "init.rsb.smf" thì gây ra tình trạng lỗi font nên lưu ý vấn đề này
 - Đây là bản Việt Hóa **hoàn toàn miễn phí** nếu ai đang kinh doanh liên quan đến bản VH thì ***tôi sẽ không hoàn toàn chịu trách nhiệm vấn đề đó***

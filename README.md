@@ -4,7 +4,7 @@
 - Thành lập: 30/6/2023
 - Ngày đăng đầu tiên: 11/7/2023 + [video](https://youtu.be/wXcEynKn25Q)
 - Thông tin cập nhập:
-  + Vào 20:40 ngày 8/7/2026: cập nhập file dynamic mới nhất 4.1.6 (đã tải bản 4.1.5 vẫn chơi bình thường)
+  + Vào 20:40 ngày 8/7/2026: cập nhập file dynamic mới nhất 4.1.6 (đã tải file bản 4.1.5 vẫn chơi bình thường)
   + Cập nhập lần cuối: vào 11:18 ngày 5/7/2026: đã sửa missing và có chút thay đổi nhẹ :)
 
 ## Lời cảm ơn

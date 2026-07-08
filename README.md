@@ -50,3 +50,4 @@ II. Ios
 - [Group Facebook - Hỗ trợ bản Việt Hóa của Plant Vs Zombies 2](https://www.facebook.com/groups/1540381394319503/?ref=share&mibextid=NSMWBT)
 - [YouTube - Dyui VV](https://m.youtube.com/@DYUI_YT)
 - [Cho tôi một ly cà phê](https://me.momo.vn/23uzf3TyFqFeFet7)
+- Scan bằng qr: [MOMO](https://github.com/TamadoDeyui4566/dyuiviethoa/blob/Main/Donate%20me/QR-MOMO.jpg) hoặc [Vietcombank](https://github.com/TamadoDeyui4566/dyuiviethoa/blob/Main/Donate%20me/QR-Vietcombank.jpg)

@@ -46,7 +46,7 @@ II. Ios
 - [lINK MOD CHÍNH THỨC CHỈ DÀNH CHO ANDROID](https://drive.google.com/drive/folders/1zmeYb0VYpUJW1GbGMWWSkv5gwKs9KfHs) (IOS SỚM CÓ)
 - **NẾU KHÔNG VIỆT HÓA ĐƯỢC THÌ DO THỰC HIỆN KHÔNG ĐÚNG CÁCH HÃY XEM KỸ LẠI NẾU MÀ NHẮN TUI THÌ CHO ĂN TÁT**
 ## Đa phương tiện
-- [Discord Server - 梦中冒险 - Hành Trình Quá Ảo Team](https://discord.gg/UhQ6sfJaqE)
+- [Discord Server - PvZ VietNam]( https://discord.gg/ytTCgC9D3M)
 - [Group Facebook - Hỗ trợ bản Việt Hóa của Plant Vs Zombies 2](https://www.facebook.com/groups/1540381394319503/?ref=share&mibextid=NSMWBT)
 - [YouTube - Dyui VV](https://m.youtube.com/@DYUI_YT)
 - [Cho tôi một ly cà phê](https://me.momo.vn/23uzf3TyFqFeFet7)

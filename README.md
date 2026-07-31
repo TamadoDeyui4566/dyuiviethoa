@@ -6,6 +6,7 @@
 - Thông tin cập nhập:
   + Vào 12:55 ngày 31/7/2026: cập nhập file dynamic mới nhất 4.1.7
   + Cập nhập lần cuối: hiện tạm dừng làm về ios nên thông cảm vì ko có ai thử ngiệm cả và văn bản missing tạm thời thêm sau vì lý do cá nhân, mong thông cảm :((
+  + Khẩn! vì sự kiện nên bổ sung gấp mong thông cảm :(
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa

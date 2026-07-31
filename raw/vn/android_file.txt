@@ -1842,6 +1842,15 @@ Phần thưởng giới hạn tại Khe nứt Thời không
 [RANK_AVATAR_CONTENT_TITLE_61066]
 Bá Chủ Zombie
 
+[rank_avatar_diy_70]
+Tam thực thành hổ
+
+[RANK_AVATAR_CONTENT_CONTENT_61067]
+Phần thưởng bậc Tông sư mùa giải Đấu đôi thứ 47
+
+[RANK_AVATAR_CONTENT_TITLE_61067]
+Tam thực thành hổ
+
 [rank_avatar_diy_60]
 Sắc Xuân Ngắm Hoa
 
@@ -6757,7 +6766,7 @@ Nâng cấp
 Thăng hạng
 
 [RANK_UP_MAX]
-Nâng cấp tối đa
+Tối đa
 
 [BLESS]
 Phước lành
@@ -7803,7 +7812,7 @@ Rương thường: Mảnh lục 30%, Mảnh lam 20%, Mảnh tím 10%, Mảnh tra
 Rương trung cấp: Mảnh lục 22.5%, Mảnh lam 13.6%, Mảnh tím 15.5%, Mảnh cam 8.4%, Mảnh trang phục lục 4.67%, Mảnh trang phục lam 2.28%, Mảnh trang phục tím 2.10%, Mảnh trang phục cam 0.95%, Dung dịch lam 7.67%, Dung dịch tím 2.29%, Dung dịch cam 2.14%, 188 Kim cương 6.5%, 150 Vé trang phục 3%, Vé chúc phúc Cổ vật cao cấp 5.4%, 666 Kim cương 3%.
 Rương cao cấp: Mảnh lục 16.72%, Mảnh lam 9.25%, Mảnh tím 18.91%, Mảnh cam 15.12%, Mảnh trang phục lục 3.52%, Mảnh trang phục lam 1.73%, Mảnh trang phục tím 2.94%, Mảnh trang phục cam 1.81%, Dung dịch tím 1.83%, Dung dịch cam 3.21%, 188 Kim cương 8.45%, 150 Vé trang phục 9%, Vé chúc phúc Cổ vật cao cấp 3.24%, 666 Kim cương 4.27%.
 Rương sử thi: Mảnh cây màu tím 32.78%, Mảnh cây màu cam 27.22%, Mảnh trang phục tím 5.5%, Mảnh trang phục cam 4.5%, 150 Vé trang phục 19.33%, 666 Kim cương 10.67%.
-Rương huyền thoại: Mảnh cam 74%, Mảnh trang phục cam 25%, Mảnh khác 1%.
+Rương huyền thoại: Mảnh cam 74%, Mảnh trang phục cam 25%, Khác 1%.
 
 
 [LUCKYCHEST_DES_TITLE]
@@ -15427,7 +15436,7 @@ Bóng Chuột Hamster đang lao tới, hãy cẩn thận với lũ zombie ở b�
 Vớ Giáng sinh
 
 [PVZ1MODE_SHENGDANWA_NORMAL_DESC]
-Tiêu diệt zombie đặc biệt để nhận Vớ Giáng sinh, đặt chúng trên sân để bảo vệ, thỉnh thoảng những chiếc xe trượt tuyết bay qua trên bầu trời sẽ thả quà xuống vừa vặn để chiếc vớ hứng lấy, sau khi hoàn thành trò chơi có thể mở quà để nhận Phần thưởng! Tuy nhiên phải cẩn thận đừng để zombie tiếp cận chiếc vớ.
+Tiêu diệt zombie đặc biệt để nhận Vớ Giáng sinh, đặt chúng trên sân để bảo vệ, thỉnh thoảng những chiếc xe trượt tuyết bay qua trên bầu trời sẽ thả quà xuống vừa vặn để chiếc vớ hứng lấy, sau khi hoàn thành trò chơi có thể mở quà để nhận phần thưởng! Tuy nhiên phải cẩn thận đừng để zombie tiếp cận chiếc vớ.
 
 [PVZ1MODE_BUOY]
 Phao di động
@@ -15961,7 +15970,7 @@ Chiếc mũ giáp được nhà vua ban tặng giúp cung cấp khả năng ch�
 Zombie Nông Dân Cầm Cờ
 
 [ZOMBIE_DARK_FLAG_DESCRIPTION]
-{FLAVOR}Bạn bè cứ liên tục nói với Zombie Nông Dân Cầm Cờ rằng, chẳng có Phần thưởng nào cao quý hơn việc được trao tặng một lá cờ. Thế nhưng khi nhìn thấy các zombie khác được ban phát xô sắt, nón rào chắn, hay thậm chí là cả mũ giáp, hắn liền cảm thấy lũ bạn nói vậy chẳng qua là để an ủi cho hắn dễ chịu hơn mà thôi.
+{FLAVOR}Bạn bè cứ liên tục nói với Zombie Nông Dân Cầm Cờ rằng, chẳng có phần thưởng nào cao quý hơn việc được trao tặng một lá cờ. Thế nhưng khi nhìn thấy các zombie khác được ban phát xô sắt, nón rào chắn, hay thậm chí là cả mũ giáp, hắn liền cảm thấy lũ bạn nói vậy chẳng qua là để an ủi cho hắn dễ chịu hơn mà thôi.
 
 [ZOMBIE_DARK_FLAG_DESCRIPTION_HEADER]
 Báo hiệu một đợt sóng lớn Zombie Tăm Tối đang tràn tới.
@@ -21579,7 +21588,7 @@ Thời gian diễn ra: Từ ngày 07 tháng 11 đến ngày 15 tháng 11
 Nhận phần thưởng
 
 [CONSUMPTION_NOTIFY_OVER]
-Hiện tại đã tiêu hao {GEM_COST} kim cương, tất cả Phần thưởng của bạn đã được nhận hết!
+Hiện tại đã tiêu hao {GEM_COST} kim cương, tất cả phần thưởng của bạn đã được nhận hết!
 
 [CONSUMPTION_DESC_1]
 Hàng xóm thân mến ơi, bên trong Kho Báu May Mắn không chỉ có mỗi cây và Trang phục đâu, mà còn có cả hiện vật nữa đấy nhé!
@@ -21713,17 +21722,17 @@ Vượt đến đợt thứ {NUMBER} trong chế độ Đập Bình Thử Thách
 [DAILY_ACHIEVEMENT_CONTENT_20151001]
 ^FF0000 Mẹo nhỏ: ^oldclr 
 Mảnh cây có thể Nhận thông qua Cửa hàng Penny, Kho báu, Thử thách, Cuộc Phiêu Lưu Cây, v.v.;
-Số lượng Phần thưởng nhận được tại trang này không được tính vào số lượng tích lũy hoàn thành, thành tựu sẽ tự động làm mới vào lúc 0 giờ mỗi ngày.
+Số lượng phần thưởng nhận được tại trang này không được tính vào số lượng tích lũy hoàn thành, thành tựu sẽ tự động làm mới vào lúc 0 giờ mỗi ngày.
 
 [DAILY_ACHIEVEMENT_CONTENT_20151002]
 ^FF0000 Mẹo nhỏ: ^oldclr 
-Mảnh trang phục có thể Nhận thông qua Cửa hàng Penny, Kho báu, Thử thách Yeti Chạy Trốn, v.v.;
-Số lượng Phần thưởng nhận được tại trang này không được tính vào số lượng tích lũy hoàn thành, thành tựu sẽ tự động làm mới vào lúc 0 giờ mỗi ngày.
+Mảnh trang phục có thể nhận thông qua Cửa hàng Penny, Kho báu, Thử thách Yeti Chạy Trốn, v.v.;
+Số lượng phần thưởng nhận được tại trang này không được tính vào số lượng tích lũy hoàn thành, thành tựu sẽ tự động làm mới vào lúc 0 giờ mỗi ngày.
 
 [DAILY_ACHIEVEMENT_CONTENT_20151003]
 ^FF0000 Mẹo nhỏ: ^oldclr 
 Mảnh hiện vật có thể nhận thông qua Kho báu;
-Số lượng Phần thưởng nhận được tại trang này không được tính vào số lượng tích lũy hoàn thành sự kiện, thành tựu sẽ tự động làm mới vào lúc 0 giờ mỗi ngày.
+Số lượng phần thưởng nhận được tại trang này không được tính vào số lượng tích lũy hoàn thành sự kiện, thành tựu sẽ tự động làm mới vào lúc 0 giờ mỗi ngày.
 
 [DAILY_ACHIEVEMENT_CONTENT_20151004]
 ^FF0000 Mẹo nhỏ: ^oldclr 
@@ -24914,7 +24923,7 @@ Cấp tiếp theo: Vi-rút ôn dịch tiến hóa, giảm {COUNT}% tiêu hao nă
 Thuốc Cuồng Nộ
 
 [ZOMBIE_PVPSKILL_RAGE_DESCRIPTION]
-Đáng sợ nhất không phải là zombie, mà là những con zombie đang trong trạng thái cuồng bạo. Tiến Sĩ Zomboss đã phát minh ra Thuốc Cuồng Nộ khiến toàn bộ binh đoàn thây ma reo hò phấn khích; sức tấn công và tốc độ đánh của chúng được tăng cường mạnh mẽ. Tuy nhiên, do hưng phấn quá đà nên chúng cũng dễ bị tổn thương hơn đấy!
+Đáng sợ nhất không phải là zombie, mà là những con zombie đang trong trạng thái cuồng bạo. Tiến Sĩ Zomboss đã phát minh ra Thuốc Cuồng Nộ khiến toàn bộ binh đoàn zombie reo hò phấn khích; sức tấn công và tốc độ đánh của chúng được tăng cường mạnh mẽ. Tuy nhiên, do hưng phấn quá đà nên chúng cũng dễ bị tổn thương hơn đấy!
 
 [PVPSKILL_RAGE_UPGRADE_DESCRIPTION]
 Cấp tiếp theo: Mỗi lần sử dụng Cuồng Nộ, sức tấn công và tốc độ của zombie sẽ tăng thêm {COUNT}%
@@ -25923,10 +25932,10 @@ Không đủ Huy chương Vô Tận
 Phần thưởng xếp hạng Vô Tận Đã nhận
 
 [PVZ_ERROR_40029]
-Không có Phần thưởng xếp hạng Vô Tận Có thể nhận
+Không có phần thưởng xếp hạng Vô Tận Có thể nhận
 
 [PVZ_ERROR_40031]
-Không thể Nhận trùng lặp Phần thưởng rút thẻ
+Không thể nhận trùng lặp phần thưởng rút thẻ
 
 [PVZ_ERROR_40033]
 Sự kiện chưa mở
@@ -26918,7 +26927,7 @@ Có tỷ lệ triệu hồi Băng Long bay ra, tấn công toàn bộ zombie ở
 ...Một bộ trang phục
 
 [CONVERSION_KEY_DESCRIPTION]
-Tiến trình và Phần thưởng của bạn đã được lưu. Những chiếc chìa khóa chưa sử dụng đã được quy đổi thành Xu!
+Tiến trình và phần thưởng của bạn đã được lưu. Những chiếc chìa khóa chưa sử dụng đã được quy đổi thành Xu!
 
 {COINT_AMT} xu !
 
@@ -26926,7 +26935,7 @@ Tiến trình và Phần thưởng của bạn đã được lưu. Những chi�
 Cửa Chìa Khóa Sụp Đổ!
 
 [CONVERSION_REWARDS_DESCRIPTION]
-Cập nhật tiến trình để Nhận Phần thưởng mới!
+Cập nhật tiến trình để nhận phần thưởng mới!
 
 Có thể xem chi tiết trong Sách Ảnh.
 
@@ -26942,7 +26951,7 @@ Phần thưởng mới!
 Đặc sắc: Bản đồ mới!
 
 [CONVERSION_STARS_DESCRIPTION]
-Tiến trình và Phần thưởng của bạn đã được lưu. Bạn đã Nhận thêm Sao, vì vậy được Tặng thêm Trang phục cây làm Phần thưởng.
+Tiến trình và phần thưởng của bạn đã được lưu. Bạn đã Nhận thêm Sao, vì vậy được Tặng thêm Trang phục cây làm phần thưởng.
 
 {COSTUME_AMT} Trang phục mới!
 
@@ -28739,8 +28748,7 @@ Xem video quảng cáo
 Miễn phí mặt trời
 
 [PRODUCT_Z_NUM_1_GEM_DESC]
-Nhận  ^FF0000 1 ^oldclr lượt khiêu chiến
-(Mua 1 lần)
+Nhận  ^FF0000 1 ^oldclr lượt khiêu chiến (Mua 1 lần)
 
 [PRODUCT_Z_NUM_1_DESC]
 Nhận  ^FF0000 1 ^oldclr lượt
@@ -28930,7 +28938,7 @@ Giành lấy chiếc mũ mùa đông của Đậu Tuyết làm vật phẩm sưu
 Hôm nay hãy đến Bữa Tiệc để thử Thông Sáp nhé. Nó còn dính dớp hơn cả bánh trái cây đấy! Mau đến chơi nào.
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_5]
-Thắng liên tiếp 5 trận để nhận Phần thưởng Bữa Tiệc đặc biệt từ SEÑOR PIÑATA. Ông ấy rất thích các lễ hội lễ kỷ niệm đấy!
+Thắng liên tiếp 5 trận để nhận phần thưởng Bữa Tiệc đặc biệt từ SEÑOR PIÑATA. Ông ấy rất thích các lễ hội lễ kỷ niệm đấy!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_6]
 Bữa Tiệc - Ngày 11 đã bắt đầu! Zombie Khổng Lồ đã cẩn thận treo Zombie Tiểu Quỷ lên rồi. Đừng bỏ lỡ nhé!
@@ -34809,19 +34817,19 @@ Dành cho những người chơi đạt được thành tích trong Thử Thách
 Người Chinh Phục Vô Tận Kỷ Jura
 
 [DAVE_TREASURE_HEAD_DES_ID_25307]
-Dành cho những người chơi nhận được Phần thưởng cuối cùng trong sự kiện Kho Báu Thần Bí.
+Dành cho những người chơi nhận được phần thưởng cuối cùng trong sự kiện Kho Báu Thần Bí.
 
 [DAVE_TREASURE_HEAD_ID_25307]
 Kẻ Săn Lùng Kho Báu
 
 [DAVE_TREASURE_HEAD_DES_ID_25308]
-Dành cho những người chơi nhận được Phần thưởng cuối cùng trong sự kiện Kho Báu Thần Bí.
+Dành cho những người chơi nhận được phần thưởng cuối cùng trong sự kiện Kho Báu Thần Bí.
 
 [DAVE_TREASURE_HEAD_ID_25308]
 Kẻ Săn Lùng Kho Báu
 
 [DAVE_TREASURE_HEAD_DES_ID_25316]
-Dành cho những người chơi nhận được Phần thưởng Tết Thiếu Nhi trong sự kiện Kho Báu Thần Bí.
+Dành cho những người chơi nhận được phần thưởng Thiếu Nhi trong sự kiện Kho Báu Thần Bí.
 
 [DAVE_TREASURE_HEAD_ID_25316]
 Kẻ Săn Lùng Kho Báu Quốc Tế Thiếu Nhi
@@ -34830,13 +34838,13 @@ Kẻ Săn Lùng Kho Báu Quốc Tế Thiếu Nhi
 Kẻ Săn Lùng Kho Báu Kỷ Niệm
 
 [DAVE_TREASURE_HEAD_DES_ID_25368]
-Dành cho những người chơi nhận được Phần thưởng Kỷ Niệm trong sự kiện Kho Báu Thần Bí.
+Dành cho những người chơi nhận được phần thưởng Kỷ Niệm trong sự kiện Kho Báu Thần Bí.
 
 [MONTHLY_POINT_HEAD_ID_25327]
 Nhà Sưu Tầm Đậu Thần
 
 [MONTHLY_POINT_HEAD_DES_ID_25327]
-Dành cho những người chơi nhận được Phần thưởng cuối cùng trong sự kiện Gói Quà Trưởng Thành.
+Dành cho những người chơi nhận được phần thưởng cuối cùng trong sự kiện Gói Quà Trưởng Thành.
 
 [SUPER_POWERPLANT_HEAD_DES_ID_25330]
 Ảnh đại diện độc quyền tích lũy nạp thẻ.
@@ -45621,7 +45629,7 @@ Vung Chày Siêu Khỏe
 Khiến khoảng cách đẩy lùi của đường bóng thẳng tăng thêm 0.5 ô, thời gian làm choáng của đường bóng đường cong tăng thêm 1 giây
 
 [BURDOCKBATTER_SKILL_LEVEL5]
-Tạm Biệt Cú Chạy Toàn垒 (Home Run)
+Tạm Biệt Cú Home Run
 
 [BURDOCKBATTER_SKILL_LEVEL5_DES]
 Khi đánh bóng có tỷ lệ đánh ra một cú Home Run, viên đạn đậu sẽ bay vút ra khỏi sân đấu, sau đó biến thành một thiên thạch lao xuống đập vào con zombie ở vị trí gần căn cứ nhất, gây sát thương phạm vi một ô và làm choáng chúng.
@@ -45689,7 +45697,7 @@ Kiếm Sĩ Phong Lữ
 {KEYWORD}Phạm vi: {STAT}2 ô phía trước
 {KEYWORD}Tính năng: {STAT}Lao vọt về phía trước một ô để phát động tấn công sau đó nhảy lùi trở lại vị trí cũ, có thể khiến đòn tấn công của Zombie Khổng Lồ bị đánh hụt vào khoảng không
 {KEYWORD}Đặc điểm của cây: {STAT}Cây màu lục
-{FLAVOR}Lần duy nhất Kiếm Sĩ Phong Lữ tỉ thí đấu kiếm với một cây trồng khác là vào một đêm say xỉn, Kiếm Sĩ Phong Lữ đã phát ra lời thách đấu擊 kiếm đối với Kiếm Sĩ Hoa Hồng. Đêm hôm đó đã xảy ra chuyện gì thì không một ai biết cả, chỉ biết là kể từ đó về sau Kiếm Sĩ Phong Lữ đã cai rượu hoàn toàn.
+{FLAVOR}Lần duy nhất Kiếm Sĩ Phong Lữ tỉ thí đấu kiếm với một cây trồng khác là vào một đêm say xỉn, Kiếm Sĩ Phong Lữ đã đưa ra lời thách đấu với Kiếm Sĩ Hoa Hồng. Đêm hôm đó đã xảy ra chuyện gì thì không một ai biết cả, chỉ biết là kể từ đó về sau Kiếm Sĩ Phong Lữ đã cai rượu hoàn toàn.
 
 [GERANIIFENCER_DESCRIPTION_HEADER]
 Lao vọt về phía trước một ô để phát động tấn công sau đó nhảy lùi trở lại vị trí cũ, có thể khiến đòn tấn công của Zombie Khổng Lồ bị đánh hụt vào khoảng không
@@ -46515,7 +46523,7 @@ Lệnh Bài Thức Sư
 Rương Chí Tôn
 
 [MAT_ULTIMATE_TREASURE_USE]
-Sử dụng có thể nhận ngẫu nhiên Phần thưởng
+Sử dụng có thể nhận ngẫu nhiên phần thưởng
 
 [MAT_ULTIMATE_TREASURE_GOT_WAY]
 Nhận được khi tích lũy số lần rút thưởng trong hoạt động Kho Báu Hải Thần
@@ -46524,7 +46532,7 @@ Nhận được khi tích lũy số lần rút thưởng trong hoạt động Kh
 Rương Hải Thần
 
 [MAT_POSEIDON_TREASURE_USE]
-Sử dụng có thể tự chọn Phần thưởng và nhận
+Sử dụng có thể tự chọn phần thưởng và nhận
 
 [MAT_POSEIDON_TREASURE_GOT_WAY]
 Nhận được khi tích lũy nạp tiền trong hoạt động Kho Báu Hải Thần
@@ -46873,7 +46881,7 @@ Giải Đấu Cầu Băng
 · Kéo Plant Food vào thực vật không sở hữu bóng, thì sẽ thực hiện chuyền bóng cho cây đó rồi mới tiến hành sút.
 · Quả cầu băng trên đường đi nếu không bị zombie chặn lại hoặc tiêu diệt zombie thì sẽ tiếp tục tiến lên, tiến đến vạch cuối sân thì tính là người chơi Nhận 1 điểm.
 · Sau khi hết thời gian, phe nào vào nhiều bàn hơn sẽ thắng, nếu hòa người chơi có thể thách đấu lại.
-· Hoàn thành màn chơi sẽ Nhận được Phần thưởng hậu hĩnh!
+· Hoàn thành màn chơi sẽ nhận được phần thưởng hậu hĩnh!
 
 [PVZ_WORLDCUP_LEFT_TICKET]
 Số vé còn: {NUM}
@@ -47082,10 +47090,10 @@ Bạn có muốn chi tiêu ^4FC148 150 kim cương ^oldclr để Mở khóa Mị
 Bạn có muốn chi tiêu ^4FC148 150 kim cương ^oldclr để Mở khóa Kinh thiên vĩ địa không?
 
 [PVZ_WORLDCUP_FIRSTFIGHTWIN]
-Thành công trong lần thách đấu đầu tiên, Nhận phần thưởng: 
+Thành công trong lần thách đấu đầu tiên, nhận phần thưởng: 
 
 [PVZ_WORLDCUP_FIGHTWIN]
-Thách đấu Thành công, Nhận phần thưởng: 
+Thách đấu Thành công, nhận phần thưởng: 
 
 [PVZ_WORLDCUP_DRAWGAME]
 Tiếc quá! Thiếu chút nữa là giành chiến thắng trận đấu rồi! Hãy cố gắng hơn nhé.
@@ -47943,7 +47951,7 @@ Hàng nào cũng đều phải chọn đó nhé!
 Nội dung hoạt động: 
 1. Có thể chọn tổng cộng 4 cây màu cam và 2 cây màu tím để cho vào bên trong Túi may mắn, sau khi mở Túi may mắn chắc chắn nhận được trong số đó Cây màu cam *1 + Cây màu tím *1.
 2. Túi may mắn có thể mua lặp lại nhiều lần, cây cũng có thể tiến hành chọn lại.
-3. Nếu người chơi đã sở hữu cây có trong Túi may mắn, Phần thưởng sẽ được chuyển đổi thành 10 Mảnh cây.
+3. Nếu người chơi đã sở hữu cây có trong Túi may mắn, phần thưởng sẽ được chuyển đổi thành 10 mảnh cây.
 
 Công bố tỷ lệ Túi may mắn
 Cây màu cam: 
@@ -48366,7 +48374,7 @@ Bạn nhận được {NUMBER} Huy hiệu Giải đấu!
 Bạn nhận được {NUMBER} Xu Thời Không!
 
 [CHEST_AWARD_HEADER1]
-Bạn nhận được {NUMBER} Rương báu!
+Bạn nhận được {NUMBER} rương!
 
 [STARCHALLENGE_TARGET_SCORE]
 Tiêu diệt zombie trong một cấp độ sẽ kiếm được điểm, bên nào có điểm cao hơn trong thời gian quy định sẽ chiến thắng.
@@ -49090,13 +49098,13 @@ Xu Thời Không
 Không đủ Xu Thời Không
 
 [MAT_PLANT_LEVELUP_BOOK]
-Sách tiến trình cây
+Sách nâng cao cây
 
 [STORE_CATEGORY_NAME_PENNYSHANDBOOK]
 Mua Sách hướng dẫn Penny cao cấp
 
 [STORE_CATEGORY_NAME_PENNYSHANDBOOK_SHORT_DES]
-Quyền nhận Phần thưởng Hướng dẫn cao cấp
+Quyền nhận phần thưởng hướng dẫn cao cấp
 
 [MAT_CARNIVAL_TICKET]
 Vé đổi thưởng
@@ -49132,7 +49140,7 @@ Cung Đình Săn Bảo
 Làm mới hoạt động
 
 [ACTIVITY_HEAVENTREASURE_SHORT_DESCRIPTION]
-Có thể nhận {NAME1} và nhiều Phần thưởng trang phục hiếm khác.
+Có thể nhận {NAME1} và nhiều phần thưởng trang phục hiếm khác.
 
 [HEAVENTREASURE_DESCRIPTION_TITLE]
 H.Dẫn hoạt động
@@ -49142,10 +49150,10 @@ Quy tắc hoạt động:
 1. Chìa Khóa Bí Bảo (xu rút thưởng) và Xu Lăng Tiêu (xu đổi thưởng) chưa sử dụng sẽ được kế thừa nguyên vẹn khi làm mới hàng tháng và cập nhật phiên bản.
 2. Mua gói quà trong hoạt động Cung Đình Săn Bảo để nhận Chìa Khóa Bí Bảo, tiêu hao Chìa Khóa Bí Bảo để rút {NAME1} và các phần thưởng lớn xa xỉ khác.
 3. Số lần rút tích lũy, giới hạn lượt mua và số lần đổi thưởng của Cung Đình Săn Bảo sẽ làm mới vào ngày 1 hàng tháng. Số lần rút bảo hiểm (quay chắc chắn trúng) sẽ được kế thừa.
-4. Mỗi 10 lần rút, lần rút tiếp theo sẽ nhận được mức giảm giá ngẫu nhiên từ 10% đến 90% (giảm 1-9折). Mỗi 20 lần rút chắc chắn nhận được Phần thưởng bảo hiểm, Phần thưởng bảo hiểm được rút từ kho giải thưởng bảo hiểm.
+4. Mỗi 10 lần rút, lần rút tiếp theo sẽ nhận được mức giảm giá ngẫu nhiên từ 10% đến 90% (giảm 1-9折). Mỗi 20 lần rút chắc chắn nhận được phần thưởng bảo hiểm, phần thưởng bảo hiểm được rút từ kho giải thưởng bảo hiểm.
 Quy tắc gói quà ưu đãi:
     1. Gói quà ưu đãi làm mới một lần vào ngày 1 hàng tháng. Gói quà ưu đãi sau khi mua với giá gốc sẽ tạo ra một mã ưu đãi, người chơi khác điền mã ưu đãi này tại giao diện hoạt động sẽ được mua gói quà ưu đãi với giá giảm 70% (3折).
-    2. Nếu mã ưu đãi của bạn được người khác sử dụng thành công, bạn sẽ nhận được Phần thưởng xu hoàn trả 70%.
+    2. Nếu mã ưu đãi của bạn được người khác sử dụng thành công, bạn sẽ nhận được phần thưởng xu hoàn trả 70%.
     3. Một mã ưu đãi chỉ có thể sử dụng một lần.
     4. Mã ưu đãi sau khi được điền thành công sẽ không thể bị người chơi khác điền lại. Nếu người chơi điền mã ưu đãi đó không mua gói quà trong vòng 120 giây, mã ưu đãi đó có thể được người chơi khác điền lại.
     5. Lưu ý, mã ưu đãi có thời hạn sử dụng từ ngày mua cho đến 0 giờ ngày 1 của tháng sau, vui lòng sử dụng kịp thời.
@@ -49160,7 +49168,7 @@ Siêu phần thưởng  {NAME1}            0.43%
 Siêu phần thưởng  {NAME2}            0.81%
 Giải lớn       Vé Bí Bảo *10          1.48%
 Giải lớn       Vé Trang Phục *800     1.15%
-Giải lớn       Sách Tiến Trình *1     1.17%
+Giải lớn       Sách nâng cao *1     1.17%
 Thường         Vé Bí Bảo *5           4.76%
 Thường         Vé Chúc Phúc Thần Khí Cao Cấp *10   4.92%
 Thường         Kim cương *100         14.99%
@@ -49174,7 +49182,7 @@ Siêu phần thưởng  {NAME3}            2.25%
 Siêu phần thưởng  {NAME4}            3.36%
 Giải lớn       Vé Bí Bảo *20          9.31%
 Giải lớn       Vé Trang Phục *800     8.19%
-Giải lớn       Sách Tiến Trình *1     7.05%
+Giải lớn       Sách nâng cao *1     7.05%
 Giải lớn       Xu Lăng Tiêu *100      4.15%
 Giải lớn       Vé Bí Bảo *10          19.07%
 Giải lớn       Xu Lăng Tiêu *50       11.63%
@@ -49188,7 +49196,7 @@ Mã ưu đãi của bạn:
 Cung Đình Săn Bảo
 
 [HEAVEN_TREASURE_TAB1_DES1]
-Mỗi 10 lần rút nhận mức giảm giá ngẫu nhiên 10%-90%, mỗi 20 lần rút chắc chắn nhận Phần thưởng bảo hiểm
+Mỗi 10 lần rút nhận mức giảm giá ngẫu nhiên 10%-90%, mỗi 20 lần rút chắc chắn nhận phần thưởng bảo hiểm
 
 [HEAVEN_TREASURE_TAB1_DES2]
 Mức giảm giá lần trước:
@@ -49324,7 +49332,7 @@ Long Tinh
 
 [DRAGON_TREASURE_DESCRIPTION]
 Quy tắc hoạt động:
-1. Chọn 3 Phần thưởng tự chọn trước khi rút. Mỗi lượt tốn 20 Long Tinh, có tỷ lệ trúng thưởng.
+1. Chọn 3 phần thưởng tự chọn trước khi rút. Mỗi lượt tốn 20 Long Tinh, có tỷ lệ trúng thưởng.
 2. Nhận hết quà hệ thống sẽ tự làm mới; sau khi rút 5 lần, có thể tốn 10 Long Tinh để tự làm mới thủ công.
 3. Tiến độ, Long Tinh và Điểm không tích lũy sang kỳ sau. Kết thúc sự kiện, Long Tinh dư đổi thành Kim cương (1:1), Điểm dư đổi thành Xu (1:100).
 4. Tỷ lệ nhận thưởng cụ thể trong Kho báu:
@@ -49419,7 +49427,7 @@ Mảnh Chuối Lươn Điện *40 (13%)
 
 Giải lớn Sử thi: 
 Kim cương *3000 (5%)
-Sách Tiến Trình *1 (5%)
+Sách nâng cao *1 (5%)
 Mảnh Hoa Pháo Trượng Điên Loạn *20 (5%)
 Mảnh Chuối Lươn Điện *20 (5%)
 Trang phục mới Máy Hát Hoa Loa Kèn (5%)
@@ -49963,8 +49971,8 @@ Hướng dẫn săn tìm kho báu kỷ niệm
 
 [ANNIVERSART_TREASURE_DESCRIPTION]
 Nội dung hoạt động: 
-1. Người chơi sử dụng vàng để đập vỡ hũ vàng, đập vỡ hũ vàng Có thể nhận một Phần thưởng.
-2. Khi các hũ vàng bị đập vỡ tạo thành một đường thẳng, Nhận Phần thưởng hiển thị ở cuối đường; khi tất cả hũ vàng bị đập vỡ, Nhận Phần thưởng cuối cùng.
+1. Người chơi sử dụng vàng để đập vỡ hũ vàng, đập vỡ hũ vàng Có thể nhận một phần thưởng.
+2. Khi các hũ vàng bị đập vỡ tạo thành một đường thẳng, phận phần thưởng hiển thị ở cuối đường; khi tất cả hũ vàng bị đập vỡ, nhận phần thưởng cuối cùng.
 3. Giá vàng mua bằng Kim cương sẽ tăng dần, 1-3 lần đầu tiêu tốn 50 kim cương, lần 4-6 tiêu tốn 100 kim cương, lần 7-9 tiêu tốn 150 kim cương.
 4. Khi số lượng hũ vàng còn lại bằng không, phần thưởng sẽ tự động đặt lại, có giới hạn số lần đặt lại.
 
@@ -50305,12 +50313,12 @@ Hướng dẫn Đập Bình
 
 [HAPPY_VASE_BREAKER_DESCRIPTION]
 Nội dung hoạt động:
-1. Người chơi sử dụng búa đập bình hiện có để đập vỡ hũ vàng, Có thể nhận một Phần thưởng.
-2. Khi số lượng hũ vàng còn lại bằng không, có thể đặt lại Phần thưởng, nếu không sẽ cần tiêu tốn búa đập bình để đặt lại. Khi đặt lại, hệ thống sẽ chọn ngẫu nhiên một kho Phần thưởng (có xác suất đặt lại vào kho hiện tại).
+1. Người chơi sử dụng búa đập bình hiện có để đập vỡ hũ vàng, có thể nhận một phần thưởng.
+2. Khi số lượng hũ vàng còn lại bằng không, có thể đặt lại phần thưởng, nếu không sẽ cần tiêu tốn búa đập bình để đặt lại. Khi đặt lại, hệ thống sẽ chọn ngẫu nhiên một kho phần thưởng (có xác suất đặt lại vào kho hiện tại).
 3. Búa đập bình có thể nhận được thông qua các nhiệm vụ hàng ngày, nạp tiền hàng ngày và Tích lũy nạp tiền trong trang hoạt động.
 4. Nhiệm vụ hàng ngày và nạp tiền hàng ngày được đặt lại mỗi ngày.
 5. Số lượng búa đập bình tiêu tốn cho mỗi lần đập không giống nhau. Búa đập bình còn dư của mỗi kỳ sẽ bị xóa sạch.
-6. Nếu người chơi đã sở hữu loại cây trong hũ vàng, thì Phần thưởng sẽ được chuyển đổi thành 10 Mảnh cây; nếu đã sở hữu Trang phục trong hũ vàng, thì sẽ nhận được 15 Mảnh trang phục.
+6. Nếu người chơi đã sở hữu loại cây trong hũ vàng, thì phần thưởng sẽ được chuyển đổi thành 10 Mảnh cây; nếu đã sở hữu Trang phục trong hũ vàng, thì sẽ nhận được 15 Mảnh trang phục.
 7. Mỗi kỳ hoạt động sẽ có một giải thưởng cây hạng nhất, sau khi người chơi đập trúng cây giải thưởng lớn, bộ thẻ cây giải thưởng đó sẽ không xuất hiện lại trong kỳ hoạt động này.
 Công bố xác suất Đập Bình:
 Phần thưởng hạng nhất: 2.06%     Phần thưởng hạng hai: 6.18%     Phần thưởng hạng ba: 9.36%     Phần thưởng hạng tư: 26.22%     Phần thưởng hạng năm: 56.18%
@@ -50319,7 +50327,7 @@ Phần thưởng hạng nhất: 2.06%     Phần thưởng hạng hai: 6.18%    
 Bạn có muốn tiêu tốn {NUM} búa đập bình để đập vỡ hũ vàng không?
 
 [HAPPY_VASE_BREAKER_RESET_CONFIRM]
-Bạn có muốn tiêu tốn {NUM} búa đập bình để đặt lại Phần thưởng không?
+Bạn có muốn tiêu tốn {NUM} búa đập bình để đặt lại phần thưởng không?
 
 [HAPPY_VASE_BREAKER_NOT_ENOUGH]
 Không đủ búa đập bình
@@ -50401,8 +50409,8 @@ Hướng dẫn đập trứng
 
 [FESTIVAL_GOLDENEGG_DESCRIPTION]
 Nội dung hoạt động:
-1. Người chơi chọn cấp độ trứng, sau khi chọn giải thưởng lớn bên trong trứng cấp đó, thông qua búa đập trứng hiện có, mỗi lần đập vỡ một quả trứng Có thể nhận một Phần thưởng.
-2. Sau khi người chơi đập trúng giải thưởng lớn đã chọn, có thể chọn trứng cấp độ tiếp theo. Khi đạt đến cấp độ trứng vàng cao nhất, sau khi đập trúng giải thưởng lớn bên trong, có thể đặt lại Phần thưởng của trứng vàng cấp cao nhất đó và người chơi chọn lại giải thưởng lớn.
+1. Người chơi chọn cấp độ trứng, sau khi chọn giải thưởng lớn bên trong trứng cấp đó, thông qua búa đập trứng hiện có, mỗi lần đập vỡ một quả trứng Có thể nhận một phần thưởng.
+2. Sau khi người chơi đập trúng giải thưởng lớn đã chọn, có thể chọn trứng cấp độ tiếp theo. Khi đạt đến cấp độ trứng vàng cao nhất, sau khi đập trúng giải thưởng lớn bên trong, có thể đặt lại phần thưởng của trứng vàng cấp cao nhất đó và người chơi chọn lại giải thưởng lớn.
 3. Người chơi sau khi đập trúng giải thưởng lớn tự chọn trong trứng cấp hiện tại có thể chọn vào trứng cấp tiếp theo, hoặc tiếp tục đập trứng ở cấp hiện tại cho đến khi hết số lượng trứng.
 4. Búa đập trứng có thể Nhận được thông qua nhiệm vụ hàng ngày trong trang hoạt động hoặc mua gói quà.
 5. Nhiệm vụ hàng ngày và nạp tiền hàng ngày được đặt lại mỗi ngày.
@@ -50568,13 +50576,13 @@ Thực hiện 5 lần 【Chuyển gen cây】 tích lũy trong tuần
 Đập bình 10 lần trong hoạt động 【Đập bình vui vẻ】 (Kỳ 1 diễn ra từ 25/11 đến 01/12, Kỳ 2 diễn ra từ 13/12 đến 19/12)
 
 [BATTLEORDER_TASK_NAME_3_2]
-Nhận Phần thưởng 7 lần tại 【Cửa hàng bí ẩn】 (bao gồm cả lượt miễn phí) (Hoạt động 【Cửa hàng bí ẩn】 mở từ 06/10 đến 12/11)
+Nhận phần thưởng 7 lần tại 【Cửa hàng bí ẩn】 (bao gồm cả lượt miễn phí) (Hoạt động 【Cửa hàng bí ẩn】 mở từ 06/10 đến 12/11)
 
 [BATTLEORDER_TASK_NAME_3_3]
 Đập trứng 5 lần trong hoạt động 【Đập trứng vàng】 (Hoạt động 【Đập trứng vàng】 mở từ 04/04 đến 17/04)
 
 [BATTLEORDER_TASK_NAME_3_4]
-Nhận 1 lần Phần thưởng phá vỡ trong hoạt động 【Mùa hè thư giãn】 (Hoạt động 【Mùa hè thư giãn】 mở từ 11/08 đến 24/08)
+Nhận 1 lần phần thưởng phá vỡ trong hoạt động 【Mùa hè thư giãn】 (Hoạt động 【Mùa hè thư giãn】 mở từ 11/08 đến 24/08)
 
 [BATTLEORDER_TASK_NAME_3_5]
 Hoàn thành gói thử thách màn chơi của kỳ 【Bậc thầy đập bình】 (Hoạt động 【Bậc thầy đập bình】 mở từ 06/12 đến 19/12)
@@ -50631,7 +50639,7 @@ Dự kiến trồng: ^FFFF00 {NUM} ^oldclr cây
 Tiến độ toàn máy chủ: ^FFFF00 {NUM} ^oldclr lần
 
 [ARBORDAY_TOTAL_SERVER_BUY_REWARD_TIPS]
-Mẹo nhỏ: Nhận Phần thưởng tiến độ toàn máy chủ cần nạp năng lượng ít nhất 10 lần~
+Mẹo nhỏ: Nhận phần thưởng tiến độ toàn máy chủ cần nạp năng lượng ít nhất 10 lần~
 
 [ARBORDAY_NEXT_HARVEST]
 Cần nạp năng lượng thêm ^FFFF00 {NUM} ^oldclr lần để mở lần tiếp theo
@@ -50640,13 +50648,13 @@ Cần nạp năng lượng thêm ^FFFF00 {NUM} ^oldclr lần để mở lần ti
 Xác nhận tiêu tốn {NUM} Pin để nạp năng lượng không?
 
 [ARBOARDAY_SURE_WATER_GET]
-Xác nhận Nhận tất cả Phần thưởng không?
+Xác nhận Nhận tất cả phần thưởng không?
 
 [ARBOARDAY_KETTLE_NOT_ENOUGH]
 Không đủ Pin
 
 [ARBOARDAY_REWARD_NOT_ENOUGH]
-Không đủ Phần thưởng có thể Nhận
+Không đủ phần thưởng có thể Nhận
 
 [WATER]
 Nạp năng lượng nhanh
@@ -50667,7 +50675,7 @@ Chúc mừng Nhận được {NUM} {NAME}
 Pin
 
 [ARBORDAY_FULL]
-Phần thưởng đã đầy, vui lòng Nhận phần thưởng trước
+Phần thưởng đã đầy, vui lòng nhận phần thưởng trước
 
 [ARBORDAY_DESCRIPTION_TITLE]
 Hướng dẫn săn tìm kho báu thời không
@@ -50675,7 +50683,7 @@ Hướng dẫn săn tìm kho báu thời không
 [ARBORDAY_DESCRIPTION]
 Nội dung hoạt động: 
 
-1. Mỗi lần tiêu hao ba Pin có thể mở rương kho báu một lần, nhận lượng lớn mảnh cây, Kim cương, Xu và các Phần thưởng khác. Danh sách các phần thưởng có thể nhận gồm: ^FF8000^Phiếu chúc phúc Cổ vật, Tỏi Tây Mặt Trời, Phù Thủy Gai Góc^oldclr^ ^8600FF^Kiwi Ngộ Không, Hỏa Tiễn Tầm Gửi^oldclr^ ^2828FF^Hạt Óc Chó Cổ Đại, Chiến Binh Măng Tây, Súp Lơ Mạnh Mẽ^oldclr^ ^82D900^Đậu Ba Đầu, Hạt Óc Chó Nổ, Lưới Chắn Gió Thạch Hộc^oldclr^
+1. Mỗi lần tiêu hao ba Pin có thể mở rương kho báu một lần, nhận lượng lớn mảnh cây, Kim cương, Xu và các phần thưởng khác. Danh sách các phần thưởng có thể nhận gồm: ^FF8000^Phiếu chúc phúc Cổ vật, Tỏi Tây Mặt Trời, Phù Thủy Gai Góc^oldclr^ ^8600FF^Kiwi Ngộ Không, Hỏa Tiễn Tầm Gửi^oldclr^ ^2828FF^Hạt Óc Chó Cổ Đại, Chiến Binh Măng Tây, Súp Lơ Mạnh Mẽ^oldclr^ ^82D900^Đậu Ba Đầu, Hạt Óc Chó Nổ, Lưới Chắn Gió Thạch Hộc^oldclr^
 
 2. Thông qua nhiệm vụ nạp năng lượng có thể nhận Pin, cũng có thể nhận thông qua gói vật phẩm Kim cương.
 
@@ -50689,7 +50697,7 @@ Hướng dẫn hoạt động Siêu tự chọn
 
 [NEWYEAR_GOODS_DESCRIPTION]
 Quy tắc hoạt động:
-1. Trong hộp quà đã có sẵn rất nhiều vật phẩm, người chơi có thể tự chọn một số Phần thưởng để đặt vào các ô. Sau khi mua gói quà với nội dung đã chọn, bạn có thể Nhận các vật phẩm tương ứng.
+1. Trong hộp quà đã có sẵn rất nhiều vật phẩm, người chơi có thể tự chọn một số phần thưởng để đặt vào các ô. Sau khi mua gói quà với nội dung đã chọn, bạn có thể Nhận các vật phẩm tương ứng.
 2. Mỗi gói quà chỉ được mua tối đa một lần mỗi ngày.
 3. Gói quà có tổng cộng 6 cấp độ, nội dung chứa trong mỗi cấp độ là khác nhau.
 
@@ -50730,7 +50738,7 @@ Nguyên chất gen
 Dùng để chiết xuất chuỗi gen trong chỉnh sửa gen
 
 [MAT_GENE_FACTOR_GOT_WAY]
-Mua gói gen, Phần thưởng xếp hạng Song nhân đối quyết
+Mua gói gen, phần thưởng xếp hạng Song nhân đối quyết
 
 [MAT_UNIVERAL_GENE_SEQUENCE]
 Xu gen vạn năng
@@ -50878,7 +50886,7 @@ Quy tắc cửa hàng chuỗi gen:
 
 Cách nhận Nguyên chất gen và Xu gen vạn năng:
 1. Mỗi người chơi khởi đầu Nhận 10 Nguyên chất gen.
-2. Nguyên chất gen có thể Nhận qua Phần thưởng xếp hạng trong Song nhân đối quyết.
+2. Nguyên chất gen có thể nhận qua phần thưởng xếp hạng trong Song nhân đối quyết.
 3. Nguyên chất gen và Xu gen vạn năng có thể Nhận thông qua mua gói gen và các gói quà trả phí khác.
 
 [GENE_HOWTOPLAY_1_DESCRIPTION]
@@ -51473,7 +51481,7 @@ Cấp độ kho báu
 Mở kho báu
 
 [BATTLE_ORDER_TAB3]
-Thử thách nhiệm vụ
+Nhiệm vụ thử thách
 
 [BATTLE_ORDER_TAB4]
 Săn quà chớp nhoáng
@@ -55534,6 +55542,12 @@ Hướng Dương - Mộng Tình Dễ Thương
 [NEW_AVATAR_DESCRIPTION_SUNFLOWER_6]
 Tốc độ sản xuất mặt trời tăng 30%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_HOYACORDATA_3]
+Cẩm cù người hâm mộ khắp bốn phương
+
+[NEW_AVATAR_DESCRIPTION_HOYACORDATA_3]
+Hiệu ứng gia tăng sức tấn công tăng 30%
+
 [NEW_AVATAR_SHORT_DESCRIPTION_SCAREDYSHROOM_2]
 Nấm Nhút Nhát - Giấc Đêm Tinh Tú
 
@@ -56087,7 +56101,7 @@ Tốc độ sản xuất mặt trời tăng 30%
 Lan Lá Tim Hồng - Bốn Phương Tám Hướng
 
 [NEW_AVATAR_DESCRIPTION_HOYACORDATA_2]
-Tỷ lệ tái kích hoạt tăng 10%
+Hiệu ứng gia tăng sức tấn công tăng 30%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SCAREDYSHROOM_2]
 Nấm Nhút Nhát - Giấc Đêm Tinh Tú
@@ -58111,7 +58125,7 @@ Lưu ý: Sau khi tính năng 「Gói quà nạp lần đầu」 được đặt 
 Gói quà nạp tiền bao gồm ba mốc Phần thưởng, lần lượt là Gói quà nạp đạt 2 tệ, Gói quà nạp tích lũy đạt 60 tệ và Gói quà nạp tích lũy đạt 198 tệ. Dưới đây là nội dung Phần thưởng chi tiết trong các gói quà nạp:
 Gói quà nạp đạt 2 tệ bao gồm: Chọn 1 trong 3 Cây màu cam (Nấm Pháp Sư Băng, Cỏ Đuôi Mèo, Pháo Ngô), Khung ảnh đại diện nạp lần đầu; 10 Dung dịch cam; Chọn 1 trong 3 Trang phục Cây màu cam (Trang phục đi kèm của Nấm Pháp Sư Băng, Cỏ Đuôi Mèo, Pháo Ngô).
 Gói quà nạp tích lũy đạt 60 tệ bao gồm: Chọn 1 trong 3 cây tấn công hệ Rồng (Hoa Mõm Rồng Lạnh, Hoa Mõm Rồng Điện, Hoa Mõm Rồng); 10 Nguyên chất gen; 10 Mảnh định hướng.
-Gói quà nạp tích lũy đạt 198 tệ bao gồm: hiện vật Súng cao su kim loại; 300 Kim cương; Sách tiến trình cây.
+Gói quà nạp tích lũy đạt 198 tệ bao gồm: hiện vật Súng cao su kim loại; 300 Kim cương; Sách nâng cao cây.
 
 [FIRST_RECHARGE_EXTRA_HAVE_GOT_PRIZE]
 Hôm nay bạn đã nhận Phần thưởng rồi, mai quay lại!
@@ -60390,6 +60404,219 @@ Vẫn từ chối
 [BUTTON_DISAGREE_CANCEL]
 Trở lại
 
+[PLANT_BOND_TAG_ICE_NAME]
+Hiệu ứng liên kết Băng
+
+[PLANT_BOND_TAG_ICE_0]
+Mỗi 4 giây, ngẫu nhiên trên sân rơi xuống 2 viên băng hạt phạm vi 1x1, gây 2000 sát thương, khiến thây ma trúng phải bị giảm 80% tốc độ di chuyển trong 3 giây.
+
+[PLANT_BOND_TAG_ICE_1]
+Số lượng băng hạt tăng thêm 2, cầu băng có 15% xác suất gây hiệu ứng đóng băng trong 2 giây sau khi đánh trúng.
+
+[PLANT_BOND_TAG_ICE_2]
+Số lượng băng hạt tăng thêm 2, phạm vi cầu băng mở rộng thành 3x3.
+
+[PLANT_BOND_TAG_FLAME_NAME]
+Hiệu ứng liên kết Lửa
+
+[PLANT_BOND_TAG_FLAME_0]
+Thực vật hệ lửa gây sát thương có 25% xác suất khiến mục tiêu bước vào trạng thái thiêu đốt trong 5 giây. Thiêu đốt: Mỗi giây trừ 200 điểm sát thương, sát thương nhận từ thực vật hệ lửa tăng 25%.
+
+[PLANT_BOND_TAG_FLAME_1]
+Thây ma chết do thiêu đốt sẽ tạo ra một vụ nổ, gây 500 điểm sát thương cho thây ma trong phạm vi 1x1.
+
+[PLANT_BOND_TAG_FLAME_2]
+Phạm vi nổ mở rộng thành 3x3.
+
+[PLANT_BOND_TAG_PHYSICS_NAME]
+Hiệu ứng liên kết Vật lý
+
+[PLANT_BOND_TAG_PHYSICS_0]
+Trên sân cứ có một thực vật hệ vật lý, sức tấn công của thực vật hệ vật lý tăng 30%.
+
+[PLANT_BOND_TAG_PHYSICS_1]
+Trên sân cứ có một thực vật hệ vật lý, sức tấn công của toàn bộ thực vật trên sân tăng 35%.
+
+[PLANT_BOND_TAG_PHYSICS_2]
+Trên sân cứ có một thực vật hệ vật lý, sức tấn công của toàn bộ thực vật trên sân tăng 40%, tốc độ tấn công tăng 5%.
+
+[PLANT_BOND_TAG_LIGHTNING_NAME]
+Hiệu ứng liên kết Sét
+
+[PLANT_BOND_TAG_LIGHTNING_0]
+Thực vật hệ điện khi gây sát thương có 50% xác suất gây hiệu ứng tê liệt trong 1 giây.
+
+[PLANT_BOND_TAG_LIGHTNING_1]
+Xác suất gây tê liệt tăng 10%, thời gian tê liệt kéo dài thêm 1 giây.
+
+[PLANT_BOND_TAG_LIGHTNING_2]
+Kẻ địch bị tê liệt có 25% xác suất tạo ra một điện trường tê liệt phạm vi 3x3 dưới chân, điện trường tồn tại trong 5 giây, mỗi giây gây 1800 điểm sát thương cho thây ma trong phạm vi và có 50% xác suất gây tê liệt trong 1 giây.
+
+[PLANT_BOND_TAG_MAGIC_NAME]
+Hiệu ứng liên kết Ma thuật
+
+[PLANT_BOND_TAG_MAGIC_0]
+Thực vật hệ ma thuật khi gây sát thương có 50% xác suất lưu đày mục tiêu trong 3 giây.
+
+[PLANT_BOND_TAG_MAGIC_1]
+Đạn thực thể xuyên qua mục tiêu bị lưu đày sẽ gây sát thương một lần, và tiếp tục gây sát thương lên mục tiêu bị trúng tiếp theo.
+
+[PLANT_BOND_TAG_MAGIC_2]
+Đạn thực thể khi xuyên qua thây ma bị lưu đày sẽ tăng 30% sát thương.
+
+[PLANT_BOND_TAG_POISON_NAME]
+Hiệu ứng liên kết Kịch độc
+
+[PLANT_BOND_TAG_POISON_0]
+Thực vật hệ độc khi gây sát thương có 15% xác suất khiến mục tiêu bước vào hiệu ứng mãnh độc bổ sung trong 6 giây. Mãnh độc: Mỗi giây trừ 5% lượng máu hiện tại.
+
+[PLANT_BOND_TAG_POISON_1]
+Tốc độ di chuyển của mục tiêu ở trạng thái trúng độc giảm 50%.
+
+[PLANT_BOND_TAG_POISON_2]
+Thây ma ở trạng thái trúng độc khi chết sẽ lây lan hiệu ứng trúng độc cho thây ma ở gần nhất trong phạm vi 3x3.
+
+[PLANT_BOND_PRO_ENERGY_NAME]
+Hiệu ứng liên kết Năng lượng
+
+[PLANT_BOND_PRO_PEA_NAME]
+Hiệu ứng liên kết Đậu
+
+[PLANT_BOND_PRO_PEA_0]
+Nhận một Xạ Thủ Đại Cơ Giao Siêu Cấp 1 sao.
+
+[PLANT_BOND_PRO_PEA_1]
+Xạ Thủ Đại Cơ Giao Siêu Cấp 1 sao cường hóa thành Xạ Thủ Đại Cơ Giao Lửa 1 sao.
+
+[PLANT_BOND_PRO_PEA_2]
+Xạ Thủ Đại Cơ Giao Lửa 2 sao cường hóa thành Xạ Thủ Đại Cơ Giao Điện 1 sao, đồng thời đại chiêu đậu thần nhận được hiệu ứng bổ sung.
+
+[PLANT_BOND_PRO_RESILIENT_NAME]
+Hiệu ứng liên kết Kiên định
+
+[PLANT_BOND_PRO_RESILIENT_0]
+Máu tối đa của thực vật hệ kiên định tăng 100%.
+
+[PLANT_BOND_PRO_RESILIENT_1]
+Máu tối đa của toàn bộ thực vật trên sân tăng 300%.
+
+[PLANT_BOND_PRO_RESILIENT_2]
+Thực vật hệ kiên định sau khi máu giảm về 0 sẽ lập tức hồi lại 50% lượng máu tối đa, mỗi trận chiến mỗi thực vật chỉ kích hoạt 1 lần.
+
+[PLANT_BOND_PRO_DRAGON_NAME]
+Hiệu ứng liên kết Cỏ rồng
+
+[PLANT_BOND_PRO_DRAGON_0]
+Đòn đánh thường có xác suất triệu hồi Long Hồn càn quét cả hàng gây sát thương và kèm theo hiệu ứng đặc biệt. Cỏ rồng ham ăn sau khi kết thúc đòn đánh thường có xác suất triệu hồi Long Hồn liên tục phun cầu lửa.
+
+[PLANT_BOND_PRO_DRAGON_1]
+Phạm vi bao phủ của Long Hồn mở rộng thành 3 hàng, phạm vi gây sát thương của cầu lửa được mở rộng.
+
+[PLANT_BOND_PRO_SHROOM_NAME]
+Hiệu ứng liên kết Nấm
+
+[PLANT_BOND_PRO_SHROOM_0]
+Khi bắt đầu chiến đấu, nấm có 60% xác suất rơi ra một bào tử ở các ô ngẫu nhiên trong phạm vi 3x3 xung quanh bản thân. Bào tử sau khi kết thúc chiến đấu sẽ sản sinh ra 1 thẻ thực vật hệ nấm ngẫu nhiên rồi biến mất, mỗi trận chiến sản sinh tối đa 2 bào tử.
+
+[PLANT_BOND_PRO_SHROOM_1]
+Bào tử có tỷ lệ thấp sản sinh ra thẻ nấm đặc biệt: Nấm Sông Băng, Nấm Hủy Diệt.
+
+[PLANT_BOND_PRO_ABYSS_NAME]
+Hiệu ứng liên kết Vực sâu
+
+[PLANT_BOND_PRO_ABYSS_0]
+Kết thúc chiến đấu, mỗi thực vật hệ vực sâu sản sinh 5 mảnh Con Mắt Vực Sâu, mỗi trận chiến sản sinh tối đa 40 mảnh. Con Mắt Vực Sâu hấp thụ mỗi mảnh Con Mắt Vực Sâu sẽ tích lũy một tầng, số tầng có thể thay đổi năng lực của Con Mắt Vực Sâu.
+
+[PLANT_BOND_PRO_ABYSS_1]
+Kết thúc chiến đấu, mỗi thực vật hệ vực sâu sản sinh 10 mảnh Con Mắt Vực Sâu, mỗi trận chiến sản sinh tối đa 60 mảnh. Con Mắt Vực Sâu hấp thụ mỗi mảnh Con Mắt Vực Sâu sẽ tích lũy một tầng, số tầng có thể thay đổi năng lực của Con Mắt Vực Sâu.
+
+[PLANT_BOND_PRO_ABYSS_2]
+Kết thúc chiến đấu, mỗi thực vật hệ vực sâu sản sinh 15 mảnh Con Mắt Vực Sâu, mỗi trận chiến sản sinh tối đa 120 mảnh. Con Mắt Vực Sâu hấp thụ mỗi mảnh Con Mắt Vực Sâu sẽ tích lũy một tầng, số tầng có thể thay đổi năng lực của Con Mắt Vực Sâu.
+
+[PLANT_BOND_PRO_ABYSS_STORE_DESCRIPTION]
+0 tầng: Mỗi 6 giây liên tục bắn ra tia laser nhắm vào thây ma ở gần nhất phía bên trái, tia laser kéo dài 4 giây và gây 200 điểm sát thương mỗi giây.
+75 tầng: Tia cực quang khi đánh trúng mục tiêu sẽ bắn tung tóe sang phạm vi 3x3, mỗi giây gây 300 điểm sát thương lên phạm vi 3x3.
+200 tầng: Bắn thêm một tia laser càn quét toàn sân, sát thương tia laser liên tục tăng lên 500 điểm, tia laser càn quét chạm vào thây ma gây 500 điểm sát thương.
+400 tầng: Tia laser càn quét sẽ tiếp tục tồn tại, sát thương của tia laser liên tục tăng lên 800 điểm, sát thương của tia laser càn quét tăng lên 600 điểm.
+
+[PLANT_BOND_TAG_0]
+Băng
+
+[PLANT_BOND_TAG_1]
+Lửa
+
+[PLANT_BOND_TAG_2]
+Sét
+
+[PLANT_BOND_TAG_3]
+Kịch độc
+
+[PLANT_BOND_TAG_4]
+Vật lý
+
+[PLANT_BOND_TAG_5]
+Ma thuật
+
+[PLANT_BOND_TAG_6]
+Đậu
+
+[PLANT_BOND_TAG_7]
+Nấm
+
+[PLANT_BOND_TAG_8]
+Cỏ rồng
+
+[PLANT_BOND_TAG_9]
+Vực sâu
+
+[PLANT_BOND_TAG_10]
+Kiên định
+
+[PLANT_BOND_TAG_11]
+Năng lượng
+
+[WAREHOUSE_DISCARD_TITLE]
+Xác nhận thu hồi
+
+[WAREHOUSE_DISCARD_BODY]
+Bạn có chắc chắn muốn thu hồi vật phẩm này không?
+
+[WAREHOUSE_DISCARD_CONFIRM]
+Xác nhận
+
+[SOUDACHE_BATTLE_INTRO_TIP]
+Nhấp vào bất kỳ vị trí nào để bắt đầu
+
+[SOUDACHE_INTERRUPT_HINT]
+Phát hiện tiến trình đã lưu, bạn có muốn tiếp tục không?
+
+[SOUDACHE_START_BATTLE]
+Bắt đầu chiến đấu
+
+[SOUDACHE_START_BATTLE_CONFIRM_HEADER]
+Xác nhận bắt đầu chiến đấu
+
+[SOUDACHE_START_BATTLE_CONFIRM_BODY]
+Trên sân vẫn còn vật phẩm chưa nhặt, có chắc chắn muốn bắt đầu chiến đấu không?
+
+[WAREHOUSE_FULL_TITLE]
+Túi kho đã đầy
+
+[WAREHOUSE_FULL_BODY]
+Túi kho đã đầy, không thể thu hồi vật phẩm!
+
+[WAREHOUSE_NORMAL_FULL_TITLE]
+Túi kho đã đầy
+
+[WAREHOUSE_NORMAL_FULL_BODY]
+Túi kho đã đầy, không thể chứa thêm vật phẩm!
+
+[WAREHOUSE_INSURANCE_DEPLOY_TITLE]
+Xác nhận triển khai
+
+[WAREHOUSE_INSURANCE_DEPLOY_BODY]
+Bạn có chắc chắn muốn triển khai các loài cây trong khung bảo hiểm không?
+
 [MONTHLY_CARD_SPECIAL_TITLE]
 Ưu đãi thẻ tháng
 
@@ -60634,7 +60861,7 @@ Chức năng mảnh: {DESC}
 Chức năng mảnh: tổng hợp cây {DESC}
 
 [UI_BAG_AVATAR_PIECE_DESC]
-Chức năng mảnh: tổng hợp {DESC} trang phục
+Chức năng mảnh: tổng hợp trang phục {DESC} 
 
 [UI_BAG_ACCESSORY_PIECE_DESC]
 Chức năng mảnh: tổng hợp hiện vật {DESC}
@@ -61917,13 +62144,13 @@ Vô hiệu hóa các ô chứa thẻ bài cây của bạn, sau khi cạn kiệt
 Zombie Xe Bán Thú Bông lái một chiếc xe đẩy chất đầy búp bê hoa hướng dương tiến vào sân. Cứ mỗi 3 giây, hắn sẽ ngẫu nhiên chọn và phong tỏa một ô chứa thẻ bài cây của bạn, buộc người chơi phải tiêu tốn Ánh Sáng mới có thể giải khóa. Khi số lượng ô bị phong tỏa đạt đến giới hạn tối đa, hắn sẽ ném thẳng số thú bông còn lại vào các ô đất trống trên sân. Sau khi toàn bộ thú bông đã cạn kiệt, hắn sẽ thu hồi bệ phóng, kích hoạt tăng tốc và lái chiếc xe không toàn tốc lao về phía trước, nghiền nát mọi cây trồng cản đường! Tuy nhiên hãy cẩn thận với Gai Cỏ và Gai Đá, đó chính là khắc tinh cứng của gã này!
 
 [ZOMBIE_ICEAGE_ARMOR3_ELITE]
-Zombie Đầu Voi Ma Mút
+Zombie Đầu Voi Ma Mút Tinh Nhuệ
 
 [ZOMBIE_ICEAGE_ARMOR3_ELITE_DESCRIPTION_HEADER]
-Trang bị bảo hộ kiên cố đội trên đầu có thể cung cấp cho hắn khả năng phòng ngự cao hơn.
+Mũ voi ma mút sau khi nâng cấp có thể cung cấp khả năng phòng thủ và kháng cự cao hơn cho nó.
 
 [ZOMBIE_ICEAGE_ARMOR3_ELITE_DESCRIPTION]
-Thật ra trước đây Zombie Đầu Voi Ma Mút chỉ là một gã Zombie Hang Động bình thường. Ngày nào hắn cũng thọc đầu vào dòng nước đá với hy vọng trở thành một Zombie Đầu Khối Băng. Thế nhưng vào một ngày nọ, một con voi ma mút đã giẫm bẹp gí gã Zombie Đầu Khối Băng ngay bên cạnh hắn. "Hóa ra voi ma mút mới là kẻ mạnh nhất!", hắn thầm nghĩ. Thế là hắn đã cầu xin Tiến Sĩ Zomboss chế tạo cho mình một chiếc mũ bảo hiểm đầu voi ma mút. Có được thứ này rồi, hắn chắc chắn có thể ăn được những bộ não thơm ngon!
+Quá trình nâng cấp chiếc mũ phiên bản tinh nhuệ đơn giản hơn tưởng tượng—Tiến sĩ Zomboss cầm bút lông, viết bốn chữ lớn "Voi ma mút chính hiệu" vào mặt trong của mũ. Zombie đầu voi ma mút tinh nhuệ ngắm nghía rất lâu và cảm thấy bản thân quả thực đã "ngầu" hơn hẳn.
 
 [ZOMBIE_ICEAGE_HUNTER_ELITE]
 Zombie Thợ Săn Tinh Anh
@@ -67922,6 +68149,36 @@ Khủng Hoảng pH - Ngày 7
 [S31_MEMORY_LEVEL_NAME_048]
 Khủng Hoảng pH - Ngày 8
 
+[S31_MEMORY_LEVEL_NAME_049]
+Chiến lược - Ngày 1
+
+[S31_MEMORY_LEVEL_NAME_050]
+Chiến lược - Ngày 2
+
+[S31_MEMORY_LEVEL_NAME_051]
+Chiến lược - Ngày 3
+
+[S31_MEMORY_LEVEL_NAME_052]
+Chiến lược - Ngày 4
+
+[S31_MEMORY_LEVEL_NAME_053]
+Chiến lược - Ngày 5
+
+[S31_MEMORY_LEVEL_NAME_054]
+Chiến lược - Ngày 6
+
+[S31_MEMORY_LEVEL_NAME_055]
+Chiến lược - Ngày 7
+
+[S31_MEMORY_LEVEL_NAME_056]
+Chiến lược - Ngày 8
+
+[S31_MEMORY_LEVEL_NAME_BOSS_6]
+Người ngâm thơ mưa bão
+
+[S31_MEMORY_LEVEL_NAME_BOSS_7]
+Bậc thầy chiến lược
+
 [S31_MEMORY_LEVEL_NAME_BOSS_2]
 Kẻ Chỉnh Sửa Ký Ức
 
@@ -73505,7 +73762,7 @@ Cấp {NUMBER}
 Zombie xuất chiến
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_BTN]
-Chỉnh sửa đội hình
+Sửa đội hình
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_SAVE_BTN]
 Lưu
@@ -74155,19 +74412,19 @@ Nhiệm vụ
 Kích hoạt
 
 [NEW_PVP_TASK_TAB1]
-Thử thách nhiệm vụ
+N.vụ thử thách
 
 [NEW_PVP_TASK_TAB2]
-Cấp độ nhiệm vụ
+N.vụ cấp độ
 
 [NEW_PVP_TASK_TAB3]
-Vòng quay may mắn
+Vòng quay
 
 [NEW_PVP_TASK_INTERGAL]
 Xu đối đầu
 
 [NEW_PVP_TASK_INTERGAL_TIPS]
-Hiện có {NUM} Xu đối đầu
+Hiện có {NUM} xu đối đầu
 
 [NEW_PVP_TASK_DESCRIPTION_TITLE]
 Hướng dẫn hoạt động nhiệm vụ
@@ -84275,7 +84532,7 @@ Quy tắc hoạt động:
     3. Sự kiện gồm 3 chủ đề (Cự Giải Hồi Du, Cua Ngang Lộng Hành, Cự Giải Phục Kích). Mỗi chủ đề có 3 màn, cứ 2 ngày mở 1 cửa mới, 6 ngày mở 1 chủ đề mới.
     4. Xem cơ chế đặc biệt của chủ đề tại góc trên bên phải giao diện chính.
     5. BXH xếp theo tổng điểm 3 cửa của chủ đề mới nhất. Khi mở chủ đề mới, BXH sẽ đóng từ 0h - 10h để công bố và khóa các cửa sự kiện. Chơi các chủ đề cũ không tính điểm vào BXH.
-    6. Phần thưởng tự động phát sau khi kết thúc công bố lúc 10h. Riêng ngày 21/07/2026, thời gian công bố kéo dài một ngày và không thể khiêu chiến.
+    6. Phần thưởng tự động phát sau khi kết thúc công bố lúc 10h. Riêng ngày 19/07/2026, thời gian công bố kéo dài một ngày và không thể khiêu chiến.
     7. Người chơi bị phát hiện điểm số dị thường sẽ bị loại khỏi BXH trong suốt thời gian sự kiện.
 
 
@@ -86789,7 +87046,7 @@ Thưởng Bí Cảnh
 Hướng dẫn sự kiện Khe Nứt Thời Không
 
 [SPACETIMERIFT_MAIN_DES_DESCRIPTION]
-1. Giai đoạn khiêu chiến diễn ra từ 3/7/2026 đến 9/7/2026, mỗi ngày người chơi có 3 lượt khiêu chiến Boss.
+1. Giai đoạn khiêu chiến diễn ra từ 8/7/2026 đến 14/7/2026, mỗi ngày người chơi có 3 lượt khiêu chiến Boss.
 2. Ngày đầu tiên bắt đầu lúc 0:00, người chơi có thể vào khiêu chiến ngay. Từ ngày thứ hai, hệ thống sẽ tổng kết Bảng xếp hạng từ 0:00 - 8:00 và tạm đóng tính năng khiêu chiến trong thời gian này.
 3. Sau khi kết thúc tổng kết, phần thưởng sẽ được phát cho tất cả người chơi tham gia dựa trên thứ hạng.
 4. Một người chơi may mắn nhất cũng sẽ được chọn sau mỗi đợt tổng kết để nhận Thưởng Cẩm Lý (Kim Cương *2888 + Mảnh Vạn Năng *20).
@@ -86844,6 +87101,12 @@ Băng Hỏa Băng Hỏa Băng
 
 [TIME_SPACE_HEAD_DES_ID_25898]
 Avatar phần thưởng tích lũy hỗ trợ chiến đấu trong Khe Nứt Thời Không
+
+[SEARCH_MODE_HEAD_ID_25912]
+Hành trình vương đạo
+
+[SEARCH_MODE_HEAD_DES_ID_25912]
+Ảnh đại diện phần thưởng Cổng viễn chinh
 
 [MAUSOLEUM_TASKDESCRIPTION]
 Vượt Màn {NUMBER} Vô Tận
@@ -88030,6 +88293,807 @@ Cầu Thủ Nhí
 [DAVECUP_HEAD_DES_ID_25889]
 Phần thưởng cột mốc của Cúp Dave
 
+[SOUDACHE_NOT_OPEN]
+Vực thẳm Viễn chinh Thời gian chưa mở
+
+[SOUDACHE_TIPS_DESC]
+1. Hoàn thành màn cuối Khó để mở Chế độ Vô tận.
+2. Chế độ Vô tận gồm 100 đợt; zombie xuất hiện ngẫu nhiên từ toàn bộ bể zombie, với cấp độ và số lượng tăng dần.
+3. Vượt ải Vô tận để nhận nhiều tiền xu cao cấp, dùng đổi ảnh đại diện kỷ niệm trong cửa hàng.
+
+[SOUDACHE_CRYSTAL_DUST_COUNT]
+{NUM}
+
+[SOUDACHE_BTN_START_EXPEDITION]
+Bắt đầu Viễn chinh
+
+[SOUDACHE_BTN_GIFT_BOX]
+Hộp quà Thời gian
+
+[SOUDACHE_BTN_PANNIE]
+Công nghệ Penny
+
+[SOUDACHE_BTN_COLLECTION]
+Tủ sưu tầm
+
+[SOUDACHE_BTN_REFIT]
+Độ chế MO
+
+[SOUDACHE_SELECT_DIFFICULTY]
+Chọn độ khó thử thách
+
+[SOUDACHE_DIFF_NORMAL]
+Độ khó Thường
+
+[SOUDACHE_DIFF_HARD]
+Độ khó Khó
+
+[SOUDACHE_DIFF_PERILOUS]
+Độ khó Hiểm ác
+
+[SOUDACHE_DIFF_DESPERATE]
+Độ khó Tuyệt vọng
+
+[SOUDACHE_DIFF_CARRY_DUST]
+{NUM}
+
+[SOUDACHE_DIFF_CARRY_DUST_LABEL]
+Tiêu hao
+
+[SOUDACHE_DIFF_UNLOCK_HINT0]
+Chưa mở khóa
+
+[SOUDACHE_DIFF_UNLOCK_HINT1]
+Chưa mở khóa
+
+[SOUDACHE_DIFF_UNLOCK_HINT2]
+Chưa mở khóa
+
+[SOUDACHE_DIFF_UNLOCK_HINT3]
+Chưa mở khóa
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS]
+Vui lòng vượt qua độ khó trước đó
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS_1]
+Vui lòng vượt qua độ khó Thường
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS_2]
+Vui lòng vượt qua độ khó Khó
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS_3]
+Vui lòng vượt qua độ khó Hiểm ác
+
+[SOUDACHE_DIFF_LOCKED_TIME]
+Chưa mở cửa
+
+[PLAYERS_TRIP_TO_SOUDACHE]
+Chuyến đi của {PLAYER} đến Viễn Chinh Thời gian
+
+[SOUDACHE_DIFF_LOCKED_DAYS_TIME]
+Mở cửa sau {NUM} ngày
+
+[SOUDACHE_BTN_CONFIRM]
+Xác nhận
+
+[SOUDACHE_SHOP_DAVE_HINT]
+Nhanh tay chọn lấy món đồ bạn cần nào!
+
+[SOUDACHE_SHOP_REFRESH_CONFIRM]
+Bạn có muốn tốn {NUM} Xu Thời gian để làm mới danh sách cửa hàng không?
+
+[SOUDACHE_SHOP_REFRESH_TIPS_TITLE]
+Tỷ lệ làm mới cửa hàng
+
+[SOUDACHE_SHOP_ACTIVITY_GOT]
+Đã bán hết
+
+[SOUDACHE_SHOP_TITLE]
+Cửa hàng Thời gian
+
+[SOUDACHE_SHOP_PRICE]
+{NUMS}
+
+[SOUDACHE_SHOP_OWNED_COUNT]
+Đã sở hữu: {NUM}
+
+[SOUDACHE_SHOP_NOT_ENOUGH_DUST]
+Không đủ Xu Thời gian!
+
+[SOUDACHE_SHOP_BUY_CONFIRM]
+Bạn có muốn mua vật phẩm này không?
+
+[SOUDACHE_BAN_REMAINING_SECONDS_TITLE]
+Thông báo hệ thống
+
+[SOUDACHE_BAN_REMAINING_SECONDS_DESC]
+Thời gian cấm còn: {NUM} giờ
+
+[SOUDACHE_COLLECTION_EMBLEM_PEA_BADGE]
+Huy hiệu Đậu
+
+[SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_PEA_BADGE]
+Tăng tỷ lệ xuất hiện của cây hệ đậu trong các màn tiếp theo, nhận cường hóa: Đòn đánh thường của cây hệ đậu có 20% xác suất bắn đồng thời 3 hạt theo hình quạt 15 độ hướng sang phải.
+
+[SOUDACHE_COLLECTION_PEA_BADGE]
+Huy hiệu Đậu
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PEA_BADGE]
+Tăng tỷ lệ xuất hiện của cây hệ đậu trong các màn tiếp theo, nhận cường hóa: Đòn đánh thường của cây hệ đậu có 20% xác suất bắn đồng thời 3 hạt theo hình quạt 15 độ hướng sang phải.
+
+[SOUDACHE_COLLECTION_EMBLEM_ABYSS_BADGE]
+Huy hiệu Vực thẳm
+
+[SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_ABYSS_BADGE]
+Tăng tỷ lệ xuất hiện của cây hệ vực thẳm trong các màn tiếp theo, nhận cường hóa: Khi cây hệ vực thẳm hoặc Mắt Vực Thẳm tiêu diệt zombie, sẽ sinh ra một Zombie Cthulhu tại vị trí đó.
+
+[SOUDACHE_COLLECTION_ABYSS_BADGE]
+Huy hiệu Vực thẳm
+
+[SOUDACHE_COLLECTION_DESCRIPTION_ABYSS_BADGE]
+Tăng tỷ lệ xuất hiện của cây hệ vực thẳm trong các màn tiếp theo, nhận cường hóa: Khi cây hệ vực thẳm hoặc Mắt Vực Thẳm tiêu diệt zombie, sẽ sinh ra một Zombie Cthulhu tại vị trí đó.
+
+[SOUDACHE_COLLECTION_EMBLEM_SHROOM_BADGE]
+Huy hiệu Nấm
+
+[SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_SHROOM_BADGE]
+Tăng mạnh tỷ lệ xuất hiện của cây hệ nấm trong các màn tiếp theo.
+
+[SOUDACHE_COLLECTION_SHROOM_BADGE]
+Huy hiệu Nấm
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SHROOM_BADGE]
+Tăng mạnh tỷ lệ xuất hiện của cây hệ nấm trong các màn tiếp theo.
+
+[SOUDACHE_COLLECTION_CAT_STICKER]
+Nhãn dán Mèo
+
+[SOUDACHE_COLLECTION_DESCRIPTION_CAT_STICKER]
+Loại nhãn dán rất được trẻ em bản địa ở Trái Đất thuộc vũ trụ số 777 yêu thích. Nếu thích, bạn có thể dán nó lên trán đấy! (Dán vào có xác suất biến thành mèo con đó nha).
+
+[SOUDACHE_COLLECTION_ZOMBIE_NEWSPAPER]
+Báo chí Zombie
+
+[SOUDACHE_COLLECTION_DESCRIPTION_ZOMBIE_NEWSPAPER]
+Những tờ báo cũ do zombie để lại qua các thời đại, ghi lại những tin tức hỗn loạn nhưng mang đậm phong cách zombie.
+
+[SOUDACHE_COLLECTION_IMP_BACKPACK]
+Ba lô Tiểu quỷ Ngày Quốc tế Thiếu nhi
+
+[SOUDACHE_COLLECTION_DESCRIPTION_IMP_BACKPACK]
+Chiếc ba lô do tiểu quỷ bỏ quên trong sự kiện lễ hội, bên trong đựng vỏ kẹo, đồ chơi và những món đồ linh tinh đủ loại.
+
+[SOUDACHE_COLLECTION_WEIRD_SNACK]
+Đồ ăn vặt vị lạ
+
+[SOUDACHE_COLLECTION_DESCRIPTION_WEIRD_SNACK]
+Món ăn vặt rất được ưa chuộng tại một hành tinh nào đó trong vũ trụ số 666, rất khuyến khích thử vị cà chua!
+
+[SOUDACHE_COLLECTION_BROKEN_POT]
+Nồi sắt hỏng
+
+[SOUDACHE_COLLECTION_DESCRIPTION_BROKEN_POT]
+Không biết cái nồi sắt này từ đâu ra, trông có vẻ như đã bị ai đó dùng lực đập mạnh vào.
+
+[SOUDACHE_COLLECTION_SUPER_LOLLIPOP]
+Kẹo mút siêu cấp
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SUPER_LOLLIPOP]
+Chỉ cần liếm một miếng là zombie có thể biến thành siêu nhân, tiếc là con zombie sở hữu nó toàn bị tiêu diệt trước khi kịp liếm.
+
+[SOUDACHE_COLLECTION_SUNFLOWER_STICKER]
+Nhãn dán Hướng Dương
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SUNFLOWER_STICKER]
+Loại nhãn dán rất được trẻ em bản địa ở Trái Đất thuộc vũ trụ số 777 yêu thích, nghe nói đây là vật phẩm cổ vũ ăn theo của một ngôi sao ca nhạc nổi tiếng trên hành tinh đó.
+
+[SOUDACHE_COLLECTION_LOST_BOOT]
+Chiếc ủng thất lạc
+
+[SOUDACHE_COLLECTION_DESCRIPTION_LOST_BOOT]
+Một chiếc ủng bình thường, không biết chiếc còn lại đang nằm trên chân ai.
+
+[SOUDACHE_COLLECTION_CHOCOLATE]
+Sô-cô-la
+
+[SOUDACHE_COLLECTION_DESCRIPTION_CHOCOLATE]
+Loại sô-cô-la đặc biệt được trồng ra từ khu vườn, nghe nói ăn xong có thể khiến cây tạm thời quên mất mình là một cái cây.
+
+[SOUDACHE_COLLECTION_GRIM_REAPER_BONE]
+Xương của Zombie Tử thần
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GRIM_REAPER_BONE]
+Chiếc xương thẳng thắn nhất trên người zombie tử thần, còn việc hắn thực sự bị mất bao nhiêu chiếc thì không ai đếm nổi.
+
+[SOUDACHE_COLLECTION_PRISM_GRASS_SHADES]
+Kính râm của Cỏ Lăng Kính
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PRISM_GRASS_SHADES]
+Cặp kính râm mà cỏ lăng kính cố tình đeo để trông ngầu hơn trong chiến đấu, nhưng thực ra hoàn toàn không có tròng kính.
+
+[SOUDACHE_COLLECTION_WINE_GOURD]
+Bầu rượu
+
+[SOUDACHE_COLLECTION_DESCRIPTION_WINE_GOURD]
+Bình rượu cũ được zombie bợm nhậu sưu tầm nhiều năm, chỉ cần ngửi gần một cái là cây có thể nhảy ngay tại chỗ một điệu nhảy.
+
+[SOUDACHE_COLLECTION_ZOMBIE_PARACHUTE]
+Dù nhảy của zombie
+
+[SOUDACHE_COLLECTION_DESCRIPTION_ZOMBIE_PARACHUTE]
+Chiếc dù đạt đánh giá 100% tốt trên trang web mua sắm! Còn lý do tại sao không có đánh giá xấu, xin đừng hỏi nhiều.
+
+[SOUDACHE_COLLECTION_TURNIP_SPINNER]
+Bộ phận xoắn ốc của Củ Cải Xoắn
+
+[SOUDACHE_COLLECTION_DESCRIPTION_TURNIP_SPINNER]
+Vì cần duy trì tốc độ quay rất cao nên thiết bị này rất dễ hỏng, may là Dave đã chuẩn bị rất nhiều linh kiện thay thế cho nó.
+
+[SOUDACHE_COLLECTION_MAGICIAN_CARD_DECK]
+Bộ bài của Nấm Ảo Thuật
+
+[SOUDACHE_COLLECTION_DESCRIPTION_MAGICIAN_CARD_DECK]
+Khi không có chiến đấu, các cây nấm ảo thuật thường tụ tập lại, lôi bộ bài ra chơi một trò chơi gọi là "Đấu Thây Vương".
+
+[SOUDACHE_COLLECTION_WALNUST_IRON_ARMOR]
+Giáp sắt của Hạt Óc Chó
+
+[SOUDACHE_COLLECTION_DESCRIPTION_WALNUST_IRON_ARMOR]
+"Mặc bộ giáp này vào rồi, ngươi còn đòi phá phòng tôi nữa à?"
+
+[SOUDACHE_COLLECTION_DAVE_SALSA]
+Sốt tacos của Dave
+
+[SOUDACHE_COLLECTION_DESCRIPTION_DAVE_SALSA]
+Lọ sốt dự phòng mà Dave Khùng nhét vào xe đẩy trước chuyến viễn chinh, nghe nói có thể làm cho bất kỳ chiếc bánh tacos nào cũng trông giống bánh tacos hơn.
+
+[SOUDACHE_COLLECTION_ZEN_WATERING_CAN]
+Bình tưới cây Vườn Thiền
+
+[SOUDACHE_COLLECTION_DESCRIPTION_ZEN_WATERING_CAN]
+Chiếc bình tưới cũ dùng để chăm sóc cây trong Vườn Thiền, sau khi bị cổng thời gian cuốn vào chuyến viễn chinh vẫn còn giữ lại hương vị sinh trưởng của cây cối.
+
+[SOUDACHE_COLLECTION_BALANCE_SHEET]
+Bảng cân bằng dữ liệu kép
+
+[SOUDACHE_COLLECTION_DESCRIPTION_BALANCE_SHEET]
+Bảng cân bằng ghi lại rất nhiều dấu vết chỉnh sửa, tượng trưng cho quá trình cân nhắc kỹ lưỡng và lặp đi lặp lại về các thông số.
+
+[SOUDACHE_COLLECTION_POTATO_SERVER]
+Máy chủ hình củ khoai tây
+
+[SOUDACHE_COLLECTION_DESCRIPTION_POTATO_SERVER]
+Máy chủ dữ liệu được dựng tạm thời trong giai đoạn đầu của xưởng Penny, bề ngoài trông giống củ khoai tây, nhưng thực sự từng gánh vác công việc ghi chép dữ liệu quan trọng.
+
+[SOUDACHE_COLLECTION_CARD_PACK]
+Gói thẻ bài đối kháng của một tựa game nào đó
+
+[SOUDACHE_COLLECTION_DESCRIPTION_CARD_PACK]
+Gói thẻ bài xuất hiện trong vũ trụ số 666, không biết sẽ mở ra loại thẻ nào.
+
+[SOUDACHE_COLLECTION_GREENHEAD_DUCK]
+Vịt đầu xanh
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GREENHEAD_DUCK]
+Quạc quạc quạc quạc? Quạc quạc quạc quạc, quạc quạc quạc quạc, quạc quạc quạc quạc!
+
+[SOUDACHE_COLLECTION_SWORD_IN_STONE]
+Thanh gươm trong đá
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SWORD_IN_STONE]
+Được cho là thanh gươm cắm trong đá từ một mảnh vỡ thời gian cổ xưa, nhưng đến nay vẫn chưa có loài thực vật nào rút nó ra được.
+
+[SOUDACHE_COLLECTION_PINATA]
+Piñata
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PINATA]
+Con ngựa giấy đầy màu sắc bị đập vô số lần trong lễ hội, số kẹo giấu bên trong đã bay biến đi từ lâu.
+
+[SOUDACHE_COLLECTION_BUTTERFLY_FISH]
+Cá bướm
+
+[SOUDACHE_COLLECTION_DESCRIPTION_BUTTERFLY_FISH]
+Khởi đầu với một chú cá nhỏ......
+
+[SOUDACHE_COLLECTION_BULLHORN_HELMET]
+Mũ bảo hiểm sừng bò
+
+[SOUDACHE_COLLECTION_DESCRIPTION_BULLHORN_HELMET]
+Chiếc mũ bảo hiểm dự phòng của một vận động viên bóng bầu dục muốn giấu tên, nghe nói khi đội vào thì giọng nói sẽ tự động kèm theo hiệu ứng vang vọng.
+
+[SOUDACHE_COLLECTION_SWEET_HOME]
+Ngôi nhà ngọt ngào
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SWEET_HOME]
+Bên trên khắc bốn chữ "Ngôi nhà ngọt ngào" xiêu vẹo. Bên trong trống không, có lẽ chủ nhân đã ra ngoài đi dạo rồi.
+
+[SOUDACHE_COLLECTION_OLD_GRAMOPHONE]
+Máy hát đĩa cổ
+
+[SOUDACHE_COLLECTION_DESCRIPTION_OLD_GRAMOPHONE]
+Đồ cổ để lại từ thời Penny vẫn dùng máy phát đĩa than cũ, âm nhạc phát ra sẽ khiến thực vật không kìm được mà nhún nhảy theo.
+
+[SOUDACHE_COLLECTION_GAME_DISC]
+Đĩa game VS1000 Cuộc chiến trong vườn
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GAME_DISC]
+Đĩa game xuất hiện trong vũ trụ số 666, trông có vẻ rất đáng chơi.
+
+[SOUDACHE_COLLECTION_SHINY_WIG]
+Bộ tóc giả lấp lánh
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SHINY_WIG]
+Trên Trái Đất thuộc vũ trụ số 666, bộ tóc giả của một nhân viên công ty game trông mới tinh như vừa xuất xưởng, có lẽ chưa từng được dùng lần nào.
+
+[SOUDACHE_COLLECTION_GOLDEN_FINGER_JAR]
+Hũ ngón tay vàng
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GOLDEN_FINGER_JAR]
+Một chiếc hũ chứa các đạo cụ nhỏ kỳ diệu, dường như các đạo cụ được tích hợp sẵn ở mỗi vũ trụ đều hoàn toàn khác nhau.
+
+[SOUDACHE_COLLECTION_STONE_FROG]
+Con ếch bằng đá
+
+[SOUDACHE_COLLECTION_DESCRIPTION_STONE_FROG]
+Pục! Pục! Pục! Pục! Pục pục pục!
+
+[SOUDACHE_COLLECTION_WALKIE_TALKIE]
+Bộ đàm
+
+[SOUDACHE_COLLECTION_DESCRIPTION_WALKIE_TALKIE]
+Chiếc bộ đàm dùng để triệu hồi quân đoàn zombie, chỉ một số zombie đặc biệt mới có được. "Alo alo alo? Sao không có ai nói gì thế này"
+
+[SOUDACHE_COLLECTION_PIRATE_TREASURE]
+Kho báu hải tặc
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PIRATE_TREASURE]
+Một rương chiến lợi phẩm hải tặc lấy trộm từ kho sưu tập của Tiến sĩ Zomboss. Mở ra thấy bên trong nhét đầy tiền vàng zombie rỉ sét và một tấm bản đồ kho báu đã ngả vàng, trên bản đồ vẽ ngày mà Zomboss bị đánh bại.
+
+[SOUDACHE_COLLECTION_GOLDEN_SHOVEL]
+Xẻng vàng
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GOLDEN_SHOVEL]
+Nhìn cái xẻng này là lại thấy có ngay xung động muốn xúc một nhát.
+
+[SOUDACHE_COLLECTION_DRAGON_EGG]
+Trứng rồng
+
+[SOUDACHE_COLLECTION_DESCRIPTION_DRAGON_EGG]
+Quả trứng rồng cổ đại tình cờ phát hiện được trong dòng loạn lưu thời gian, sờ vào thấy hơi ấm, không ai biết nó còn có thể nở được nữa hay không.
+
+[SOUDACHE_COLLECTION_GOLD_CART]
+Mô hình xe đẩy nhỏ bằng vàng
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GOLD_CART]
+Mô hình kỷ niệm bằng vàng được chế tác dựa theo nguyên mẫu chiếc xe đẩy viễn chinh, tượng trưng cho một chuyến viễn chinh thành công và đủ sâu sắc.
+
+[SOUDACHE_COLLECTION_PHARAOH_SCEPTER]
+Vương trượng của Pharaon
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PHARAOH_SCEPTER]
+Cây vương trượng thất lạc trong mảnh vỡ thời gian Ai Cập cổ đại, mang dấu ấn thời đại mạnh mẽ và biểu tượng quyền uy có thể thay đổi mọi thứ.
+
+[SOUDACHE_COLLECTION_HONOR_HELMET]
+Mũ bảo hiểm danh dự
+
+[SOUDACHE_COLLECTION_DESCRIPTION_HONOR_HELMET]
+Chiếc mũ bảo hiểm bằng vàng được chế tạo để tri ân một người hùng huyền thoại trên bãi cỏ.
+
+[SOUDACHE_COLLECTION_GOBLIN_STATUE]
+Tượng yêu tinh
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GOBLIN_STATUE]
+Một bức tượng đá yêu tinh có nguồn gốc không rõ, dù bạn đặt nó ở đâu thì sang hôm sau nó vẫn luôn xuất hiện ở vị trí khác.
+
+[SOUDACHE_COLLECTION_TITLE]
+Tủ sưu tầm
+
+[SOUDACHE_COLLECTION_RARE_0]
+Thường
+
+[SOUDACHE_COLLECTION_RARE_1]
+Tinh lương
+
+[SOUDACHE_COLLECTION_RARE_2]
+Hiếm
+
+[SOUDACHE_COLLECTION_RARE_3]
+Bí tàng
+
+[SOUDACHE_BTN_UPGRADE_ALL]
+Nâng cấp nhanh
+
+[SOUDACHE_HOW_TO_PLAY_TITLE]
+Hướng dẫn trò chơi
+
+[SOUDACHE_UPGRADE_ALL_DESC]
+Nâng cấp lần này tiêu {NUM} bụi tinh thể
+Sau khi hoàn thành nâng cấp, tủ sưu tầm tăng {LEVEL} cấp
+Thứ tự nâng cấp theo phẩm chất sưu tầm từ thấp đến cao
+
+[SOUDACHE_BTN_TOTAL_PROGRESS]
+Tổng thu thập
+{VALUE}/{MAX}
+
+[SOUDACHE_BTN_COLLECTION_LEVEL]
+Tủ sưu tầm
+Cấp^FFFF00 {VALUE}^oldclr^
+
+[SOUDACHE_BTN_LEVEL_UP]
+Tăng sao
+
+[SOUDACHE_BTN_CLAIM]
+Nhận
+
+[SOUDACHE_BTN_CLAIMED]
+Đã nhận
+
+[SOUDACHE_COLLECTION_UNLOCK_SUCCESS]
+Mở khóa thành công
+
+[SOUDACHE_COLLECTION_UNLOCK_NOT_ENOUGH_COIN]
+Không đủ Bụi tinh thể thời gian! Mở khóa cần {NUM} Bụi tinh thể thời gian.
+
+[SOUDACHE_COLLECTION_UNLOCK_HINT]
+Chưa vượt qua độ khó tương ứng, không thể mở khóa vật phẩm sưu tầm này.
+
+[SOUDACHE_COLLECTION_UNLOCK_FAIL]
+Đã dùng hết số lượt mở khóa trong tuần này
+
+[SOUDACHE_COLLECTION_UNLOCK_CONFIRM]
+Bạn có chắc muốn tiêu hao {NUM} Bụi tinh thể thời gian để mở khóa vật phẩm sưu tầm này không?
+Số lượt còn trong tuần: {REMAIN}/3
+
+[SOUDACHE_COLLECTION_NOT_ENOUGH_COINS]
+Không đủ Bụi tinh thể thời gian! Nâng sao nhanh tổng cộng cần {NUMS} Bụi tinh thể thời gian.
+
+[SOUDACHE_COLLECTION_UPGRADE_TITLE]
+Nâng sao sưu tầm
+
+[SOUDACHE_COLLECTION_UPGRADE_OWNED]
+Số lượng sở hữu: {NUM}
+
+[SOUDACHE_COLLECTION_UPGRADE_CONSUME_TITLE]
+Tiêu nâng sao
+
+[SOUDACHE_COLLECTION_UPGRADE_COST]
+{OWNED}/{REQUIRED}
+
+[SOUDACHE_COLLECTION_UPGRADE_INFO_TITLE]
+Thông tin sưu tầm
+
+[SOUDACHE_COLLECTION_UPGRADE_QUALITY]
+Phẩm chất: ^FFFF00 {RARE}^oldclr^
+
+[SOUDACHE_COLLECTION_UPGRADE_LEVEL]
+Cấp sao hiện tại: ^00FF00 {NUM}^oldclr^
+
+[SOUDACHE_COLLECTION_UPGRADE_DESC]
+Mô tả: Chưa có mô tả
+
+[SOUDACHE_COLLECTION_REWARD_TITLE]
+Phần thưởng tủ sưu tầm
+
+[SOUDACHE_TAB_COLLECTION_REWARD]
+Thưởng thu thập
+
+[SOUDACHE_TAB_LEVEL_REWARD]
+Thưởng cấp độ
+
+[SOUDACHE_COLLECTION_PROGRESS]
+Tiến độ thu thập: ^FFFF00 {VALUE}/{MAX}^oldclr^
+
+[SOUDACHE_COLLECTION_LEVEL_INFO]
+Cấp tủ sưu tầm: ^FFFF00 {VALUE}/{MAX}^oldclr^
+
+[SOUDACHE_COLLECTION_ALL_UPGRADE_CONFIRM]
+Bạn có chắc muốn tiêu hao Bụi tinh thể thời gian để nâng cấp nhanh tất cả vật phẩm sưu tầm có thể nâng cấp không?
+
+[SOUDACHE_COLLECTION_ALL_UPGRADE_COST]
+Tổng tiêu: {NUMS} Bụi tinh thể thời gian
+
+[SOUDACHE_COLLECTION_NO_UPGRADEABLE]
+Hiện tại không có vật phẩm sưu tầm nào có thể nâng cấp
+
+[SOUDACHE_RARITY_COMMON]
+Thường
+
+[SOUDACHE_RARITY_HARD]
+Khó
+
+[SOUDACHE_RARITY_PERILOUS]
+Hiểm ác
+
+[SOUDACHE_RARITY_DESPERATE]
+Tuyệt vọng
+
+[SOUDACHE_BACK_TITLE]
+Thông báo
+
+[SOUDACHE_GOT_PLANT_TITLE]
+Nhận cây khởi đầu
+
+[SOUDACHE_GOT_PLANT_DAVE_HINT]
+Có vài loại cây muốn xuất phát cùng bạn đấy
+
+[SOUDACHE_GOT_PLANT_QUIT_HINT]
+Bạn có chắc muốn thoát không? Làm vậy sẽ làm mất tiến độ viễn chinh hiện tại
+
+[SOUDACHE_BTN_GOT_PLANT_CLAIM]
+Nhận
+
+[SOUDACHE_CHOOSE_EMBLEM_TITLE]
+Chọn huy hiệu
+
+[SOUDACHE_BTN_CHOOSE_EMBLEM_CONFIRM]
+Xác nhận
+
+[SOUDACHE_CHOOSE_EMBLEM_DAVE_HINT]
+Chọn một huy hiệu để tiếp thêm sức mạnh mới cho hành trình viễn chinh của bạn!
+
+[SOUDACHE_GARBAGE_DISCARD_TITLE]
+Xác nhận thu hồi
+
+[SOUDACHE_GARBAGE_DISCARD_BODY]
+Bạn có chắc muốn vứt bỏ vật phẩm này không?
+
+[SOUDACHE_GARBAGE_DISCARD_WARNING]
+Sau khi thu hồi sẽ được đổi thành Xu Thời gian.
+
+[SOUDACHE_BTN_DISCARD_CONFIRM]
+Xác nhận thu hồi
+
+[SOUDACHE_BTN_CANCEL]
+Hủy
+
+[SOUDACHE_GARBAGE_NO_MORE_PROMPT]
+Không hiện bảng này nữa trong trận này
+
+[SOUDACHE_REWARD_CLAIMED]
+Đã nhận
+
+[SOUDACHE_COLLECTION_REWARD_MILESTONE]
+Tổng số vật phẩm sưu tầm đã nhận ^FFFF00 x{NUM}^oldclr^
+
+[SOUDACHE_COLLECTION_LEVEL_REWARD_MILESTONE]
+Cấp tủ sưu tầm đạt ^FFFF00 {NUM} cấp^oldclr^
+
+[SOUDACHE_FRENZY_WARNING]
+Zombie đã bước vào trạng thái cuồng nộ, hãy nhanh chóng tiêu diệt!
+
+[SOUDACHE_EVACUATION_TITLE]
+Cửa sổ sơ tán đã xuất hiện
+
+[SOUDACHE_EVACUATION_COMM_PENNY]
+Liên lạc: Penny
+
+[PVZ_ERROR_76105]
+Phát hiện dữ liệu bất thường, ván game này không thể tính kết quả, nhấn xác nhận để quay về màn hình chính.
+
+[SOUDACHE_EVACUATION_PENNY_ADVICE]
+Bạn đã thủ thành thành công đợt tấn công này, chuyển chiến lợi phẩm vào kho là có thể sơ tán rồi
+
+[SOUDACHE_EVACUATION_PENNY_ADVICE_2]
+Cảnh báo rủi ro:
+1. Nếu chọn tiếp tục tiến sâu, độ khó sơ tán sẽ tăng lên
+2. Một khi thất bại, các vật phẩm chưa mua bảo hiểm sẽ bị mất
+3. Cửa sổ sơ tán sẽ xuất hiện trở lại ở các màn tiếp theo
+
+[SOUDACHE_EVACUATION_ITEM_LIST]
+Danh sách vật phẩm
+
+[SOUDACHE_EVACUATE_SAFE]
+Sơ tán an toàn
+
+[SOUDACHE_EVACUATE_CONTINUE]
+Tiếp tục tiến sâu
+
+[SOUDACHE_SETTLE_VICTORY_TITLE]
+Viễn chinh thành công
+
+[SOUDACHE_SETTLE_DEFEAT_TITLE]
+Viễn chinh thất bại
+
+[SOUDACHE_SETTLE_NODES]
+Nốt hoàn thành
+
+[SOUDACHE_SETTLE_STATUS]
+Trạng thái sơ tán
+
+[SOUDACHE_SETTLE_STABILITY]
+Độ ổn định thời gian
+
+[SOUDACHE_SETTLE_DUST]
+Bụi tinh thể thời gian
+
+[SOUDACHE_SETTLE_WIN]
+Vượt màn cuối cùng
+
+[SOUDACHE_SETTLE_LOSE]
+Thất bại
+
+[SOUDACHE_SETTLE_ITEMS]
+Danh sách vật phẩm
+
+[SOUDACHE_SETTLE_BTN_SAFE]
+Sơ tán an toàn
+
+[SOUDACHE_SETTLE_BTN_CONFIRM]
+Xác nhận tổng kết
+
+[SOUDACHE_SETTLE_REWARDS_TITLE]
+Tổng hợp thu nhập
+
+[SOUDACHE_SETTLE_REWARDS_DUST]
+Bụi tinh thể thời gian
+
+[SOUDACHE_SETTLE_REWARDS_ROW1]
+Thu nhập chiến lợi phẩm
+
+[SOUDACHE_SETTLE_REWARDS_ROW2]
+Hệ số gia tăng độ khó
+
+[SOUDACHE_SETTLE_REWARDS_ROW3]
+Tổng thu nhập
+
+[SOUDACHE_SETTLE_REWARDS_BTN]
+Xác nhận tổng kết
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_01]
+Tìm kiếm, chiến đấu, sơ tán, mang chiến lợi phẩm rời đi
+
+[SOUDACHE_HOWTOPLAY_DESC_01]
+Thu thập tài nguyên trong trận chiến, bố trí thực vật để chống lại zombie, mang theo phần thưởng sau khi sơ tán. Khi độ ổn định thời gian giảm về 0 thì sơ tán thất bại. Cổng viễn chinh mở cửa vào ngày 31 tháng 7, độ khó hiểm ác và tuyệt vọng mở cửa vào ngày 7 tháng 8, sự kiện lối chơi kết thúc vào ngày 27 tháng 8.
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_02]
+Thực vật khởi đầu, xây dựng đội hình trận đấu
+
+[SOUDACHE_HOWTOPLAY_DESC_02]
+Nhận 3 loại thực vật khởi đầu để bắt đầu chiến đấu, thực vật trong Cổng viễn chinh có phẩm chất và chỉ số độc lập, không kế thừa cấp độ thực vật ngoài trận.
+
+[SOUDACHE_HOWTOPLAY_DESC_03]
+Kích hoạt liên kết, nâng sao tăng cường
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_03]
+Có thể nhận thực vật từ các điểm tài nguyên và cửa hàng, thực vật trùng lặp có thể dùng để nâng sao. Nâng sao thực vật giúp tăng mạnh các chỉ số; hãy cố gắng gom đủ các loại thực vật tương ứng để kích hoạt liên kết mạnh mẽ chống lại zombie.
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_04]
+Mở khóa ô đất, thủ vững phòng tuyến
+
+[SOUDACHE_HOWTOPLAY_DESC_04]
+Càng đi sâu, các ô đất sẽ được mở khóa thêm, chỉ có thể triển khai thực vật trên các ô đất. Khi thanh năng lượng của thực vật đầy, có thể nhấp thủ công vào thực vật để tung kỹ năng đại chiêu đậu thần; zombie vượt vạch sẽ gây mất 10 điểm độ ổn định thời gian.
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_05]
+Cân nhắc rủi ro, thu thập tài nguyên
+
+[SOUDACHE_HOWTOPLAY_DESC_05]
+Nhấp vào xe đẩy di động để thu thập các điểm tài nguyên, việc thu thập cần có thời gian, khi bắt đầu thu thập sẽ đánh thức zombie trong các ngôi mộ gần điểm tài nguyên đó.
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_06]
+Phẩm chất càng cao, phần thưởng và rủi ro càng lớn
+
+[SOUDACHE_HOWTOPLAY_DESC_06]
+Màu sắc của điểm tài nguyên đại diện cho phẩm chất. Điểm tài nguyên phẩm chất cao có thể sản sinh ra nhiều tiền tệ và thực vật phẩm chất cao hơn, nhưng đi kèm với việc phẩm chất điểm tài nguyên tăng lên, zombie trong các ngôi mộ gần đó cũng sẽ mạnh hơn.
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_07]
+Tìm kiếm cơ hội sơ tán
+
+[SOUDACHE_HOWTOPLAY_DESC_07]
+Nốt cuối cùng của mỗi tầng có thể tiến hành sơ tán để kết thúc ván đấu và tổng kết phần thưởng. Càng đi sâu, phẩm chất điểm tài nguyên và hàng hóa trong cửa hàng càng cao nhưng zombie gặp phải sẽ càng mạnh, độ khó sơ tán càng cao. Nếu sơ tán thất bại thì chỉ có thể mang đi các vật phẩm bên trong hộp an toàn.
+
+[SOUDACHE_SAVE_AND_EXIT]
+Lưu và thoát
+
+[ZOMBIE_SOUDACHE_D1_N6_HUNTER_ELITE]
+Zombie Thợ săn Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D1_N6_HUNTER_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D1_N6_HUNTER_ELITE_DESCRIPTION]
+Đại hội thể thao đã thiết lập một đấu trường ngay tại Cổng viễn chinh - lý do rất đơn giản, thi đấu nội bộ giữa đám zombie thì chán lắm, phải đọ sức trực tiếp cùng thực vật mới gọi là bản lĩnh thực sự. Zombie thợ săn tinh nhuệ nhiệt liệt hoan nghênh điều này, dẫu sao thì mỗi lứa vận động viên cây đều rất tươi mới, và kỷ lục vô địch của hắn cũng đang được làm mới đồng thời.
+
+[ZOMBIE_SOUDACHE_D1_N12_WEASELHOARDER_ELITE]
+Zombie Chồn Băng Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D1_N12_WEASELHOARDER_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D1_N12_WEASELHOARDER_ELITE_DESCRIPTION]
+Sau khi biến thành zombie chồn băng tinh nhuệ, gu thẩm mỹ của hắn và lũ chồn cũng được nâng cấp - quả thông bình thường không còn làm chúng thỏa mãn nữa, phải là hàng tươi mới từ Cổng viễn chinh cơ.
+
+[ZOMBIE_SOUDACHE_D1_N18_ELECTRIC_ELITE]
+Zombie Súng Điện Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D1_N18_ELECTRIC_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D1_N18_ELECTRIC_ELITE_DESCRIPTION]
+Nghe nói ở phía bên kia Cổng viễn chinh có vật liệu dẫn điện hoàn toàn mới, zombie súng điện tinh nhuệ không nói hai lời, vác thiết bị lao thẳng đến trước cổng.
+
+[ZOMBIE_SOUDACHE_D2_N6_WEASELHOARDER_ELITE]
+Zombie Chồn Băng Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D2_N6_WEASELHOARDER_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D2_N6_WEASELHOARDER_ELITE_DESCRIPTION]
+Sau khi biến thành zombie chồn băng tinh nhuệ, gu thẩm mỹ của hắn và lũ chồn cũng được nâng cấp - quả thông bình thường không còn làm chúng thỏa mãn nữa, phải là hàng tươi mới từ Cổng viễn chinh cơ.
+
+[ZOMBIE_SOUDACHE_D2_N12_ELECTRIC_ELITE]
+Zombie Súng Điện Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D2_N12_ELECTRIC_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D2_N12_ELECTRIC_ELITE_DESCRIPTION]
+Nghe nói ở phía bên kia Cổng viễn chinh có vật liệu dẫn điện hoàn toàn mới, zombie súng điện tinh nhuệ không nói hai lời, vác thiết bị lao thẳng đến trước cổng.
+
+[ZOMBIE_SOUDACHE_D2_N18_CHIEF_ELITE]
+Zombie tù trưởng Gió Lạnh Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D2_N18_CHIEF_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D2_N18_CHIEF_ELITE_DESCRIPTION]
+Bị thổi bay quá nhiều lần, zombie tù trưởng gió lạnh cuối cùng cũng đúc rút ra được kinh nghiệm - chưa đợi đối phương lôi quạt ra, giơ tay lên là một luồng gió lạnh giáng thẳng tới. Theo lời hắn tự nói, đây gọi là "ra tay trước chiếm thế thượng phong".
+
+[ZOMBIE_SOUDACHE_D3_N6_ELECTRIC_ELITE]
+Zombie Súng Điện Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D3_N6_ELECTRIC_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D3_N6_ELECTRIC_ELITE_DESCRIPTION]
+Nghe nói ở phía bên kia Cổng viễn chinh có vật liệu dẫn điện hoàn toàn mới, zombie súng điện tinh nhuệ không nói hai lời, vác thiết bị lao thẳng đến trước cổng. "Ra tay trước chiếm thế thượng phong".
+
+[ZOMBIE_SOUDACHE_D3_N12_HEALER_ELITE]
+Zombie Thầy Thuốc Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D3_N12_HEALER_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D3_N12_HEALER_ELITE_DESCRIPTION]
+Nghe đồn phía sau Cổng viễn chinh còn ẩn giấu vài con rồng mang thuộc tính khác nhau, hắn chống gậy thần ngày ngày lảng vảng ngoài cửa, miệng lẩm bẩm "Thêm con nữa thôi, đánh thêm con nữa là được". Mấy con zombie bên cạnh nghĩ thầm tụi nó đến để đánh trận, chỉ có mỗi tên này là đến để cày phó bản.
+
+[ZOMBIE_SOUDACHE_D3_N18_WIZARD_ELITE]
+Zombie Phù Thủy Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D3_N18_WIZARD_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D3_N18_WIZARD_ELITE_DESCRIPTION]
+Đại hội phù thủy năm nay dời thẳng đến cạnh Cổng viễn chinh - với lý do là thực vật chưa từng được chứng kiến công nghệ đỉnh cao như dùng sách phép thuật để kê chân bàn. Zombie phù thủy tinh nhuệ cảm thấy đây là lúc để mở một buổi giao lưu học thuật, mặc dù phe bên kia có vẻ không có ý định đăng ký tham gia.
+
+[ZOMBIE_SOUDACHE_D4_N6_CHIEF_ELITE]
+Zombie tù trưởng Gió Lạnh Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D4_N6_CHIEF_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D4_N6_CHIEF_ELITE_DESCRIPTION]
+Bị thổi bay quá nhiều lần, zombie tù trưởng gió lạnh cuối cùng cũng đúc rút ra được kinh nghiệm - chưa đợi đối phương lôi quạt ra, giơ tay lên là một luồng gió lạnh giáng thẳng tới. Theo lời hắn tự nói, đây gọi là "ra tay trước chiếm thế thượng phong".
+
+[ZOMBIE_SOUDACHE_D4_N12_WIZARD_ELITE]
+Zombie Phù Thủy Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D4_N12_WIZARD_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D4_N12_WIZARD_ELITE_DESCRIPTION]
+Đại hội phù thủy năm nay dời thẳng đến cạnh Cổng viễn chinh - với lý do là thực vật chưa từng được chứng kiến công nghệ đỉnh cao như dùng sách phép thuật để kê chân bàn. Zombie phù thủy tinh nhuệ cảm thấy đây là lúc để mở một buổi giao lưu học thuật, mặc dù phe bên kia có vẻ không có ý định đăng ký tham gia.
+
+[ZOMBIE_SOUDACHE_D4_N18_BALLISTA_ELITE]
+Xe công thành La Mã Tinh nhuệ
+
+[ZOMBIE_SOUDACHE_D4_N18_BALLISTA_ELITE_DESCRIPTION_HEADER]
+Đến nơi này thông qua Cổng viễn chinh
+
+[ZOMBIE_SOUDACHE_D4_N18_BALLISTA_ELITE_DESCRIPTION]
+Để thích ứng với cơ chế đặc biệt của Cổng viễn chinh, hắn lại tiến hành một đợt cải tiến mang tầm vóc thiên tài đối với chiếc xe công thành. Kết quả là chiếc xe công thành đã kẹt cứng ngay khung cửa.
+
+
+
 [ZOMBIE_GLADIATOR_ZOMBIE]
 Zombie Giác Đấu Sĩ
 
@@ -88099,7 +89163,7 @@ Hoàn thành 3 màn chế độ Thường trong Hành trình ký ức
 Hoàn thành 6 màn chế độ Thường trong Hành trình ký ức
 
 [POINTSCHALLENGE_TASK_NAME_1303]
-Hoàn thành tất cả màn chế độ Thường trong Hành trình ký ức
+Hoàn thành 8 màn chế độ Thường trong Hành trình ký ức
 
 [POINTSCHALLENGE_TASK_NAME_1401]
 Hoàn thành 1 lần Đấu đôi trong tuần
@@ -88192,7 +89256,7 @@ Nồi Tông Sư
 Màn 1
 
 [POINTSCHALLENGE_MEMORY_NODE_2]
-Màn 4
+Màn 5
 
 [POINTSCHALLENGE_MEMORY_NODE_3]
 Màn 9

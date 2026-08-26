@@ -4,9 +4,8 @@
 - Thành lập: 30/6/2023
 - Ngày đăng đầu tiên: 11/7/2023 + [video](https://youtu.be/wXcEynKn25Q)
 - Thông tin cập nhập:
-  + Vào 12:55 ngày 31/7/2026: cập nhập file dynamic mới nhất 4.1.7
-  + Cập nhập lần cuối: hiện tạm dừng làm về ios nên thông cảm vì ko có ai thử ngiệm cả và văn bản missing tạm thời thêm sau vì lý do cá nhân, mong thông cảm :((
-  + Khẩn! vì sự kiện nên bổ sung gấp mong thông cảm :(
+  + 21:20, 26/8/2026 cập nhập file mới bản v4.2.0
+  + Văn bản v4.1.7 đã được thêm vào bản mới nhất nên có thể cần bổ sung, xin hết
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa

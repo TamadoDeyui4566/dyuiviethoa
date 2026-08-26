@@ -344,6 +344,9 @@ Không thể trồng cây trên gà tây
 [ADVICE_PLANT_NOT_ON_FIRECRACKER]
 Không thể trồng cây trên pháo nổ
 
+[ADVICE_PLANT_NOT_ON_ROCKET]
+Không thể trồng loại cây này trên tên lửa
+
 [ADVICE_PLANT_NOT_ON_RAIL]
 Không thể trồng cây trên đường ray nếu không có xe goòng
 
@@ -1851,6 +1854,16 @@ Phần thưởng bậc Tông sư mùa giải Đấu đôi thứ 47
 [RANK_AVATAR_CONTENT_TITLE_61067]
 Tam thực thành hổ
 
+[rank_avatar_diy_71]
+Thiên lý cộng thiền quyên
+
+[RANK_AVATAR_CONTENT_CONTENT_61068]
+Phần thưởng bậc Tông sư mùa giải Đối đầu đôi 48
+
+[RANK_AVATAR_CONTENT_TITLE_61068]
+Thiên lý cộng thiền quyên
+
+
 [rank_avatar_diy_60]
 Sắc Xuân Ngắm Hoa
 
@@ -2373,6 +2386,9 @@ Có những cập nhật nội dung trò chơi mới.
 
 [EGYPT]
 Ai Cập Cổ Đại
+
+[MOON]
+Căn Cứ Mặt Trăng
 
 [EGYPT_CHALLENGE_MINIGAME_A_NAME]
 Ký Ức Về Xác Ướp - Ngày 1
@@ -4390,6 +4406,9 @@ Chuyến đi của {PLAYER} đến Thời Kì Heian!
 [PLAYERS_TRIP_TO_ATLANTIS]
 Chuyến đi của {PLAYER} đến Thế Giới Dưới Nước！
 
+[PLAYERS_TRIP_TO_MOON]
+Chuyến đi của {PLAYER} đến Thế Căn Cứ Mặt Trăng！
+
 [WARNING_LOW_TIDE]
 Cẩn thận, thủy triều xuống!
 
@@ -6230,6 +6249,8 @@ Cấm Dùng Plant Food
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_TIP]
 Bạn sẽ không nhận được sao nếu dùng Plant Food. Bạn có muốn dùng nó không?
+[STARCHALLENGE_PVZ1_GAME35_BEAT_ZOMBOSS]
+Đánh bại Zomboss kỷ băng hà
 
 [MISTAKE_CLICK]
 Tôi đã nhấn nhầm
@@ -6706,6 +6727,27 @@ Tuyệt! Đừng để lũ zombie này ăn não bạn!
 [TUTORIAL_WIZARDFINGER_HELP]
 Hãy thử điện giật chúng!
 
+[TUTORIAL_SKIP_PINCH_TITLE]
+Bỏ qua hướng dẫn nhúm tay?
+
+[TUTORIAL_SKIP_PINCH_DESC]
+Sau khi bỏ qua sẽ tiếp tục hướng dẫn mục tiếp theo, ván này vẫn có thể sử dụng bình thường động tác nhúm tay.
+
+[TUTORIAL_SKIP_FLICK_TITLE]
+Bỏ qua hướng dẫn vuốt nổi?
+
+[TUTORIAL_SKIP_FLICK_DESC]
+Sau khi bỏ qua sẽ tiếp tục hướng dẫn mục tiếp theo, ván này vẫn có thể sử dụng bình thường động tác vuốt nổi.
+
+[TUTORIAL_SKIP_WIZARD_TITLE]
+Bỏ qua hướng dẫn ngón tay sấm sét?
+
+[TUTORIAL_SKIP_WIZARD_DESC]
+Sau khi bỏ qua sẽ tiếp tục hướng dẫn mục tiếp theo, ván này vẫn có thể sử dụng bình thường ngón tay sấm sét.
+
+[TUTORIAL_SKIP_BUTTON]
+Bỏ qua hướng dẫn này	   
+
 [TWINSUNFLOWER]
 Hướng Dương Song Sinh
 
@@ -7031,6 +7073,12 @@ Trận Chiến Hàng Rào - Ngày 3
 [WEST_LEVEL_NAME]
 Miền Tây Hoang Dã - Ngày {LEVEL_NUMBER}
 
+[MOON_LEVEL_NAME]
+Căn Cứ Mặt trăng - Ngày {LEVEL_NUMBER}
+
+[MOON_HARD_LEVEL_NAME]
+Căn Cứ Mặt trăng (Độ khó chuyên gia) - Ngày {LEVEL_NUMBER}
+
 [WHO_ARE_YOU]
 Bạn là ai?
 
@@ -7107,6 +7155,8 @@ Thời Kì Heian
 [WORLD_NAME_ATLANTIS]
 Thế Giới Dưới Nước
 
+[WORLD_NAME_MOON]
+Căn Cứ Mặt trăng
 [WORLD_NAME_TALE]
 Khu Rừng Cổ Tích
 
@@ -7353,6 +7403,14 @@ Zombie Cao Bồi Đội Xô
 
 [ZOMBIE_COWBOY_ARMOR2_DESCRIPTION_HEADER]
 Chiếc nồi nấu ăn nóng bỏng mang lại khả năng bảo vệ cực tốt giúp hắn miễn nhiễm khỏi sát thương.
+[ZOMBIE_COWBOY_ARMOR4]
+Zombie Đầu Xe Mỏ
+
+[ZOMBIE_COWBOY_ARMOR4_DESCRIPTION]
+{FLAVOR}Nếu Zombie Đầu Xe Mỏ lăn ngược lại thì có lẽ nó sẽ chạy nhanh hơn nhiều, nhưng mà nó chẳng nghĩ xa đến thế đâu.
+
+[ZOMBIE_COWBOY_ARMOR4_DESCRIPTION_HEADER]
+Mũ xe mỏ có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 
 [ZOMBIE_COWBOY_DESCRIPTION]
 {FLAVOR}Zombie Cao Bồi nghĩ rằng tất cả những tên zombie hung ác, hèn hạ và khét tiếng đều đã tập trung ở miền Tây, miền Đông và miền Nam rồi. Vì vậy, hắn vội vàng đến vùng duyên hải miền Trung để thử vận may, xem có thể tự mình gầy dựng nên một giang sơn hay không.
@@ -7381,6 +7439,22 @@ Zombie Nhà Thám Hiểm
 [ZOMBIE_EXPLORER_DESCRIPTION_HEADER]
 Tay cầm ngọn đuốc có thể liên tục thiêu rụi cây cối.
 
+[ZOMBIE_EXPLORER_VETERAN]
+Zombie Nhà Thám Hiểm Cuồng Nhiệt
+
+[ZOMBIE_EXPLORER_DESCRIPTION]
+{KEYWORD}Đặc điểm: {STAT}Đuốc thiêu rụi các loài thực vật tiếp xúc
+{KEYWORD}Điểm yếu: {STAT}Các đòn tấn công đóng băng như Rau Diếp Băng, Đậu Tuyết có thể dập tắt đuốc
+
+{FLAVOR}
+Zombie Nhà Thám Hiểm Cuồng Nhiệt chưa từng sợ bóng tối. Điều này không phải vì hắn luôn cầm đuốc trên tay, mà là vì một zombie như hắn vốn dĩ không có chức năng gọi là "sợ hãi".
+
+[ZOMBIE_EXPLORER_VETERAN_DESCRIPTION]
+Zombie thám hiểm kỳ cựu chưa từng sợ bóng tối. Điều này không phải vì hắn luôn cầm một ngọn đuốc trên tay, mà là vì một zombie như hắn vốn dĩ không có chức năng gọi là "sợ hãi".
+
+[ZOMBIE_EXPLORER_VETERAN_DESCRIPTION_HEADER]
+So với Zombie Nhà Thám Hiểm, hắn sở hữu lượng máu cao hơn và tốc độ di chuyển nhanh hơn, mang theo một ngọn đuốc lớn hơn, có thể thiêu rụi ngay lập tức bất kỳ loài thực vật nào chạm phải.
+
 [ZOMBIE_MUMMY]
 Zombie Xác Ướp
 
@@ -7403,6 +7477,15 @@ Zombie Xác Ướp Đội Xô
 
 [ZOMBIE_MUMMY_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt trên đầu bảo vệ hắn cực tốt khỏi sát thương.
+
+[ZOMBIE_MUMMY_ARMOR4]
+Zombie Đầu Kim Tự Tháp
+
+[ZOMBIE_MUMMY_ARMOR4_DESCRIPTION]
+{FLAVOR}Zombie Đầu Kim Tự Tháp hoàn toàn không biết chiếc kim tự tháp của mình có hình thù kim tự tháp. Về điểm này, phản ứng của hắn hơi chậm chạp.
+
+[ZOMBIE_MUMMY_ARMOR4_DESCRIPTION_HEADER]
+Mũ kim tự tháp có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 
 [ZOMBIE_MUMMY_DESCRIPTION]
 {FLAVOR}Hắn là một zombie hay là một xác ướp? Sự thật chẳng có gì bí ẩn cả, hắn chỉ quấn đầy giấy vệ sinh lên người để chống nắng mà thôi. Hắn là một zombie, chỉ đơn giản thế thôi!
@@ -7463,6 +7546,15 @@ Zombie Hải Tặc Đội Xô
 
 [ZOMBIE_PIRATE_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô gỗ kiên cố mang lại khả năng bảo vệ cực tốt giúp hắn miễn nhiễm khỏi sát thương.
+
+[ZOMBIE_PIRATE_ARMOR4]
+Zombie Đầu Thùng Rượu Rong Biển
+
+[ZOMBIE_PIRATE_ARMOR4_DESCRIPTION]
+{FLAVOR}Được trục vớt từ vùng biển sâu thẳm, chiếc thùng rượu của Zombie đầu thùng rượu rong biển có chất lượng rất cao, chỉ là đội lên đầu hơi quá chật chội.
+
+[ZOMBIE_PIRATE_ARMOR4_DESCRIPTION_HEADER]
+Mũ thùng rượu rong biển có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 
 [ZOMBIE_PIRATE_BARREL]
 Zombie Đẩy Thùng  
@@ -7614,6 +7706,16 @@ Zombie Hải Âu
 [ZOMBIE_SEAGULL_DESCRIPTION_HEADER]
 Ngay cả khi không có sàn tàu thì vẫn có thể bay qua các loại cây tầm thấp hoặc mặt nước.
 
+[ZOMBIE_PELICAN]
+Zombie Bồ Nông
+[ZOMBIE_PELICAN_DESCRIPTION]
+{KEYWORD}Đặc điểm: {STAT}Vượt qua các loài thực vật thấp như có gai và rau diếp băng
+{KEYWORD}Điểm yếu: {STAT}Bơ của bắp bắn đá có thể đánh rơi Zombie bồ nông xuống ngay lập tức
+
+{FLAVOR}Zombie bồ nông đã tích lũy thành công số dặm bay tích điểm, hắn hiện đang tính toán đến những trường đại học hàng đầu thế giới để tận hưởng một kỳ nghỉ tiệc tùng não bộ.
+
+[ZOMBIE_PELICAN_DESCRIPTION_HEADER]
+Có thể vượt qua các loài thực vật thấp hoặc mặt nước ngay cả khi không có mặt đất.
 [ZOMBIE_SWASHBUCKLER]
 Zombie Đu Dây
 
@@ -7669,6 +7771,14 @@ Zombie Đội Xô
 
 [ZOMBIE_TUTORIAL_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt trên đầu giúp hắn chống chịu sát thương ở mức độ cực lớn.
+[ZOMBIE_TUTORIAL_ARMOR4]
+Zombie Đầu Gạch
+
+[ZOMBIE_TUTORIAL_ARMOR4_DESCRIPTION]
+{FLAVOR}Sau khi bàn bạc với nhiều chú sói trong truyện cổ tích, tất cả đều đồng thuận rằng mũ rơm hay mũ gỗ đều không đạt chuẩn, và một chiếc mũ đá (gạch) là thứ phải được cân nhắc nghiêm túc.
+
+[ZOMBIE_TUTORIAL_ARMOR4_DESCRIPTION_HEADER]
+Mũ gạch có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 
 [ZOMBIE_TUTORIAL_DESCRIPTION]
 {FLAVOR}Zombie Thường rất ghét từ "Thường". Hắn không nghĩ bản thân mình bình thường, hắn hy vọng có thể sống một đời oanh oanh liệt liệt, ngay cả khi điều đó làm tổn thương người khác.
@@ -7685,6 +7795,18 @@ Zombie Cầm Cờ
 [ZOMBIE_TUTORIAL_FLAG_DESCRIPTION_HEADER]
 Lá cờ của hắn báo hiệu một đống hoặc một "đợt" đại quân zombie đang "lao" tới.
 
+
+[ZOMBIE_WEST_BULL_VETERAN]
+Zombie Tiểu Quỷ Trâu Đen
+
+[ZOMBIE_WEST_BULL_VETERAN_DESCRIPTION_HEADER]
+Sở hữu lượng máu cực cao và đòn húc đáng sợ, mỗi cú húc có thể tiêu diệt ngay lập tức thực vật phía trước và ném Tiểu Quỷ cưỡi vượt qua tuyến phòng thủ.
+
+[ZOMBIE_WEST_BULL_VETERAN_DESCRIPTION]
+Từ "huyền thoại" có lẽ đã phóng đại vị thế của Zombie Tiểu Quỷ Trâu Đen trong thế giới cao bồi. Dù vậy, đừng nói điều đó với hắn — trừ khi bạn nóng lòng muốn nghe hắn huyên thuyên suốt một tiếng đồng hồ về những bài diễn văn dài dòng chuyện bắt bê.
+
+[ZOMBIE_WEST_BULLRIDER_DESCRIPTION_HEADER]
+Sở hữu lượng máu cực cao và đòn húc đáng sợ, mỗi cú húc có thể tiêu diệt ngay lập tức thực vật phía trước và ném Tiểu Quỷ cưỡi vượt qua tuyến phòng thủ.
 [ZOMBIE_WEST_BULL]
 Bò Máy
 
@@ -11501,6 +11623,8 @@ Mở khóa sau khi vượt qua {DUNGEON}
 [PLANT_ADVENTURE_DUNGEON_CLOSED_HARD]
 Mở khóa sau khi vượt qua {DUNGEON} ^FF0000 Chế độ khó^oldclr
 
+[PLANT_ADVENTURE_DUNGEON_CLOSED_EXPERT]
+Mở khóa sau khi vượt qua {DUNGEON} ^FF0000 Chế độ chuyên gia^oldclr
 [PLANT_ADVENTURE_UNCONNECTED]
 Không kết nối Internet
 
@@ -12189,6 +12313,24 @@ Zombie Kung Fu Ấm Trà Sắt
 
 [ZOMBIE_KONGFU_BASIC_ARMOR2_DESCRIPTION_HEADER]
 Chiếc mũ ấm trà sắt của hắn có khả năng chống chịu sát thương ở mức độ cực lớn.
+
+[ZOMBIE_KONGFU_BASIC_ARMOR4]
+Zombie Kung Fu Đầu Lư Hương
+
+[ZOMBIE_KONGFU_BASIC_ARMOR4_DESCRIPTION]
+{FLAVOR}Bột đan dược cổ đại sót lại trong lò luyện đan có tác dụng tinh thần sảng khoái, với điều kiện ngươi là một thây ma và sau khi ngửi xong vẫn còn phân biệt được phương hướng.
+
+[ZOMBIE_KONGFU_BASIC_ARMOR4_DESCRIPTION_HEADER]
+Mũ lư hương có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
+
+[ZOMBIE_KONGFU_MONK_ARMOR4]
+Zombie Nhà Sư Đầu Lư Hương
+
+[ZOMBIE_KONGFU_MONK_ARMOR4_DESCRIPTION]
+{FLAVOR}Những zombie khác ngửi thấy bột đan dược nhiều nhất chỉ hắt hơi một cái, còn hắn lại ngộ ra cả một bộ triết lý nhân sinh từ đó. Giờ đây hắn hễ gặp thây ma nào cũng giảng bài "tâm như chỉ thủy", nhưng hễ thấy thực vật là vẫn lao lên đầu tiên.
+
+[ZOMBIE_KONGFU_MONK_ARMOR4_DESCRIPTION_HEADER]
+Mũ lư hương có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 
 [ZOMBIE_KONGFU_HAMMER]
 Zombie Cầm Búa
@@ -35186,7 +35328,7 @@ Sức tấn công tăng
 Tốc độ tấn công tăng
 
 [PLANT_FAMILY_SKILL_IMPROVED_SUNPRODUCE_RATE]
-Tốc tạo Mặt Trời tăng
+Tốc độ tạo Mặt Trời tăng
 
 [PLANT_FAMILY_SKILL_FAST_PLANT]
 Thời gian hồi trồng cây giảm 

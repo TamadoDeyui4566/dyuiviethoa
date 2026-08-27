@@ -1,11 +1,11 @@
-# Lưu ý: ĐỌC KỸ THÔNG TIN GIÚP TÔI NẾU CÓ CÓ VẤN ĐỀ GÌ ĐỪNG HỎI CÂU ĐÓ, TÔI CHO BỊT MÕM HẾT :)!
+# Lưu ý: ĐỌC KỸ THÔNG TIN GIÚP TÔI (NẾU CÓ), CÓ VẤN ĐỀ GÌ ĐỪNG HỎI CÂU ĐÓ, TÔI CHO BỊT MÕM HẾT :)!
 # Thông tin chính
 - Được Việt Hóa bởi [@DYUI_YT](https://www.youtube.com/@DYUI_YT) ([Duy](https://github.com/TamadoDeyui4566))
 - Thành lập: 30/6/2023
 - Ngày đăng đầu tiên: 11/7/2023 + [video](https://youtu.be/wXcEynKn25Q)
 - Thông tin cập nhập:
   + 21:20, 26/8/2026 cập nhập file mới bản v4.2.0
-  + Văn bản v4.1.7 đã được thêm vào bản mới nhất nên có thể cần bổ sung, xin hết
+  + 23:12, 26/8/2026 đã cập nhập văn bản nhưng còn một số zombie chưa được việt hóa
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa

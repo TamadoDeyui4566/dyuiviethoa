@@ -44,7 +44,7 @@ Hoàn thành Miền Tây Hoang Dã
 Ngồi dậy!
 
 [ACHIEVE_HIGH_FIVE_DESC]
-Trồng năm loại Hạt Óc Chó Cao và sử dụng Plant Food trên tất cả chúng
+Trồng năm loại Óc Chó Cao và sử dụng Plant Food trên tất cả chúng
 
 
 [ACHIEVE_HIGH_FIVE_TITLE]
@@ -3607,7 +3607,7 @@ Mở khóa cấp độ tiếp theo!
 {SAY:winnie}Lịch sử sẽ mãi ghi nhớ ngày hôm nay.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_1]
-{NPC_ENTER:winnie}{SAY}Hãy nhớ kỹ, phải bảo vệ thật tốt cho cây Hạt Óc Chó đó trước bầy zombie cao bồi kia.
+{NPC_ENTER:winnie}{SAY}Hãy nhớ kỹ, phải bảo vệ thật tốt cho cây Tường Óc Chó đó trước bầy zombie cao bồi kia.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_2]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Tuyệt đối đừng để nó có mệnh hệ gì nhé, tôi còn đang tính mượn nó để làm bóng chơi bowling đấy!
@@ -6959,17 +6959,17 @@ Xem bãi cỏ
 Xem nâng cấp
 
 [WALLNUT]
-Hạt Óc Chó
+Tường Óc Chó
 
 [WALLNUT_DESCRIPTION]
 {KEYWORD}Đặc điểm của cây: {STAT}Cây màu nâu
-{FLAVOR}Trước tiếng vang nài nỉ kiên định từ người hâm mộ, nhà vô địch giải đấu Bowling - Hạt Óc Chó, người từng tuyên bố giải nghệ trước đó, đã chính thức thông báo trở lại một cách đầy phô trương. Nỗ lực lên! Cố lên nào! 
+{FLAVOR}Trước tiếng vang nài nỉ kiên định từ người hâm mộ, nhà vô địch giải đấu Bowling - Tường Óc Chó, người từng tuyên bố giải nghệ trước đó, đã chính thức thông báo trở lại một cách đầy phô trương. Nỗ lực lên! Cố lên nào! 
 
 [WALLNUT_DESCRIPTION_HEADER]
-Hạt Óc Chó sở hữu lớp vỏ cứng cáp đủ để bảo vệ các cây khác.
+Tường Óc Chó sở hữu lớp vỏ cứng cáp đủ để bảo vệ các cây khác.
 
 [WALLNUT_PLANTFOOD]
-Hóa ra một lớp áo giáp kim loại, tăng mạnh khả năng phòng ngự của Hạt Óc Chó.
+Hóa ra một lớp áo giáp kim loại, tăng mạnh khả năng phòng ngự của Tường Óc Chó.
 
 [WALLNUT_TOOLTIP]
 Chặn đường zombie, bảo vệ các cây ở phía sau.
@@ -7507,7 +7507,7 @@ Zombie Pharaon
 
 [ZOMBIE_PHARAOH_DESCRIPTION]
 {KEYWORD}Đặc điểm tốc độ: {STAT}Lao về phía trước nhanh như hổ đói
-{KEYWORD}Đặc điểm: {STAT}Hạt Óc Chó có thể chặn hắn lại một lát, nhưng dùng tuyệt chiêu Plant Food để tiêu diệt hắn vẫn an toàn hơn
+{KEYWORD}Đặc điểm: {STAT}Tường Óc Chó có thể chặn hắn lại một lát, nhưng dùng tuyệt chiêu Plant Food để tiêu diệt hắn vẫn an toàn hơn
 
 {FLAVOR}Hắn là em họ của Vua Pharaon, đồng thời cũng là thái tử vào thời điểm đó. Hắn từng hứa khi lên nắm quyền sẽ cấm sử dụng thạch quan, nhưng không may đã anh dũng hy sinh khi còn trẻ trong một vụ tai nạn giao thông liên quan đến một con dê. Những chiến tích này tuy được ghi chép vô cùng chi tiết ở mặt sau của thạch quan, nhưng ngặt nỗi chẳng mấy ai có thể nhìn thấy được.
 
@@ -7663,7 +7663,7 @@ Zombie Phù Thủy Hù Dọa
 
 [ZOMBIE_WITCH_DESCRIPTION]
 {KEYWORD}Tính năng: {STAT}Sẽ lướt qua bản đồ cực nhanh và vấy bẩn đủ loại dược liệu ma thuật
-{KEYWORD}Điểm yếu: {STAT}Sử dụng Hạt Óc Chó Cao có thể chặn đứng ả, sử dụng dạng tuyệt chiêu của Hạt Óc Chó Cao có thể đâm gãy nát khung xương của ả
+{KEYWORD}Điểm yếu: {STAT}Sử dụng Óc Chó Cao có thể chặn đứng ả, sử dụng dạng tuyệt chiêu của Óc Chó Cao có thể đâm gãy nát khung xương của ả
 
 {FLAVOR}Zombie Phù Thủy Hù Dọa đã điều chế ra rất nhiều loại dược liệu ma thuật và liên tục vẩy chúng lên bản đồ, đáng tiếc là chúng ta không thể tấn công ả, vì ả di chuyển quá nhanh!
 
@@ -7812,7 +7812,7 @@ Bò Máy
 
 [ZOMBIE_WEST_BULL_DESCRIPTION]
 {KEYWORD}Tính năng: {STAT}Hất Zombie Tiểu Quỷ ra phía sau sân đấu
-{KEYWORD}Đặc điểm: {STAT}Zombie Tiểu Quỷ bị hất văng ra sẽ bị chặn lại bởi Hạt Óc Chó Cao
+{KEYWORD}Đặc điểm: {STAT}Zombie Tiểu Quỷ bị hất văng ra sẽ bị chặn lại bởi Óc Chó Cao
 
 {FLAVOR}Nó không phải là kiểu bò tót giận dữ như bạn tưởng tượng đâu, nó thích hoa, thích chạy nhảy trên những cánh đồng, thích hóng mát dưới bóng cây và thích lăn lộn trên bãi cỏ. Khi gặp được "nửa kia" của đời mình, nó muốn ổn định cuộc sống để lập gia đình. Trời ạ, giá mà nó không phải là một con Bò Máy thì tốt biết mấy.
 
@@ -7826,7 +7826,7 @@ Zombie Tiểu Quỷ Cưỡi Bò
 {FLAVOR}Zombie Tiểu Quỷ Cưỡi Bò luôn ước mơ trở thành một chú hề xiếc tạp kỹ, nhưng vì tạo hình của bộ trang phục chú hề làm chính hắn cũng thấy khiếp sợ, nên hắn đã từ bỏ.
 
 [ZOMBIE_WEST_BULLRIDER_DESCRIPTION_HEADER]
-Hắn có thể bị chú bò dưới háng hất tung ra phía sau sân đấu, bay qua hầu hết các loại cây trồng (ngoại trừ Hạt Óc Chó Cao). Tất nhiên, sau khi tiếp đất, hắn chỉ có thể chuyển sang đi bộ mà thôi.
+Hắn có thể bị chú bò dưới háng hất tung ra phía sau sân đấu, bay qua hầu hết các loại cây trồng (ngoại trừ Óc Chó Cao). Tất nhiên, sau khi tiếp đất, hắn chỉ có thể chuyển sang đi bộ mà thôi.
 
 
 [ZOMBIES]
@@ -8954,7 +8954,30 @@ Nhận Xe đẩy
 
 [UPGRADE_MOWER]
 Xe đẩy
+[DATA_COLLECTION_TERMINAL]
+Trạm thu thập dữ liệu
 
+[DATA_COLLECTION_TERMINAL_18_INFO]
+Trong thế giới Mặt Trận, nhấn vào trạm thu thập dữ liệu để mở bảng điều phối, chọn thiết bị thu thập dạng đường thẳng, vòng tròn hoặc chữ thập rồi kéo vào ô có thể đặt. Sau khi thiết bị thu thập kết nối với các viên pha lê trong phạm vi, giới hạn điện năng sẽ được tăng lên.
+
+
+[LIGHTNING_FINGER]
+Ngón tay sét
+
+[LIGHTNING_FINGER_19_INFO]
+Nhấn hoặc kéo để tung đòn sét cực mạnh vào zombie, gây sát thương liên tục cho những con zombie chạm phải.
+
+[FLOATING_FINGER]
+Ngón tay bay
+
+[FLOATING_FINGER_20_INFO]
+Vuốt nhanh trên người zombie để hất tung chúng lên không trung; vuốt lần nữa để trực tiếp ném zombie ra khỏi chiến trường.
+
+[SCISSOR_FINGER]
+Ngón tay kéo
+
+[SCISSOR_FINGER_21_INFO]
+Dùng hai ngón tay hướng vào zombie thực hiện động tác chụm lại, cắt đứt đầu zombie giống như dùng kéo để nhanh chóng giải trừ mối đe dọa.
 [UPGRADE_MOWER_1_INFO]
 Nhận Xe đẩy ở chế độ dễ của Ai Cập Cổ Đại, có thể chịu được cuộc tấn công của zombie vào nhà.
 
@@ -9540,7 +9563,7 @@ Nhập mã kích hoạt thành công, bạn đã khôi phục lại Vỏ Đậu 
 Nhập mã kích hoạt thành công, bạn đã khôi phục lại Đậu Tuyết cấp {LEVEL_NUMBER} và Trang phục
 
 [GEMS_RESTORE_CODE_RECHARGE_HOLONUT_AVATAR_LEVEL_SUCCEED_CONTENT]
-Nhập mã kích hoạt thành công, bạn đã khôi phục lại Hạt Óc Chó Vô Cực cấp {LEVEL_NUMBER} và Trang phục
+Nhập mã kích hoạt thành công, bạn đã khôi phục lại Óc Chó Vô Cực cấp {LEVEL_NUMBER} và Trang phục
 
 [GEMS_RESTORE_CODE_RECHARGE_TURNIP_AVATAR_LEVEL_SUCCEED_CONTENT]
 Nhập mã kích hoạt thành công, bạn đã khôi phục lại Củ Cải Trắng cấp {LEVEL_NUMBER} và Trang phục
@@ -9602,7 +9625,7 @@ Cấp 1 Cây Bắn Đậu + trang phục
 Cấp 1 Mìn Khoai Tây + trang phục
    
 [GEMS_RESTORE_CODE_RECHARGE_WALLNUT_LV0_SUCCEED_CONTENT]
-Cấp 1 Hạt Óc Chó + trang phục
+Cấp 1 Tường Óc Chó + trang phục
    
 [GEMS_RESTORE_CODE_RECHARGE_REPEATER_LV0_SUCCEED_CONTENT]
 Cấp 1 Đậu Tiểu Liên + trang phục
@@ -9686,7 +9709,7 @@ Cấp 1 Cam Năng Lượng + trang phục
 Cấp 1 Đào Xung Điện Từ + trang phục
    
 [GEMS_RESTORE_CODE_RECHARGE_HOLONUT_LV0_SUCCEED_CONTENT]
-Cấp 1 Hạt Óc Chó Vô Cực + trang phục
+Cấp 1 Óc Chó Vô Cực + trang phục
    
 [GEMS_RESTORE_CODE_RECHARGE_MAGNIFYINGGRASS_LV0_SUCCEED_CONTENT]
 Cấp 1 Cỏ Lăng Kính + trang phục
@@ -9923,7 +9946,7 @@ Cấp 3 Cây Bắn Đậu
 Cấp 3 Mìn Khoai Tây
    
 [GEMS_RESTORE_CODE_RECHARGE_WALLNUT_LV3_SUCCEED_CONTENT]
-Cấp 3 Hạt Óc Chó
+Cấp 3 Tường Óc Chó
    
 [GEMS_RESTORE_CODE_RECHARGE_REPEATER_LV3_SUCCEED_CONTENT]
 Cấp 3 Đậu Tiểu Liên
@@ -10007,7 +10030,7 @@ Cấp 3 Cam Năng Lượng
 Cấp 3 Đào Xung Điện Từ
    
 [GEMS_RESTORE_CODE_RECHARGE_HOLONUT_LV3_SUCCEED_CONTENT]
-Cấp 3 Hạt Óc Chó Vô Cực
+Cấp 3 Óc Chó Vô Cực
    
 [GEMS_RESTORE_CODE_RECHARGE_MAGNIFYINGGRASS_LV3_SUCCEED_CONTENT]
 Cấp 3 Cỏ Lăng Kính
@@ -10887,10 +10910,10 @@ Bộ đôi Kung Fu
 Gói tổ hợp Bắp
 
 [STORE_GIFT_LUXURY_GIFT_DESC]
-Gói quà cao cấp giúp bạn nghiền nát mọi thử thách, bao gồm: Dưa Hấu Băng, Khoai Bắt Chước, Đại Bác Dừa, Hương Bồ Chớp, Gai Đá và Hạt Óc Chó Cao.
+Gói quà cao cấp giúp bạn nghiền nát mọi thử thách, bao gồm: Dưa Hấu Băng, Khoai Bắt Chước, Đại Bác Dừa, Hương Bồ Chớp, Gai Đá và Óc Chó Cao.
 
 [STORE_GIFT_ONSALE_GIFT_DESC]
-Gói quà khuyến mãi dành cho tân thủ, bao gồm: Dưa Hấu Băng, Hương Bồ Chớp và Hạt Óc Chó Cao.
+Gói quà khuyến mãi dành cho tân thủ, bao gồm: Dưa Hấu Băng, Hương Bồ Chớp và Óc Chó Cao.
 
 [STORE_GIFT_LABORDAY_ICEBURG_GIFT_DESC]
 Trang phục Rau Diếp Băng
@@ -11146,7 +11169,7 @@ Gói quà Toàn Hình
 
 [STORE_GIFT_LABORDAY_HOLONUT_GIFT_DESC]
 ^009900 Thời gian có hạn từ nay đến 16/9^oldclr
-Tiến hóa Hạt Óc Chó Vô Cực và trang phục
+Tiến hóa Óc Chó Vô Cực và trang phục
 
 [STORE_GIFT_LABORDAY_CITRON_GIFT]
 Gói quà Bưởi
@@ -11338,11 +11361,11 @@ Gói quà Bắp Cải
 Tiến hóa Cẩu Bắp Cải và trang phục
 
 [STORE_GIFT_LABORDAY_WALLNUT_GIFT]
-Gói quà Hạt Óc Chó
+Gói quà Tường Óc Chó
 
 [STORE_GIFT_LABORDAY_WALLNUT_GIFT_DESC]
 ^009900 Thời gian có hạn từ nay đến 16/9^oldclr
-Tiến hóa Hạt Óc Chó và trang phục
+Tiến hóa Tường Óc Chó và trang phục
 
 [STORE_GIFT_LABORDAY_SUNFLOWER_GIFT]
 Gói quà Hoa Hướng Dương
@@ -11541,11 +11564,11 @@ Sự kiện nhân đôi kết hợp đặc quyền nạp tích lũy! Nhận X4 p
 
 [STORE_GIFT_LUXURY_GIFT_BUY_FINISH]
 Chúc mừng bạn đã nhận được Gói quà cao cấp Chí Tôn Vô Địch! 
-Gói quà bao gồm: Dưa Hấu Băng, Khoai Bắt Chước, Đại Bác Dừa, Hương Bồ Chớp, Gai Đá và Hạt Óc Chó Cao.
+Gói quà bao gồm: Dưa Hấu Băng, Khoai Bắt Chước, Đại Bác Dừa, Hương Bồ Chớp, Gai Đá và Óc Chó Cao.
 
 [STORE_GIFT_ONSALE_GIFT_BUY_FINISH]
 Chúc mừng bạn đã nhận được Gói quà cao cấp Khuyến Mãi Giáng Sinh!
-Đây là gói quà khuyến mãi dành cho tân thủ, bao gồm: Dưa Hấu Băng, Hương Bồ Chớp và Hạt Óc Chó Cao.
+Đây là gói quà khuyến mãi dành cho tân thủ, bao gồm: Dưa Hấu Băng, Hương Bồ Chớp và Óc Chó Cao.
 
 [STORE_GIFT_LABORDAY_ICEBURG_GIFT_BUY_FINISH]
 Chúc mừng bạn đã nhận được Gói quà Trang phục Rau Diếp Băng!
@@ -11558,7 +11581,7 @@ Chúc mừng bạn đã nhận được Gói quà Trang phục Bom Anh Đào!
 
 [STORE_GIFT_LABORDAY_ONE_GIFT_BUY_FINISH]
 Chúc mừng bạn đã nhận được Bộ cây Công Thủ Toàn Diện!
-Gói quà bao gồm: Dưa Hấu Băng và Hạt Óc Chó Cao.
+Gói quà bao gồm: Dưa Hấu Băng và Óc Chó Cao.
 
 [STORE_GIFT_LABORDAY_TWO_GIFT_BUY_FINISH]
 Chúc mừng bạn đã nhận được Bộ đôi Trang phục Vạn Người Mê!
@@ -13113,7 +13136,7 @@ Mảnh trang phục Cẩu Bắp Cải
 Mảnh trang phục Đậu Lò Xo
 
 [AVATAR_PIECE_OF_WALLNUT]
-Mảnh trang phục Hạt Óc Chó
+Mảnh trang phục Tường Óc Chó
 
 [AVATAR_PIECE_OF_TALLNUT]
 Mảnh trang phục Óc Chó Cao
@@ -13161,7 +13184,7 @@ Trang phục Cẩu Bắp Cải
 Trang phục Đậu Lò Xo
 
 [STORE_PRODUCT_AVATAR_WALLNUT_TITLE]
-Trang phục Hạt Óc Chó
+Trang phục Tường Óc Chó
 
 [STORE_PRODUCT_AVATAR_TALLNUT_TITLE]
 Trang phục Óc Chó Cao
@@ -13873,7 +13896,7 @@ Sau khi Hoa Hướng Dương chết sẽ để lại một hạt hướng dươn
 Vỏ hạt vỡ nát
 
 [WALLNUT_SKILL1_LEVEL1_DES]
-Khi Hạt Óc Chó bị tiêu diệt có 50% tỷ lệ phát nổ, đẩy lùi các zombie lân cận.
+Khi Tường Óc Chó bị tiêu diệt có 50% tỷ lệ phát nổ, đẩy lùi các zombie lân cận.
 
 [WALLNUT_SKILL1_LEVEL2]
 Cơn thịnh nộ của Óc Chó
@@ -15006,7 +15029,7 @@ Làm vô hiệu hóa toàn bộ thiết bị máy móc trong phạm vi
 
 
 [HOLONUT]
-Hạt Óc Chó Vô Cực
+Óc Chó Vô Cực
 
 [HOLONUT_DESCRIPTION]
 {KEYWORD}Đặc điểm của cây: {STAT} Cây màu lam
@@ -15014,7 +15037,7 @@ Hạt Óc Chó Vô Cực
 {FLAVOR}Là một hạt óc có tuổi đời còn trẻ, cậu ấy đã dành quá nhiều thời gian ngồi giữa hai tấm gương để suy ngẫm về nhân sinh cuộc đời.
 
 [HOLONUT_DESCRIPTION_HEADER]
-Mặc dù Hạt Óc Chó Vô Cực có sức chống chịu yếu hơn Hạt Óc Chó thường, nhưng chúng có thể từ từ tự chữa lành vết thương.
+Mặc dù Óc Chó Vô Cực có sức chống chịu yếu hơn Tường Óc Chó thường, nhưng chúng có thể từ từ tự chữa lành vết thương.
 
 [HOLONUT_PLANTFOOD]
 Plant Food không có tác dụng.
@@ -15782,7 +15805,7 @@ Mỗi 15 giây hoặc khi dùng đại chiêu, Đậu Laser sẽ vào trạng th
 Phục hồi nhanh
 
 [HOLONUT_SKILL1_LEVEL1_DES]
-Rút ngắn 50% thời gian hồi phục của Hạt Óc Chó Vô Cực sau khi bị phá hủy.
+Rút ngắn 50% thời gian hồi phục của Óc Chó Vô Cực sau khi bị phá hủy.
 
 [HOLONUT_SKILL1_LEVEL2]
 Cường hóa phục hồi
@@ -16914,10 +16937,10 @@ Mảnh Cây Bắn Đậu
 Nhận mảnh Cây Bắn Đậu
 
 [BONUS_CARD_PIECE_WALLNUT]
-Mảnh Hạt Óc Chó
+Mảnh Tường Óc Chó
 
 [BONUS_CARD_PIECE_WALLNUT_DESCRIPTION]
-Nhận mảnh Hạt Óc Chó
+Nhận mảnh Tường Óc Chó
 
 [BONUS_CARD_PIECE_POTATOMINE]
 Mảnh Mìn Khoai Tây
@@ -17148,10 +17171,10 @@ Mảnh Đậu Laze
 Nhận mảnh Đậu Laze
 
 [BONUS_CARD_PIECE_HOLONUT]
-Mảnh Hạt Óc Chó Vô Cực
+Mảnh Óc Chó Vô Cực
 
 [BONUS_CARD_PIECE_HOLONUT_DESCRIPTION]
-Nhận mảnh Hạt Óc Chó Vô Cực
+Nhận mảnh Óc Chó Vô Cực
 
 [BONUS_CARD_PIECE_STARFRUIT]
 Mảnh Khế Thần Kỳ
@@ -17708,13 +17731,13 @@ Có 10% tỷ lệ tạo ra một Mìn Khoai Tây ngay tại vị trí phát nổ
 Hiệu ứng Bộc phá kéo dài tăng thêm 100%.
 
 [EXPLODEONUT_SKILL_LEVEL5_DES]
-Khi lượng máu giảm về 0, Hạt Óc Chó Nổ sẽ bay lên trời và lao xuống nổ tung ngẫu nhiên tại 1 ô có zombie.
+Khi lượng máu giảm về 0, Óc Chó Nổ sẽ bay lên trời và lao xuống nổ tung ngẫu nhiên tại 1 ô có zombie.
 
 [STORE_PRODUCT_AVATAR_EXPLODEONUT]
 Đại chiêu nhận thêm Giáp magma kiên cố giúp tăng phòng thủ và Sát thương nổ.
 
 [STORE_PRODUCT_AVATAR_EXPLODEONUT_TITLE]
-Trang phục Hạt Óc Chó Nổ
+Trang phục Óc Chó Nổ
 
 [BOWLINGBULB]
 Hành Bowling
@@ -17886,6 +17909,13 @@ Zombie Tóc Vuốt Ngược Đội Xô
 
 [ZOMBIE_BEACH_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt vỏ sò bảo vệ hắn cực tốt khỏi các nguồn Sát thương.
+[ZOMBIE_BEACH_ARMOR4]
+Zombie Áo Sơ Mi Đầu Lâu Đài Cát
+[ZOMBIE_BEACH_ARMOR4_DESCRIPTION]
+{FLAVOR}Chiếc mũ bảo hiểm làm bằng cát biển của hắn cứng đến mức vượt ngoài sức tưởng tượng, quả dừa ném vào chỉ tự chuốc lấy nhục nhã. Tiếc nuối duy nhất là mỗi khi thủy triều lên, hắn đều phải ngồi thụp xuống bãi biển để đắp lại từ đầu.
+
+[ZOMBIE_BEACH_ARMOR4_DESCRIPTION_HEADER]
+Mũ lâu đài cát có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 
 [ZOMBIE_BEACH_FEM]
 Zombie Bikini
@@ -17913,6 +17943,13 @@ Zombie Bikini Đội Xô
 
 [ZOMBIE_BEACH_FEM_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt vỏ sò bảo vệ cô ấy cực tốt khỏi các nguồn Sát thương.
+[ZOMBIE_BEACH_FEM_ARMOR4]
+Zombie Bikini Đầu Lâu Đài Cát
+[ZOMBIE_BEACH_FEM_ARMOR4_DESCRIPTION]
+{FLAVOR}Chiếc mũ lâu đài cát của cô ấy có cấu trúc tinh xảo, vững chắc như bàn thạch, đến mức lũ cua đi ngang qua cũng không nhịn được mà dừng chân vây quanh, tiếc là thủy triều ngày nào cũng đến đúng giờ để phá đám.
+
+[ZOMBIE_BEACH_FEM_ARMOR4_DESCRIPTION_HEADER]
+Mũ lâu đài cát có thể giúp cô ấy chịu đựng những đòn tấn công nặng nề hơn.
 
 [ZOMBIE_BEACH_FISHERMAN]
 Zombie Câu Cá
@@ -18408,7 +18445,7 @@ Tác dụng: Khả năng phòng thủ của cây thêm 15%. ^FF0000 Không thể
 Hộp thuốc tiên tiến
 
 [EPIC_REGENERATION_DES]
-Hạt Óc Chó, Óc Chó Cao, Hạt Óc Chó Vô Cực thường lấy hộp này nhưng không biết chia sẻ với nhau
+Tường Óc Chó, Óc Chó Cao, Óc Chó Vô Cực thường lấy hộp này nhưng không biết chia sẻ với nhau
 
 [EPIC_REGENERATION_BOOST_DES]
 Tác dụng: Hồi một lượng máu vừa phải sau mỗi 3 giây. ^FF0000 Không thể dùng cây dùng một lần
@@ -20690,7 +20727,7 @@ Lăn quả cầu tuyết lớn để nghiền nát các cây trên đường đi
 Zombie Kẹp Hạt Dẻ
 
 [ZOMBIE_NUTCRACKER_DESCRIPTION]
-Zombie Kẹp Hạt Dẻ rất rành việc bẻ vỏ hạt, đây chính là món quà Giáng Sinh lớn mà Tiến sĩ Zomboss đặc biệt chuẩn bị cho Hạt Óc Chó. Nhưng bản thân Zombie Kẹp Hạt Dẻ lại chỉ thích "kẹp" lấy những trò đùa thô thiển mà thôi... Thật là tồi tệ, trò đùa chơi chữ này nghe lạnh thấu xương luôn rồi.
+Zombie Kẹp Hạt Dẻ rất rành việc bẻ vỏ hạt, đây chính là món quà Giáng Sinh lớn mà Tiến sĩ Zomboss đặc biệt chuẩn bị cho Tường Óc Chó. Nhưng bản thân Zombie Kẹp Hạt Dẻ lại chỉ thích "kẹp" lấy những trò đùa thô thiển mà thôi... Thật là tồi tệ, trò đùa chơi chữ này nghe lạnh thấu xương luôn rồi.
 
 [ZOMBIE_NUTCRACKER_DESCRIPTION_HEADER]
 Khi đối mặt với các cây thuộc hệ phòng ngự, phương thức tấn công của Zombie Kẹp Hạt Dẻ sẽ chuyển thành chặt chém, mỗi lần chém gây ra lượng sát thương cực cao lên cây mục tiêu, sau đó sẽ nghỉ ngơi trong chốc lát.
@@ -20744,7 +20781,7 @@ Zombie Cầm Thang
 Trong khoảng thời gian huy hoàng đó, Zombie Cầm Thang vô cùng bận rộn với công việc lau cửa kính chuyên nghiệp. Mặc dù con người thời kỳ đó đều kéo rèm cửa kính mít, nhưng đối với zombie mà nói, quả thực chỉ có lớp kính bên ngoài mới cần phải lau dọn. Giờ đây, hắn cuối cùng cũng có thời gian để nhặt lại ngón nghề dùng thang của mình rồi.
 
 [ZOMBIE_LADDER_DESCRIPTION_HEADER]
-Thang có thể chống chịu sát thương, có thể đặt thang lên các cây phòng ngự như Hạt Óc Chó để giúp zombie vượt qua cây đó
+Thang có thể chống chịu sát thương, có thể đặt thang lên các cây phòng ngự như Tường Óc Chó để giúp zombie vượt qua cây đó
 
 [ZOMBIE_POGO]
 Zombie Pogo
@@ -20780,7 +20817,7 @@ Zombie Cầm Thang Giáng Sinh
 Thang là dùng để leo lên ống khói, tuy nhiên không phải để thả quà cho bạn đâu, mà là zombie tự thả chính mình xuống để làm quà tặng cho bạn đấy.
 
 [ZOMBIE_LADDER_FESTIVAL_DESCRIPTION_HEADER]
-Thang có thể chống chịu sát thương, có thể đặt thang lên các cây phòng ngự như Hạt Óc Chó để giúp zombie vượt qua cây đó
+Thang có thể chống chịu sát thương, có thể đặt thang lên các cây phòng ngự như Tường Óc Chó để giúp zombie vượt qua cây đó
 
 [ZOMBIE_POLE_VAULTING_FEASTIVUS]
 Zombie Nhảy Sào Giáng Sinh
@@ -20798,7 +20835,7 @@ Zombie Cưỡi Cá Heo
 Zombie Cưỡi Cá Heo vốn là một huấn luyện viên cá heo zombie trong Thủy cung Zombie, cho đến một ngày người bạn đồng hành cá heo zombie của hắn nói rằng muốn ra ngoài ngắm nhìn thế giới. Zombie Cưỡi Cá Heo liền ôm lấy người bạn của mình, bước những bước đầu tiên vào cuộc phiêu lưu thế giới bên ngoài!
 
 [ZOMBIE_DOLPHIN_RIDER_ZOMBIE_DESCRIPTION_HEADER]
-Cưỡi cá heo di chuyển cực nhanh, gặp phải cây đầu tiên sẽ nhảy vượt qua, sau đó mất cá heo và trở về trạng thái di chuyển bình thường. Khi bị Cao Hạt Óc Chó chặn lại sẽ bị va ngã và mất cá heo, nếu đi qua Tảo Biển sẽ bị kéo thẳng xuống nước tiêu diệt ngay lập tức!
+Cưỡi cá heo di chuyển cực nhanh, gặp phải cây đầu tiên sẽ nhảy vượt qua, sau đó mất cá heo và trở về trạng thái di chuyển bình thường. Khi bị Cao Tường Óc Chó chặn lại sẽ bị va ngã và mất cá heo, nếu đi qua Tảo Biển sẽ bị kéo thẳng xuống nước tiêu diệt ngay lập tức!
 
 [ZOMBIE_BEACH_IMP_QUIFF]
 Zombie Tiểu Quỷ Tóc Vuốt Ngược
@@ -20853,7 +20890,13 @@ Zombie tiểu binh mũ sắt thường xuyên dùng cái thứ này để múc n
 
 [ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION_HEADER]
 Chiếc mũ sắt trên đầu cung cấp cho nó nhiều tầng phòng ngự hơn
+[ZOMBIE_MAUSOLEUM_ARMOR4]
+Zombie Đầu Tượng Đất Nung
+[ZOMBIE_MAUSOLEUM_ARMOR4_DESCRIPTION]
+{FLAVOR}Không biết được bới lên từ cái hố nào, độ cứng thì miễn bàn — dù sao cũng bị chôn vùi dưới lòng đất hai nghìn năm mà không hề nứt vỡ. Tiếc nuối duy nhất là thứ này dính chặt vào đầu như hàn chết không thể gỡ ra được, chuyện tắm gội coi như bó tay.
 
+[ZOMBIE_MAUSOLEUM_ARMOR4_DESCRIPTION_HEADER]
+Mũ tượng đất nung có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 [ZOMBIE_MAUSOLEUM_GARGANTUAR]
 Zombie Khổng Lồ Bách Phu Trưởng
 
@@ -20952,6 +20995,13 @@ Zombie Mũ Sắt U Minh đã dùng chiếc mũ giáp để bảo vệ phần đ�
 
 [ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION_HEADER]
 Hình thái linh thể thường gặp của Zombie Tiểu Binh Mũ Sắt
+[ZOMBIE_MAUSOLEUM_ARMOR4_GHOST_SPIRIT]
+Zombie Đầu Tượng Đất Nung U Minh
+[ZOMBIE_MAUSOLEUM_ARMOR4_GHOST_SPIRIT_DESCRIPTION]
+{FLAVOR}Phần mô tả ẩn của mũ tượng đất nung thực ra được khắc ở mặt trong chiếc mũ — sau khi chết sẽ tự động chuyển sang trạng thái linh thể. Tiếc là lúc đội mũ thì hắn không nhìn thấy, đến khi mũ vỡ thì hắn cuối cùng cũng thấy được, nhưng lúc này hắn đã bay lơ lửng giữa không trung rồi.
+
+[ZOMBIE_MAUSOLEUM_ARMOR4_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Hình thái linh thể của Zombie Đầu Tượng Đất Nung
 
 [ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP]
 Zombie Khổng Lồ U Minh
@@ -21349,7 +21399,7 @@ Yên tâm, 3 lần trồng thử đầu tiên sẽ không tốn Mặt Trời, h�
 {NUMBER} kim cương
 
 [PLANTTRIAL_BUY_PRODUCT]
-Mua cây Bậc {NUMBER}
+Mua cây cấp {NUMBER}
 
 [PLANTTRIAL_BUY_SUCCESS_TITLE]
 Mua thành công
@@ -21400,10 +21450,10 @@ Sức tấn công tăng dần theo thời gian kèm theo hiệu ứng làm chậ
 Gây thêm sát thương lên mục tiêu có vỏ sò, đại chiêu mưa axit càn quét toàn màn hình.
 
 [PLANTTRIAL_BUY_DIALOG_NAME_1]
-Chi {COST_NUM} tệ mua {COIN_NUM} Xu, tặng kèm {PLANT_NAME} Bậc {PLANT_LEVEL}
+Chi {COST_NUM} tệ mua {COIN_NUM} Xu, tặng kèm {PLANT_NAME} cấp {PLANT_LEVEL}
 
 [PLANTTRIAL_BUY_DIALOG_NAME_2]
-Chi {COST_NUM} Kim cương mua {COIN_NUM} Xu, tặng kèm {PLANT_NAME} Bậc {PLANT_LEVEL}
+Chi {COST_NUM} Kim cương mua {COIN_NUM} Xu, tặng kèm {PLANT_NAME} cấp {PLANT_LEVEL}
 
 [PLANTTRIAL_BUY_DIALOG_TITLE]
 Mua Cây
@@ -23320,6 +23370,13 @@ Zombie Thất Lạc Đội Xô
 
 [ZOMBIE_LOSTCITY_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt trên đầu cung cấp khả năng bảo vệ cực lớn.
+[ZOMBIE_LOSTCITY_ARMOR4]
+Zombie Đầu Zuma
+[ZOMBIE_LOSTCITY_ARMOR4_DESCRIPTION]
+{FLAVOR}Chiếc mặt nạ Maya bằng vàng ròng tỏa sáng rực rỡ dưới ánh nắng, chỉ có điều cái cổ của hắn mỗi ngày đều phải trả một cái giá đắt cho vẻ đẹp này.
+
+[ZOMBIE_LOSTCITY_ARMOR4_DESCRIPTION_HEADER]
+Mũ đá cổ Zuma có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 
 [ZOMBIE_LOSTCITY_BUG]
 Zombie Cưỡi Côn Trùng
@@ -26031,6 +26088,9 @@ Hạng {RANK}
 [BOSS_CHALLENGE_HEAD_ID_10000]
 Đây là một ảnh đại diện
 
+[PVZ_ERROR_76113]
+Đã tồn tại đơn hàng thanh toán đang được tiến hành
+
 [PVZ_ERROR_20017]
 Máy chủ bận, vui lòng thử lại sau
 
@@ -26300,7 +26360,7 @@ Sử dụng Cỏ Ba Lá để tiêu diệt 30 Zombie Phản Lực trong một m�
 Vật bị ruồng bỏ
 
 [ACHIEVE_FUTURE_RERESPAWN_DESC]
-Trồng một Hạt Óc Chó Vô Cực, để nó bị tiêu diệt rồi hồi sinh hai lần
+Trồng một Óc Chó Vô Cực, để nó bị tiêu diệt rồi hồi sinh hai lần
 
 [ACHIEVE_FUTURE_RERESPAWN_TITLE]
 Hồi sinh lần nữa
@@ -26378,34 +26438,34 @@ Sử dụng Rong Biển để tiêu diệt 10 zombie trong một màn
 [ACHIEVE_UNDERTOW_TITLE]
 Sóng ngược
 
-[VASEBREAKER_DAVYJONESVASE_DESC]
+[ACHIEVE_VASEBREAKER_DAVYJONESVASE_DESC]
 Hoàn thành gói thử thách Biển Hải Tặc
 
-[VASEBREAKER_DAVYJONESVASE_NAME]
+[ACHIEVE_VASEBREAKER_DAVYJONESVASE_NAME]
 Bình của Davy Jones
 
-[VASEBREAKER_POTTERYTRAINED_DESC]
+[ACHIEVE_VASEBREAKER_POTTERYTRAINED_DESC]
 Vượt qua 30 màn trong chế độ Đập Bình vô tận
 
-[VASEBREAKER_POTTERYTRAINED_NAME]
+[ACHIEVE_VASEBREAKER_POTTERYTRAINED_NAME]
 Huấn luyện đập bình
 
-[VASEBREAKER_TOMBBREAKER_DESC]
+[ACHIEVE_VASEBREAKER_TOMBBREAKER_DESC]
 Hoàn thành gói thử thách Ai Cập Cổ Đại
 
-[VASEBREAKER_TOMBBREAKER_NAME]
+[ACHIEVE_VASEBREAKER_TOMBBREAKER_NAME]
 Kẻ phá mộ
 
-[VASEBREAKER_VASEWRANGLER_DESC]
+[ACHIEVE_VASEBREAKER_VASEWRANGLER_DESC]
 Hoàn thành gói thử thách Miền Tây Hoang Dã
 
-[VASEBREAKER_VASEWRANGLER_NAME]
+[ACHIEVE_VASEBREAKER_VASEWRANGLER_NAME]
 Nữ cao bồi đập bình
 
-[VASEBREAKER_WAVE_GOODBYE_DESC]
+[ACHIEVE_WAVE_GOODBYE_DESC]
 Hoàn thành các màn Bãi Biển Sóng Lớn
 
-[VASEBREAKER_WAVE_GOODBYE_TITLE]
+[ACHIEVE_WAVE_GOODBYE_TITLE]
 Tạm biệt sóng biển
 [ACHIEVE_YOUR_HAT_SIR_DESC]
 Chỉ sử dụng sát thương từ Nấm Nam Châm để tiêu diệt một zombie
@@ -28011,13 +28071,13 @@ Rễ Đào Tẩu sẽ phát nổ khi bị đánh trúng, và có thể hoán đ�
 Phát nổ và có thể hoán đổi vị trí với cây khác
 
 [EXPLODEONUT]
-Hạt Óc Chó Nổ
+Óc Chó Nổ
 
 [EXPLODEONUT_DESCRIPTION]
-{FLAVOR}“Hối tiếc duy nhất của tôi là chỉ có một trái tim lấp đầy nitro-glycerin, bấy nhiêu là chưa đủ để bảo vệ bãi cỏ này.” Hạt Óc Chó Nổ chia sẻ.
+{FLAVOR}“Hối tiếc duy nhất của tôi là chỉ có một trái tim lấp đầy nitro-glycerin, bấy nhiêu là chưa đủ để bảo vệ bãi cỏ này.” Óc Chó Nổ chia sẻ.
 
 [EXPLODEONUT_DESCRIPTION_HEADER]
-Hạt Óc Chó Nổ giúp bảo vệ, nếu lớp vỏ bị ăn mất sẽ lập tức nổ tung zombie.
+Óc Chó Nổ giúp bảo vệ, nếu lớp vỏ bị ăn mất sẽ lập tức nổ tung zombie.
 
 [EXPLODEONUT_TOOLTIP]
 Phát nổ sau khi lớp vỏ bị ăn mất
@@ -28362,10 +28422,10 @@ Mở khóa Mìn Khoai Tây Cổ Đại!
 Đối kháng Tiến Sĩ Zomboss!
 
 [FINISH_DINO_4_DESC]
-Tận dụng loại Hạt Óc Chó nguyên thủy lớn nhanh như thổi để nhanh chóng dựng lên những bức tường phòng thủ kiên cố! Hoàn thành Đầm Lầy Kỷ Jura - Ngày 4!
+Tận dụng loại Tường Tường Óc Chó Cổ Đại lớn nhanh như thổi để nhanh chóng dựng lên những bức tường phòng thủ kiên cố! Hoàn thành Đầm Lầy Kỷ Jura - Ngày 4!
 
 [FINISH_DINO_4_TITLE]
-Mở khóa Hạt Óc Chó nguyên thủy!
+Mở khóa Tường Tường Óc Chó Cổ Đại!
 
 [FINISH_DINO_8_DESC]
 Sử dụng Nấm Nước Hoa để mê hoặc khủng long, điều khiển chúng quay sang húc bay zombie! Hoàn thành Đầm Lầy Kỷ Jura - Ngày 8!
@@ -28506,10 +28566,10 @@ Mỗi ánh nhìn của Đậu Laze đều xuyên thấu toàn bộ hàng zombie 
 Mở khóa Đậu Laze!
 
 [FINISH_FUTURE_13_DESC]
-Hạt Óc Chó Vô Cực có thể tự phục hồi theo thời gian, và khi dùng Plant Food sẽ dựng rào chắn toàn bộ các làn chạy! Quá kinh ngạc! Hoàn thành Tương Lai Xa - Ngày 13!
+Óc Chó Vô Cực có thể tự phục hồi theo thời gian, và khi dùng Plant Food sẽ dựng rào chắn toàn bộ các làn chạy! Quá kinh ngạc! Hoàn thành Tương Lai Xa - Ngày 13!
 
 [FINISH_FUTURE_13_TITLE]
-Mở khóa Hạt Óc Chó Vô Cực!
+Mở khóa Óc Chó Vô Cực!
 
 [FINISH_FUTURE_17_DESC]
 Sức nóng Mặt Trời! Sử dụng Cỏ Lăng Kính để biến các điểm Mặt Trời thành những đòn tấn công đầy uy lực. Hoàn thành Tương Lai Xa - Ngày 17!
@@ -30026,7 +30086,7 @@ Khốn khổ.
 {PLAYFUL:CRAZYDAVE}Vài người cứ nghĩ đó là ma thuật. Nhưng thực ra chỉ là vật lý học thôi.
 
 [NARRATIVE_DARK_INTRO_PEANUT_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Này cô bé, Cây Bắn Đậu và Hạt Óc Chó vốn đã lợi hại lắm rồi.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Này cô bé, Cây Bắn Đậu và Tường Óc Chó vốn đã lợi hại lắm rồi.
 
 [NARRATIVE_DARK_INTRO_PEANUT_2]
 {EXCITED:CRAZYDAVE}Nếu hai loại cây vĩ đại này bắt tay liên thủ chiến đấu thì sẽ còn vĩ đại hơn nữa!
@@ -30035,7 +30095,7 @@ Khốn khổ.
 {EXCITED:WINNIE}Cậu Dave! Có lẽ bộ não của cậu không đến mức bất bình thường như cậu vẫn khăng khăng tự nhận đâu!
 
 [NARRATIVE_DARK_INTRO_PEANUT_4]
-{PLAYFUL:WINNIE}Liệu có loại cây nào sở hữu đồng thời tính năng của cả Cây Bắn Đậu và Hạt Óc Chó không nhỉ?
+{PLAYFUL:WINNIE}Liệu có loại cây nào sở hữu đồng thời tính năng của cả Cây Bắn Đậu và Tường Óc Chó không nhỉ?
 
 [NARRATIVE_DARK_INTRO_PEANUT_5]
 {SAY:WINNIE}Chúng ta sẽ gọi nó là... Đậu Phộng!
@@ -30897,7 +30957,7 @@ Khốn khổ.
 {NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}Hiệp sĩ! Đó chính là một bức tường!
 
 [NARRATIVE_HEROES_EVENT_009_INTRO_4]
-{SAY:WALLKNIGHT}Hiệp sĩ Hạt Óc Chó!
+{SAY:WALLKNIGHT}Hiệp sĩ Tường Óc Chó!
 
 [NARRATIVE_HEROES_EVENT_009_INTRO_5]
 {SAY:WALLKNIGHT}Ta cực kỳ thích trò chơi này!
@@ -30969,10 +31029,10 @@ Khốn khổ.
 {SAY:IMPFINITY}......Tuyệt đối đừng bỏ lỡ tựa game "Plants vs. Zombies: Heroes" nhé!
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_2]
-{NPC_EXIT:GREENSHADOW}{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}Không thấy! Toàn là một đống rác rưởi thôi! Còn cậu thì sao, Hiệp sĩ Hạt Óc Chó?
+{NPC_EXIT:GREENSHADOW}{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}Không thấy! Toàn là một đống rác rưởi thôi! Còn cậu thì sao, Hiệp sĩ Tường Óc Chó?
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_3]
-{NPC_EXIT:SOLARFLARE}{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}Xin chào! Tớ chính là Hiệp sĩ Hạt Óc Chó đây!
+{NPC_EXIT:SOLARFLARE}{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}Xin chào! Tớ chính là Hiệp sĩ Tường Óc Chó đây!
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_4]
 {NPC_ENTER:SUPERBRAINZ}{SAY:SUPERBRAINZ}Tên của ta là Super Brainz!
@@ -31993,14 +32053,14 @@ Hướng Dương Cổ Đại sẽ sản xuất ra Mặt Trời kích cỡ lớn 
 Sản xuất Mặt Trời cỡ lớn.
 
 [PRIMALWALLNUT]
-Hạt Óc Chó Cổ Đại
+Tường Óc Chó Cổ Đại
 
 [PRIMALWALLNUT_DESCRIPTION]
 {KEYWORD}Đặc điểm của cây: {STAT}Cây màu nâu, Tăng trưởng hoang dã, Cây cao
-{FLAVOR}“Gừ gừ”, Hạt Óc Chó Cổ Đại nói. “Gừ gừ gừ gừ”, cậu ấy nói tiếp. “Ồ khư lư gừ gừ”, cậu ấy kết luận. Một gã có nội tâm cực kỳ phong phú, đó chính là Hạt Óc Chó Cổ Đại.
+{FLAVOR}“Gừ gừ”, Tường Óc Chó Cổ Đại nói. “Gừ gừ gừ gừ”, cậu ấy nói tiếp. “Ồ khư lư gừ gừ”, cậu ấy kết luận. Một gã có nội tâm cực kỳ phong phú, đó chính là Tường Óc Chó Cổ Đại.
 
 [PRIMALWALLNUT_DESCRIPTION_HEADER]
-Hạt Óc Chó Cổ Đại có giá cao hơn Hạt Óc Chó truyền thống, nhưng bù lại có tốc độ hồi phục để trồng lại cực kỳ nhanh chóng.
+Tường Óc Chó Cổ Đại có giá cao hơn Tường Óc Chó truyền thống, nhưng bù lại có tốc độ hồi phục để trồng lại cực kỳ nhanh chóng.
 
 [PRIMALWALLNUT_TOOLTIP]
 Bức tường có tốc độ hồi phục để trồng cực nhanh giúp chặn đứng bước tiến của zombie.
@@ -32323,25 +32383,25 @@ Gói quà Rễ Đào Tẩu
 Thổi bay lũ zombie đồng thời rinh ngay 20000 Xu!
 
 [PRODUCT_EXPLODEONUT_20000_BUNDLE_NAME]
-Gói quà - Hạt Óc Chó Nổ
+Gói quà - Óc Chó Nổ
 
 [PRODUCT_EXPLODEONUT_20000_BUNDLE_SHORT_DESCRIPTION]
-Gói quà Hạt Óc Chó Nổ
+Gói quà Óc Chó Nổ
 
 [PRODUCT_EXPLODEONUT_50000_BUNDLE_DESCRIPTION]
-Cường hóa sức mạnh Hạt Óc Chó Nổ đồng thời rinh về 50000 Xu!
+Cường hóa sức mạnh Óc Chó Nổ đồng thời rinh về 50000 Xu!
 
 [PRODUCT_EXPLODEONUT_50000_BUNDLE_NAME]
-Gói quà - Cường hóa Hạt Óc Chó Nổ
+Gói quà - Cường hóa Óc Chó Nổ
 
 [PRODUCT_EXPLODEONUT_50000_BUNDLE_SHORT_DESCRIPTION]
-Gói quà Cường hóa Hạt Óc Chó Nổ
+Gói quà Cường hóa Óc Chó Nổ
 
 [PRODUCT_EXPLODEONUT_DESCRIPTION]
 Phát nổ tung trời khi bị zombie ăn mất!
 
 [PRODUCT_EXPLODEONUT_HOMINGTHISTLE_BUNDLE_DESCRIPTION]
-Cho Kế Sữa tầm nhiệt phối hợp chung đội với Hạt Óc Chó Nổ nào!
+Cho Kế Sữa tầm nhiệt phối hợp chung đội với Óc Chó Nổ nào!
 
 [PRODUCT_EXPLODEONUT_HOMINGTHISTLE_BUNDLE_NAME]
 Gói quà - Song tấu nổ tung
@@ -32350,10 +32410,10 @@ Gói quà - Song tấu nổ tung
 Gói quà Song tấu nổ tung
 
 [PRODUCT_EXPLODEONUT_NAME]
-Cây - Hạt Óc Chó Nổ
+Cây - Óc Chó Nổ
 
 [PRODUCT_EXPLODEONUT_SHORT_DESCRIPTION]
-Hạt Óc Chó Nổ
+Óc Chó Nổ
 
 [PRODUCT_FIREPEA_DESCRIPTION]
 Bắn Đậu Lửa thiêu đốt zombie và sưởi ấm cho các cây lân cận!
@@ -33772,10 +33832,10 @@ Tiệc Thánh Patrick hiện đã chính thức khai mở!
 Sự kiện Đêm Hè tràn ngập những bữa tiệc nóng bỏng sẽ kéo dài cho đến hết ngày 7 tháng 7.
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_EXPLODEONUT_DESC]
-Thử nghiệm ngay loại cây trồng cao cấp hoàn toàn mới Hạt Óc Chó Nổ trong Tiệc Piñata ngày hôm nay!
+Thử nghiệm ngay loại cây trồng cao cấp hoàn toàn mới Óc Chó Nổ trong Tiệc Piñata ngày hôm nay!
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_EXPLODEONUT_TITLE]
-Hạt Óc Chó bùng nổ còn勁bạo (gắt) hơn nữa!
+Những loại hạt còn bùng nổ hơn nữa!
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_REPLAY_DESC]
 Giá chơi lại sự kiện Đêm Hè ngày hôm nay được giảm liền 50%!
@@ -34019,7 +34079,14 @@ Trái ngược với cái tên của mình, cái đầu xương của Zombie Đ�
 
 [ZOMBIE_DINO_ARMOR3_DESCRIPTION_HEADER]
 Mảnh xương đầu lâu hóa thạch không chỉ hấp thụ được một lượng Sát thương lớn mà trông còn vô cùng quý tộc.
+[ZOMBIE_DINO_ARMOR4]
+Zombie Đầu Hổ Phách
 
+[ZOMBIE_DINO_ARMOR4_DESCRIPTION]
+{FLAVOR}Nếu ngươi chiết xuất ADN từ con zombie đầu hổ phách, rồi trộn lẫn nó với ADN của loài ếch — làm như vậy thì ở một khía cạnh nào đó, e rằng ngươi đã vi phạm pháp luật từ lâu rồi.
+
+[ZOMBIE_DINO_ARMOR4_DESCRIPTION_HEADER]
+Mũ hổ phách có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 [ZOMBIE_DINO_BULLY]
 Zombie Người Rừng Kỷ Jura
 
@@ -34029,6 +34096,13 @@ Zombie Người Rừng Kỷ Jura vừa chậm chạp, ngốc nghếch lại còn
 [ZOMBIE_DINO_BULLY_DESCRIPTION_HEADER]
 Một con zombie bước đi loạng choạng, có khả năng kháng Sát thương cực tốt và miễn nhiễm với các hiệu ứng đẩy lùi.
 
+[ZOMBIE_DINO_BULLY_VETERAN]
+Zombie Người Rừng Đánh Quyền
+[ZOMBIE_DINO_BULLY_VETERAN_DESCRIPTION]
+{FLAVOR}Ai đó đã buộc những tảng đá vào tay của Zombie Người Rừng Đánh Quyền. Vì không thể tháo đá xuống được (bởi vì đá đã buộc chết trên tay hắn), hắn không còn sự lựa chọn nào khác ngoài việc "quẩy" lên thôi.
+
+[ZOMBIE_DINO_BULLY_VETERAN_DESCRIPTION_HEADER]
+Trên mỗi tay buộc một tảng đá lớn, dùng sức mạnh man rợ đập mạnh vào thực vật để tiêu diệt ngay lập tức. Sau khi đập nát thực vật sẽ khiến ô đất đó bị cháy xém, không thể trồng bất kỳ loại thực vật nào trong một khoảng thời gian nhất định.
 [ZOMBIE_DINO_DESCRIPTION]
 Zombie Kỷ Jura không hề nguyên thủy đâu nhé. Nhìn xem, họ còn thắt cà vạt và mặc đủ thứ đồ kìa!
 
@@ -34095,9 +34169,17 @@ Dù được tạo ra hoàn toàn bằng ánh sáng và các tọa độ vị tr
 [ZOMBIE_EIGHTIES_8BIT_DESCRIPTION_HEADER]
 Những con zombie pixel được tạo ra từ chiếc máy điện tử thùng cực ngầu, bao gồm các hương vị: Thường, Nón côn và Đội xô.
 
+[ZOMBIE_EIGHTIES_8BIT_ARMOR4]
+Zombie Đầu Gạch 8-bit
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR4_DESCRIPTION]
+Mặc dù chiếc mũ gạch của hắn nặng đến mức đi đường cũng mang theo hiệu ứng giật lag khung hình, nhưng hắn cho rằng đây chính là nét quyến rũ mang phong cách hoài cổ của đồ họa điểm ảnh (pixel).
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR4_DESCRIPTION_HEADER]
+Mũ gạch 8-bit có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
+
 [ZOMBIE_EIGHTIES_ARCADE]
 Zombie Máy Điện Tử Thùng
-
 [ZOMBIE_EIGHTIES_ARCADE_DESCRIPTION]
 Khi chỉ còn một đồng xu duy nhất trong tay, Zombie Máy Điện Tử Thùng sẽ đưa ra một lựa chọn đầy bốc mùi giữa máy chơi game và máy giặt.
 
@@ -34121,7 +34203,14 @@ Zombie Đội Xô Neon phải lục tung cả bãi rác chỉ để tìm đượ
 
 [ZOMBIE_EIGHTIES_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt giúp hấp thụ Sát thương, không có lý do tại sao cả.
+[ZOMBIE_EIGHTIES_ARMOR4]
+Zombie Đầu Đài Phát Thanh
 
+[ZOMBIE_EIGHTIES_ARMOR4_DESCRIPTION]
+Thứ phát ra từ bên trong chiếc mũ lúc nào cũng chỉ là một bài hát duy nhất, hơn nữa lần nào cũng bị kẹt băng ở đoạn điệp khúc.
+
+[ZOMBIE_EIGHTIES_ARMOR4_DESCRIPTION_HEADER]
+Mũ đài phát thanh có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 [ZOMBIE_EIGHTIES_BOOMBOX]
 Zombie Máy Phát Nhạc
 
@@ -36106,10 +36195,10 @@ Cường hóa thạch hóa
 Gia tăng tỷ lệ phun ra đạn đá cuội.
 
 [PRIMALWALLNUT_SKILL_LEVEL1]
-Hạt Óc Chó non nớt
+Óc Chó non nớt
 
 [PRIMALWALLNUT_SKILL_LEVEL1_DES]
-Sau khi Hạt Óc Chó Cổ Đại bị ăn mất, sẽ để lại một Hạt Óc Chó Cổ Đại nhỏ tại chỗ với lượng máu nhất định.
+Sau khi Tường Óc Chó Cổ Đại bị ăn mất, sẽ để lại một Tường Óc Chó Cổ Đại nhỏ tại chỗ với lượng máu nhất định.
 
 [PRIMALWALLNUT_SKILL_LEVEL2]
 Nhỏ mà có võ
@@ -36351,7 +36440,7 @@ Trang phục Đậu Cổ Đại
 Khi sử dụng tuyệt chiêu, tung thêm một đòn tấn công bằng cầu dung nham.
 
 [STORE_PRODUCT_AVATAR_PRIMALWALLNUT_TITLE]
-Trang phục Hạt Óc Chó Cổ Đại
+Trang phục Tường Óc Chó Cổ Đại
 
 [STORE_PRODUCT_AVATAR_PRIMALWALLNUT]
 Khi sử dụng tuyệt chiêu, nhận được hộ thể hóa thạch hoàng kim.
@@ -36883,7 +36972,7 @@ Thời Hiện Đại
 Du hành thời gian
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE1]
-Bảo vệ Hạt Óc Chó
+Bảo vệ Tường Óc Chó
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE2]
 Bảo vệ Óc Chó Cao
@@ -36892,10 +36981,10 @@ Bảo vệ Óc Chó Cao
 Bảo vệ Củ Cải Trắng
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE4]
-Bảo vệ Hạt Óc Chó Vô Cực
+Bảo vệ Óc Chó Vô Cực
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE5]
-Bảo vệ Hạt Óc Chó Cổ Đại
+Bảo vệ Tường Óc Chó Cổ Đại
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE6]
 Bảo vệ Sầu Riêng
@@ -42767,7 +42856,385 @@ Thông Nhân Bản xả một lượng lớn đạn theo quỹ đạo hình chu�
 
 [PINECLONE_AVATAR_PLANTFOOD_DESCRIPTION]
 Khi kích hoạt Plant Food, mỗi bản sao cùng tên sẽ bắn ra một Quả cầu Năng lượng, cung cấp +10% sát thương trong 3 giây. Nếu bản sao thực vật là đơn vị kích hoạt chiêu cuối, nó sẽ hồi phục lại trạng thái nguyên vẹn
+[PHOENIXFLOAT]
+Xe Hoa Phượng Vĩ
+[PHOENIXFLOAT_DESCRIPTION]
+{KEYWORD}Phạm vi: {STAT}Một hàng
+{KEYWORD}Đặc điểm cây: {STAT}Cây màu đỏ
+{FLAVOR}Hoa Phượng Vĩ đinh ninh rằng: Không có zombie nào có thể từ chối một buổi lễ hội. Dù cho chúng có từ chối đi nữa, chiếc xe hoa vẫn sẽ lao thẳng vào mặt chúng. Còn về những cánh hoa bay lả tả đầy trời ư? Tác dụng chính là khiến zombie quên mất bản thân vốn dĩ phải đi về hướng nào.
 
+[PHOENIXFLOAT_DESCRIPTION_HEADER]
+Có thể triệu hồi xe hoa, xe hoa sẽ tung ra hiệu ứng tương ứng dựa trên loại thực vật được chở trên xe.
+
+[PHOENIXFLOAT_TOOLTIP]
+Có thể triệu hồi xe hoa, xe hoa sẽ tung ra hiệu ứng tương ứng dựa trên loại thực vật được chở trên xe.
+
+[PHOENIXFLOAT_PRODUCT_SHORT_DESC]
+Có thể triệu hồi xe hoa, xe hoa sẽ tung ra hiệu ứng tương ứng dựa trên loại thực vật được chở trên xe.
+
+[PHOENIXFLOAT_SKILL_LEVEL1]
+Xe hoa phóng nhanh
+
+[PHOENIXFLOAT_SKILL_LEVEL1_DES]
+Thời gian hồi tạo xe hoa rút ngắn còn 85% so với ban đầu.
+
+[PHOENIXFLOAT_SKILL_LEVEL2]
+Xe hoa phi nước đại
+
+[PHOENIXFLOAT_SKILL_LEVEL2_DES]
+Thời gian hồi tạo xe hoa rút ngắn còn 70% so với ban đầu.
+
+[PHOENIXFLOAT_SKILL_LEVEL5]
+Tràn ngập cánh hoa
+
+[PHOENIXFLOAT_SKILL_LEVEL5_DES]
+Có 30% xác suất tạo ra 1 chiếc xe hoa chở đầy cánh hoa, các thực vật trên xe hoa khi hỗ trợ và tấn công đều sẽ kèm theo cánh hoa, thực vật được hỗ trợ nhận thêm chỉ số cộng dồn tấn công và tốc độ đánh; khi bị trúng đòn tấn công kèm cánh hoa, zombie sẽ quay đầu đi ngược lại trong 5 giây.
+
+[PHOENIXFLOAT_AVATAR_NAME]
+Trang phục Xe Hoa Phượng Vĩ
+
+[STORE_PRODUCT_AVATAR_PHOENIXFLOAT]
+Sát thương duy trì và hiệu ứng làm chậm do mưa cánh hoa gây ra được kéo dài thời gian lên đến 9 giây.
+
+[STORE_PRODUCT_AVATAR_PHOENIXFLOAT_TITLE]
+Trang phục Xe Hoa Phượng Vĩ
+
+[PHOENIXFLOAT_NEW_SKILL_LEVEL1_DES]
+Hoa Phượng Vĩ sẽ định kỳ triệu hồi xe hoa ban nhạc di chuyển sang phải, xe hoa có thể đẩy những zombie tông phải sang các hàng trên và dưới; ban nhạc trên xe sẽ tiếp tục biểu diễn và tạo hiệu ứng tương ứng lên khu vực 3×3 xung quanh.
+
+[PHOENIXFLOAT_NEW_SKILL_LEVEL2_DES]
+Thời gian hồi tạo xe hoa rút ngắn còn 85% so với ban đầu.
+
+[PHOENIXFLOAT_NEW_SKILL_LEVEL3_DES]
+Thời gian hồi tạo xe hoa rút ngắn còn 70% so với ban đầu.
+
+[PHOENIXFLOAT_NEW_SKILL_LEVEL4_DES]
+Khi trồng có xác suất vừa phải lập tức tung ra tuyệt chiêu Năng Lượng Đậu (Plant Food).
+
+[PHOENIXFLOAT_NEW_SKILL_LEVEL5_DES]
+Có 30% xác suất tạo ra 1 chiếc xe hoa chở đầy cánh hoa, các thực vật trên xe hoa khi hỗ trợ và tấn công đều sẽ kèm theo cánh hoa, thực vật được hỗ trợ nhận thêm chỉ số cộng dồn tấn công và tốc độ đánh; khi bị trúng đòn tấn công kèm cánh hoa, zombie sẽ quay đầu đi ngược lại trong 5 giây.
+
+[PHOENIXFLOAT_PLANTFOOD_DESCRIPTION]
+Hoa Phượng Vĩ triệu hồi một xe hoa phượng hoàng bay lượn, rải mưa cánh hoa dọc đường đi ở hàng hiện tại và 2 hàng trên dưới, liên tục gây sát thương lên zombie và áp dụng hiệu ứng làm chậm 50%, kéo dài 5 giây.
+
+[PHOENIXFLOAT_AVATAR_PLANTFOOD_DESCRIPTION]
+Sát thương duy trì và hiệu ứng làm chậm do mưa cánh hoa gây ra được kéo dài thời gian lên đến 9 giây.
+[COSMICPEA]
+Đậu Vũ Trụ
+[COSMICPEA_DESCRIPTION]
+{KEYWORD}Phạm vi: {STAT}Một hàng
+{KEYWORD}Đặc điểm cây: {STAT}Cây màu tím, họ vũ trụ
+{FLAVOR}Vũ trụ thì rộng lớn bao la, một hạt đậu lại nhỏ bé tí hon. Sự tương phản này quả thực khiến người ta phải trầm ngâm suy ngẫm, bạn hiểu ý chứ?
+
+[COSMICPEA_DESCRIPTION_HEADER]
+Bắn đạn theo đường thẳng, có thể triệu hồi gói hạt giống thực vật họ đậu khác khi ở trong căn cứ Mặt Trăng.
+
+[COSMICPEA_TOOLTIP]
+Bắn đạn theo đường thẳng, có thể triệu hồi gói hạt giống thực vật họ đậu khác khi ở trong căn cứ Mặt Trăng.
+
+[COSMICPEA_PRODUCT_SHORT_DESC]
+Bắn đạn theo đường thẳng, có thể triệu hồi gói hạt giống thực vật họ đậu khác khi ở trong căn cứ Mặt Trăng.
+
+[COSMICPEA_SKILL_LEVEL1]
+Hỗ trợ vũ trụ
+
+[COSMICPEA_SKILL_LEVEL1_DES]
+Khoảng thời gian tạo ra gói hạt giống thực vật họ đậu ngẫu nhiên giảm xuống còn 28 giây, có 5% xác suất sản xuất tiếp một gói hạt giống ngay sau khi vừa sản xuất xong một gói.
+
+[COSMICPEA_SKILL_LEVEL2]
+Chuẩn bị chiến đấu vũ trụ
+
+[COSMICPEA_SKILL_LEVEL2_DES]
+Khoảng thời gian tạo ra gói hạt giống thực vật họ đậu ngẫu nhiên giảm xuống còn 25 giây, có 10% xác suất sản xuất tiếp một gói hạt giống ngay sau khi vừa sản xuất xong một gói.
+
+[COSMICPEA_SKILL_LEVEL5]
+Vụ nổ xoáy thiên thể
+
+[COSMICPEA_SKILL_LEVEL5_DES]
+25% xác suất bắn ra thiên thể có khả năng xoay tròn trói buộc zombie, khi thiên thể xoay đến điểm trung tâm sẽ tạo ra một lần sát thương nổ phạm vi 3x3.
+
+[COSMICPEA_AVATAR_NAME]
+Trang phục Đậu Vũ Trụ
+
+[STORE_PRODUCT_AVATAR_COSMICPEA]
+Giới hạn số lượng thực vật vũ trụ được tiến hóa trên cùng một hàng của thực vật tăng lên thành 5 cây.
+
+[STORE_PRODUCT_AVATAR_COSMICPEA_TITLE]
+Trang phục Đậu Vũ Trụ
+
+[COSMICPEA_NEW_SKILL_LEVEL1_DES]
+Đòn tấn công có thể gây sát thương thuộc tính vũ trụ, áp dụng hiệu ứng hủy diệt lên zombie để ngăn chặn hiệu ứng tử vong của một số zombie đặc biệt, đồng thời có thể đánh dấu sao lên zombie, khi số lượng dấu sao đạt đến 5 sẽ gây ra một lần nổ sát thương theo phần trăm máu. Cứ mỗi 30 giây sản xuất một gói hạt giống thực vật đậu.
+
+[COSMICPEA_NEW_SKILL_LEVEL2_DES]
+Khoảng thời gian tạo ra gói hạt giống thực vật họ đậu ngẫu nhiên giảm xuống còn 28 giây, có 5% xác suất sản xuất tiếp một gói hạt giống ngay sau khi vừa sản xuất xong một gói.
+
+[COSMICPEA_NEW_SKILL_LEVEL3_DES]
+Khoảng thời gian tạo ra gói hạt giống thực vật họ đậu ngẫu nhiên giảm xuống còn 25 giây, có 10% xác suất sản xuất tiếp một gói hạt giống ngay sau khi vừa sản xuất xong một gói.
+
+[COSMICPEA_NEW_SKILL_LEVEL4_DES]
+Khi trồng có xác suất vừa phải lập tức tiến hóa lên một hình thái mới.
+
+[COSMICPEA_NEW_SKILL_LEVEL5_DES]
+Có xác suất bắn ra đạn thiên thể cường hóa, gây sát thương cao hơn và sẽ dần mạnh lên theo các hình thái tiến hóa.
+
+[COSMICPEA_PLANTFOOD_DESCRIPTION]
+Tối đa 3 cây Đậu Vũ Trụ trên cùng một hàng sẽ tiến hóa thành giai đoạn tiếp theo của Đậu Vũ Trụ, khi đạt giai đoạn cao nhất nếu dùng tuyệt chiêu sẽ tung ra một lượng lớn đạn Đậu Vũ Trụ.
+
+[COSMICPEA_AVATAR_PLANTFOOD_DESCRIPTION]
+Giới hạn số lượng thực vật vũ trụ được tiến hóa trên cùng một hàng của thực vật tăng lên thành 5 cây.												
+[COSMICMUSHROOM]
+Nấm Vũ Trụ
+[COSMICMUSHROOM_DESCRIPTION]
+{KEYWORD}Phạm vi: {STAT}Một hàng
+{KEYWORD}Đặc điểm cây: {STAT}cây màu tím, họ vũ trụ
+{FLAVOR}Hắn ta thực sự rất bay bổng. Kiểu bay bổng~~~~~ siêu cấp luôn ấy.
+
+[COSMICMUSHROOM_DESCRIPTION_HEADER]
+Bắn bào tử vũ trụ tấn công, có thể triệu hồi gói hạt giống thực vật nấm khác khi ở trong căn cứ Mặt Trăng.
+
+[COSMICMUSHROOM_TOOLTIP]
+Bắn bào tử vũ trụ tấn công, có thể triệu hồi gói hạt giống thực vật nấm khác khi ở trong căn cứ Mặt Trăng.
+
+[COSMICMUSHROOM_PRODUCT_SHORT_DESC]
+Bắn bào tử vũ trụ tấn công, có thể triệu hồi gói hạt giống thực vật nấm khác khi ở trong căn cứ Mặt Trăng.
+
+[COSMICMUSHROOM_SKILL_LEVEL1]
+Sinh sôi vũ trụ
+
+[COSMICMUSHROOM_SKILL_LEVEL1_DES]
+Khoảng thời gian tạo ra gói hạt giống thực vật nấm ngẫu nhiên giảm xuống còn 28 giây, có 5% xác suất sản xuất tiếp một gói hạt giống ngay sau khi vừa sản xuất xong một gói.
+
+[COSMICMUSHROOM_SKILL_LEVEL2]
+Mở rộng vũ trụ
+
+[COSMICMUSHROOM_SKILL_LEVEL2_DES]
+Khoảng thời gian tạo ra gói hạt giống thực vật nấm ngẫu nhiên giảm xuống còn 25 giây, có 10% xác suất sản xuất tiếp một gói hạt giống ngay sau khi vừa sản xuất xong một gói.
+
+[COSMICMUSHROOM_SKILL_LEVEL5]
+Lỗ sâu nấm
+
+[COSMICMUSHROOM_SKILL_LEVEL5_DES]
+Khi tấn công có xác suất kích hoạt một lần lỗ sâu nấm đàn hồi tưng tưng, lần lượt mở một lỗ sâu ở bốn ô phía trước, đồng thời có cây nấm từ thế giới khác thò đầu ra từ trong lỗ hổng để hất tung zombie gây sát thương, kích hoạt các hiệu ứng khác nhau dựa theo loại nấm xuất hiện.
+
+[COSMICMUSHROOM_AVATAR_NAME]
+Trang phục Nấm Vũ Trụ
+
+[STORE_PRODUCT_AVATAR_COSMICMUSHROOM]
+Giới hạn số lượng thực vật vũ trụ được tiến hóa trên cùng một hàng của thực vật tăng lên thành 5 cây.
+
+[STORE_PRODUCT_AVATAR_COSMICMUSHROOM_TITLE]
+Trang phục Nấm Vũ Trụ
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL1_DES]
+Đòn tấn công có thể gây sát thương thuộc tính vũ trụ, áp dụng hiệu ứng hủy diệt lên zombie để ngăn chặn hiệu ứng tử vong của zombie, đồng thời có thể đánh dấu sao lên zombie, khi số lượng dấu sao đạt đến 5 sẽ gây ra một lần nổ sát thương theo phần trăm máu. Cứ mỗi 30 giây sản xuất một gói hạt giống thực vật nấm.
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL2_DES]
+Khoảng thời gian tạo ra gói hạt giống thực vật nấm ngẫu nhiên giảm xuống còn 28 giây, có 5% xác suất sản xuất tiếp một gói hạt giống ngay sau khi vừa sản xuất xong một gói.
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL3_DES]
+Khoảng thời gian tạo ra gói hạt giống thực vật nấm ngẫu nhiên giảm xuống còn 25 giây, có 10% xác suất sản xuất tiếp một gói hạt giống ngay sau khi vừa sản xuất xong một gói.
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL4_DES]
+Khi trồng có xác suất vừa phải lập tức tiến hóa lên một hình thái mới.
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL5_DES]
+Khi tấn công có xác suất kích hoạt một lần lỗ sâu nấm đàn hồi tưng tưng, lần lượt mở một lỗ sâu ở bốn ô phía trước, đồng thời có cây nấm từ thế giới khác thò đầu ra từ trong lỗ hổng để hất tung zombie gây sát thương, kích hoạt các hiệu ứng khác nhau dựa theo loại nấm xuất hiện.
+
+[COSMICMUSHROOM_PLANTFOOD_DESCRIPTION]
+Tối đa 3 cây Nấm Vũ Trụ trên cùng một hàng sẽ tiến hóa thành giai đoạn tiếp theo của Nấm Vũ Trụ, khi đạt giai đoạn cao nhất nếu dùng tuyệt chiêu sẽ tung ra một lượng lớn đạn Nấm Vũ Trụ.
+
+[COSMICMUSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+Giới hạn số lượng thực vật vũ trụ được tiến hóa trên cùng một hàng của thực vật tăng lên thành 5 cây.
+[GRAVITREE]
+Cây Trọng Lực
+[GRAVITREE_DESCRIPTION]
+{KEYWORD}Phạm vi: {STAT}Phạm vi 3x3
+{KEYWORD}Đặc điểm cây: {STAT}Cây màu lục, họ vũ trụ
+{FLAVOR}Quả táo không bao giờ rơi quá xa gốc cây. Những thứ khác cũng vậy.
+
+[GRAVITREE_DESCRIPTION_HEADER]
+Khi zombie bước vào phạm vi 3x3, cứ sau mỗi 6 giây sẽ tung ra một lần áp chế trọng lực, gây sát thương và hiệu ứng làm chậm lên zombie trong phạm vi, kéo dài 4 giây. Zombie bay sẽ bị đè bẹp xuống đất để khống chế cứng.
+
+[GRAVITREE_TOOLTIP]
+Sát thương diện rộng kèm làm chậm, khống chế cứng zombie bay.
+
+[GRAVITREE_PRODUCT_SHORT_DESC]
+Sát thương diện rộng kèm làm chậm, khống chế cứng zombie bay.
+
+[GRAVITREE_SKILL_LEVEL1]
+Trở nên rất nặng
+
+[GRAVITREE_SKILL_LEVEL1_DES]
+Khoảng thời gian tấn công rút ngắn còn 5 giây, bản thân nhận được 20% hiệu ứng giảm sát thương.
+
+[GRAVITREE_SKILL_LEVEL2]
+Trọng tâm của trọng tâm
+
+[GRAVITREE_SKILL_LEVEL2_DES]
+Khoảng thời gian tấn công rút ngắn còn 4 giây, bản thân nhận được 40% hiệu ứng giảm sát thương.
+
+[GRAVITREE_SKILL_LEVEL5]
+Áp lực như núi
+
+[GRAVITREE_SKILL_LEVEL5_DES]
+Đòn tấn công nâng cấp thành trọng lực đỏ, sát thương tấn công được tăng lên, đòn đánh có thể đè tất cả zombie kích thước vừa và nhỏ trong phạm vi xuống đất không thể hành động (không giới hạn zombie bay), kéo dài 3 giây, sau đó làm chậm 4 giây.
+
+[GRAVITREE_AVATAR_NAME]
+Trang phục Cây Trọng Lực
+
+[STORE_PRODUCT_AVATAR_GRAVITREE]
+Khi đòn tấn công được tung ra, sẽ nện thêm một quả táo khổng lồ xuống ô của bản thân, vụ nổ quả táo gây sát thương lên phạm vi 3x3.
+
+[STORE_PRODUCT_AVATAR_GRAVITREE_TITLE]
+Trang phục Cây Trọng Lực
+
+[GRAVITREE_NEW_SKILL_LEVEL1_DES]
+Khi zombie bước vào phạm vi 3x3, cứ sau mỗi 6 giây sẽ tung ra một lần áp chế trọng lực, gây sát thương và hiệu ứng làm chậm lên zombie trong phạm vi, kéo dài 4 giây. Zombie bay sẽ bị đè bẹp xuống đất để khống chế cứng.
+
+[GRAVITREE_NEW_SKILL_LEVEL2_DES]
+Khoảng thời gian tấn công rút ngắn còn 5 giây, bản thân nhận được 20% hiệu ứng giảm sát thương.
+
+[GRAVITREE_NEW_SKILL_LEVEL3_DES]
+Khoảng thời gian tấn công rút ngắn còn 4 giây, bản thân nhận được 40% hiệu ứng giảm sát thương.
+
+[GRAVITREE_NEW_SKILL_LEVEL4_DES]
+Khi trồng có xác suất vừa phải lập tức tung ra tuyệt chiêu Năng Lượng Đậu (Plant Food).
+
+[GRAVITREE_NEW_SKILL_LEVEL5_DES]
+Đòn tấn công nâng cấp thành trọng lực đỏ, sát thương tấn công được tăng lên, đòn đánh có thể đè tất cả zombie kích thước vừa và nhỏ trong phạm vi xuống đất không thể hành động (không giới hạn zombie bay), kéo dài 3 giây, sau đó làm chậm 4 giây.
+
+[GRAVITREE_PLANTFOOD_DESCRIPTION]
+Cây Trọng Lực sau khi tụ lực sẽ tung ra một đợt trọng lực siêu mạnh, trong thời gian tụ lực sẽ gom tất cả zombie kích thước vừa và nhỏ trong phạm vi 5×5 về ô của bản thân, gây sát thương và đè xuống đất kéo dài 6 giây.
+
+[GRAVITREE_AVATAR_PLANTFOOD_DESCRIPTION]
+Khi đòn tấn công được tung ra, sẽ nện thêm một quả táo khổng lồ xuống ô của bản thân, vụ nổ quả táo gây sát thương lên phạm vi 3x3.
+[DARKMATTER_DRAGONFRUIT]
+Thanh Long Vật Chất Tối
+[DARKMATTER_DRAGONFRUIT_DESCRIPTION]
+{KEYWORD}Phạm vi: {STAT}Một hàng
+{KEYWORD}Đặc điểm cây: {STAT}Cây màu đỏ, họ vũ trụ
+{FLAVOR}Tổ tiên của chúng từng bị truy sát đến tận sâu thẳm vũ trụ. Giờ đây, hậu duệ đã trở về, chỉ vì một màn trả thù đẫm vị trái cây lạnh buốt.
+
+[DARKMATTER_DRAGONFRUIT_DESCRIPTION_HEADER]
+Khạc đạn lửa vật chất tối để tấn công, gây sát thương thuộc tính vũ trụ cho zombie bị trúng đòn, đồng thời áp dụng trạng thái lượng tử. Ở trạng thái lượng tử, zombie hệ pháp sư bị giảm tốc độ thi pháp đi 3 lần; đạn bắn thẳng khi trúng zombie ở trạng thái lượng tử sẽ không bị tiêu hủy, vẫn gây sát thương và kích hoạt hiệu ứng trúng đòn của viên đạn đó.
+
+[DARKMATTER_DRAGONFRUIT_TOOLTIP]
+Khạc đạn lửa vật chất tối tấn công gây sát thương thuộc tính vũ trụ, đồng thời áp dụng trạng thái lượng tử.
+
+[DARKMATTER_DRAGONFRUIT_PRODUCT_SHORT_DESC]
+Khạc đạn lửa vật chất tối để tấn công, gây sát thương thuộc tính vũ trụ cho zombie bị trúng đòn, đồng thời áp dụng trạng thái lượng tử. Ở trạng thái lượng tử, zombie hệ pháp sư bị giảm tốc độ thi pháp đi 3 lần; đạn bắn thẳng khi trúng zombie ở trạng thái lượng tử sẽ không bị tiêu hủy, vẫn gây sát thương và kích hoạt hiệu ứng trúng đòn của viên đạn đó.
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL1]
+Kiểm soát năng lượng
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL1_DES]
+Sau khi đạn lửa trúng mục tiêu sẽ tạo ra một vụ nổ phạm vi 1 ô về phía sau mục tiêu, gây sát thương vũ trụ và áp dụng trạng thái lượng tử cho zombie trong phạm vi.
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL2]
+Điều khiển năng lượng
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL2_DES]
+Phạm vi nổ của đạn lửa tăng lên thành phạm vi hình quạt, gây sát thương vũ trụ và áp dụng trạng thái lượng tử cho zombie trong phạm vi.
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL5]
+Hơi thở rồng hủy diệt
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL5_DES]
+Có 30% xác suất khạc ra đạn co sụp, sau khi hủy diệt (tiêu diệt tức thì) trúng con zombie đầu tiên (trừ zombie tinh anh và boss), viên đạn sẽ biến thành đạn tấn công thông thường. Sau khi sử dụng tuyệt chiêu Năng Lượng Đậu, lần kích hoạt tấn công thường tiếp theo chắc chắn sẽ khạc ra đạn co sụp.
+
+[DARKMATTER_DRAGONFRUIT_AVATAR_NAME]
+Trang phục Thanh Long Vật Chất Tối
+
+[STORE_PRODUCT_AVATAR_DARKMATTER_DRAGONFRUIT]
+Số lần khạc hơi thở tăng lên thành 5 lần.
+
+[STORE_PRODUCT_AVATAR_DARKMATTER_DRAGONFRUIT_TITLE]
+Trang phục Thanh Long Vật Chất Tối
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL1_DES]
+Khạc đạn lửa vật chất tối để tấn công, gây sát thương thuộc tính vũ trụ cho zombie bị trúng đòn, đồng thời áp dụng trạng thái lượng tử.
+Trạng thái lượng tử: Zombie hệ pháp sư bị giảm tốc độ thi pháp đi 3 lần; đạn bắn thẳng khi trúng zombie ở trạng thái lượng tử sẽ xuyên qua và không biến mất, gây sát thương bình thường và kích hoạt hiệu ứng trúng đòn của viên đạn đó.
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL2_DES]
+Sau khi đạn lửa trúng mục tiêu sẽ tạo ra một vụ nổ phạm vi 1 ô về phía sau mục tiêu, gây sát thương vũ trụ và áp dụng trạng thái lượng tử cho zombie trong phạm vi.
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL3_DES]
+Phạm vi nổ của đạn lửa tăng lên thành phạm vi hình quạt, gây sát thương vũ trụ và áp dụng trạng thái lượng tử cho zombie trong phạm vi.
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
+Khi trồng có xác suất thấp lập tức tung ra tuyệt chiêu Năng Lượng Đậu.
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
+Có 30% xác suất khạc ra đạn co sụp, sau khi hủy diệt (tiêu diệt tức thì) trúng con zombie đầu tiên (trừ zombie tinh anh và boss), viên đạn sẽ biến thành đạn tấn công thông thường. Sau khi sử dụng tuyệt chiêu Năng Lượng Đậu, lần kích hoạt tấn công thường tiếp theo chắc chắn sẽ khạc ra đạn co sụp.
+
+[DARKMATTER_DRAGONFRUIT_PLANTFOOD_DESCRIPTION]
+Thanh Long Vật Chất Tối triệu hồi rồng thiêng, lần lượt khạc ra mỗi viên đạn vật chất tối khổng lồ hướng về vị trí của 3 zombie ngẫu nhiên trên sân, gây 1500 điểm sát thương lên zombie trong phạm vi 5×5 tại điểm rơi và áp dụng trạng thái lượng tử.
+
+[DARKMATTER_DRAGONFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
+Số lần rồng thiêng khạc hơi thở tăng lên thành 5 lần.
+[COSMICNUT]
+Óc Chó Vũ Trụ
+[COSMICNUT_DESCRIPTION]
+{KEYWORD}Phạm vi: {STAT}Không có tấn công chủ động
+{KEYWORD}Đặc điểm cây: {STAT}Cây màu tím, họ vũ trụ
+{FLAVOR}Hắn là một tín đồ trung thành của bộ môn số học huyền bí, chỉ cần bạn cho hắn cơ hội, hắn có thể trò chuyện với bạn về ý nghĩa sâu xa của con số 3 cho đến tận cùng thời gian.
+
+[COSMICNUT_DESCRIPTION_HEADER]
+Có thể tự động hoán đổi vị trí cách một khoảng thời gian, có thể triệu hồi gói hạt giống thực vật hạt giống/hạt dẻ khác khi ở trong căn cứ Mặt Trăng.
+
+[COSMICNUT_TOOLTIP]
+Có thể tự động hoán đổi vị trí cách một khoảng thời gian, có thể triệu hồi gói hạt giống thực vật hạt giống/hạt dẻ khác khi ở trong căn cứ Mặt Trăng.
+
+[COSMICNUT_PRODUCT_SHORT_DESC]
+Có thể tự động hoán đổi vị trí cách một khoảng thời gian, có thể triệu hồi gói hạt giống thực vật hạt giống/hạt dẻ khác khi ở trong căn cứ Mặt Trăng.
+
+[COSMICNUT_SKILL_LEVEL1]
+Hút hố đen
+
+[COSMICNUT_SKILL_LEVEL1_DES]
+Sau khi chết sẽ biến thành một hố đen liên tục kéo các zombie ở mỗi bên trái và phải một ô về phía trung tâm, kéo dài 3 giây.
+
+[COSMICNUT_SKILL_LEVEL2]
+Hấp dẫn hố đen
+
+[COSMICNUT_SKILL_LEVEL2_DES]
+Sau khi chết sẽ biến thành một hố đen liên tục kéo các zombie ở mỗi bên trái và phải một ô về phía trung tâm, kéo dài 6 giây.
+
+[COSMICNUT_SKILL_LEVEL5]
+Bước nhảy hố đen
+
+[COSMICNUT_SKILL_LEVEL5_DES]
+Hố đen sinh ra sau khi chết, có thể nhấp vào hố đen rồi nhấp vào ô trên sân để truyền tống hố đen cùng với những zombie không miễn dịch khống chế trong phạm vi một ô trái phải của hố đen đến vị trí mục tiêu. Mỗi hố đen chỉ có thể sử dụng truyền tống một lần trong thời gian tồn tại. Sau khi truyền tống hố đen, thời gian duy trì được làm mới thành 6 giây.
+
+[COSMICNUT_AVATAR_NAME]
+Trang phục Óc Chó Vũ Trụ
+
+[STORE_PRODUCT_AVATAR_COSMICNUT]
+Giới hạn số lượng thực vật vũ trụ được tiến hóa trên cùng một hàng của thực vật tăng lên thành 5 cây.
+
+[STORE_PRODUCT_AVATAR_COSMICNUT_TITLE]
+Trang phục Óc Chó Vũ Trụ
+
+[COSMICNUT_NEW_SKILL_LEVEL1_DES]
+Có thể nhấp thủ công vào Óc Chó Vũ Trụ để di chuyển vị trí, cứ mỗi 30 giây sản xuất một gói hạt giống thực vật hạt dẻ.
+
+[COSMICNUT_NEW_SKILL_LEVEL2_DES]
+Sau khi chết sẽ biến thành một hố đen liên tục kéo các zombie ở mỗi bên trái và phải một ô về phía trung tâm, kéo dài 3 giây.
+
+[COSMICNUT_NEW_SKILL_LEVEL3_DES]
+Sau khi chết sẽ biến thành một hố đen liên tục kéo các zombie ở mỗi bên trái và phải một ô về phía trung tâm, kéo dài 6 giây.
+
+[COSMICNUT_NEW_SKILL_LEVEL4_DES]
+Khi trồng có xác suất vừa phải lập tức tiến hóa lên một hình thái mới.
+
+[COSMICNUT_NEW_SKILL_LEVEL5_DES]
+Hố đen sinh ra sau khi chết, có thể nhấp vào hố đen rồi nhấp vào ô trên sân để truyền tống hố đen cùng với những zombie không miễn dịch khống chế trong phạm vi một ô trái phải của hố đen đến vị trí mục tiêu. Mỗi hố đen chỉ có thể sử dụng truyền tống một lần trong thời gian tồn tại. Sau khi truyền tống hố đen, thời gian duy trì được làm mới thành 6 giây.
+
+[COSMICNUT_PLANTFOOD_DESCRIPTION]
+Tối đa 3 cây Óc Chó Vũ Trụ trên cùng một hàng sẽ tiến hóa thành giai đoạn tiếp theo của Óc Chó Vũ Trụ, khi đạt giai đoạn cao nhất nếu dùng tuyệt chiêu sẽ nhận được một lớp giáp vẫn thạch.
+
+[COSMICNUT_AVATAR_PLANTFOOD_DESCRIPTION]
+Giới hạn số lượng thực vật vũ trụ được tiến hóa trên cùng một hàng của thực vật tăng lên thành 5 cây.
 [ACTINOSTEMMA]
 Pháo Hoa Cỏ Hộp
 
@@ -43151,7 +43618,7 @@ Không có thay đổi.
 Cây tấn công cơ bản, kinh điển không bao giờ lỗi thời
 
 [PARALLEL_WALLNUT]
-Số 42 Hạt Óc Chó
+Số 42 Tường Óc Chó
 
 [PARALLEL_WALLNUT_TOOLTIP]
 Cây phòng ngự cơ bản, kinh điển không bao giờ lỗi thời
@@ -43319,7 +43786,7 @@ Dù ở bất kỳ vũ trụ nào cũng luôn đáng tin cậy
 Cây tấn công tối thượng
 
 [PARALLEL_PRIMALWALLNUT]
-Số 42 Hạt Óc Chó Cổ Đại
+Số 42 Tường Óc Chó Cổ Đại
 
 [PARALLEL_PRIMALWALLNUT_TOOLTIP]
 Cây hệ phòng ngự tối thượng, có thể chống đỡ 7 cú đập của Zombie khổng lồ
@@ -43349,7 +43816,7 @@ Số 42 Vỏ Bí Ngô
 Vừa chạm đất tung tuyệt chiêu, có thể chặn 3 cú đập của Zombie khổng lồ
 
 [PARALLEL_PUMPKIN_DESCRIPTION_HEADER]
-Không chống chịu bằng Hạt Óc Chó Cổ Đại nhưng trâu hơn Hạt Óc Chó thường
+Không chống chịu bằng Tường Óc Chó Cổ Đại nhưng trâu hơn Tường Óc Chó thường
 
 [PARALLEL_PUMPKIN_DESCRIPTION]
 Vừa chạm đất tung tuyệt chiêu, có thể chặn 3 cú đập của Zombie khổng lồ
@@ -46534,7 +47001,39 @@ Trang phục Chậu Hoa
 
 [STORE_PRODUCT_AVATAR_FLOWERPOT]
 Đại chiêu tạo Chậu Hoa phạm vi 3x3.
+[COSMOSS]
+Rêu Vũ Trụ
+[COSMOSS_DESCRIPTION]
+{KEYWORD}Cách dùng: {STAT}Có thể trồng trên địa hình Mặt Trăng
+{KEYWORD}Đặc điểm cây: {STAT}Thấp bé, cây màu lục
+{FLAVOR}Cậu ta là fan cuồng số một của Mao Vương · Pucaosili.
 
+[COSMOSS_DESCRIPTION_HEADER]
+Rêu vũ trụ có thể làm giá đỡ để trồng thực vật trên địa hình Mặt Trăng.
+
+[COSMOSS_TOOLTIP]
+Rêu vũ trụ cho phép trồng các loài thực vật thông thường lên mặt trăng.
+
+[COSMOSS_NEW_SKILL_LEVEL1_DES]
+Rêu vũ trụ cho phép trồng các loài thực vật thông thường lên mặt trăng.
+
+[BONUS_CARD_PIECE_COSMOSS]
+Mảnh Rêu vũ trụ
+
+[BONUS_CARD_PIECE_COSMOSS_DESCRIPTION]
+Nhận được mảnh Rêu vũ trụ.
+
+[STORE_PRODUCT_AVATAR_COSMOSS_TITLE]
+Trang phục Rêu Vũ Trụ
+
+[COSMOSS_AVATAR_NAME]
+Trang phục Rêu Vũ Trụ
+
+[COSMOSS_AVATAR_PLANTFOOD_DESCRIPTION]
+Không
+
+[STORE_PRODUCT_AVATAR_COSMOSS]
+Không.
 [SPRING_FESTIVAL_DES]
 Tích lũy nạp nhận cây hiếm và Trang phục!
 
@@ -47730,6 +48229,20 @@ Có thể đổ than đá ra ngoài để giết ngay lập tức cây trồng, 
 [PLANTING_NOT_ON_MANHOLE]
 Không thể đặt trên nắp cống hầm
 
+[PLANTING_NEED_COSMOSS_FIRST]
+Phải đặt Rêu Vũ Trụ trước.
+
+[PLANTING_COSMOSS_ON_COSMOSS]
+Không thể đặt Rêu Vũ Trụ chồng lên Rêu Vũ Trụ.
+
+[PLANTING_COSMOSS_ONLY_UNIVERSE]
+Rêu Vũ Trụ chỉ có thể được trồng bên trong căn cứ Mặt Trăng.
+
+[LIFE_SUPPORT_COLLAPSE_SOON]
+Trường lực duy trì sự sống đã sụp đổ, các thực vật đã trồng sẽ chìm vào trạng thái ngủ đông sau 5 giây.
+
+[PLANTING_COSMOSS_NOT_ADJACENT_TO_COSMOSS]
+Rêu Vũ Trụ chỉ có thể được trồng vào các ô nằm cạnh Rêu Vũ Trụ khác.
 [PLANTING_NEED_FLOWERPOT_FIRST]
 Vui lòng đặt Chậu Hoa xuống trước
 
@@ -49848,161 +50361,168 @@ Nếu bạn muốn chứng minh sức mạnh thì hãy thách đấu Tiến Sĩ 
 Nếu bạn muốn chứng minh sức mạnh thì hãy thách đấu Tiến Sĩ Zomboss trong Thời Kì Hơi Nước!
 
 [TASK_WORLDTASK_EGYPT1]
-Hoàn thành cấp độ dễ của Ai Cập Cổ Đại Ngày 8
+Hoàn thành cấp độ dễ ngày 8 của Ai Cập Cổ Đại
 
 [TASK_WORLDTASK_EGYPT2]
-Hoàn thành cấp độ khó của Ai Cập Cổ Đại Ngày 8
+Hoàn thành cấp độ khó ngày 8 của Ai Cập Cổ Đại
 
 [TASK_WORLDTASK_EGYPT3]
 Hoàn thành Thử Thách Cuối Cùng của Ai Cập Cổ Đại
 
 [TASK_WORLDTASK_PIRATE1]
-Hoàn thành cấp độ dễ của Biển Hải Tặc Ngày 8
+Hoàn thành cấp độ dễ ngày 8 của Biển Hải Tặc
 
 [TASK_WORLDTASK_DESCRIPTION_PIRATE1]
 Xây dựng tuyến phòng thủ để chống lại các cuộc tấn công của zombie
 
 [TASK_WORLDTASK_PIRATE2]
-Hoàn thành cấp độ khó của Biển Hải Tặc Ngày 8
+Hoàn thành cấp độ khó ngày 8 của Biển Hải Tặc
 
 [TASK_WORLDTASK_PIRATE3]
 Hoàn thành Thử Thách Cuối Cùng của Biển Hải Tặc
 
 [TASK_WORLDTASK_COWBOY1]
-Hoàn thành cấp độ dễ của Miền Tây Hoang Dã Ngày 8
+Hoàn thành cấp độ dễ ngày 8 của Miền Tây Hoang Dã
 
 [TASK_WORLDTASK_COWBOY2]
-Hoàn thành cấp độ khó của Miền Tây Hoang Dã Ngày 8
+Hoàn thành cấp độ khó ngày 8 của Miền Tây Hoang Dã
 
 [TASK_WORLDTASK_COWBOY3]
 Hoàn thành Thử Thách Cuối Cùng của Miền Tây Hoang Dã
 
 [TASK_WORLDTASK_KONGFU1]
-Hoàn thành cấp độ dễ của Thế Giới Kung Fu Ngày 13
+Hoàn thành cấp độ dễ ngày 13 của Thế Giới Kung Fu
 
 [TASK_WORLDTASK_KONGFU2]
-Hoàn thành cấp độ khó của Thế Giới Kung Fu Ngày 13
+Hoàn thành cấp độ khó ngày 13 của Thế Giới Kung Fu
 
 [TASK_WORLDTASK_KONGFU3]
 Hoàn thành Thử Thách Cuối Cùng của Thế Giới Kung Fu
 
 [TASK_WORLDTASK_FUTURE1]
-Hoàn thành cấp độ dễ của Tương Lai Xa Ngày 13
+Hoàn thành cấp độ ngày 13 dễ của Tương Lai Xa
 
 [TASK_WORLDTASK_FUTURE2]
-Hoàn thành cấp độ khó của Tương Lai Xa Ngày 13
+Hoàn thành cấp độ ngày 13 khó của Tương Lai Xa
 
 [TASK_WORLDTASK_FUTURE3]
 Hoàn thành Thử Thách Cuối Cùng của Tương Lai Xa
 
 [TASK_WORLDTASK_EIGHTIES1]
-Hoàn thành cấp độ dễ của Kỉ Nguyên Âm Nhạc Và Ánh Sáng Ngày 13
+Hoàn thành cấp độ dễ ngày 13 của Kỉ Nguyên Âm Nhạc Và Ánh Sáng
 
 [TASK_WORLDTASK_EIGHTIES2]
-Hoàn thành cấp độ khó của Kỉ Nguyên Âm Nhạc Và Ánh Sáng Ngày 13
+Hoàn thành cấp độ khó ngày 13 của Kỉ Nguyên Âm Nhạc Và Ánh Sáng
 
 [TASK_WORLDTASK_EIGHTIES3]
 Hoàn thành Thử Thách Cuối Cùng của Kỉ Nguyên Âm Nhạc Và Ánh Sáng
 
 [TASK_WORLDTASK_DARK1]
-Hoàn thành cấp độ dễ của Thời Kì Tăm Tối Ngày 10
+Hoàn thành cấp độ dễ ngày 10 của Thời Kì Tăm Tối
 
 [TASK_WORLDTASK_DARK2]
-Hoàn thành cấp độ khó của Thời Kì Tăm Tối Ngày 10
+Hoàn thành cấp độ khó ngày 10 của Thời Kì Tăm Tối
 
 [TASK_WORLDTASK_DARK3]
 Hoàn thành Thử Thách Cuối Cùng của Thời Kì Tăm Tối
 
 [TASK_WORLDTASK_BEACH1]
-Hoàn thành cấp độ dễ của Bãi Biển Sóng Lớn Ngày 11
+Hoàn thành cấp độ dễ ngày 11 của Bãi Biển Sóng Lớn
 
 [TASK_WORLDTASK_BEACH2]
-Hoàn thành cấp độ khó của Bãi Biển Sóng Lớn Ngày 11
+Hoàn thành cấp độ khó ngày 11 của Bãi Biển Sóng Lớn
 
 [TASK_WORLDTASK_BEACH3]
 Hoàn thành Thử Thách Cuối Cùng của Bãi Biển Sóng Lớn
 
 [TASK_WORLDTASK_DINO1]
-Hoàn thành cấp độ dễ của Đầm Lầy Kỷ Jura Ngày 11
+Hoàn thành cấp độ dễ ngày 11 của Đầm Lầy Kỷ Jura Ngày
 
 [TASK_WORLDTASK_DINO2]
-Hoàn thành cấp độ khó của Đầm Lầy Kỷ Jura Ngày 11
+Hoàn thành cấp độ khó ngày 11 của Đầm Lầy Kỷ Jura
 
 [TASK_WORLDTASK_DINO3]
 Hoàn thành Thử Thách Cuối Cùng của Đầm Lầy Kỷ Jura
 
 [TASK_WORLDTASK_ICEAGE1]
-Hoàn thành cấp độ dễ của Hang Động Tê Cóng Ngày 12
+Hoàn thành cấp độ dễ ngày 12 của Hang Động Tê Cóng
 
 [TASK_WORLDTASK_ICEAGE2]
-Hoàn thành cấp độ khó của Hang Động Tê Cóng Ngày 12
+Hoàn thành cấp độ khó ngày 12 của Hang Động Tê Cóng
 
 [TASK_WORLDTASK_ICEAGE3]
 Hoàn thành Thử Thách Cuối Cùng của Hang Động Tê Cóng
 
 [TASK_WORLDTASK_LOSTCITY1]
-Hoàn thành cấp độ dễ của Thành Phố Thất Lạc Ngày 12
+Hoàn thành cấp độ dễ ngày 12 của Thành Phố Thất Lạc
 
 [TASK_WORLDTASK_LOSTCITY2]
-Hoàn thành cấp độ khó của Thành Phố Thất Lạc Ngày 12
+Hoàn thành cấp độ khó ngày 12 của Thành Phố Thất Lạc
 
 [TASK_WORLDTASK_LOSTCITY3]
 Hoàn thành Thử Thách Cuối Cùng của Thành Phố Thất Lạc
 
 [TASK_WORLDTASK_SKYCITY1]
-Hoàn thành cấp độ dễ của Thành Phố Bầu Trời Ngày 15
+Hoàn thành cấp độ dễ ngày 15 của Thành Phố Bầu Trời
 
 [TASK_WORLDTASK_SKYCITY2]
-Hoàn thành cấp độ khó của Thành Phố Bầu Trời Ngày 15
+Hoàn thành cấp độ khó ngày 15 của Thành Phố Bầu Trời
 
 [TASK_WORLDTASK_SKYCITY3]
 Hoàn thành Thử Thách Cuối Cùng của Thành Phố Bầu Trời
 
 [TASK_WORLDTASK_MODERN1]
-Hoàn thành cấp độ dễ của Thời Hiện Đại Ngày 16
+Hoàn thành cấp độ dễ ngày 16 của Thời Hiện Đại
 
 [TASK_WORLDTASK_MODERN2]
-Hoàn thành cấp độ khó của Thời Hiện Đại Ngày 16
+Hoàn thành cấp độ khó ngày 16 của Thời Hiện Đại
 
 [TASK_WORLDTASK_MODERN3]
 Hoàn thành Thử Thách Cuối Cùng của Thời Hiện Đại
 
 [TASK_WORLDTASK_STEAM1]
-Hoàn thành cấp độ dễ của Thời Kì Hơi Nước Ngày 9
+Hoàn thành cấp độ dễ ngày 9 của Thời Kì Hơi Nước
 
 [TASK_WORLDTASK_STEAM2]
-Hoàn thành cấp độ khó của Thời Kì Hơi Nước Ngày 9
+Hoàn thành cấp độ khó ngày 9 của Thời Kì Hơi Nước
 
 [TASK_WORLDTASK_STEAM3]
 Hoàn thành Thử Thách Cuối Cùng của Thời Kì Hơi Nước
 
 [TASK_WORLDTASK_RENAI1]
-Hoàn thành cấp độ dễ của Thời Kì Phục Hưng Ngày 13
+Hoàn thành cấp độ dễ ngày 13 của Thời Kì Phục Hưng
 
 [TASK_WORLDTASK_RENAI2]
-Hoàn thành cấp độ khó của Thời Kì Phục Hưng Ngày 13
+Hoàn thành cấp độ khó ngày 13 của Thời Kì Phục Hưng
 
 [TASK_WORLDTASK_RENAI3]
 Hoàn thành Thử Thách Cuối Cùng của Thời Kì Phục Hưng
 
 [TASK_WORLDTASK_HEIAN1]
-Hoàn thành cấp độ dễ của Thời Kì Heian Ngày 13
+Hoàn thành cấp độ dễ ngày 13 của Thời Kì Heian
 
 [TASK_WORLDTASK_HEIAN2]
-Hoàn thành cấp độ khó của Thời Kì Heian Ngày 13
+Hoàn thành cấp độ khó ngày 13 của Thời Kì Heian
 
 [TASK_WORLDTASK_HEIAN3]
 Hoàn thành Thử Thách Cuối Cùng của Thời Kì Heian
 
 [TASK_WORLDTASK_ATLANTIS1]
-Hoàn thành cấp độ dễ của Thế Giới Dưới Nước Ngày 13
+Hoàn thành cấp độ dễ ngày 13 của Thế Giới Dưới Nước
 
 [TASK_WORLDTASK_ATLANTIS2]
-Hoàn thành cấp độ khó của Thế Giới Dưới Nước Ngày 13
+Hoàn thành cấp độ khó ngày 13 của Thế Giới Dưới Nước
 
 [TASK_WORLDTASK_ATLANTIS3]
 Hoàn thành Thử Thách Cuối Cùng của Thế Giới Dưới Nước
+[TASK_WORLDTASK_MOON1]
+Hoàn thành cấp độ dễ ngày 13 của Căn cứ Mặt Trăng
 
+[TASK_WORLDTASK_MOON2]
+Hoàn thành cấp độ khó của ngày 13 của Căn cứ Mặt Trăng
+
+[TASK_WORLDTASK_MOON3]
+Hoàn thành Thử Thách Cuối Cùng của Căn cứ Mặt Trăng
 [TASK_WEEKLYINTEGRAL_DESCRIPTION_PLANTCHALLENGE]
 Sử dụng các loại cây cụ thể để vượt qua các cấp độ giới hạn và nhận phần thưởng rương kho báu hiếm!
 
@@ -50034,7 +50554,7 @@ Thử thách cây——Đậu Điện!
 Thử thách cây——Rễ Đào Tẩu!
 
 [TASK_WEEKLY_PLANTCHALLENGE_EXPLODEONUT]
-Thử thách cây——Hạt Óc Chó Nổ!
+Thử thách cây——Óc Chó Nổ!
 
 [TASK_WEEKLY_PLANTCHALLENGE_FIREPEASHOOTER]
 Thử thách cây——Đậu Lửa!
@@ -50825,7 +51345,7 @@ Hướng dẫn săn tìm kho báu thời không
 [ARBORDAY_DESCRIPTION]
 Nội dung hoạt động: 
 
-1. Mỗi lần tiêu hao ba Pin có thể mở rương kho báu một lần, nhận lượng lớn mảnh cây, Kim cương, Xu và các phần thưởng khác. Danh sách các phần thưởng có thể nhận gồm: ^FF8000^Phiếu chúc phúc Cổ vật, Tỏi Tây Mặt Trời, Phù Thủy Gai Góc^oldclr^ ^8600FF^Kiwi Ngộ Không, Hỏa Tiễn Tầm Gửi^oldclr^ ^2828FF^Hạt Óc Chó Cổ Đại, Chiến Binh Măng Tây, Súp Lơ Mạnh Mẽ^oldclr^ ^82D900^Đậu Ba Đầu, Hạt Óc Chó Nổ, Lưới Chắn Gió Thạch Hộc^oldclr^
+1. Mỗi lần tiêu hao ba Pin có thể mở rương kho báu một lần, nhận lượng lớn mảnh cây, Kim cương, Xu và các phần thưởng khác. Danh sách các phần thưởng có thể nhận gồm: ^FF8000^Phiếu chúc phúc Cổ vật, Tỏi Tây Mặt Trời, Phù Thủy Gai Góc^oldclr^ ^8600FF^Kiwi Ngộ Không, Hỏa Tiễn Tầm Gửi^oldclr^ ^2828FF^Tường Óc Chó Cổ Đại, Chiến Binh Măng Tây, Súp Lơ Mạnh Mẽ^oldclr^ ^82D900^Đậu Ba Đầu, Óc Chó Nổ, Lưới Chắn Gió Thạch Hộc^oldclr^
 
 2. Thông qua nhiệm vụ nạp năng lượng có thể nhận Pin, cũng có thể nhận thông qua gói vật phẩm Kim cương.
 
@@ -51166,7 +51686,7 @@ Cây Bắn Đậu - sức tấn công tăng {Param_1}%
 Hoa Hướng Dương - giảm tiêu hao Mặt Trời xuống {Param_1} điểm
 
 [GENE_DESCRIPTION_WALLNUT]
-Hạt Óc Chó - thời gian hồi cây giảm {Param_1}%
+Tường Óc Chó - thời gian hồi cây giảm {Param_1}%
 
 [GENE_DESCRIPTION_POTATOMINE]
 Mìn Khoai Tây - thời gian hồi cây giảm  {Param_1}%
@@ -51250,7 +51770,7 @@ Khoai Lang Ngọt - giảm tiêu hao Mặt Trời xuống {Param_1} điểm
 Hoa Nguyệt - sản lượng mặt trời tăng {Param_1} điểm
 
 [GENE_DESCRIPTION_EXPLODEONUT]
-Hạt Óc Chó Nổ - sát thương nổ tăng {Param_1}%
+Óc Chó Nổ - sát thương nổ tăng {Param_1}%
 
 [GENE_DESCRIPTION_WAXGOURD]
 Vệ Sĩ Bí Đao - sức chống chịu tăng {Param_1}%
@@ -51283,7 +51803,7 @@ Bom Anh Đào - thời gian hồi cây giảm {Param_1}%
 Trái Khế - sức tấn công tăng {Param_1}%
 
 [GENE_DESCRIPTION_HOLONUT]
-Hạt Óc Chó Vô Cực - thời gian hồi phục hình chiếu giảm {Param_1} giây
+Óc Chó Vô Cực - thời gian hồi phục hình chiếu giảm {Param_1} giây
 
 [GENE_DESCRIPTION_CHOMPER]
 Hoa Ăn Thịt - thời gian nuốt chửng giảm {Param_1} giây
@@ -51519,7 +52039,7 @@ Anh Em Củ Mã Thầy - những tảng băng lớn được phóng ra từ chi�
 Cỏ Rồng Tham Ăn - chiêu cuối có {Param_1}% xác suất thu hút thêm một zombie nữa.
 
 [GENE_DESCRIPTION_PRIMALWALLNUT]
-Hạt Óc Chó Cổ Đại - Hạt Óc Chó Cổ Đại non sẽ lớn thành Hạt Óc Chó Cổ Đại sau {Param_1} giây.
+Tường Óc Chó Cổ Đại - Tường Óc Chó Cổ Đại non sẽ lớn thành Tường Óc Chó Cổ Đại sau {Param_1} giây.
 
 [GENE_DESCRIPTION_COCONUTCANNON]
 Đại Bác Dừa - giảm tiêu hao Mặt Trời xuống {Param_1} điểm.
@@ -52665,7 +53185,7 @@ Bánh Tacos Thịt Hun Khói: Có thể nhận Vé chúc phúc cổ vật, Mản
 Bánh Tacos Rau Củ: Có thể nhận Kim cương, Mảnh Cà Độc Dược Chùy Gai hoặc Dung dịch dinh dưỡng Tím
 
 [DAVEKITCHEN_EXCHANGE_5]
-Bánh Tacos: Có thể nhận Kim cương, Mảnh Hạt Óc Chó Vô Cực hoặc Dung dịch dinh dưỡng Lam
+Bánh Tacos: Có thể nhận Kim cương, mảnh Óc Chó Vô Cực hoặc Dung dịch Lam
 
 [DAVEKITCHEN_EXCHANGE_6]
 1000 xu 
@@ -54200,7 +54720,14 @@ Chiếc mũ sắt này được coi là một món hàng xa xỉ phẩm đối v
 
 [ZOMBIE_RENAI_ARMOR2_DESCRIPTION_HEADER]
 Chiếc mũ xô sắt này có thể cung cấp khả năng bảo vệ cực tốt, đồng thời còn là biểu tượng của giai cấp quý tộc.
+[ZOMBIE_RENAI_ARMOR4]
+Zombie Đầu Tượng Điêu Khắc
 
+[ZOMBIE_RENAI_ARMOR4_DESCRIPTION]
+{FLAVOR}Một kiệt tác của bậc thầy thời kỳ Phục Hưng, chỉ có điều vị đại sư lúc điêu khắc lại quên chừa lỗ thở, may là zombie vốn dĩ chẳng cần thở.
+
+[ZOMBIE_RENAI_ARMOR4_DESCRIPTION_HEADER]
+Mũ tượng điêu khắc có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 [ZOMBIE_RENAI_FLAG]
 Zombie Quý Tộc Cầm Cờ
 
@@ -54433,7 +54960,7 @@ Zombie Ớt Cay
 Sinh vật zombie đầu cây đến từ một chiều không gian huyền bí, đừng để hắn chạm vào bất kỳ cây trồng nào của bạn!!
 
 [ZOMBIE_ZOMBIE_EXPLODENUT]
-Zombie Hạt Óc Chó Nổ
+Zombie Óc Chó Nổ
 
 [ZOMBIE_ZOMBIE_EXPLODENUT_DESCRIPTION]
 {KEYWORD}Tính năng: {STAT}Sau khi chết sẽ phát nổ gây ra một lượng Sát thương khổng lồ cho các cây trồng xung quanh!
@@ -54494,7 +55021,14 @@ Chiếc mũ thùng dây sắt này tuy nhìn bề ngoài cứ như làm bằng g
 
 [ZOMBIE_HEIAN_ARMOR2_DESCRIPTION_HEADER]
 Chiếc mũ thùng dây sắt này có thể cung cấp hiệu quả bảo vệ rất tốt, ít nhất thì các Zombie Samurai đều nghĩ như vậy.
+[ZOMBIE_HEIAN_ARMOR4]
+Zombie Đầu Đèn Đá
 
+[ZOMBIE_HEIAN_ARMOR4_DESCRIPTION]
+{FLAVOR}Không gian bên trong phần mái của chiếc đèn đá cực kỳ thích hợp để nuôi cá vàng, và hắn cũng chỉ vô tình phát hiện ra điều này sau một ngày mưa nào đó.
+
+[ZOMBIE_HEIAN_ARMOR4_DESCRIPTION_HEADER]
+Mũ đèn đá có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 [ZOMBIE_HEIAN_FLAG]
 Zombie Samurai Cầm Cờ
 
@@ -54840,7 +55374,7 @@ Hỏa Tiễn Tầm Gửi - Kỷ niệm
 Thời gian hồi trồng cây giảm 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOLONUT_2]
-Hạt Óc Chó Vô Cực - Kỷ niệm
+Óc Chó Vô Cực - Kỷ niệm
 
 [NEW_AVATAR_DESCRIPTION_HOLONUT_2]
 Thời gian hồi trồng cây giảm 10%
@@ -54948,7 +55482,7 @@ Nho Chùm - Bóng bay màu
 Thời gian hồi trồng cây giảm 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALWALLNUT_1]
-Hạt Óc Chó Cổ Đại - Đồ bơi
+Tường Óc Chó Cổ Đại - Đồ bơi
 
 [NEW_AVATAR_DESCRIPTION_PRIMALWALLNUT_1]
 Máu của cây tăng 15%
@@ -54972,7 +55506,7 @@ Cỏ Đuôi Mèo - Hoài cổ
 Thay đổi động tác & tăng 10% tốc độ tấn công (Cảnh báo: mất thuộc tính điện)
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALWALLNUT_2]
-Hạt Óc Chó Cổ Đại - Cosplay
+Tường Óc Chó Cổ Đại - Cosplay
 
 [NEW_AVATAR_DESCRIPTION_PRIMALWALLNUT_2]
 Giảm tiêu hao Mặt Trời xuống 10 điểm
@@ -55037,7 +55571,7 @@ Hoa Mõm Rồng - Mũ chóp
 Tốc độ tấn công tăng 30%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOLONUT_1]
-Hạt Óc Chó Vô Cực - Máy nướng bánh
+Óc Chó Vô Cực - Máy nướng bánh
 
 [NEW_AVATAR_DESCRIPTION_HOLONUT_1]
 Máu của cây tăng 20%
@@ -55463,7 +55997,7 @@ Vanilla - Mũ cao chóp
 Tăng 10% xác suất tung đòn pháo không khí kỹ năng 2 (Chỉ có hiệu lực cho cây bậc 2 trở lên)
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EXPLODEONUT_1]
-Hạt Óc Chó Nổ - Kính ngôi sao
+Óc Chó Nổ - Kính ngôi sao
 
 [NEW_AVATAR_DESCRIPTION_EXPLODEONUT_1]
 Tăng 10% xác suất để lại Mìn Khoai Tây khi chết (Chỉ có hiệu lực cho cây bậc 2 trở lên)
@@ -55535,7 +56069,7 @@ Xà Lách Bơ - Chú cún
 Tăng 1 giây thời gian khống chế
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_1]
-Hạt Óc Chó - Giáng sinh
+Tường Óc Chó - Giáng sinh
 
 [NEW_AVATAR_DESCRIPTION_WALLNUT_1]
 Giảm 10% thời gian hồi trồng cây
@@ -55853,7 +56387,7 @@ Hoa Hướng Dương - Giáng sinh
 Giảm 4 giây thời gian tạo mặt trời
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_2]
-Hạt Óc Chó - Giáng sinh
+Tường Óc Chó - Giáng sinh
 
 [NEW_AVATAR_DESCRIPTION_WALLNUT_2]
 Giảm 10% thời gian hồi trồng cây
@@ -57156,7 +57690,7 @@ Cây trồng không được bị trúng đạn của Zombie Cây Bắn Đậu q
 Không kích nổ zombie Ớt Cay quá {NUM_EXPLODE} lần
 
 [CHALLENGE_ZOMBIE_EXPLODENUT]
-Không kích nổ Zombie Hạt Óc Chó Nổ quá {NUM_EXPLODE} lần
+Không kích nổ Zombie Óc Chó Nổ quá {NUM_EXPLODE} lần
 
 [RIFT_ZPS_LABEL]
 Tín hiệu {ZPS_AMT}%
@@ -57594,7 +58128,7 @@ Mỗi 20 giây, bất động zombie trong {NUMBER} giây
 Sau khi dùng đạo cụ, tiêu diệt ngay lập tức toàn bộ zombie trên sân, có thể sử dụng {NUMBER} lần
 
 [MINIGAME_PERK_PLANTS_STATS_INCREASED_DESCRIPTION]
-Thuộc tính Cây trồng tăng {NUMBER3}% (Bao gồm thời gian hồi trồng Cây Đặc Biệt trong Lật Bài Lạc Đà, tốc độ xuất hiện bóng trong Bowling Hạt Óc Chó, thời gian hồi trồng Cây của Bắt Chước Giả)
+Thuộc tính Cây trồng tăng {NUMBER3}% (Bao gồm thời gian hồi trồng Cây Đặc Biệt trong Lật Bài Lạc Đà, tốc độ xuất hiện bóng trong Bowling Tường Óc Chó, thời gian hồi trồng Cây của Bắt Chước Giả)
 
 [MINIGAME_PERK_GAME_DURATION_INCREASED]
 Thời gian trò chơi tăng thêm {NUMBER} giây
@@ -57606,7 +58140,7 @@ Năng lượng Cường Hóa nhận được sau khi vượt màn tăng {NUMBER}
 Lật mở tất cả bài Lạc Đà trong 10 giây, có thể sử dụng {NUMBER} lần
 
 [MINIGAME_PERK_BOWLING]
-Lập tức bổ sung 5 Hạt Óc Chó Nguyên Thủy, trong 10 giây tiếp theo sẽ chỉ xuất hiện Hạt Óc Chó Nổ và Hạt Óc Chó Nguyên Thủy, có thể sử dụng {NUMBER} lần
+Lập tức bổ sung 5 Tường Óc Chó Cổ Đại, trong 10 giây tiếp theo sẽ chỉ xuất hiện Óc Chó Nổ và Tường Óc Chó Cổ Đại, có thể sử dụng {NUMBER} lần
 
 [MINIGAME_PERK_REFRESH_CARD]
 Lập tức làm mới hồi chiêu (CD) trong ô chọn thẻ, và trong 10 giây tiếp theo khi trồng Mũ Ma Thuật sẽ chỉ xuất hiện Cây, có thể sử dụng {NUMBER} lần
@@ -61507,7 +62041,14 @@ Zombie Bài Tây Đội Xô
 
 [ZOMBIE_FAIRY_TALE_ARMOR2_DESCRIPTION_HEADER]
 Zombie Bài Tây Đội Xô under trướng của Zombie Tiểu Quỷ Nữ Hoàng Đỏ.
+[ZOMBIE_FAIRY_TALE_ARMOR4]
+Zombie Đầu Bí Ngô
 
+[ZOMBIE_FAIRY_TALE_ARMOR4_DESCRIPTION]
+Xe ngựa bí ngô của Lọ Lem cứ qua nửa đêm là sẽ biến lại thành quả bí ngô, nhưng quả bí ngô của hắn thì không—bởi vì đó vốn dĩ chẳng phải cùng một quả bí ngô.
+
+[ZOMBIE_FAIRY_TALE_ARMOR4_DESCRIPTION_HEADER]
+Mũ bí ngô có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 [ZOMBIE_FAIRY_TALE_FLAG]
 Zombie Bài Tây Cầm Cờ
 
@@ -61624,7 +62165,7 @@ Zombie Pharaon xuất hiện trong tiệc kỷ niệm ngày thành lập.
 
 [ZOMBIE_BIRTHDAY_PHARAOH_DESCRIPTION]
 {KEYWORD}Đặc điểm tốc độ: {STAT}Lao về phía trước như hổ đói vồ mồi
-{KEYWORD}Đặc điểm: {STAT}Hạt Óc Chó chỉ có thể chặn hắn lại một chút, tốt nhất vẫn nên dùng tuyệt chiêu Plant Food để tiêu diệt hắn cho an toàn
+{KEYWORD}Đặc điểm: {STAT}Tường Óc Chó chỉ có thể chặn hắn lại một chút, tốt nhất vẫn nên dùng tuyệt chiêu Plant Food để tiêu diệt hắn cho an toàn
 
 {FLAVOR}Một chiếc bánh kem biết đi chăng? Không, đó là Zombie Pharaon đấy. Dù chiếc bánh kem mỏng manh hơn nhiều so với quan tài đá, nhưng nó vẫn giúp Zombie Pharaon trở nên kiên cố hơn. Phải chăng là do vị Pharaon này vừa đi vừa gặm bánh kem để hồi máu?
 
@@ -61803,7 +62344,7 @@ Phù Thủy Hù Dọa
 Mụ phù thủy zombie già độc ác, suốt cả năm trời đều giam mình trong nhà để bào chế ra những loại độc dược kỳ quái, chuẩn bị cho một màn đại triển hồng đồ vào đêm Halloween, khiến cho tất cả cây trồng phải run rẩy dưới bóng tối bao trùm của dược thủy!
 
 [ZOMBIE_WITCH_DESCRIPTION_HEADER]
-Tốc độ di chuyển cực nhanh khiến ả không thể bị các đòn tấn công bắn trúng, có lẽ Hạt Óc Chó Cao sẽ chặn đứng được ả!
+Tốc độ di chuyển cực nhanh khiến ả không thể bị các đòn tấn công bắn trúng, có lẽ Óc Chó Cao sẽ chặn đứng được ả!
 
 [ZOMBIE_PUMPKIN_HOUSE_GHOST]
 Hồn Ma Đầu Bí Ngô
@@ -62121,6 +62662,20 @@ Trong khi những con tiểu quỷ khác vẫn còn đang dùng đá để chọ
 
 [ZOMBIE_BUBBLE_MACHINE_IMP_DESCRIPTION_HEADER]
 Gatling Bong Bóng: Xả một lượng lớn đạn bong bóng về phía trước, những cây trồng bị trúng đạn liên tục sẽ bị bọc trong một quả bong bóng khổng lồ và bay ra khỏi sân đấu. Bom Đường Pháo Kích: Tiểu quỷ máy thổi bong bóng bay qua bay lại trên không trung và thả các viên kẹo tròn gây nổ xuống mặt đất.
+[ZOMBIE_ZOMBIE_COSMIC_IMP]
+Zombie Tiểu Quỷ Vũ Trụ
+[ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION]
+Đứng trước mặt bạn lúc này chính là: Ngọn núi cao nhất trong giới Cosplay zombie! Dòng sông dài nhất trong làng điện ảnh zombie!
+
+[ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION_HEADER]
+Vạn tượng vũ trụ: Khi di chuyển đến cột thứ 7, sẽ biến thân thành zombie tiểu quỷ của thế giới khác, lượng máu được đặt lại thành máu của tiểu quỷ sau khi biến thân.
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR]
+Zombie Khổng Lồ Siêu Tân Tinh
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION]
+Zombie Khổng Lồ Siêu Tân Tinh từng là trợ lý của... nhà vô địch cuộc thi câu cá vũ trụ. Nhiệm vụ của hắn với tư cách là trợ lý là đi đến vị trí của các thí sinh khác, dùng quyền trượng siêu Tân Tinh của mình làm cần câu để đi câu cá. Mỗi khi hắn câu thành công một con cá, toàn bộ số cá xung quanh hắn sẽ bị hố đen hút sạch. Thật là một thủ đoạn đê tiện.
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION_HEADER]
+Mỗi khi Zombie Khổng Lồ Siêu Tân Tinh tấn công tiêu diệt thực vật, hắn sẽ in dấu thực vật đó lên quyền trượng, sau đó phóng ra hố đen tiêu diệt tức thì toàn bộ thực vật có cùng tên trên sân.
 
 
 [ZOMBIE_PARKOUR]
@@ -62713,6 +63268,17 @@ Lãng Du Mùa Hè
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25902]
 Dành tặng những người bạn đồng hành trong chuyến du ngoạn ký ức.
+[SUMMER_MEMORIES_HEAD_ID_25915]
+Sóng Nước Bồng Bềnh
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25915]
+Gửi tặng những người chơi cùng đồng hành trong chuyến hành trình ký ức.
+
+[SUMMER_MEMORIES_HEAD_ID_25916]
+Tiếng Sáo Đêm Trăng
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25916]
+Gửi tặng những người chơi cùng đồng hành trong chuyến hành trình ký ức.
 
 [UNCHARTED_ICEAGE_ID_25390]
 Làm ly Latte nào
@@ -63028,7 +63594,17 @@ Thế Giới Tô Màu
 
 [LEVEL_EDITOR_HEAD_DES_ID_25903]
 Nét bút rơi, màu sắc tan; ngòi dừng lại, thế giới hình thành
+[LEVEL_EDITOR_HEAD_ID_25917]
+Nghệ thuật bùng nổ
 
+[LEVEL_EDITOR_HEAD_DES_ID_25917]
+Nghệ thuật chính là con sao biển trắng toát!!!
+
+[LEVEL_EDITOR_HEAD_ID_25918]
+Lạnh như băng giá
+
+[LEVEL_EDITOR_HEAD_DES_ID_25918]
+Đứa nào vặn điều hòa của tôi xuống 25 độ đấy?
 [QUESTIONNAIRE_HEAD_ID_25840]
 Tầm tích con đường tơ lụa
 
@@ -63082,6 +63658,11 @@ Nghi lễ tỏa sáng
 
 [LEVEL_EDITOR_HEAD_DES_ID_25897]
 Ảnh đại diện giới hạn của sự kiện Tùy chỉnh Sắc màu
+[LEVEL_EDITOR_HEAD_ID_25919]
+Khách du hành liên hành tinh
+
+[LEVEL_EDITOR_HEAD_DES_ID_25919]
+Ảnh đại diện giới hạn của sự kiện tùy chỉnh sắc màu huyền ảo
 
 [UNCHARTED_CHILDRENSDAY_ID_25547]
 Măng cụt trẻ em
@@ -63397,10 +63978,10 @@ Gương ma thuật xuất hiện trên sân, dịch chuyển zombie và đạn b
 Gương ma thuật xuất hiện trên sân, dịch chuyển zombie và đạn bay qua lại giữa các tấm gương
 
 [PVZ1MODE_BOWLING]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [PVZ1MODE_BOWLING_NORMAL_DESC]
-Ném các loại Hạt Óc Chó để tiêu diệt zombie và giành chiến thắng
+Ném các loại Tường Óc Chó để tiêu diệt zombie và giành chiến thắng
 
 [PVZ1MODE_SEEINGSTARS]
 Nhìn ngắm những ngôi sao
@@ -65769,7 +66350,7 @@ Du hành thời gian 3
 镜面传送3
 
 [S14_MEMORY_LEVEL_NAME_004]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S14_MEMORY_LEVEL_NAME_005]
 电磁护盾1
@@ -65793,7 +66374,7 @@ Hạt Óc Chó bowling
 科学改造3
 
 [S14_MEMORY_LEVEL_NAME_012]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S14_MEMORY_LEVEL_NAME_013]
 飞空泡泡1
@@ -65817,7 +66398,7 @@ Hạt Óc Chó bowling
 冰雪风暴3
 
 [S14_MEMORY_LEVEL_NAME_020]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S14_MEMORY_LEVEL_NAME_021]
 强力弹簧1
@@ -65841,7 +66422,7 @@ Hạt Óc Chó bowling
 子子孙孙3
 
 [S14_MEMORY_LEVEL_NAME_028]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S14_MEMORY_LEVEL_NAME_029]
 天公不作美1
@@ -65865,7 +66446,7 @@ Hạt Óc Chó bowling
 滚滚向前3
 
 [S14_MEMORY_LEVEL_NAME_036]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S14_MEMORY_LEVEL_NAME_037]
 沙暴冲刺1
@@ -65889,7 +66470,7 @@ Hạt Óc Chó bowling
 未来科技3
 
 [S14_MEMORY_LEVEL_NAME_044]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S14_MEMORY_LEVEL_NAME_045]
 力大砖飞1
@@ -65913,7 +66494,7 @@ Hạt Óc Chó bowling
 烟雾尘天3
 
 [S14_MEMORY_LEVEL_NAME_052]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S14_MEMORY_LEVEL_NAME_053]
 彼岸来客1
@@ -65937,7 +66518,7 @@ Hạt Óc Chó bowling
 防腐药剂3
 
 [S14_MEMORY_LEVEL_NAME_060]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S14_MEMORY_LEVEL_NAME_061]
 霜华满天1
@@ -65961,7 +66542,7 @@ Hạt Óc Chó bowling
 人如僵尸3
 
 [S15_MEMORY_LEVEL_NAME_004]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S15_MEMORY_LEVEL_NAME_005]
 分秒必争1
@@ -66009,7 +66590,7 @@ Hạt Óc Chó bowling
 如梦亦如幻3
 
 [S15_MEMORY_LEVEL_NAME_020]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S15_MEMORY_LEVEL_NAME_021]
 无常之风1
@@ -66057,7 +66638,7 @@ Hạt Óc Chó bowling
 滚滚红尘3
 
 [S15_MEMORY_LEVEL_NAME_036]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S15_MEMORY_LEVEL_NAME_037]
 皆为黄土1
@@ -66105,7 +66686,7 @@ Hạt Óc Chó bowling
 时空传送3
 
 [S15_MEMORY_LEVEL_NAME_052]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S15_MEMORY_LEVEL_NAME_053]
 该死的跳跳乐1
@@ -68474,7 +69055,363 @@ Trận Chiến Zomboss La Mã
 [NARRATIVE_PVZ1_S31_16_H_INTRO_5]
 {SAY:WINNIE}或许他真的在研究些可怕的东西，我们要小心
 
+[S31_MEMORY_LEVEL_NAME_057]
+Tái chiến La Mã - Ngày 1
 
+[S31_MEMORY_LEVEL_NAME_058]
+Tái chiến La Mã - Ngày 2
+
+[S31_MEMORY_LEVEL_NAME_059]
+Tái chiến La Mã - Ngày 3
+
+[S31_MEMORY_LEVEL_NAME_060]
+Tái chiến La Mã - Ngày 4
+
+[S31_MEMORY_LEVEL_NAME_061]
+Tái chiến La Mã - Ngày 5
+
+[S31_MEMORY_LEVEL_NAME_062]
+Tái chiến La Mã - Ngày 6
+
+[S31_MEMORY_LEVEL_NAME_063]
+Tái chiến La Mã - Ngày 7
+
+[S31_MEMORY_LEVEL_NAME_064]
+Tái chiến La Mã - Ngày 8
+
+[S31_MEMORY_LEVEL_NAME_BOSS_8]
+Kẻ Hủy Diệt La Mã
+
+[S32_MEMORY_LEVEL_NAME_001]
+Dây leo cộng sinh
+
+[S32_MEMORY_LEVEL_NAME_002]
+Gai góc chằng chịt
+
+[S32_MEMORY_LEVEL_NAME_003]
+Hòa mình vào bóng đêm
+
+[S32_MEMORY_LEVEL_NAME_004]
+Đại chiến ma thuật
+
+[S32_MEMORY_LEVEL_NAME_005]
+Chuyến chinh phạt của đế vương
+
+[S32_MEMORY_LEVEL_NAME_006]
+Sấm chớp giật gân
+
+[S32_MEMORY_LEVEL_NAME_007]
+Tiến thoái lưỡng nan
+
+[S32_MEMORY_LEVEL_NAME_008]
+Làm việc cả ngày không nghỉ
+
+[S32_MEMORY_LEVEL_NAME_009]
+Trở về kỷ Jura - Ngày 1
+
+[S32_MEMORY_LEVEL_NAME_010]
+Trở về kỷ Jura - Ngày 2
+
+[S32_MEMORY_LEVEL_NAME_011]
+Trở về kỷ Jura - Ngày 3
+
+[S32_MEMORY_LEVEL_NAME_012]
+Trở về kỷ Jura - Ngày 4
+
+[S32_MEMORY_LEVEL_NAME_013]
+Trở về kỷ Jura - Ngày 5
+
+[S32_MEMORY_LEVEL_NAME_014]
+Trở về kỷ Jura - Ngày 6
+
+[S32_MEMORY_LEVEL_NAME_015]
+Trở về kỷ Jura - Ngày 7
+
+[S32_MEMORY_LEVEL_NAME_016]
+Trở về kỷ Jura - Ngày 8
+
+[S32_MEMORY_LEVEL_NAME_017]
+Ngày 27 tháng 8 năm 2026 - Buổi chiều 1
+
+[S32_MEMORY_LEVEL_NAME_018]
+Ngày 27 tháng 8 năm 2026 - Nửa đêm 1
+
+[S32_MEMORY_LEVEL_NAME_019]
+Ngày 27 tháng 8 năm 2026 - Buổi chiều 2
+
+[S32_MEMORY_LEVEL_NAME_020]
+Ngày 27 tháng 8 năm 2026 - Nửa đêm 2
+
+[S32_MEMORY_LEVEL_NAME_021]
+Năm Bính Ngọ, 15 tháng 7 - Giờ Mùi
+
+[S32_MEMORY_LEVEL_NAME_022]
+Năm Bính Ngọ, 15 tháng 7 - Giờ Tý
+
+[S32_MEMORY_LEVEL_NAME_023]
+Năm Bính Ngọ, 15 tháng 7 - Ác mộng
+
+[S32_MEMORY_LEVEL_NAME_024]
+Trấn hồn tiết Trung Nguyên
+
+[S32_MEMORY_LEVEL_NAME_025]
+Ký ức vùng Caribe - Ngày 1
+
+[S32_MEMORY_LEVEL_NAME_026]
+Ký ức vùng Caribe - Ngày 2
+
+[S32_MEMORY_LEVEL_NAME_027]
+Ký ức vùng Caribe - Ngày 3
+
+[S32_MEMORY_LEVEL_NAME_028]
+Ký ức vùng Caribe - Ngày 4
+
+[S32_MEMORY_LEVEL_NAME_029]
+Ký ức vùng Caribe - Ngày 5
+
+[S32_MEMORY_LEVEL_NAME_030]
+Ký ức vùng Caribe - Ngày 6
+
+[S32_MEMORY_LEVEL_NAME_031]
+Ký ức vùng Caribe - Ngày 7
+
+[S32_MEMORY_LEVEL_NAME_032]
+Ký ức vùng Caribe - Ngày 8
+
+[S32_MEMORY_LEVEL_NAME_033]
+Phong rơi nguyên thu - Ngày 1
+
+[S32_MEMORY_LEVEL_NAME_034]
+Phong rơi nguyên thu - Ngày 2
+
+[S32_MEMORY_LEVEL_NAME_035]
+Phong rơi nguyên thu - Ngày 3
+
+[S32_MEMORY_LEVEL_NAME_036]
+Phong rơi nguyên thu - Ngày 4
+
+[S32_MEMORY_LEVEL_NAME_037]
+Phong rơi nguyên thu - Ngày 5
+
+[S32_MEMORY_LEVEL_NAME_038]
+Phong rơi nguyên thu - Ngày 6
+
+[S32_MEMORY_LEVEL_NAME_039]
+Phong rơi nguyên thu - Ngày 7
+
+[S32_MEMORY_LEVEL_NAME_040]
+Phong rơi nguyên thu - Ngày 8
+
+[S32_MEMORY_LEVEL_NAME_1]
+Mãnh hổ xuất sơn
+
+[S32_MEMORY_LEVEL_NAME_2]
+Lạnh như băng giá
+
+[S32_MEMORY_LEVEL_NAME_3]
+Bóng lửa gió lạnh
+
+[S32_MEMORY_LEVEL_NAME_4]
+Cảnh báo năng lượng cao
+
+[S32_MEMORY_LEVEL_NAME_5]
+Kế hoạch nhân đôi
+
+[S32_MEMORY_LEVEL_NAME_6]
+Lấy của địch nuôi địch
+
+[S32_MEMORY_LEVEL_NAME_7]
+Đối tác hoàn hảo
+
+[S32_MEMORY_LEVEL_NAME_8]
+Đã đánh cờ không hối hận
+
+[S32_MEMORY_LEVEL_NAME_9]
+Chỉ trong một dòng nước
+
+[S32_MEMORY_LEVEL_NAME_10]
+Cao bồi bận rộn
+
+[S32_MEMORY_LEVEL_NAME_11]
+Quân địch áp sát thành
+
+[S32_MEMORY_LEVEL_NAME_12]
+Nghiêng mình tránh mũi nhọn
+
+[S32_MEMORY_LEVEL_NAME_13]
+Thành phố lơ lửng
+
+[S32_MEMORY_LEVEL_NAME_14]
+Ngàn cân treo sợi tóc
+
+[S32_MEMORY_LEVEL_NAME_15]
+Tai họa giáng xuống đầu
+
+[S32_MEMORY_LEVEL_NAME_16]
+Ngọc đá cùng tan
+
+[S32_MEMORY_LEVEL_NAME_BOSS_9]
+Âm thanh thiên phú
+
+[S32_MEMORY_LEVEL_NAME_BOSS_1]
+Kẻ điều khiển đoàn kịch
+
+[S32_MEMORY_LEVEL_NAME_BOSS_2]
+Kẻ gầm thét Kim Cương
+
+[S32_MEMORY_LEVEL_NAME_BOSS_3]
+Kẻ ca hát vòng lặp
+
+[S32_MEMORY_LEVEL_NAME_BOSS_4]
+Kẻ chìm tàu hài cốt
+
+[S32_MEMORY_LEVEL_NAME_BOSS_5]
+Kẻ lướt sóng Phong Nguyên
+[NARRATIVE_PVZ1_S32_2_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}侦测到异常时空波动，前院地动山摇
+
+[NARRATIVE_PVZ1_S32_2_H_INTRO_2]
+{SAY:WINNIE}我们只能同时派出少量精锐植物，前往平息混乱
+
+[NARRATIVE_PVZ1_S32_2_H_INTRO_3]
+{SAY:CRAZYDAVE}向你推荐“资深行业老冰”，精通以少胜多的阵形哲学
+
+[NARRATIVE_PVZ1_S32_3_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}寒冰醋栗的包围圈简直像冥界一样寒冷
+
+[NARRATIVE_PVZ1_S32_3_H_INTRO_2]
+{SAY:WINNIE}检测到戴夫现在透心凉，建议小心使用钟馗石蒜取暖
+
+[NARRATIVE_PVZ1_S32_3_H_INTRO_3]
+{SAY:WINNIE}它的冥界之火可以令灵魂都燃起来
+
+[NARRATIVE_PVZ1_S32_4_H_INTRO_1]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}请注意！雷雨天空旷的屋顶上植物更容易遭雷劈
+
+[NARRATIVE_PVZ1_S32_4_H_INTRO_2]
+{SAY:ZOMBOSSICON}别问为什么僵尸不会
+
+[NARRATIVE_PVZ1_S32_4_H_INTRO_3]
+{SAY:ZOMBOSSICON}此致，僵尸绝缘博士
+
+[NARRATIVE_PVZ1_S32_5_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{SAY:CRAZYDAVE}想不想使用全息技术投影出一些比坚果更棒的东西
+
+[NARRATIVE_PVZ1_S32_5_H_INTRO_2]
+{SAY:CRAZYDAVE}拿着这个复制松果！把他往你最强的植物身上一丢
+
+[NARRATIVE_PVZ1_S32_5_H_INTRO_3]
+{SHOUT:CRAZYDAVE}然后享受你的炮火盛宴吧
+
+[NARRATIVE_PVZ1_S32_6_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}黑暗时代的僵尸十分强大，这里的抵抗火力有限
+
+[NARRATIVE_PVZ1_S32_6_H_INTRO_2]
+{SAY:WINNIE}硬碰硬会非常艰难，我们必须采取特殊战术
+
+[NARRATIVE_PVZ1_S32_6_H_INTRO_3]
+{SAY:CRAZYDAVE}或许我们可以从敌人身上获取资源
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}你听过关于美杜莎的传说吗
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_2]
+{SAY:CRAZYDAVE}如果不小心与她对视上，就会被石化
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_3]
+{SAY:WINNIE}我们也有一位“植物美杜莎”
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_4]
+{SAY:WINNIE}或许能帮我们解决很多难缠的僵尸
+
+[NARRATIVE_PVZ1_S32_8_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}阳光珍贵！每次种植都需要认真对待
+
+[NARRATIVE_PVZ1_S32_8_H_INTRO_2]
+{SAY:CRAZYDAVE}把铲子放一边去吧，邻居。我们要用心呵护种子
+
+[NARRATIVE_PVZ1_S32_8_H_INTRO_3]
+{SAY:CRAZYDAVE}深思熟虑，准备花盆，还有别忘记按时浇水
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}我捡到一个漂流瓶，里面的信上写道
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_2]
+{SAY:WINNIE}“诚邀诸位出海一叙，落款……不是僵尸”
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_3]
+{SAY:CRAZYDAVE}让我把这封信塞进去
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_4]
+{SAY:CRAZYDAVE}“有本事你上岸呀”
+
+[NARRATIVE_PVZ1_S32_10_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}警告！侦测到一群发狂的公牛
+
+[NARRATIVE_PVZ1_S32_10_H_INTRO_2]
+{SAY:WINNIE}它们正追逐着大批僵尸向我们奔来
+
+[NARRATIVE_PVZ1_S32_10_H_INTRO_3]
+{SAY:CRAZYDAVE}难道是西班牙的奔牛节到了吗
+
+[NARRATIVE_PVZ1_S32_11_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}别出声！我们碰上僵尸考古军团的先遣队了
+
+[NARRATIVE_PVZ1_S32_11_H_INTRO_2]
+{SAY:WINNIE}我们要小心，同时出动大量植物会引来僵尸主力
+
+[NARRATIVE_PVZ1_S32_11_H_INTRO_3]
+{SAY:WINNIE}我们要悄悄地，让它们消失在丛林里
+
+[NARRATIVE_PVZ1_S32_12_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}茄子忍者光是站着，就可抵千军万马
+
+[NARRATIVE_PVZ1_S32_12_H_INTRO_2]
+{SAY:WINNIE}获得机动性后，可以一边躲闪一边进行高难度攻击
+
+[NARRATIVE_PVZ1_S32_12_H_INTRO_3]
+{SAY:CRAZYDAVE}划动矿车也是一门艺术，请开始你的表演，邻居
+
+[NARRATIVE_PVZ1_S32_13_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}莲叶们被海浪冲走了
+
+[NARRATIVE_PVZ1_S32_13_H_INTRO_2]
+{SAY:WINNIE}海上空战力量即将抵达，空投准备
+
+[NARRATIVE_PVZ1_S32_13_H_INTRO_3]
+{SAY:CRAZYDAVE}那艘飞船看着挺眼熟啊
+
+[NARRATIVE_PVZ1_S32_14_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}遭遇腐蚀酸雨！我们只有那些郁金香号手了
+
+[NARRATIVE_PVZ1_S32_14_H_INTRO_2]
+{SAY:WINNIE}必须想办法让它们进入治愈状态
+
+[NARRATIVE_PVZ1_S32_14_H_INTRO_3]
+{SAY:CRAZYDAVE}俗话说，危机可以激发人的求生欲，植物也一样
+
+[NARRATIVE_PVZ1_S32_15_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}甲板拆除，马力全开
+
+[NARRATIVE_PVZ1_S32_15_H_INTRO_2]
+{SAY:CRAZYDAVE}这下除了海鸥僵尸和飞索僵尸，再没什么僵尸能追上我们了
+
+[NARRATIVE_PVZ1_S32_15_H_INTRO_3]
+{SAY:WINNIE}资料显示，会飞的不只有海鸥，会使绳索的也不只有飞索
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_1]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}坐回板凳上，我的史诗剧作会告诉你们何谓艺术
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_2]
+{SAY:ZOMBOSSICON}一场关于爱情与牺牲，脑子与毁灭的悲剧，开幕！
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_3]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}我想我们才是这场悲剧的主角
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_4]
+{SAY:WINNIE}一场同归于尽的悲惨收场在所难免
+[CHALLENGE_DESTROY_STONEBLOCK_MID]
+Tiêu hủy {GRID_ITEMS} bức tượng hóa đá kích thước trung bình
 [WARNING_SUPERFANIMP_DROP]
 Người hâm mộ cuồng nhiệt cuồng hoan!
 
@@ -69631,7 +70568,7 @@ Trương Đào的夏天
 道爷我成了
 
 [S14_MEMORY_LEVEL_NAME_004_H]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S14_MEMORY_LEVEL_NAME_005_H]
 哈哈镜
@@ -69655,7 +70592,7 @@ Hạt Óc Chó bowling
 欢笑大只佬
 
 [S14_MEMORY_LEVEL_NAME_012_H]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S14_MEMORY_LEVEL_NAME_013_H]
 来吧走起
@@ -69703,7 +70640,7 @@ Hạt Óc Chó bowling
 原始神秘僵尸王
 
 [S15_MEMORY_LEVEL_NAME_012_H]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [S15_MEMORY_LEVEL_NAME_013_H]
 摇滚说唱新世代
@@ -71629,18 +72566,18 @@ Trả lời sai rồi, vui lòng thi lại nhé.
 Thuật băng bó Hạt Óc Chó cho phép tất cả các cây thuộc dòng Hạt Óc Chó được trồng đè lên nhau để khôi phục máu.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_4_TALLNUT]
-Óc Chó Cao sở hữu lượng máu cực kỳ cao, gấp mấy lần so với Hạt Óc Chó?
+Óc Chó Cao sở hữu lượng máu cực kỳ cao, gấp mấy lần so với Tường Óc Chó?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_TALLNUT]
 ca=1 lần|1.2 lần|1.5_lần|2 lần|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_4_TALLNUT]
 Trả lời đúng rồi, bạn chính là bậc thầy về cây!
-Lượng máu ban đầu của Hạt Óc Chó là 4000, trong khi lượng máu ban đầu của Óc Chó Cao là 8000.
+Lượng máu ban đầu của Tường Óc Chó là 4000, trong khi lượng máu ban đầu của Óc Chó Cao là 8000.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_4_TALLNUT]
 Trả lời sai rồi, vui lòng thi lại nhé.
-Lượng máu của Óc Chó Cao cao hơn lượng máu của Hạt Óc Chó rất nhiều.
+Lượng máu của Óc Chó Cao cao hơn lượng máu của Tường Óc Chó rất nhiều.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_5_TALLNUT]
 Sau khi nâng lên cấp 2, Óc Chó Cao Nhận được năng lực gì?
@@ -71787,7 +72724,7 @@ Hoa Ăn Thịt ở cấp 2 có thể khiến zombie khó tiếp cận bản thâ
 Sau khi nâng lên cấp 3, Hoa Ăn Thịt Nhận được năng lực gì?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_CHOMPER]
-ca=Có tỷ lệ bắn ra gai điện gây Sát thương cao|Sau khi chết để lại một Hạt Óc Chó nhỏ|Rút ngắn thêm thời gian tiêu hóa|Có tỷ lệ bắn thêm 1 quả pháo lõi táo|
+ca=Có tỷ lệ bắn ra gai điện gây Sát thương cao|Sau khi chết để lại một Tường Óc Chó nhỏ|Rút ngắn thêm thời gian tiêu hóa|Có tỷ lệ bắn thêm 1 quả pháo lõi táo|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_5_CHOMPER]
 Trả lời đúng rồi, bạn chính là bậc thầy về cây!
@@ -72925,6 +73862,17 @@ Thử thách kỷ niệm-Công phu
 
 [ANNIVERSARY_10TH_NAME_16]
 Thử thách kỷ niệm-Tiệc tùng
+[ANNIVERSARY_10TH_NAME_17]
+Thử thách kỷ niệm - Đáy biển
+
+[ANNIVERSARY_10TH_NAME_18]
+Thử thách kỷ niệm - Cổ tích
+
+[ANNIVERSARY_10TH_NAME_19]
+Thử thách kỷ niệm - Địa cung
+
+[ANNIVERSARY_10TH_NAME_20]
+Thử thách kỷ niệm - Tiệc tùng
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_01_N]
 Kỷ Băng Hà Tái Lâm - Ngày 1
@@ -73045,11 +73993,13 @@ Tiệc Giáng sinh - Ngày 9 (Khó)
 
 [CHRISTMAS_NAME_10_H]
 Tiệc Giáng sinh - Ngày 10 (Khó)
+
 [PLAYERS_TRIP_TO_SPRINGFESTIVAL_2024]
 Chuyến đi của {PLAYER} đến Tuyết Tìm Mùa Xuân
 
 [PLAYERS_TRIP_TO_QIN]
 Chuyến đi của {PLAYER} đến Địa Cung!
+
 [SPRINGFESTIVAL_2024_NAME_01]
 Tuyết Tìm Mùa Xuân - Ngày 1
 
@@ -73275,6 +74225,11 @@ Như mọi khi
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_NOMOD]
 Chế độ cổ điển, không có cơ chế đặc biệt.
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_NOMOD]
+Như thường lệ
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_NOMOD]
+Chế độ cổ điển, không có cơ chế đặc biệt nào
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICEAGE1]
 Món khai vị
@@ -73437,6 +74392,7 @@ Tăng tốc lao tới
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_NEEDFORSPEED1]
 Hãy xem tôi tăng tốc siêu cấp lao tới, trực tiếp đạt đến đích nào!
+
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_NEEDFORSPEED2]
 Siêu Xe Đua Khổng Lồ tấn công (cột 8, 9 không thể trồng trọt)
@@ -74117,7 +75073,7 @@ Zombie Bò Máy
 Tấn công lao thẳng vào sân một cách nhanh chóng.
 
 [ZOMBIE_NEW_PVP_ZOMBIE_EXPLODENUT]
-Zombie Hạt Óc Chó Nổ
+Zombie Óc Chó Nổ
 [ZOMBIE_NEW_PVP_ZOMBIE_EXPLODENUT_DESCRIPTION_HEADER]
 Gây sát thương diện rộng khi tử vong.
 
@@ -76745,7 +77701,305 @@ Số sao cao nhất trong lịch sử đạt 6 sao
 
 [ANNIVERSARY_2025_TASK_NAME_16_5]
 Số sao cao nhất trong lịch sử đạt 10 sao
+[ANNIVERSARY_2026_TASK_NAME_1_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Sát thương thực vật gây lên Zombie Pharaoh giảm 20% (2 sao), Tăng tốc độ zombie (3 sao)
 
+[ANNIVERSARY_2026_TASK_NAME_1_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_1_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_1_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_1_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_2_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Tăng 50% tốc độ di chuyển của Zombie Mòng Biển (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_2_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_2_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_2_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_2_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_3_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Tăng 50% tốc độ di chuyển của Zombie Đạo Tặc Gà (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_3_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_3_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_3_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_3_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_4_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Tăng 50% tốc độ di chuyển của Tượng Đồng Hiệp Sĩ (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_4_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_4_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_4_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_4_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_5_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Sát thương thực vật gây lên Zombie Rào Chắn Cơ Khí giảm 20% (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_5_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_5_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_5_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_5_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_6_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Sát thương thực vật gây lên Zombie Đại Pháp Sư giảm 20% (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_6_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_6_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_6_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_6_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_7_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Sát thương thực vật gây lên Zombie Bạch Tuộc giảm 20% (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_7_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_7_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_7_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_7_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_8_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Sát thương thực vật gây lên Zombie Thủ Lĩnh Băng Giá giảm 20% (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_8_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_8_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_8_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_8_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_9_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Tăng 50% tốc độ di chuyển của Zombie Máy Bay Hai Buồng (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_9_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_9_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_9_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_9_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_10_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Tăng 50% tốc độ di chuyển của Tiểu Quỷ Cửu Vạn (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_10_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_10_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_10_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_10_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_11_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Sát thương thực vật gây lên Zombie Máy Thùng (Arcade) giảm 20% (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_11_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_11_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_11_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_11_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_12_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Tăng 50% tốc độ di chuyển của Zombie Huấn Luyện Viên Khủng Long (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_12_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_12_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_12_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_12_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_13_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Tăng 50% tốc độ di chuyển của Zombie Ngôi Sao (All-Star) (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_13_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_13_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_13_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_13_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_14_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Sát thương thực vật gây lên Zombie Thợ Mỏ giảm 20% (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_14_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_14_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_14_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_14_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_15_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Tăng 50% tốc độ di chuyển của Zombie Lượn (Glider) (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_15_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_15_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_15_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_15_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_16_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Sát thương thực vật gây lên Zombie Âm Dương Sư giảm 20% (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_16_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_16_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_16_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_16_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_17_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Sát thương thực vật gây lên Zombie Thừa Tế (Tế Sĩ) giảm 20% (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_17_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_17_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_17_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_17_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_18_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Sát thương thực vật gây lên Zombie Phù Thủy giảm 20% (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_18_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_18_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_18_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_18_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_19_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Tăng 50% tốc độ di chuyển của Zombie Kỵ Binh (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_19_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_19_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_19_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_19_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_20_1]
+Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc biệt (1 sao), Tăng 50% tốc độ di chuyển của Zombie Bay Kỷ Niệm (2 sao), Tăng tốc độ zombie (3 sao)
+
+[ANNIVERSARY_2026_TASK_NAME_20_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_20_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_20_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[ANNIVERSARY_2026_TASK_NAME_20_5]
+Đạt mốc lịch sử 10 sao cao nhất
 [RE_HALLOWEEN_LEVEL_NAME_01]
 Halloween Kinh hoàng - Đêm 1
 
@@ -76903,6 +78157,8 @@ Tăng tốc độ zombie (3 sao)
 [ZOMBIE_SPEED_DIFFICULTY_3_DESCRIPTION]
 Tốc độ di chuyển tăng thêm 150%
 
+[Z_SPEED_DIFFICULTY_2]
+Tăng tốc độ zombie (3 sao)
 [Z_SPEED_DIFFICULTY_2_DIFFICULTY_2]
 Tốc độ di chuyển tăng thêm 100%
 
@@ -76916,6 +78172,8 @@ Miễn dịch khống chế (2 sao)
 [ZOMBIE_IMMUNITY_DIFFICULTY_2_DESCRIPTION]
 Miễn dịch với các hiệu ứng khống chế
 
+[ZOMBIE_IMMUNITY_DIFFICULTY_3]
+[ZOMBIE_IMMUNITY_DIFFICULTY_3_DESCRIPTION]
 [ZOMBIE_ATTACK_DIFFICULTY_1]
 Tăng tấn công của zombie (1 sao)
 [ZOMBIE_ATTACK_DIFFICULTY_1_DESCRIPTION]
@@ -77075,6 +78333,35 @@ Thời gian hồi chiêu khi trồng các loại cây hệ Sản Xuất (tạo M
 Tăng hồi chiêu cây kỳ binh (1 sao)
 [SPECIALIST_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
 Thời gian hồi chiêu khi trồng các loại cây hệ Kỳ Binh tăng gấp 3 lần
+[SHOOTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Tăng hồi chiêu trồng thực vật tầm xa (3 sao)
+[SHOOTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Thời gian hồi chiêu trồng các loại thực vật tầm xa tăng gấp 3 lần.
+
+[WARRIOR_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Tăng hồi chiêu trồng thực vật tiên phong (1 sao)
+[WARRIOR_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Thời gian hồi chiêu trồng các loại thực vật tiên phong tăng gấp 3 lần.
+
+[SUPPORTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Tăng hồi chiêu trồng thực vật hỗ trợ (1 sao)
+[SUPPORTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Thời gian hồi chiêu trồng các loại thực vật hỗ trợ tăng gấp 3 lần.
+
+[PROTECTOR_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Tăng hồi chiêu trồng thực vật phòng thủ (1 sao)
+[PROTECTOR_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Thời gian hồi chiêu trồng các loại thực vật phòng thủ tăng gấp 3 lần.
+
+[SUNMAKER_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Tăng hồi chiêu trồng thực vật sản sinh năng lượng (1 sao)
+[SUNMAKER_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Thời gian hồi chiêu trồng các loại thực vật sản sinh năng lượng tăng gấp 3 lần.
+
+[SPECIALIST_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Tăng hồi chiêu trồng thực vật đặc biệt (1 sao)
+[SPECIALIST_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Thời gian hồi chiêu trồng các loại thực vật đặc biệt tăng gấp 3 lần.
 
 [MOLD_1]
 Thảm khuẩn bên trái (1 sao)
@@ -77315,25 +78602,25 @@ Hoa Hướng Dương tỏa ra ánh sáng hào quang và nhảy múa vui vẻ, l�
 Hoa Hướng Dương tỏa ra ánh sáng hào quang và nhảy múa vui vẻ, lập tức sản xuất 300 điểm Mặt trời, ^ff0000^đồng thời có xác suất sản xuất thêm 100 Xu.^oldclr^
 
 [WALLNUT_NEW_SKILL_LEVEL1_DES]
-Hạt Óc Chó sử dụng cơ thể kiên cố của mình để ngăn chặn zombie, bảo vệ cây trồng phía sau nó.
+Tường Óc Chó sử dụng cơ thể kiên cố của mình để ngăn chặn zombie, bảo vệ cây trồng phía sau nó.
 
 [WALLNUT_NEW_SKILL_LEVEL2_DES]
-Hạt Óc Chó khi chết có 50% xác suất tạo ra một vụ nổ, đánh chấn đẩy lùi zombie ở khu vực lân cận.
+Tường Óc Chó khi chết có 50% xác suất tạo ra một vụ nổ, đánh chấn đẩy lùi zombie ở khu vực lân cận.
 
 [WALLNUT_NEW_SKILL_LEVEL3_DES]
-Xác suất phát nổ khi chết của Hạt Óc Chó nâng lên thành 100%.
+Xác suất phát nổ khi chết của Tường Óc Chó nâng lên thành 100%.
 
 [WALLNUT_NEW_SKILL_LEVEL4_DES]
 Khi trồng có xác suất thấp kích hoạt trực tiếp tuyệt kỹ Plant Food!
 
 [WALLNUT_NEW_SKILL_LEVEL5_DES]
-Xung quanh Hạt Óc Chó sẽ được bao bọc bởi 3 lõi hạt Hạt Óc Chó mang các thuộc tính khác nhau, tự động tấn công những zombie áp sát. Lõi hạt hệ hỏa gây 90 điểm sát thương; lõi hạt hệ lôi gây 60 điểm sát thương kèm hiệu ứng làm ^ff9600^tê liệt I^oldclr^ trong 1.5 giây; lõi hạt hệ băng gây 60 điểm sát thương đồng thời khiến zombie rơi vào trạng thái làm chậm suốt 10 giây.
+Xung quanh Tường Óc Chó sẽ được bao bọc bởi 3 lõi hạt Tường Óc Chó mang các thuộc tính khác nhau, tự động tấn công những zombie áp sát. Lõi hạt hệ hỏa gây 90 điểm sát thương; lõi hạt hệ lôi gây 60 điểm sát thương kèm hiệu ứng làm ^ff9600^tê liệt I^oldclr^ trong 1.5 giây; lõi hạt hệ băng gây 60 điểm sát thương đồng thời khiến zombie rơi vào trạng thái làm chậm suốt 10 giây.
 
 [WALLNUT_PLANTFOOD_DESCRIPTION]
-Hạt Óc Chó lập tức hóa cứng lớp vỏ ngoài, khôi phục lượng máu và khoác lên một bộ giáp sắt kiên cố, có khả năng ngăn chặn zombie cắn nuốt.
+Tường Óc Chó lập tức hóa cứng lớp vỏ ngoài, khôi phục lượng máu và khoác lên một bộ giáp sắt kiên cố, có khả năng ngăn chặn zombie cắn nuốt.
 
 [WALLNUT_AVATAR_PLANTFOOD_DESCRIPTION]
-Hạt Óc Chó lập tức hóa cứng lớp vỏ ngoài, khôi phục lượng máu và khoác lên một bộ ^ff0000^giáp pha lê kiên cố hơn, có thể chống đỡ zombie cắn nuốt lâu hơn.^oldclr^
+Tường Óc Chó lập tức hóa cứng lớp vỏ ngoài, khôi phục lượng máu và khoác lên một bộ ^ff0000^giáp pha lê kiên cố hơn, có thể chống đỡ zombie cắn nuốt lâu hơn.^oldclr^
 
 [POTATOMINE_NEW_SKILL_LEVEL1_DES]
 Mìn Khoai Tây sẽ đánh nổ tung bay những zombie tiếp xúc va chạm với nó, tuy nhiên sau khi đặt xuống cần tốn một khoảng thời gian để kích hoạt khởi động bản thân.
@@ -78041,19 +79328,19 @@ Bắn pháo huyết tương, đánh bay zombie kích thước nhỏ và zombie k
 Bắn pháo huyết tương, đánh bay zombie kích thước nhỏ và zombie kích thước vừa không thuộc thế giới Tương Lai trên toàn bộ hàng, dọn sạch các chướng ngại vật trên cả hàng dài. Khi tiếp xúc va chạm với đơn vị cơ khí kích thước vừa thuộc thế giới Tương Lai hoặc zombie kích thước lớn sẽ phát nổ và chấm dứt đòn xung kích. ^ff0000^Pháo điện tử sẽ khuếch tán chuỗi tia chớp ra bên ngoài, gây sát thương cho zombie ở ba hàng bên phải.^oldclr^ Sau khi bắn pháo hạt, Cam Năng Lượng tiến vào trạng thái nghỉ ngơi.
 
 [HOLONUT_NEW_SKILL_LEVEL1_DES]
-Chỉ cần phần đế trụ không bị phá hủy, Hạt Óc Chó Vô Cực có thể hồi sinh vô hạn, sau khi hình chiếu biến mất 15 giây, Hạt Óc Chó Vô Cực sẽ khôi phục lại đầy tràn lượng máu tối đa.
+Chỉ cần phần đế trụ không bị phá hủy, Óc Chó Vô Cực có thể hồi sinh vô hạn, sau khi hình chiếu biến mất 15 giây, Óc Chó Vô Cực sẽ khôi phục lại đầy tràn lượng máu tối đa.
 
 [HOLONUT_NEW_SKILL_LEVEL2_DES]
-Tốc độ khôi phục hình chiếu của Hạt Óc Chó Vô Cực được làm nhanh hơn, khôi phục sau 10 giây kể từ khi hình chiếu biến mất.
+Tốc độ khôi phục hình chiếu của Óc Chó Vô Cực được làm nhanh hơn, khôi phục sau 10 giây kể từ khi hình chiếu biến mất.
 
 [HOLONUT_NEW_SKILL_LEVEL3_DES]
-Tốc độ khôi phục hình chiếu của Hạt Óc Chó Vô Cực lại càng nhanh hơn nữa, khôi phục sau 7.5 giây kể từ khi hình chiếu biến mất.
+Tốc độ khôi phục hình chiếu của Óc Chó Vô Cực lại càng nhanh hơn nữa, khôi phục sau 7.5 giây kể từ khi hình chiếu biến mất.
 
 [HOLONUT_NEW_SKILL_LEVEL4_DES]
 Khi trồng có xác suất trung bình kích hoạt trực tiếp tuyệt kỹ Plant Food!
 
 [HOLONUT_NEW_SKILL_LEVEL5_DES]
-Mỗi lần hình chiếu của Hạt Óc Chó Vô Cực hồi phục, lượng máu tăng thêm 1000 điểm (tối đa không vượt quá 10000 điểm).
+Mỗi lần hình chiếu của Óc Chó Vô Cực hồi phục, lượng máu tăng thêm 1000 điểm (tối đa không vượt quá 10000 điểm).
 
 [HOLONUT_PLANTFOOD_DESCRIPTION]
 Kiến tạo một bức tường chắn bảo vệ ở ngay phía trước bản thân, có thể ngăn chặn đòn tấn công của zombie trên tất cả các hàng đồng thời ngăn chặn zombie bay, bức tường chắn sẽ biến mất sau khi hấp thụ lượng sát thương nhất định.
@@ -79603,25 +80890,25 @@ Liên tục bắn ra 5 viên đạn đậu hạng nặng chắc chắn gây hi�
 Liên tục bắn ra 5 viên đạn đậu hạng nặng chắc chắn gây hiệu ứng đẩy lùi 1 ô, đồng thời gây sát thương lan cho zombie trong phạm vi một ô đơn lẻ, sát thương tăng cao hơn nữa ở cấp 5. ^ff0000^Đồng thời bồi thêm một quả cầu dung nham ở đòn cuối, gây sát thương cho zombie đi qua và để lại vệt dung nham duy trì trong 4 giây.^oldclr^
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL1_DES]
-Hạt Óc Chó Cổ Đại sử dụng cơ thể kiên cố của nó để ngăn chặn zombie bảo vệ cây trồng phía sau.
+Tường Óc Chó Cổ Đại sử dụng cơ thể kiên cố của nó để ngăn chặn zombie bảo vệ cây trồng phía sau.
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL2_DES]
-Sau khi bị zombie cắn gặm xong xuôi sẽ để lại một cây Hạt Óc Chó nhỏ sở hữu 1000 điểm máu.
+Sau khi bị zombie cắn gặm xong xuôi sẽ để lại một cây Tường Óc Chó nhỏ sở hữu 1000 điểm máu.
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL3_DES]
-Sau khi bị zombie cắn gặm xong xuôi sẽ để lại một cây Hạt Óc Chó nhỏ sở hữu 2000 điểm máu.
+Sau khi bị zombie cắn gặm xong xuôi sẽ để lại một cây Tường Óc Chó nhỏ sở hữu 2000 điểm máu.
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL4_DES]
 Khi trồng có xác suất thấp kích hoạt trực tiếp tuyệt kỹ Plant Food!
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL5_DES]
-Sau khi trải qua 15 giây thời gian, trên đỉnh đầu Hạt Óc Chó Cổ Đại sẽ kết ra một quả trái cây, khôi phục 1000 điểm máu cho bản thân, và sau khi ăn xong xuôi sẽ nhả phun ra một lõi hạt trái cây có 300 sát thương.
+Sau khi trải qua 15 giây thời gian, trên đỉnh đầu Tường Óc Chó Cổ Đại sẽ kết ra một quả trái cây, khôi phục 1000 điểm máu cho bản thân, và sau khi ăn xong xuôi sẽ nhả phun ra một lõi hạt trái cây có 300 sát thương.
 
 [PRIMALWALLNUT_PLANTFOOD_DESCRIPTION]
-Hạt Óc Chó Cổ Đại khoác lên mình một bộ giáp bằng đá kiên cố.
+Tường Óc Chó Cổ Đại khoác lên mình một bộ giáp bằng đá kiên cố.
 
 [PRIMALWALLNUT_AVATAR_PLANTFOOD_DESCRIPTION]
-Hạt Óc Chó Cổ Đại khoác lên mình một bộ ^ff0000^giáp hoàng kim kiên cố.^oldclr^
+Tường Óc Chó Cổ Đại khoác lên mình một bộ ^ff0000^giáp hoàng kim kiên cố.^oldclr^
 
 [PERFUMESHROOM_NEW_SKILL_LEVEL1_DES]
 Sau khi trồng lập tức phát huy tác dụng mê hoặc toàn bộ các con khủng long có thể bị mê hoặc trên hàng này, đồng thời khiến zombie trên hàng này đi lùi ngược hướng trong 6 giây.
@@ -79939,7 +81226,7 @@ Hoa Nguyệt giải phóng năng lượng ánh trăng lập tức sản xuất 1
 Hoa Nguyệt giải phóng năng lượng ánh trăng lập tức sản xuất 100 Mặt trời, ^ff0000^đồng thời tạo ra 12 bức tường khiên có thể hấp thụ 1000 điểm sát thương trong phạm vi 3x3.^oldclr^
 
 [EXPLODEONUT_NEW_SKILL_LEVEL1_DES]
-Lớp vỏ cứng cáp của Hạt Óc Chó Nổ có thể ngăn chặn zombie bảo vệ cây trồng phía sau, sau khi bị cắn gặm xong xuôi sẽ gây ra một lần sát thương nổ cho phạm vi 3x3 xung quanh.
+Lớp vỏ cứng cáp của Óc Chó Nổ có thể ngăn chặn zombie bảo vệ cây trồng phía sau, sau khi bị cắn gặm xong xuôi sẽ gây ra một lần sát thương nổ cho phạm vi 3x3 xung quanh.
 
 [EXPLODEONUT_NEW_SKILL_LEVEL2_DES]
 Sau khi phát nổ có 10% xác suất tạo ra một Mìn Khoai Tây.
@@ -79951,13 +81238,13 @@ Sau khi phát nổ có 20% xác suất tạo ra một Mìn Khoai Tây.
 Khi trồng có xác suất thấp kích hoạt trực tiếp tuyệt kỹ Plant Food!
 
 [EXPLODEONUT_NEW_SKILL_LEVEL5_DES]
-Sau khi lượng máu của Hạt Óc Chó Nổ giảm xuống 0, nó sẽ bay lên trời sau vụ nổ và rơi xuống một ô đất ngẫu nhiên có zombie để phát nổ thêm một lần nữa.
+Sau khi lượng máu của Óc Chó Nổ giảm xuống 0, nó sẽ bay lên trời sau vụ nổ và rơi xuống một ô đất ngẫu nhiên có zombie để phát nổ thêm một lần nữa.
 
 [EXPLODEONUT_PLANTFOOD_DESCRIPTION]
-Hạt Óc Chó Nổ khoác lên mình một lớp khiên thép, lớp khiên này sau khi bị cắn gặm xong xuôi cũng sẽ phát nổ.
+Óc Chó Nổ khoác lên mình một lớp khiên thép, lớp khiên này sau khi bị cắn gặm xong xuôi cũng sẽ phát nổ.
 
 [EXPLODEONUT_AVATAR_PLANTFOOD_DESCRIPTION]
-Hạt Óc Chó Nổ khoác lên mình một lớp ^ff0000^khiên thép dày dặn hơn^oldclr^, lớp khiên này sau khi bị cắn gặm xong xuôi cũng sẽ phát nổ.
+Óc Chó Nổ khoác lên mình một lớp ^ff0000^khiên thép dày dặn hơn^oldclr^, lớp khiên này sau khi bị cắn gặm xong xuôi cũng sẽ phát nổ.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL1_DES]
 Khi có zombie xuất hiện ở 1 ô bên phải Cà Độc Dược dưới trạng thái thông thường, cây sẽ phóng lá cỏ. Dưới trạng thái bóng tối, phạm vi tấn công đổi thành toàn bộ hàng và khôi phục 1 phiến lá sau mỗi 5 giây.
@@ -82123,9 +83410,9 @@ Hướng dẫn sự kiện Phòng bếp của Dave
 2. Dùng nguyên liệu làm bánh Taco để nhận quà cảm ơn từ Dave theo tỷ lệ sau:
 - Taco Siêu To Khổng Lồ: Mảnh Măng Cụt Điện (30%), Mảnh định hướng (60%), Sách tiến hóa (10%).
 - Taco Thịt Nướng: Vé chúc phúc Cổ vật (40%), Mảnh định hướng (30%), Mảnh Anh Em Củ Mã Thầy (30%).
-- Taco Thịt Hun Khói: Vé chúc phúc Cổ vật (40%), Mảnh Lá Ngón Điện Giật (30%), Dung dịch dinh dưỡng Cam (30%).
-- Taco Rau Củ: 100 Kim cương (40%), Mảnh Cà Độc Dược Chùy Gai (40%), Dung dịch dinh dưỡng Tím (20%).
-- Taco Thường: 30 Kim cương (40%), Mảnh Hạt Óc Chó Vô Cực (40%), Dung dịch dinh dưỡng Lam (20%).
+- Taco Thịt Hun Khói: Vé chúc phúc Cổ vật (40%), Mảnh Lá Ngón Điện Giật (30%), Dung dịch Cam (30%).
+- Taco Rau Củ: 100 Kim cương (40%), Mảnh Cà Độc Dược Chùy Gai (40%), Dung dịch Tím (20%).
+- Taco Thường: 30 Kim cương (40%), Mảnh Óc Chó Vô Cực (40%), Dung dịch Lam (20%).
 3. Nguyên liệu thừa có thể đổi lấy Kim cương hoặc Xu tại giao diện chế tạo. Nguyên liệu không kế thừa sang kỳ sau, vui lòng đổi sớm.
 
 [DAVEKITCHEN_SHORT_DESCRIPTION]
@@ -82960,7 +84247,7 @@ Huấn Luyện Viên Mắc Ca - Ấm Trà
 Giảm tiêu hao Mặt Trời xuống 50 điểm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_3]
-Hạt Óc Chó - Càng Cua
+Tường Óc Chó - Càng Cua
 
 [NEW_AVATAR_DESCRIPTION_WALLNUT_3]
 Máu tăng 20%
@@ -83502,6 +84789,8 @@ Quy tắc
 3. Nhiệm vụ sự kiện mở theo từng giai đoạn.
 4. Hoàn thành nhận Bánh Răng để đổi quà.
 5. Hãy đổi quà trước khi sự kiện kết thúc.
+[NFSLINKAGE_TITLE_10]
+Đêm hội kỷ niệm
 
 [NFSLINKAGE_TITLE_9]
 Hè Mát Lạnh
@@ -83520,6 +84809,8 @@ Khám Phá Hà Mỗ Độ
 
 [NFSLINKAGE_TITLE_4]
 Đại Chiến Đua Xe
+[MAT_NFSLINKAGE_TICKET_10]
+Bóng bay lễ hội
 
 [MAT_NFSLINKAGE_TICKET_9]
 Nước Dừa Thái
@@ -83538,6 +84829,8 @@ Kẹo Gậy
 
 [MAT_NFSLINKAGE_TICKET_4]
 Bánh Răng
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_10]
+Trong thời gian diễn ra sự kiện, người chơi có thể đăng nhập để nhận phần thưởng siêu hời trong 14 ngày, hoàn thành nhiệm vụ sự kiện để nhận bóng bay lễ hội, và tiêu hao bóng bay lễ hội tại cửa hàng đổi thưởng để rinh về những phần thưởng cực kỳ giá trị nhé!
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_9]
 Trong thời gian sự kiện, người chơi đăng nhập có thể nhận phần thưởng siêu giá trị 14 ngày, hoàn thành nhiệm vụ nhận Kim Vân Chu, dùng để đổi quà tại Cửa hàng Đổi thưởng!
@@ -84608,7 +85901,7 @@ Màn hiện tại Chưa mở khóa
 Lật Bài Lạc Đà Trí Nhớ
 
 [ACTIVITY_NEW_MINIGAME_BOWLING]
-Hạt Óc Chó bowling
+Tường Óc Chó bowling
 
 [ACTIVITY_NEW_MINIGAME_COPYCAT]
 Đoán Xem Tôi Là Ai
@@ -85875,6 +87168,11 @@ Căm hận, săn lùng, cuối cùng hóa quỷ là số mệnh của Thợ Săn
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25904]
 Nơi sâu thẳm của màn đêm, thắp lên ngọn đèn âm phủ dẫn lối linh hồn
+[AVATARCOLLECTIONS_HEAD_ID_25922]
+Điểm tận cùng vạn giới
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25922]
+Hắn sẽ mang đến sự chấm dứt của muôn loài vạn vật.
 
 [AVATARCOLLECTIONS_HEAD_ID_25808]
 Yên Vàng Đón Tết
@@ -85923,6 +87221,11 @@ Trói quỷ thành bóng, săn lùng kẻ ác!
 
 [AVATARCOLLECTIONS_THEME_DES23]
 Lửa thiêu linh hồn, tất phải tắt bằng linh hồn
+[AVATARCOLLECTIONS_THEME_TITLE24]
+Điểm tận cùng vạn giới
+
+[AVATARCOLLECTIONS_THEME_DES24]
+Nắm giữ sự tận thế, hủy diệt vạn giới
 
 [AVATARCOLLECTIONS_NOT_EXIST]
 Chưa sở hữu
@@ -86034,7 +87337,11 @@ Lửa Quỷ Màn Đêm
 
 [TOYS_HEAD_DES_ID_25895]
 Nhận được khi tham gia sự kiện Màn Đêm U Huyền
+[TOYS_HEAD_ID_25920]
+Hồi kết hoàn vũ
 
+[TOYS_HEAD_DES_ID_25920]
+Nhận được khi tham gia sự kiện yết kiến đấng tận thế.
 [PARALLEL_SPIKEWEED]
 Số 41 Cỏ Gai
 
@@ -86574,6 +87881,13 @@ Tại sao chiếc xô sắt lại không bị lực đẩy của nước làm ch
 [ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt úp trên đầu mang lại sự bảo hộ cực kỳ lớn giúp hắn miễn dịch với nhiều nguồn sát thương.
 
+[ZOMBIE_ATLANTIS_ARMOR4]
+Zombie Đầu San Hô Đại Dương
+[ZOMBIE_ATLANTIS_ARMOR4_DESCRIPTION]
+Zombie Đầu San Hô luôn cảm thấy đầu lúc nặng lúc nhẹ, suy nghĩ mãi không thông và cứ tưởng đó chỉ là ảo giác của mình. Thật ra sự thật rất đơn giản — khi dòng hải dương chảy qua rặng san hô trên đầu hắn, nó tiện tay mang cả đàn cá bơi ra bơi vào.
+
+[ZOMBIE_ATLANTIS_ARMOR4_DESCRIPTION_HEADER]
+Mũ san hô giúp hắn chịu đựng những đòn tấn công nặng nề hơn.		
 [ZOMBIE_ATLANTIS_gargantuar]
 Zombie Khổng Lồ Di Tích
 
@@ -86639,7 +87953,13 @@ Công nghệ đúc luyện sắt huyền bí từ hơn mười vạn năm trư�
 
 [ZOMBIE_ATLANTIS_LAND_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt biển sâu úp trên đầu mang lại sự bảo hộ cực kỳ lớn giúp hắn miễn dịch với nhiều nguồn sát thương.
+Zombie Đầu San Hô Di Tích
 
+[ZOMBIE_ATLANTIS_LAND_ARMOR4_DESCRIPTION]
+Zombie Đầu San Hô vẫn luôn cho rằng chiếc mũ bảo hiểm của mình là món đồ xa xỉ bậc nhất được săn đón nhất trong vương quốc, nào ngờ nó chẳng qua chỉ là một khối san hô tiện tay bẻ xuống ở vùng phụ cận vương quốc, bên trong còn đang trú ngụ ít nhất ba vị khách thuê nhà đại dương giấu tên — và cho đến nay vẫn chưa hề đóng tiền nhà.
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR4_DESCRIPTION_HEADER]
+Mũ san hô giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 [ZOMBIE_ATLANTIS_LAND_FLAG]
 Zombie Cầm Cờ Di Tích
 
@@ -86884,6 +88204,11 @@ Giải Hướng Dương Vàng 2025
 
 [SUN_AWARD_HEAD_DES_ID_25744]
 Để niềm vui tiếp tục "nảy mầm"!
+[SUN_AWARD_HEAD_ID_25931]
+Giải Thưởng Hướng Dương Vàng 2026
+
+[SUN_AWARD_HEAD_DES_ID_25931]
+Đồng hành mười ba năm, cùng nhau bảo vệ cả khu vườn xuân tràn đầy sức sống.
 
 [UNCHARTED_BIRTHDAY_ID_25745]
 Kẻ Chinh Phục Bí Cảnh Kỷ Niệm
@@ -86891,6 +88216,11 @@ Kẻ Chinh Phục Bí Cảnh Kỷ Niệm
 [UNCHARTED_BIRTHDAY_HEAD_DES_ID_25745]
 Chứng nhận cho việc vượt qua hoàn mỹ Bí cảnh Kỷ niệm ngày thành lập.
 
+[UNCHARTED_BIRTHDAY_ID_25914]
+Đại điển sinh nhật hoa
+
+[UNCHARTED_BIRTHDAY_HEAD_DES_ID_25914]
+Minh chứng cho việc vượt qua hoàn hảo bí cảnh kỷ niệm
 [PLAYERS_TRIP_TO_ZOMBIERUSH]
 Chuyến đi của {PLAYER} đến Tiêu Diệt Zombie!
 
@@ -86923,6 +88253,14 @@ Công Ty Z luôn tuân thủ nghiêm ngặt các quy định về xử lý chấ
 
 [ZOMBIE_ZCORP_ARMOR2_DESCRIPTION_HEADER]
 Người nhân viên này sử dụng một chiếc thùng tái chế thân thiện với môi trường để bảo vệ cái đầu của mình.
+[ZOMBIE_ZCORP_ARMOR4]
+Zombie Đầu Vi Tính Công Ty Z
+
+[ZOMBIE_ZCORP_ARMOR4_DESCRIPTION]
+Zombie Đầu Vi Tính Công Ty Z ngày nào cũng cắm mặt làm việc trước màn hình trên đầu mình, điều duy nhất khiến anh ta vỡ trận chính là khoảnh khắc bị thực vật nện cho màn hình xanh lè, tài liệu chưa kịp lưu.
+
+[ZOMBIE_ZCORP_ARMOR4_DESCRIPTION_HEADER]
+Mũ máy tính giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 
 [ZOMBIE_ZCORP_FLAG]
 Zombie Cầm Cờ Công Ty Z
@@ -86959,7 +88297,12 @@ Công Ty Z luôn khuyến khích các nhân viên hợp đồng mở rộng tư 
 
 [ZOMBIE_ZCORP_FEM_ARMOR2_DESCRIPTION_HEADER]
 Chiếc thùng tái chế không chỉ có thể bảo vệ đầu não, mà còn có thể bảo vệ môi trường của Trái Đất tốt hơn.
+Zombie Đầu Vi Tính Nhân Viên Hợp Đồng Công Ty Z
+[ZOMBIE_ZCORP_FEM_ARMOR4_DESCRIPTION]
+Công Ty Z luôn tự hào vỗ ngực xưng tên là doanh nghiệp xanh thân thiện với môi trường, cho đến khi có người phát hiện ra bí quyết tiết kiệm điện của họ — bắt toàn bộ nhân viên hợp đồng dùng chiếc máy tính trên đầu để làm việc, hóa đơn tiền điện trực tiếp giảm một nửa.
 
+[ZOMBIE_ZCORP_FEM_ARMOR4_DESCRIPTION_HEADER]
+Mũ máy tính giúp ả chịu đựng những đòn tấn công nặng nề hơn.
 [ZOMBIE_ZCORP_GARGANTUAR]
 Zombie Thượng Cấp Khổng Lồ Tổng Bộ Công Ty Z
 
@@ -87278,7 +88621,7 @@ Zombie Cây 1
 Zombie Cây 2
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_3]
-Bowling Hạt Óc Chó
+Bowling Tường Óc Chó
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_4]
 Mưa Hạt Giống
@@ -87293,7 +88636,7 @@ Chiến Tàng Hình
 Xếp Sao
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_8]
-Xếp Hạt Óc Chó
+Xếp Tường Óc Chó
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_9]
 Xếp Đội Hình
@@ -87701,7 +89044,7 @@ Sao đối diện xuất hiện zombie đầu cây?
 Sao đối diện lại xuất hiện zombie đầu cây?
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_3]
-Dùng Hạt Óc Chó làm bóng bowling hạ zombie.
+Dùng Tường Óc Chó làm bóng bowling hạ zombie.
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_4]
 Cơn mưa hạt giống đang rơi!
@@ -88678,7 +90021,7 @@ Bộ bài của Nấm Ảo Thuật
 Khi không có chiến đấu, các cây nấm ảo thuật thường tụ tập lại, lôi bộ bài ra chơi một trò chơi gọi là "Đấu Thây Vương".
 
 [SOUDACHE_COLLECTION_WALNUST_IRON_ARMOR]
-Giáp sắt của Hạt Óc Chó
+Giáp sắt của Tường Óc Chó
 
 [SOUDACHE_COLLECTION_DESCRIPTION_WALNUST_IRON_ARMOR]
 "Mặc bộ giáp này vào rồi, ngươi còn đòi phá phòng tôi nữa à?"
@@ -89253,6 +90596,7 @@ Vị hoàng đế tàn bạo và ngông cuồng nhất trong lịch sử La Mã 
 
 [ZOMBIE_ZOMBOSSMECH_HOT_RODICUS_DESCRIPTION]
 “Hèn nhát là nỗi sỉ nhục lớn nhất. Dưới danh nghĩa của Tiến sĩ Zomboss, chỉ có tiến lên! Hãy dâng hiến tất cả cho ta!” Kể từ khi Tiến sĩ Zombie xuyên không về dòng thời gian La Mã cổ đại, hắn luôn khao khát được nói câu thoại này. Lưu ý: Câu nói này được phóng tác từ châm ngôn của thần tượng hắn, người mà tương truyền rất thích ngồi thẫn thờ trên bệ xí.
+[ZOMBIE_MOON]
 
 [POINTSCHALLENGE_DESCRIPTION_TITLE]
 Thể lệ sự kiện
@@ -90079,4 +91423,251 @@ Tiêu {NUMS} xu để mua?
 [DAVE_SHOP_BUY_CONFIRM_GEM]
 Tiêu {NUMS} Kim cương để mua?
 
+[NARRATIVE_MOON1_TUTORIAL_1_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}月球表面太糟糕了，没办法种植植物了
+
+[NARRATIVE_MOON1_TUTORIAL_1_2]
+{SAY:WINNIE}我们可以尝试将植物种植在苔藓地块上
+
+[NARRATIVE_MOON1_TUTORIAL_2_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}太棒了，有什么办法能够增加苔藓地块呢？
+
+[NARRATIVE_MOON1_TUTORIAL_2_2]
+{SAY:WINNIE}可以试试在苔藓地块周围种植宇宙苔藓
+
+[NARRATIVE_MOON1_TUTORIAL_3_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}我才发现，我们没有消耗阳光就把植物种下去了
+
+[NARRATIVE_MOON1_TUTORIAL_3_2]
+{SAY:WINNIE}没错，植物现在是依靠维生力场提供能量，不需要依靠阳光了
+
+[NARRATIVE_MOON1_TUTORIAL_3_3]
+{SAY:WINNIE}每株植物都会增加维生力场的电力负载
+
+[NARRATIVE_MOON1_TUTORIAL_4_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{EXCITED:ASTRONAUTCRAZYDAVE}僵尸大军来了！让我来帮你种一些植物！
+
+[NARRATIVE_MOON1_TUTORIAL_5_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}别再种植植物了！维生力场已经进入缓冲过载状态，植物状态开始不稳定了！
+
+[NARRATIVE_MOON1_TUTORIAL_5_2]
+{EXCITED:ASTRONAUTCRAZYDAVE}哼哼哼~（没有听见）
+
+[NARRATIVE_MOON1_TUTORIAL_6_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}咦？没法种植物了，植物好像都不动了
+
+[NARRATIVE_MOON1_TUTORIAL_6_2]
+{EXCITED:WINNIE}那是因为维生力场进入超级过载状态，现在得想办法提高电力上限！
+
+[NARRATIVE_MOON1_TUTORIAL_6_3]
+{EXCITED:WINNIE}试试采集者吧！采集者可以通过采集水晶来提高电力上限！
+
+[NARRATIVE_MOON1_TUTORIAL_7_1]
+{NPC_ENTER:WINNIE}{SAY:WINNIE}太好了，终于恢复正常了！
+
+[NARRATIVE_MOON1_TUTORIAL_7_2]
+{SAY:WINNIE}那就准备迎接下一波挑战吧
+
+[NARRATIVE_MOON_2_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}宇宙植物可以直接种植在月球表面上，不用宇宙苔藓的帮助
+
+[NARRATIVE_MOON_2_INTRO_2]
+{SAY:ASTRONAUTCRAZYDAVE}等等！真空里不能传声，那些僵尸为什么还会“嗷嗷”叫？
+
+[NARRATIVE_MOON_2_INTRO_3]
+{SAY:ASTRONAUTCRAZYDAVE}等等！我也会“嗷嗷”叫
+
+[NARRATIVE_MOON_2_INTRO_4]
+{SAY:WINNIE}我为你内置了隐形耳机，实时模拟的战场音效
+
+[NARRATIVE_MOON_2_INTRO_5]
+{SAY:ASTRONAUTCRAZYDAVE}能换成玉米卷咀嚼声吗？
+
+[NARRATIVE_MOON_4_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}那些僵尸身上有亮闪闪的东西！一定是促销贴纸！
+
+[NARRATIVE_MOON_4_INTRO_2]
+{SAY:WINNIE}分析结果显示，那是传送信标。
+
+[NARRATIVE_MOON_4_INTRO_3]
+{SAY:WINNIE}残血僵尸撤离后会通过信标满血返回；使用宇宙植物将其湮灭，可以阻止信标部署。
+
+[NARRATIVE_MOON_4_INTRO_4]
+{SAY:ASTRONAUTCRAZYDAVE}所以要让它们消失得干干净净——连退货地址都不留下
+
+[NARRATIVE_ROCKET_TUTORIAL_1_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}检测到前方出现运载火箭
+
+[NARRATIVE_ROCKET_TUTORIAL_1_2]
+{SAY:ASTRONAUTCRAZYDAVE}火箭！我已经系好安全带了！
+
+[NARRATIVE_ROCKET_TUTORIAL_2_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}宇宙豌豆、宇宙坚果和宇宙蘑菇乘坐火箭时，会触发不同效果。
+
+[NARRATIVE_ROCKET_TUTORIAL_2_2]
+{SAY:CRAZYDAVE}起飞！！！
+
+[ROCKET_TUTORIAL_PLANT_COSMICPEA]
+试着将宇宙豌豆种植到火箭上
+
+[NARRATIVE_METEOR_TUTORIAL_1_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}警报！检测到辐射陨石正在接近！
+
+[NARRATIVE_METEOR_TUTORIAL_1_2]
+{SAY:ASTRONAUTCRAZYDAVE}太空快递？我可没有订一块会发光的石头！
+
+[NARRATIVE_METEOR_TUTORIAL_2_1]
+{NPC_ENTER:WINNIE}{SAY:WINNIE}辐射陨石会持续侵蚀周围地块，应尽快派遣采集者开采。
+																																									  
+									  
+
+[NARRATIVE_METEOR_TUTORIAL_3_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}采集完成。辐射陨石为我们提供了永久电力提升。
+
+[NARRATIVE_METEOR_TUTORIAL_3_2]
+{SAY:ASTRONAUTCRAZYDAVE}原来它不是坏石头，只是降落方式不太礼貌！
+
+[METEOR_TUTORIAL_TAP_TERMINAL]
+点击采集终端，打开派遣面板
+
+[METEOR_TUTORIAL_TERMINAL_DRAG]
+把采集终端拖至场上
+
+[MOON1_TUTORIAL_PLANT_PEASHOOTER]
+把豌豆射手拖至苔藓地块上
+
+[MOON1_TUTORIAL_PLANT_COSMOSS]
+在苔藓地块周围种植宇宙苔藓，生成苔藓地块
+
+[MOON1_TUTORIAL_CAPACITY_BANK]
+左上角显示当前电力占用值和电力上限
+
+[MOON1_TUTORIAL_PEASHOOTER_SLOT]
+植物卡槽会显示该植物的电力占用值
+
+[MOON1_TUTORIAL_TERMINAL]
+点击采集终端，打开派遣面板
+
+[MOON1_TUTORIAL_TERMINAL_DRAG]
+把采集终端拖至场上
+
+[ANNIVERSARY_2026_1_ZOMBIE_MODIFIER]
+法老僵尸减伤
+
+[ANNIVERSARY_2026_1_ZOMBIE_MODIFIER_DESCRIPTION]
+法老僵尸受到的植物伤害降低20%
+
+[ANNIVERSARY_2026_2_ZOMBIE_MODIFIER]
+海鸥僵尸加速
+
+[ANNIVERSARY_2026_2_ZOMBIE_MODIFIER_DESCRIPTION]
+海鸥僵尸移动速度提升50%
+
+[ANNIVERSARY_2026_3_ZOMBIE_MODIFIER]
+鸡贼僵尸加速
+
+[ANNIVERSARY_2026_3_ZOMBIE_MODIFIER_DESCRIPTION]
+鸡贼僵尸移动速度提升50%
+
+[ANNIVERSARY_2026_4_ZOMBIE_MODIFIER]
+侠客铜人加速
+
+[ANNIVERSARY_2026_4_ZOMBIE_MODIFIER_DESCRIPTION]
+侠客铜人移动速度提升50%
+
+[ANNIVERSARY_2026_5_ZOMBIE_MODIFIER]
+机甲路障僵尸减伤
+
+[ANNIVERSARY_2026_5_ZOMBIE_MODIFIER_DESCRIPTION]
+机甲路障僵尸受到的植物伤害降低20%
+
+[ANNIVERSARY_2026_6_ZOMBIE_MODIFIER]
+大法师僵尸减伤
+
+[ANNIVERSARY_2026_6_ZOMBIE_MODIFIER_DESCRIPTION]
+大法师僵尸受到的植物伤害降低20%
+
+[ANNIVERSARY_2026_7_ZOMBIE_MODIFIER]
+章鱼僵尸减伤
+
+[ANNIVERSARY_2026_7_ZOMBIE_MODIFIER_DESCRIPTION]
+章鱼僵尸受到的植物伤害降低20%
+
+[ANNIVERSARY_2026_8_ZOMBIE_MODIFIER]
+冰河酋长僵尸减伤
+
+[ANNIVERSARY_2026_8_ZOMBIE_MODIFIER_DESCRIPTION]
+冰河酋长僵尸受到的植物伤害降低20%
+
+[ANNIVERSARY_2026_9_ZOMBIE_MODIFIER]
+双舱飞机僵尸加速
+
+[ANNIVERSARY_2026_9_ZOMBIE_MODIFIER_DESCRIPTION]
+双舱飞机僵尸移动速度提升50%
+
+[ANNIVERSARY_2026_10_ZOMBIE_MODIFIER]
+搬运工小鬼加速
+
+[ANNIVERSARY_2026_10_ZOMBIE_MODIFIER_DESCRIPTION]
+搬运工小鬼移动速度提升50%
+
+[ANNIVERSARY_2026_11_ZOMBIE_MODIFIER]
+街机僵尸减伤
+
+[ANNIVERSARY_2026_11_ZOMBIE_MODIFIER_DESCRIPTION]
+街机僵尸受到的植物伤害降低20%
+
+[ANNIVERSARY_2026_12_ZOMBIE_MODIFIER]
+恐龙驯兽师加速
+
+[ANNIVERSARY_2026_12_ZOMBIE_MODIFIER_DESCRIPTION]
+恐龙驯兽师僵尸移动速度提升50%
+
+[ANNIVERSARY_2026_13_ZOMBIE_MODIFIER]
+全明星僵尸加速
+
+[ANNIVERSARY_2026_13_ZOMBIE_MODIFIER_DESCRIPTION]
+全明星僵尸移动速度提升50%
+
+[ANNIVERSARY_2026_14_ZOMBIE_MODIFIER]
+煤矿工僵尸减伤
+
+[ANNIVERSARY_2026_14_ZOMBIE_MODIFIER_DESCRIPTION]
+煤矿工僵尸受到的植物伤害降低20%
+
+[ANNIVERSARY_2026_15_ZOMBIE_MODIFIER]
+飞行器僵尸加速
+
+[ANNIVERSARY_2026_15_ZOMBIE_MODIFIER_DESCRIPTION]
+飞行器僵尸移动速度提升50%
+
+[ANNIVERSARY_2026_16_ZOMBIE_MODIFIER]
+阴阳师僵尸减伤
+
+[ANNIVERSARY_2026_16_ZOMBIE_MODIFIER_DESCRIPTION]
+阴阳师僵尸受到的植物伤害降低20%
+
+[ANNIVERSARY_2026_17_ZOMBIE_MODIFIER]
+海底祭司僵尸减伤
+
+[ANNIVERSARY_2026_17_ZOMBIE_MODIFIER_DESCRIPTION]
+海底祭司僵尸受到的植物伤害降低20%
+
+[ANNIVERSARY_2026_18_ZOMBIE_MODIFIER]
+女巫僵尸减伤
+
+[ANNIVERSARY_2026_18_ZOMBIE_MODIFIER_DESCRIPTION]
+女巫僵尸受到的植物伤害降低20%
+
+[ANNIVERSARY_2026_19_ZOMBIE_MODIFIER]
+陵墓骑兵僵尸加速
+
+[ANNIVERSARY_2026_19_ZOMBIE_MODIFIER_DESCRIPTION]
+陵墓骑兵僵尸移动速度提升50%
+
+[ANNIVERSARY_2026_20_ZOMBIE_MODIFIER]
+周年庆飞行僵尸加速
+
+[ANNIVERSARY_2026_20_ZOMBIE_MODIFIER_DESCRIPTION]
+周年庆飞行僵尸移动速度提升50%
 [PVZ2_CHINESE_END]

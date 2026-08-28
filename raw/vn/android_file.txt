@@ -6249,6 +6249,7 @@ Cấm Dùng Plant Food
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_TIP]
 Bạn sẽ không nhận được sao nếu dùng Plant Food. Bạn có muốn dùng nó không?
+
 [STARCHALLENGE_PVZ1_GAME35_BEAT_ZOMBOSS]
 Đánh bại Zomboss kỷ băng hà
 
@@ -12687,6 +12688,7 @@ Hàng loạt Zombie Kung Fu mới xuất hiện!
 [NARRATIVE_FIREGOURD_3]
 {Excited}Ta biết rồi, cậu ấy có thể dùng lửa thiêu rụi mấy cái giá binh khí đáng ghét này!
 
+
 [FIREGOURD_TUTORIAL_1]
 Nhấn vào Bầu Lửa để phun lửa
 
@@ -14506,6 +14508,7 @@ Gió mạnh thổi qua rừng
 
 [HOMINGTHISTLE_SKILL_LEVEL5_DES]
 Các gai bắn ra từ đòn đánh thường và chiêu cuối có 40% khả năng chuyển thành gai xuyên thấu. Những chiếc gai xuyên thấu sẽ theo dõi và xuyên qua zombie và biến mất sau khi xuyên qua 5 lần.
+
 [LOTUSSHOWER_SKILL_LEVEL1]
 Siêu cấp tạc đạn
 
@@ -15417,6 +15420,13 @@ Zombie Tương Lai Đội Xô
 
 [ZOMBIE_FUTURE_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt công nghệ cao cung cấp một lớp bảo vệ tuyệt vời giúp hắn miễn nhiễm với phần lớn Sát thương.
+[ZOMBIE_FUTURE_ARMOR4]
+Zombie Đầu Hologram
+[ZOMBIE_FUTURE_ARMOR4_DESCRIPTION]
+{FLAVOR} Lý do trường lực hiển thị màu sắc độc đáo bắt nguồn từ sự chồng chéo của các sóng hài tần số — cộng thêm việc hào phóng quét thêm một lớp sơn màu tím lên trên.
+
+[ZOMBIE_FUTURE_ARMOR4_DESCRIPTION_HEADER]
+Mũ bảo hiểm hologram giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
 
 [ZOMBIE_FUTURE_DESCRIPTION]
 {FLAVOR}Zombie Tương Lai cực kỳ thích những bộ trang phục màu đỏ. Sách kỷ lục tương lai - số 23 có ghi: Mặc áo đỏ, trừ xui xẻo, vượng sự nghiệp.
@@ -17909,8 +17919,10 @@ Zombie Tóc Vuốt Ngược Đội Xô
 
 [ZOMBIE_BEACH_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt vỏ sò bảo vệ hắn cực tốt khỏi các nguồn Sát thương.
+
 [ZOMBIE_BEACH_ARMOR4]
 Zombie Áo Sơ Mi Đầu Lâu Đài Cát
+
 [ZOMBIE_BEACH_ARMOR4_DESCRIPTION]
 {FLAVOR}Chiếc mũ bảo hiểm làm bằng cát biển của hắn cứng đến mức vượt ngoài sức tưởng tượng, quả dừa ném vào chỉ tự chuốc lấy nhục nhã. Tiếc nuối duy nhất là mỗi khi thủy triều lên, hắn đều phải ngồi thụp xuống bãi biển để đắp lại từ đầu.
 
@@ -17943,8 +17955,10 @@ Zombie Bikini Đội Xô
 
 [ZOMBIE_BEACH_FEM_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt vỏ sò bảo vệ cô ấy cực tốt khỏi các nguồn Sát thương.
+
 [ZOMBIE_BEACH_FEM_ARMOR4]
 Zombie Bikini Đầu Lâu Đài Cát
+
 [ZOMBIE_BEACH_FEM_ARMOR4_DESCRIPTION]
 {FLAVOR}Chiếc mũ lâu đài cát của cô ấy có cấu trúc tinh xảo, vững chắc như bàn thạch, đến mức lũ cua đi ngang qua cũng không nhịn được mà dừng chân vây quanh, tiếc là thủy triều ngày nào cũng đến đúng giờ để phá đám.
 
@@ -18173,10 +18187,10 @@ Mua là kiếm tiền, đừng bỏ lỡ cơ hội, bạn có muốn mua ngay kh
 Mua ngay
 
 [SALES_SECOND_CONFIRM_CANCEL]
-Tôi nghĩ lại
+Hủy bỏ
 
 [SALES_REWARD_BOX_CLOSE]
-Tôi chấp nhận
+Đồng ý
 
 [SALES_REWARD_HAS_MAX_LEVEL_TITLE]
 Mua thất bại
@@ -25644,6 +25658,9 @@ Còn {TIME}
 
 [KILL_ALL_ZOMBIE]
 Thu thập Mặt Trời để trồng cây, chống lại sự xâm lăng của binh đoàn zombie.
+
+[KILL_ALL_ZOMBIE_MOON]
+Thu thập tinh khoáng để trồng thực vật, chống lại sự xâm chiếm của zombie
 
 [EVIL_DAVID_CHALLENGE_FINISH]
 Bạn đã đánh bại Dave Độc Ác.
@@ -34079,6 +34096,7 @@ Trái ngược với cái tên của mình, cái đầu xương của Zombie Đ�
 
 [ZOMBIE_DINO_ARMOR3_DESCRIPTION_HEADER]
 Mảnh xương đầu lâu hóa thạch không chỉ hấp thụ được một lượng Sát thương lớn mà trông còn vô cùng quý tộc.
+
 [ZOMBIE_DINO_ARMOR4]
 Zombie Đầu Hổ Phách
 
@@ -43235,6 +43253,7 @@ Tối đa 3 cây Óc Chó Vũ Trụ trên cùng một hàng sẽ tiến hóa th�
 
 [COSMICNUT_AVATAR_PLANTFOOD_DESCRIPTION]
 Giới hạn số lượng thực vật vũ trụ được tiến hóa trên cùng một hàng của thực vật tăng lên thành 5 cây.
+
 [ACTINOSTEMMA]
 Pháo Hoa Cỏ Hộp
 
@@ -47001,8 +47020,10 @@ Trang phục Chậu Hoa
 
 [STORE_PRODUCT_AVATAR_FLOWERPOT]
 Đại chiêu tạo Chậu Hoa phạm vi 3x3.
+
 [COSMOSS]
 Rêu Vũ Trụ
+
 [COSMOSS_DESCRIPTION]
 {KEYWORD}Cách dùng: {STAT}Có thể trồng trên địa hình Mặt Trăng
 {KEYWORD}Đặc điểm cây: {STAT}Thấp bé, cây màu lục
@@ -50515,6 +50536,7 @@ Hoàn thành cấp độ khó ngày 13 của Thế Giới Dưới Nước
 
 [TASK_WORLDTASK_ATLANTIS3]
 Hoàn thành Thử Thách Cuối Cùng của Thế Giới Dưới Nước
+
 [TASK_WORLDTASK_MOON1]
 Hoàn thành cấp độ dễ ngày 13 của Căn cứ Mặt Trăng
 
@@ -50523,6 +50545,7 @@ Hoàn thành cấp độ khó của ngày 13 của Căn cứ Mặt Trăng
 
 [TASK_WORLDTASK_MOON3]
 Hoàn thành Thử Thách Cuối Cùng của Căn cứ Mặt Trăng
+
 [TASK_WEEKLYINTEGRAL_DESCRIPTION_PLANTCHALLENGE]
 Sử dụng các loại cây cụ thể để vượt qua các cấp độ giới hạn và nhận phần thưởng rương kho báu hiếm!
 
@@ -52121,6 +52144,7 @@ Cỏ Gầm - tốc độ nuốt và tiêu hóa tăng {Param_1}%.
 
 [GENE_DESCRIPTION_RHEUMNOBILE]
 Đại Hoàng - chiêu cuối có {Param_1}% xác suất hấp thụ thêm 2 zombie.
+
 [BATTLE_ORDER_AUTUMN]
 Chuyến du xuân mùa thu
 
@@ -55299,6 +55323,72 @@ Củ Cải Tinh Nghịch - Quốc tế Thiếu nhi
 [NEW_AVATAR_DESCRIPTION_GREENTURNIP_1]
 Tốc độ tấn công tăng 15%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_DOOMSHROOM_3]
+Nấm Nguyên Tử - Ta Là Sự Tận Thế
+
+[NEW_AVATAR_DESCRIPTION_DOOMSHROOM_3]
+Thời gian hồi trồng giảm 40%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_5]
+Đậu Cổ Đại - Đại thống lĩnh viễn dương
+
+[NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_5]
+Sức tấn công tăng 30%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_6]
+Đậu Cổ Đại - Đại thống lĩnh viễn dương - Ngân Hà
+
+[NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_6]
+Không
+
+[NEW_AVATAR_SHORT_DESCRIPTION_TIGERSTOOL_3]
+Nấm Đầu Hổ - đuôi hổ 
+
+[NEW_AVATAR_DESCRIPTION_TIGERSTOOL_3]
+Thời gian làm choáng tăng 50%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_3]
+Súng Cối Đậu - nôi
+
+[NEW_AVATAR_DESCRIPTION_SLINGPEA_3]
+Tốc độ tấn công tăng 15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DANDELION_2]
+Bồ Công Anh - mũ rộng vành
+
+[NEW_AVATAR_DESCRIPTION_DANDELION_2]
+Tiêu hao mặt trời giảm 20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ANTHURIUM_1]
+Hồng Môn Ion Hóa - mũ phớt
+
+[NEW_AVATAR_DESCRIPTION_ANTHURIUM_1]
+Sức tấn công tăng 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MARIGOLD_1]
+Hoa Cúc - bảng vẽ 
+
+[NEW_AVATAR_DESCRIPTION_MARIGOLD_1]
+Đòn đánh thường có 20% xác suất sản xuất thêm một đồng xu bạc khi tạo ra tiền xu bạc
+
+[NEW_AVATAR_SHORT_DESCRIPTION_LEVITATER_2]
+Khoai Tây Bay - kem 
+
+[NEW_AVATAR_DESCRIPTION_LEVITATER_2]
+Tiêu hao mặt trời giảm 20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_APSARLOTUS_2]
+Bệ Sen Mây Lành - mũ phớt
+
+[NEW_AVATAR_DESCRIPTION_APSARLOTUS_2]
+Thời gian cường hóa điệu múa Hồ Toàn (Khu Hoàn Vũ) kéo dài thêm 1 giây
+
+[NEW_AVATAR_SHORT_DESCRIPTION_NIGHTCAP_3]
+Nấm Dạ Tối - song đao 
+
+[NEW_AVATAR_DESCRIPTION_NIGHTCAP_3]
+Sức tấn công tăng 20%
+
 [NEW_AVATAR_SHORT_DESCRIPTION_CHOMPER_1]
 Hoa Ăn Thịt - Xuân Vãn
 
@@ -55334,6 +55424,7 @@ Tỷ lệ triệu hồi cá mập tăng 50%
 
 [NEW_AVATAR_DESCRIPTION_LASER_BEAN_4]
 Thời gian hồi trồng cây giảm 30%, sát thương tia điện tăng 50%
+
 [NEW_AVATAR_DESCRIPTION_CHOMPER_3]
 Thời gian tiêu hóa giảm 3 giây
 
@@ -78174,6 +78265,7 @@ Miễn dịch với các hiệu ứng khống chế
 
 [ZOMBIE_IMMUNITY_DIFFICULTY_3]
 [ZOMBIE_IMMUNITY_DIFFICULTY_3_DESCRIPTION]
+
 [ZOMBIE_ATTACK_DIFFICULTY_1]
 Tăng tấn công của zombie (1 sao)
 [ZOMBIE_ATTACK_DIFFICULTY_1_DESCRIPTION]
@@ -84638,8 +84730,14 @@ Hoàn thành 1 cấp độ Làn Đường Kí Ức mỗi ngày
 [NFSLINKAGE_TASK_NAME_9]
 Khiêu chiến 1 lần màn Thế Giới Dưới Biển mới mỗi ngày
 
+[NFSLINKAGE_TASK_NAME_20]
+Hoàn thành 1 cấp độ Căn cứ Mặt Trăng mỗi ngày
+
 [NFSLINKAGE_TASK_NAME_10]
-Vượt qua màn 16 Thế Giới Dưới Biển
+Vượt qua màn 12 Căn Cứ Mặt Trăng
+
+[NFSLINKAGE_TASK_NAME_19]
+Vượt qua màn 12 Căn Cứ Mặt Trăng
 
 [PENNY_GIFT_SHORT_DESCRIPTION]
 Mở Hộp Quà Tương Lai của Penny, nhận phần thưởng siêu giá trị
@@ -86917,6 +87015,12 @@ Sen Nở Hồ Thanh
 [NEWYEAR_GIFT_HEAD_DES_ID_25896]
 Đạt tiến độ tích lũy nạp trong sự kiện Gói Quà Lễ Hội để nhận.
 
+[NEWYEAR_GIFT_HEAD_ID_25921]
+Cây cối thành râm
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25921]
+Nhận được khi đạt tiến trình nạp tích lũy trong sự kiện gói quà lễ hội.	 
+
 [TEN_THOUSAND_HEAD_ID_25636]
 Tín Đồ Yêu Cây
 
@@ -87337,11 +87441,13 @@ Lửa Quỷ Màn Đêm
 
 [TOYS_HEAD_DES_ID_25895]
 Nhận được khi tham gia sự kiện Màn Đêm U Huyền
+
 [TOYS_HEAD_ID_25920]
 Hồi kết hoàn vũ
 
 [TOYS_HEAD_DES_ID_25920]
 Nhận được khi tham gia sự kiện yết kiến đấng tận thế.
+
 [PARALLEL_SPIKEWEED]
 Số 41 Cỏ Gai
 
@@ -87670,6 +87776,12 @@ Xà Lách Cực Địa
 [TIANGONG_HEAD_DES_ID_25891]
 Nhận khi rút tích lũy mốc thưởng trong sự kiện Tìm Báu Thiên Cung
 
+[TIANGONG_HEAD_ID_25913]
+Lữ khách hư không
+
+[TIANGONG_HEAD_DES_ID_25913]
+Nhận được bằng cách tích lũy số lần rút thưởng để đạt mốc phần thưởng trong sự kiện Truy tìm báu vật Thiên Cung.
+
 [PVP_ERROR_76030]
 Phát hiện gian lận đạo cụ
 
@@ -87953,6 +88065,8 @@ Công nghệ đúc luyện sắt huyền bí từ hơn mười vạn năm trư�
 
 [ZOMBIE_ATLANTIS_LAND_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt biển sâu úp trên đầu mang lại sự bảo hộ cực kỳ lớn giúp hắn miễn dịch với nhiều nguồn sát thương.
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR4]
 Zombie Đầu San Hô Di Tích
 
 [ZOMBIE_ATLANTIS_LAND_ARMOR4_DESCRIPTION]
@@ -88204,6 +88318,7 @@ Giải Hướng Dương Vàng 2025
 
 [SUN_AWARD_HEAD_DES_ID_25744]
 Để niềm vui tiếp tục "nảy mầm"!
+
 [SUN_AWARD_HEAD_ID_25931]
 Giải Thưởng Hướng Dương Vàng 2026
 
@@ -90596,7 +90711,115 @@ Vị hoàng đế tàn bạo và ngông cuồng nhất trong lịch sử La Mã 
 
 [ZOMBIE_ZOMBOSSMECH_HOT_RODICUS_DESCRIPTION]
 “Hèn nhát là nỗi sỉ nhục lớn nhất. Dưới danh nghĩa của Tiến sĩ Zomboss, chỉ có tiến lên! Hãy dâng hiến tất cả cho ta!” Kể từ khi Tiến sĩ Zombie xuyên không về dòng thời gian La Mã cổ đại, hắn luôn khao khát được nói câu thoại này. Lưu ý: Câu nói này được phóng tác từ châm ngôn của thần tượng hắn, người mà tương truyền rất thích ngồi thẫn thờ trên bệ xí.
+
+
 [ZOMBIE_MOON]
+Zombie Phi Hành Gia
+
+[ZOMBIE_MOON_DESCRIPTION_HEADER]
+Zombie thông thường, không có bất kỳ kỹ năng nào.
+
+[ZOMBIE_MOON_DESCRIPTION]
+Zombie phi hành gia luôn sống trong nơm nớp lo sợ, bởi vì chiếc mũ bảo hiểm dưỡng khí của hắn đã bị vỡ hơn một nửa sau một cú ngã. Nhưng hắn là một zombie, vốn dĩ chẳng cần phải thở, giống như cá mà lại rời khỏi chiếc xe đạp vậy.
+
+[ZOMBIE_MOON_FLAG]
+Zombie Phi Hành Gia Cầm Cờ
+
+[ZOMBIE_MOON_FLAG_DESCRIPTION_HEADER]
+Zombie thông thường, không có bất kỳ kỹ năng nào.
+
+[ZOMBIE_MOON_FLAG_DESCRIPTION]
+Là một hướng dẫn viên kỳ cựu của Cục Du lịch Vũ trụ ZASA, Zombie Phi Hành Gia Cầm Cờ luôn giương cao một lá cờ để điều phối sự tụ tập và giải tán của bầy zombie. Nhưng ngoài vũ trụ không có gió, thế nên lá cờ của hắn luôn không thể tung bay. Thông minh như hắn, sau khi đổi tấm lá cờ vốn làm bằng vải sang chất liệu sắt, hắn đã có được một "lá cờ" tung bay mãi mãi.
+
+[ZOMBIE_MOON_ARMOR1]
+Zombie Phi Hành Gia Nón Côn
+
+[ZOMBIE_MOON_ARMOR1_DESCRIPTION_HEADER]
+Zombie thông thường, không có bất kỳ kỹ năng nào.
+
+[ZOMBIE_MOON_ARMOR1_DESCRIPTION]
+Để cố định vị trí trong thế giới không gian không có trên dưới, những chiếc rào chắn chuyên dụng trong không gian này đều sở hữu lực hút cực kỳ mạnh. Một khi đã nhận diện được mặt đất và cố định thành công, chúng sẽ tuyệt đối không thể bị nhổ lên. Nói chung, loại rào chắn này vốn dĩ sẽ không xuất hiện trên đầu của zombie. Đáng tiếc thay, Zombie Phi Hành Gia Nón Côn lại bò lên từ dưới lòng đất...
+																																																																											
+[ZOMBIE_MOON_ARMOR2]
+Zombie Phi Hành Gia Đội Xô
+
+[ZOMBIE_MOON_ARMOR2_DESCRIPTION_HEADER]
+Zombie thông thường, không có bất kỳ kỹ năng nào.
+
+[ZOMBIE_MOON_ARMOR2_DESCRIPTION]
+Vốn dĩ chiếc xô của Zombie Phi Hành Gia Đội Xô dùng để đựng nước, nhưng sau đó khi lên đến không gian, hắn mới phát hiện ra việc dùng xô đựng nước trong vũ trụ hoàn toàn chẳng có ý nghĩa gì cả. Thế là hắn đội chiếc xô lên đầu, khít khao kín kẽ, tựa như chiếc xô này sinh ra vốn dĩ là để nằm trên đầu hắn vậy...
+
+[ZOMBIE_MOON_ARMOR3]
+Zombie Phi Hành Gia Thiên Thạch
+
+[ZOMBIE_MOON_ARMOR3_DESCRIPTION_HEADER]
+Zombie thông thường, không có bất kỳ kỹ năng nào.
+
+[ZOMBIE_MOON_ARMOR3_DESCRIPTION]
+Trong vũ trụ bao la, xác suất một con zombie bị thiên thạch đập trúng đầu tuyệt đối không bằng không. Zombie Phi Hành Gia Thiên Thạch chính là ví dụ sinh động nhất, thậm chí cho đến tận bây giờ, viên thiên thạch khảm trên đầu hắn vẫn chưa thể nào bị gỡ xuống...
+
+[ZOMBIE_MOON_GARGANTUAR]
+Zombie Khổng Lồ Phi Hành Gia
+
+[ZOMBIE_MOON_GARGANTUAR_DESCRIPTION_HEADER]
+Zombie khổng lồ thông thường, không có bất kỳ kỹ năng nào.
+
+[ZOMBIE_MOON_GARGANTUAR_DESCRIPTION]
+Này! Gã khổng lồ này lên đây bằng cách nào thế? Tôi nhớ là tàu vũ trụ không có ghế ngồi cỡ lớn đâu cơ mà! Cái gì... cái gì gọi là vận chuyển từng đoạn rồi đến nơi mới lắp ráp lại cơ chứ?
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR]
+Zombie Khổng Lồ Siêu Tân Tinh
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION_HEADER]
+Tiêu diệt một loài thực vật bằng đòn giáng, sau đó tiêu diệt ngay lập tức toàn bộ các thực vật cùng tên trên sân.
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION]
+Zombie Khổng Lồ Siêu Tân Tinh từng là trợ lý... cho nhà vô địch cuộc thi câu cá vũ trụ. Nhiệm vụ của hắn với tư cách là trợ lý là đi đến vị trí của các thí sinh khác, dùng quyền trượng siêu tân tinh của mình làm cần câu để câu cá. Mỗi khi hắn câu thành công một con cá, toàn bộ những con cá xung quanh hắn sẽ bị hố đen hút sạch. Thật là một thủ đoạn đê tiện.
+
+[ZOMBIE_MOON_WALKER]
+Zombie Đi Bộ Vô Trọng Lực
+
+[ZOMBIE_MOON_WALKER_DESCRIPTION_HEADER]
+Di chuyển bằng cách nhảy. Trong suốt quá trình nhảy, không thể bị trúng các viên đạn bắn thẳng. Khi tiếp đất, nếu dẫm phải thực vật có thể tiếp tục nhảy ngay lập tức.
+
+[ZOMBIE_MOON_WALKER_DESCRIPTION]
+Từ một vận động viên thể dục dụng cụ cho đến khi trở thành phi hành gia có vóc dáng linh hoạt nhất, câu chuyện truyền cảm hứng của Zombie Đi Bộ Vô Trọng Lực đã khích lệ rất nhiều tiểu zombie. Bởi vì ước mơ của hắn là nhảy cao hơn nữa, cao hơn nữa, cao đến mức có thể chạm tới những vì sao. Giờ thì hắn đã làm được rồi!
+
+[ZOMBIE_TELEPORT_LEFT]
+Zombie Dịch Chuyển Thuận Hướng
+
+[ZOMBIE_TELEPORT_LEFT_DESCRIPTION_HEADER]
+Dịch chuyển tinh thể và zombie, làm rối loạn bố cục trên sân.
+
+[ZOMBIE_TELEPORT_LEFT_DESCRIPTION]
+Kể cả việc đi vệ sinh, đi ngủ, hay thứ tự ăn uống, dù làm bất cứ việc gì thì hắn và người em song sinh của mình cũng đều phải làm ngược lại.
+																											   
+[ZOMBIE_TELEPORT_RIGHT]
+Zombie Dịch Chuyển Ngược Hướng
+
+[ZOMBIE_TELEPORT_RIGHT_DESCRIPTION_HEADER]
+Dịch chuyển tinh thể và thực vật, làm rối loạn bố cục trên sân.
+
+[ZOMBIE_TELEPORT_RIGHT_DESCRIPTION]
+Bất kể làm việc gì, hắn và người anh song sinh của mình cũng đều phải làm ngược lại, bao gồm cả thứ tự ăn uống, đi ngủ, cho đến việc đi vệ sinh.
+																											   
+[ZOMBIE_ZOMBIE_COSMIC_IMP]
+Zombie Tiểu Quỷ Vũ Trụ
+
+[ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION_HEADER]
+Đến cột thứ bảy sẽ biến hình thành tiểu zombie có mức độ đe dọa lớn hơn.
+
+[ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION]
+Ngay trước mắt bạn lúc này chính là: Ngọn núi cao nhất trong giới COSER zombie! Con sông dài nhất trong làng điện ảnh zombie!
+																					  
+[ZOMBIE_MOON_SHIP5000]
+Tàu Chiến Cơ Giới Kiểu 5000
+
+[ZOMBIE_MOON_SHIP5000_DESCRIPTION_HEADER]
+Cung cấp khiên bảo vệ theo chu kỳ cho các zombie xung quanh. Phóng tiểu zombie vũ trụ, quá nhiệt sau bốn lượt phóng.
+
+[ZOMBIE_MOON_SHIP5000_DESCRIPTION]
+Một trong những thành quả công nghệ tiên tiến nhất của vũ trụ zombie, không chỉ được trang bị thiết bị phát khiên bảo vệ mà còn có khả năng liên tục phóng ra các tiểu zombie vũ trụ từ nòng pháo dị giới. Mặc dù dung lượng đạn chỉ có bốn phát và việc phóng liên tục sẽ dẫn đến quá nhiệt rồi hạ cánh, nhưng điều đó thì có hề gì chứ? Miễn là phi công chịu khó suy tính cách điều khiển, thế nào cũng có ngày hắn bay lên lại được thôi!
 
 [POINTSCHALLENGE_DESCRIPTION_TITLE]
 Thể lệ sự kiện
@@ -91424,250 +91647,249 @@ Tiêu {NUMS} xu để mua?
 Tiêu {NUMS} Kim cương để mua?
 
 [NARRATIVE_MOON1_TUTORIAL_1_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}月球表面太糟糕了，没办法种植植物了
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}Trên bề mặt mặt trăng tệ quá, chẳng tài nào trồng nổi cây cối gì nữa rồi.
 
 [NARRATIVE_MOON1_TUTORIAL_1_2]
-{SAY:WINNIE}我们可以尝试将植物种植在苔藓地块上
+{SAY:WINNIE}Chúng ta có thể thử trồng thực vật lên các ô đất rêu xem sao.
 
 [NARRATIVE_MOON1_TUTORIAL_2_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}太棒了，有什么办法能够增加苔藓地块呢？
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}Tuyệt vời! Có cách nào để tăng thêm các ô đất rêu không nhỉ?
 
 [NARRATIVE_MOON1_TUTORIAL_2_2]
-{SAY:WINNIE}可以试试在苔藓地块周围种植宇宙苔藓
+{SAY:WINNIE}Có thể thử trồng rêu vũ trụ xung quanh các ô đất rêu xem thế nào.
 
 [NARRATIVE_MOON1_TUTORIAL_3_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}我才发现，我们没有消耗阳光就把植物种下去了
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}Tôi mới phát hiện ra, chúng ta chẳng tốn chút ánh nắng nào mà vẫn trồng được thực vật xuống rồi.
 
 [NARRATIVE_MOON1_TUTORIAL_3_2]
-{SAY:WINNIE}没错，植物现在是依靠维生力场提供能量，不需要依靠阳光了
+{SAY:WINNIE}Đúng vậy, thực vật giờ dùng năng lượng từ trường sinh tồn, không cần ánh nắng nữa.
 
 [NARRATIVE_MOON1_TUTORIAL_3_3]
-{SAY:WINNIE}每株植物都会增加维生力场的电力负载
+{SAY:WINNIE}Mỗi thực vật đều sẽ làm tăng tải trọng điện của trường sinh tồn.
 
 [NARRATIVE_MOON1_TUTORIAL_4_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{EXCITED:ASTRONAUTCRAZYDAVE}僵尸大军来了！让我来帮你种一些植物！
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{EXCITED:ASTRONAUTCRAZYDAVE}Đội quân zombie tới kìa! Để ta giúp ngươi trồng vài cây!
 
 [NARRATIVE_MOON1_TUTORIAL_5_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}别再种植植物了！维生力场已经进入缓冲过载状态，植物状态开始不稳定了！
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}Đừng trồng thêm cây nữa! Trường sinh tồn đã vào trạng thái quá tải đệm, trạng thái thực vật bắt đầu trở nên bất ổn rồi!
 
 [NARRATIVE_MOON1_TUTORIAL_5_2]
-{EXCITED:ASTRONAUTCRAZYDAVE}哼哼哼~（没有听见）
+{EXCITED:ASTRONAUTCRAZYDAVE}Hừ hừ hừ~ (Không nghe thấy gì cả)
 
 [NARRATIVE_MOON1_TUTORIAL_6_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}咦？没法种植物了，植物好像都不动了
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}Ể? Không trồng được cây nữa rồi, lũ cây trông có vẻ đứng im hết cả luôn.
 
 [NARRATIVE_MOON1_TUTORIAL_6_2]
-{EXCITED:WINNIE}那是因为维生力场进入超级过载状态，现在得想办法提高电力上限！
+{EXCITED:WINNIE}Đó là vì trường sinh tồn đã bước vào trạng thái siêu quá tải, bây giờ phải tìm cách tăng giới hạn điện năng lên thôi!
 
 [NARRATIVE_MOON1_TUTORIAL_6_3]
-{EXCITED:WINNIE}试试采集者吧！采集者可以通过采集水晶来提高电力上限！
+{EXCITED:WINNIE}Hãy thử dùng trạm thu thập đi! Trạm thu thập có thể thu thập các tinh thể để nâng cao giới hạn điện năng!
 
 [NARRATIVE_MOON1_TUTORIAL_7_1]
-{NPC_ENTER:WINNIE}{SAY:WINNIE}太好了，终于恢复正常了！
+{NPC_ENTER:WINNIE}{SAY:WINNIE}Tuyệt quá, cuối cùng cũng trở lại bình thường rồi!
 
 [NARRATIVE_MOON1_TUTORIAL_7_2]
-{SAY:WINNIE}那就准备迎接下一波挑战吧
+{SAY:WINNIE}Vậy thì hãy sẵn sàng nghênh đón đợt thử thách tiếp theo thôi.
 
 [NARRATIVE_MOON_2_INTRO_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}宇宙植物可以直接种植在月球表面上，不用宇宙苔藓的帮助
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Thực vật vũ trụ có thể trồng trực tiếp trên bề mặt mặt trăng mà không cần sự trợ giúp của rêu vũ trụ.
 
 [NARRATIVE_MOON_2_INTRO_2]
-{SAY:ASTRONAUTCRAZYDAVE}等等！真空里不能传声，那些僵尸为什么还会“嗷嗷”叫？
+{SAY:ASTRONAUTCRAZYDAVE}Khoan đã! Chân không thì không truyền được âm thanh, tại sao lũ zombie đó vẫn kêu "ào ào" thế?
 
 [NARRATIVE_MOON_2_INTRO_3]
-{SAY:ASTRONAUTCRAZYDAVE}等等！我也会“嗷嗷”叫
+{SAY:ASTRONAUTCRAZYDAVE}Khoan đã! Tôi cũng đang kêu "ào ào" này.
 
 [NARRATIVE_MOON_2_INTRO_4]
-{SAY:WINNIE}我为你内置了隐形耳机，实时模拟的战场音效
+{SAY:WINNIE}Tôi đã cài đặt tai nghe tàng hình cho anh, để mô phỏng âm thanh chiến trường theo thời gian thực.
 
 [NARRATIVE_MOON_2_INTRO_5]
-{SAY:ASTRONAUTCRAZYDAVE}能换成玉米卷咀嚼声吗？
+{SAY:ASTRONAUTCRAZYDAVE}Có đổi thành tiếng nhai bánh ngô được không?
 
 [NARRATIVE_MOON_4_INTRO_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}那些僵尸身上有亮闪闪的东西！一定是促销贴纸！
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}Trên người lũ zombie đó có thứ gì đang lấp lánh kìa! Chắc chắn là nhãn dán khuyến mãi rồi!
 
 [NARRATIVE_MOON_4_INTRO_2]
-{SAY:WINNIE}分析结果显示，那是传送信标。
+{SAY:WINNIE}Kết quả phân tích cho thấy, đó là tín hiệu truyền dẫn.
 
 [NARRATIVE_MOON_4_INTRO_3]
-{SAY:WINNIE}残血僵尸撤离后会通过信标满血返回；使用宇宙植物将其湮灭，可以阻止信标部署。
+{SAY:WINNIE}Zombie thấp máu sau khi rút lui sẽ quay trở lại với đầy cây máu nhờ tín hiệu; sử dụng thực vật vũ trụ để tiêu diệt hoàn toàn chúng có thể ngăn chặn việc triển khai tín hiệu.
 
 [NARRATIVE_MOON_4_INTRO_4]
-{SAY:ASTRONAUTCRAZYDAVE}所以要让它们消失得干干净净——连退货地址都不留下
+{SAY:ASTRONAUTCRAZYDAVE}Thế nên phải khiến chúng biến mất thật sạch sẽ — đến cả địa chỉ trả hàng cũng không để lại.
 
 [NARRATIVE_ROCKET_TUTORIAL_1_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}检测到前方出现运载火箭
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Phát hiện thấy tên lửa vận tải xuất hiện phía trước.
 
 [NARRATIVE_ROCKET_TUTORIAL_1_2]
-{SAY:ASTRONAUTCRAZYDAVE}火箭！我已经系好安全带了！
+{SAY:ASTRONAUTCRAZYDAVE}Tên lửa! Tôi thắt dây an toàn xong xuôi hết rồi!
 
 [NARRATIVE_ROCKET_TUTORIAL_2_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}宇宙豌豆、宇宙坚果和宇宙蘑菇乘坐火箭时，会触发不同效果。
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Đậu vũ trụ, óc chó vũ trụ và nấm vũ trụ khi đi tên lửa sẽ kích hoạt các hiệu ứng khác nhau.
 
 [NARRATIVE_ROCKET_TUTORIAL_2_2]
-{SAY:CRAZYDAVE}起飞！！！
+{SAY:CRAZYDAVE}Cất cánh thôi!!!
 
 [ROCKET_TUTORIAL_PLANT_COSMICPEA]
-试着将宇宙豌豆种植到火箭上
+Hãy thử trồng Đậu Vũ Trụ lên tên lửa xem sao.
 
 [NARRATIVE_METEOR_TUTORIAL_1_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}警报！检测到辐射陨石正在接近！
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Cảnh báo! Phát hiện thiên thạch bức xạ đang đến gần!
 
 [NARRATIVE_METEOR_TUTORIAL_1_2]
-{SAY:ASTRONAUTCRAZYDAVE}太空快递？我可没有订一块会发光的石头！
+{SAY:ASTRONAUTCRAZYDAVE}Gói hàng không gian à? Tôi đâu có đặt một hòn đá biết phát sáng nào đâu!
 
 [NARRATIVE_METEOR_TUTORIAL_2_1]
-{NPC_ENTER:WINNIE}{SAY:WINNIE}辐射陨石会持续侵蚀周围地块，应尽快派遣采集者开采。
-																																									  
-									  
+{NPC_ENTER:WINNIE}{SAY:WINNIE}Thiên thạch bức xạ sẽ liên tục ăn mòn các ô đất xung quanh, nên nhanh chóng cử người thu thập đến khai thác.
 
 [NARRATIVE_METEOR_TUTORIAL_3_1]
-{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}采集完成。辐射陨石为我们提供了永久电力提升。
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Đã thu thập xong. Thiên thạch bức xạ đã cung cấp cho chúng ta mức tăng điện năng vĩnh viễn.
 
 [NARRATIVE_METEOR_TUTORIAL_3_2]
-{SAY:ASTRONAUTCRAZYDAVE}原来它不是坏石头，只是降落方式不太礼貌！
+{SAY:ASTRONAUTCRAZYDAVE}Hóa ra nó không phải là hòn đá xấu, chỉ là cách hạ cánh hơi thiếu lịch sự thôi!
 
 [METEOR_TUTORIAL_TAP_TERMINAL]
-点击采集终端，打开派遣面板
+Nhấn vào trạm thu thập để mở bảng điều phối
 
 [METEOR_TUTORIAL_TERMINAL_DRAG]
-把采集终端拖至场上
+Kéo trạm thu thập ra chiến trường
 
 [MOON1_TUTORIAL_PLANT_PEASHOOTER]
-把豌豆射手拖至苔藓地块上
+Kéo Cây Bắn Đậu lên ô đất rêu
 
 [MOON1_TUTORIAL_PLANT_COSMOSS]
-在苔藓地块周围种植宇宙苔藓，生成苔藓地块
+Trồng rêu vũ trụ xung quanh ô đất rêu để tạo ra các ô đất rêu mới
 
 [MOON1_TUTORIAL_CAPACITY_BANK]
-左上角显示当前电力占用值和电力上限
+Góc trên bên trái hiển thị mức tiêu thụ điện năng hiện tại và giới hạn điện năng tối đa
 
 [MOON1_TUTORIAL_PEASHOOTER_SLOT]
-植物卡槽会显示该植物的电力占用值
+Ô chứa thẻ bài thực vật sẽ hiển thị mức tiêu thụ điện năng của loài cây đó
 
 [MOON1_TUTORIAL_TERMINAL]
-点击采集终端，打开派遣面板
+Nhấn vào trạm thu thập để mở bảng điều phối
 
 [MOON1_TUTORIAL_TERMINAL_DRAG]
-把采集终端拖至场上
+Kéo trạm thu thập ra chiến trường
 
 [ANNIVERSARY_2026_1_ZOMBIE_MODIFIER]
-法老僵尸减伤
+Giảm Sát Thương Zombie Pharaoh
 
 [ANNIVERSARY_2026_1_ZOMBIE_MODIFIER_DESCRIPTION]
-法老僵尸受到的植物伤害降低20%
+Sát thương từ thực vật gây lên Zombie Pharaoh giảm 20%
 
 [ANNIVERSARY_2026_2_ZOMBIE_MODIFIER]
-海鸥僵尸加速
+Tăng Tốc Zombie Mòng Biển
 
 [ANNIVERSARY_2026_2_ZOMBIE_MODIFIER_DESCRIPTION]
-海鸥僵尸移动速度提升50%
+Tốc độ di chuyển của Zombie Mòng Biển tăng 50%
 
 [ANNIVERSARY_2026_3_ZOMBIE_MODIFIER]
-鸡贼僵尸加速
+Tăng Tốc Zombie Trộm Gà
 
 [ANNIVERSARY_2026_3_ZOMBIE_MODIFIER_DESCRIPTION]
-鸡贼僵尸移动速度提升50%
+Tốc độ di chuyển của Zombie Trộm Gà tăng 50%
 
 [ANNIVERSARY_2026_4_ZOMBIE_MODIFIER]
-侠客铜人加速
+Tăng Tốc Người Đồng Hiệp Khách
 
 [ANNIVERSARY_2026_4_ZOMBIE_MODIFIER_DESCRIPTION]
-侠客铜人移动速度提升50%
+Tốc độ di chuyển của Người Đồng Hiệp Khách tăng 50%
 
 [ANNIVERSARY_2026_5_ZOMBIE_MODIFIER]
-机甲路障僵尸减伤
+Giảm Sát Thương Zombie Rào Chắn Cơ Khí
 
 [ANNIVERSARY_2026_5_ZOMBIE_MODIFIER_DESCRIPTION]
-机甲路障僵尸受到的植物伤害降低20%
+Sát thương từ thực vật gây lên Zombie Rào Chắn Cơ Khí giảm 20%
 
 [ANNIVERSARY_2026_6_ZOMBIE_MODIFIER]
-大法师僵尸减伤
+Giảm Sát Thương Zombie Đại Pháp Sư
 
 [ANNIVERSARY_2026_6_ZOMBIE_MODIFIER_DESCRIPTION]
-大法师僵尸受到的植物伤害降低20%
+Sát thương từ thực vật gây lên Zombie Đại Pháp Sư giảm 20%
 
 [ANNIVERSARY_2026_7_ZOMBIE_MODIFIER]
-章鱼僵尸减伤
+Giảm Sát Thương Zombie Bạch Tuộc
 
 [ANNIVERSARY_2026_7_ZOMBIE_MODIFIER_DESCRIPTION]
-章鱼僵尸受到的植物伤害降低20%
+Sát thương từ thực vật gây lên Zombie Bạch Tuộc giảm 20%
 
 [ANNIVERSARY_2026_8_ZOMBIE_MODIFIER]
-冰河酋长僵尸减伤
+Giảm Sát Thương Zombie Thủ Lĩnh Kỷ Băng Hà
 
 [ANNIVERSARY_2026_8_ZOMBIE_MODIFIER_DESCRIPTION]
-冰河酋长僵尸受到的植物伤害降低20%
+Sát thương từ thực vật gây lên Zombie Thủ Lĩnh Kỷ Băng Hà giảm 20%
 
 [ANNIVERSARY_2026_9_ZOMBIE_MODIFIER]
-双舱飞机僵尸加速
+Tăng Tốc Zombie Máy Bay Hai Buồng
 
 [ANNIVERSARY_2026_9_ZOMBIE_MODIFIER_DESCRIPTION]
-双舱飞机僵尸移动速度提升50%
+Tốc độ di chuyển của Zombie Máy Bay Hai Buồng tăng 50%
 
 [ANNIVERSARY_2026_10_ZOMBIE_MODIFIER]
-搬运工小鬼加速
+Tăng Tốc Tiểu Zombie Khuân Vác
 
 [ANNIVERSARY_2026_10_ZOMBIE_MODIFIER_DESCRIPTION]
-搬运工小鬼移动速度提升50%
+Tốc độ di chuyển của Tiểu Zombie Khuân Vác tăng 50%
 
 [ANNIVERSARY_2026_11_ZOMBIE_MODIFIER]
-街机僵尸减伤
+Giảm Sát Thương Zombie Máy Game
 
 [ANNIVERSARY_2026_11_ZOMBIE_MODIFIER_DESCRIPTION]
-街机僵尸受到的植物伤害降低20%
+Sát thương từ thực vật gây lên Zombie Máy Game giảm 20%
 
 [ANNIVERSARY_2026_12_ZOMBIE_MODIFIER]
-恐龙驯兽师加速
+Tăng Tốc Zombie Người Thuần Hóa Khủng Long
 
 [ANNIVERSARY_2026_12_ZOMBIE_MODIFIER_DESCRIPTION]
-恐龙驯兽师僵尸移动速度提升50%
+Tốc độ di chuyển của Zombie Người Thuần Hóa Khủng Long tăng 50%
 
 [ANNIVERSARY_2026_13_ZOMBIE_MODIFIER]
-全明星僵尸加速
+Tăng Tốc Zombie Ngôi Sao Bóng Đám
 
 [ANNIVERSARY_2026_13_ZOMBIE_MODIFIER_DESCRIPTION]
-全明星僵尸移动速度提升50%
+Tốc độ di chuyển của Zombie Ngôi Sao Bóng Đám tăng 50%
 
 [ANNIVERSARY_2026_14_ZOMBIE_MODIFIER]
-煤矿工僵尸减伤
+Giảm Sát Thương Zombie Thợ Mỏ
 
 [ANNIVERSARY_2026_14_ZOMBIE_MODIFIER_DESCRIPTION]
-煤矿工僵尸受到的植物伤害降低20%
+Sát thương từ thực vật gây lên Zombie Thợ Mỏ giảm 20%
 
 [ANNIVERSARY_2026_15_ZOMBIE_MODIFIER]
-飞行器僵尸加速
+Tăng Tốc Zombie Phi Thuyền
 
 [ANNIVERSARY_2026_15_ZOMBIE_MODIFIER_DESCRIPTION]
-飞行器僵尸移动速度提升50%
+Tốc độ di chuyển của Zombie Phi Thuyền tăng 50%
 
 [ANNIVERSARY_2026_16_ZOMBIE_MODIFIER]
-阴阳师僵尸减伤
+Giảm Sát Thương Zombie Âm Dương Sư
 
 [ANNIVERSARY_2026_16_ZOMBIE_MODIFIER_DESCRIPTION]
-阴阳师僵尸受到的植物伤害降低20%
+Sát thương từ thực vật gây lên Zombie Âm Dương Sư giảm 20%
 
 [ANNIVERSARY_2026_17_ZOMBIE_MODIFIER]
-海底祭司僵尸减伤
+Giảm Sát Thương Zombie Thầy Cúng Dưới Đáy Biển
 
 [ANNIVERSARY_2026_17_ZOMBIE_MODIFIER_DESCRIPTION]
-海底祭司僵尸受到的植物伤害降低20%
+Sát thương từ thực vật gây lên Zombie Thầy Cúng Dưới Đáy Biển giảm 20%
 
 [ANNIVERSARY_2026_18_ZOMBIE_MODIFIER]
-女巫僵尸减伤
+Giảm Sát Thương Zombie Phù Thủy
 
 [ANNIVERSARY_2026_18_ZOMBIE_MODIFIER_DESCRIPTION]
-女巫僵尸受到的植物伤害降低20%
+Sát thương từ thực vật gây lên Zombie Phù Thủy giảm 20%
 
 [ANNIVERSARY_2026_19_ZOMBIE_MODIFIER]
-陵墓骑兵僵尸加速
+Tăng Tốc Zombie Kỵ Binh Lăng Mộ
 
 [ANNIVERSARY_2026_19_ZOMBIE_MODIFIER_DESCRIPTION]
-陵墓骑兵僵尸移动速度提升50%
+Tốc độ di chuyển của Zombie Kỵ Binh Lăng Mộ tăng 50%
 
 [ANNIVERSARY_2026_20_ZOMBIE_MODIFIER]
-周年庆飞行僵尸加速
+Tăng Tốc Zombie Bay Kỷ Niệm
 
 [ANNIVERSARY_2026_20_ZOMBIE_MODIFIER_DESCRIPTION]
-周年庆飞行僵尸移动速度提升50%
+Tốc độ di chuyển của Zombie Bay Kỷ Niệm tăng 50%
+
 [PVZ2_CHINESE_END]

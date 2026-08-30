@@ -2388,7 +2388,7 @@ Có những cập nhật nội dung trò chơi mới.
 Ai Cập Cổ Đại
 
 [MOON]
-Căn Cứ Mặt Trăng
+Căn Cứ Mặt Trăng Z
 
 [EGYPT_CHALLENGE_MINIGAME_A_NAME]
 Ký Ức Về Xác Ướp - Ngày 1
@@ -4407,7 +4407,7 @@ Chuyến đi của {PLAYER} đến Thời Kì Heian!
 Chuyến đi của {PLAYER} đến Thế Giới Dưới Nước！
 
 [PLAYERS_TRIP_TO_MOON]
-Chuyến đi của {PLAYER} đến Thế Căn Cứ Mặt Trăng！
+Chuyến đi của {PLAYER} đến Thế Căn Cứ Mặt Trăng Z！
 
 [WARNING_LOW_TIDE]
 Cẩn thận, thủy triều xuống!
@@ -7075,10 +7075,10 @@ Trận Chiến Hàng Rào - Ngày 3
 Miền Tây Hoang Dã - Ngày {LEVEL_NUMBER}
 
 [MOON_LEVEL_NAME]
-Căn Cứ Mặt trăng - Ngày {LEVEL_NUMBER}
+Căn Cứ Mặt Trăng Z - Ngày {LEVEL_NUMBER}
 
 [MOON_HARD_LEVEL_NAME]
-Căn Cứ Mặt trăng (Độ khó chuyên gia) - Ngày {LEVEL_NUMBER}
+Căn Cứ Mặt Trăng Z (Độ khó chuyên gia) - Ngày {LEVEL_NUMBER}
 
 [WHO_ARE_YOU]
 Bạn là ai?
@@ -7157,7 +7157,8 @@ Thời Kì Heian
 Thế Giới Dưới Nước
 
 [WORLD_NAME_MOON]
-Căn Cứ Mặt trăng
+Căn Cứ Mặt Trăng Z
+
 [WORLD_NAME_TALE]
 Khu Rừng Cổ Tích
 
@@ -42945,13 +42946,13 @@ Sát thương duy trì và hiệu ứng làm chậm do mưa cánh hoa gây ra đ
 {FLAVOR}Vũ trụ thì rộng lớn bao la, một hạt đậu lại nhỏ bé tí hon. Sự tương phản này quả thực khiến người ta phải trầm ngâm suy ngẫm, bạn hiểu ý chứ?
 
 [COSMICPEA_DESCRIPTION_HEADER]
-Bắn đạn theo đường thẳng, có thể triệu hồi gói hạt giống thực vật họ đậu khác khi ở trong căn cứ Mặt Trăng.
+Bắn đạn theo đường thẳng, có thể triệu hồi gói hạt giống thực vật họ đậu khác khi ở trong Căn Cứ Mặt Trăng Z.
 
 [COSMICPEA_TOOLTIP]
-Bắn đạn theo đường thẳng, có thể triệu hồi gói hạt giống thực vật họ đậu khác khi ở trong căn cứ Mặt Trăng.
+Bắn đạn theo đường thẳng, có thể triệu hồi gói hạt giống thực vật họ đậu khác khi ở trong Căn Cứ Mặt Trăng Z.
 
 [COSMICPEA_PRODUCT_SHORT_DESC]
-Bắn đạn theo đường thẳng, có thể triệu hồi gói hạt giống thực vật họ đậu khác khi ở trong căn cứ Mặt Trăng.
+Bắn đạn theo đường thẳng, có thể triệu hồi gói hạt giống thực vật họ đậu khác khi ở trong Căn Cứ Mặt Trăng Z.
 
 [COSMICPEA_SKILL_LEVEL1]
 Hỗ trợ vũ trụ
@@ -43008,13 +43009,13 @@ Nấm Vũ Trụ
 {FLAVOR}Hắn ta thực sự rất bay bổng. Kiểu bay bổng~~~~~ siêu cấp luôn ấy.
 
 [COSMICMUSHROOM_DESCRIPTION_HEADER]
-Bắn bào tử vũ trụ tấn công, có thể triệu hồi gói hạt giống thực vật nấm khác khi ở trong căn cứ Mặt Trăng.
+Bắn bào tử vũ trụ tấn công, có thể triệu hồi gói hạt giống thực vật nấm khác khi ở trong Căn Cứ Mặt Trăng Z.
 
 [COSMICMUSHROOM_TOOLTIP]
-Bắn bào tử vũ trụ tấn công, có thể triệu hồi gói hạt giống thực vật nấm khác khi ở trong căn cứ Mặt Trăng.
+Bắn bào tử vũ trụ tấn công, có thể triệu hồi gói hạt giống thực vật nấm khác khi ở trong Căn Cứ Mặt Trăng Z.
 
 [COSMICMUSHROOM_PRODUCT_SHORT_DESC]
-Bắn bào tử vũ trụ tấn công, có thể triệu hồi gói hạt giống thực vật nấm khác khi ở trong căn cứ Mặt Trăng.
+Bắn bào tử vũ trụ tấn công, có thể triệu hồi gói hạt giống thực vật nấm khác khi ở trong Căn Cứ Mặt Trăng Z.
 
 [COSMICMUSHROOM_SKILL_LEVEL1]
 Sinh sôi vũ trụ
@@ -43126,8 +43127,10 @@ Cây Trọng Lực sau khi tụ lực sẽ tung ra một đợt trọng lực si
 
 [GRAVITREE_AVATAR_PLANTFOOD_DESCRIPTION]
 Khi đòn tấn công được tung ra, sẽ nện thêm một quả táo khổng lồ xuống ô của bản thân, vụ nổ quả táo gây sát thương lên phạm vi 3x3.
+
 [DARKMATTER_DRAGONFRUIT]
 Thanh Long Vật Chất Tối
+
 [DARKMATTER_DRAGONFRUIT_DESCRIPTION]
 {KEYWORD}Phạm vi: {STAT}Một hàng
 {KEYWORD}Đặc điểm cây: {STAT}Cây màu đỏ, họ vũ trụ
@@ -43190,21 +43193,23 @@ Thanh Long Vật Chất Tối triệu hồi rồng thiêng, lần lượt khạc
 
 [DARKMATTER_DRAGONFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
 Số lần rồng thiêng khạc hơi thở tăng lên thành 5 lần.
+
 [COSMICNUT]
 Óc Chó Vũ Trụ
+
 [COSMICNUT_DESCRIPTION]
 {KEYWORD}Phạm vi: {STAT}Không có tấn công chủ động
 {KEYWORD}Đặc điểm cây: {STAT}Cây màu tím, họ vũ trụ
 {FLAVOR}Hắn là một tín đồ trung thành của bộ môn số học huyền bí, chỉ cần bạn cho hắn cơ hội, hắn có thể trò chuyện với bạn về ý nghĩa sâu xa của con số 3 cho đến tận cùng thời gian.
 
 [COSMICNUT_DESCRIPTION_HEADER]
-Có thể tự động hoán đổi vị trí cách một khoảng thời gian, có thể triệu hồi gói hạt giống thực vật hạt giống/hạt dẻ khác khi ở trong căn cứ Mặt Trăng.
+Có thể tự động hoán đổi vị trí cách một khoảng thời gian, có thể triệu hồi gói hạt giống thực vật hạt óc chó khác khi ở trong Căn Cứ Mặt Trăng Z.
 
 [COSMICNUT_TOOLTIP]
-Có thể tự động hoán đổi vị trí cách một khoảng thời gian, có thể triệu hồi gói hạt giống thực vật hạt giống/hạt dẻ khác khi ở trong căn cứ Mặt Trăng.
+Có thể tự động hoán đổi vị trí cách một khoảng thời gian, có thể triệu hồi gói hạt giống thực vật hạt óc chó khác khi ở trong Căn Cứ Mặt Trăng Z.
 
 [COSMICNUT_PRODUCT_SHORT_DESC]
-Có thể tự động hoán đổi vị trí cách một khoảng thời gian, có thể triệu hồi gói hạt giống thực vật hạt giống/hạt dẻ khác khi ở trong căn cứ Mặt Trăng.
+Có thể tự động hoán đổi vị trí cách một khoảng thời gian, có thể triệu hồi gói hạt giống thực vật hạt óc chó khác khi ở trong Căn Cứ Mặt Trăng Z.
 
 [COSMICNUT_SKILL_LEVEL1]
 Hút hố đen
@@ -46722,13 +46727,13 @@ Trang phục Tre Đột Kích
 Mũi khoan lớn làm chậm mạnh hơn, nổ đau hơn và gây choáng mục tiêu trong 2 giây sau nổ
 
 [DRAFTODIL]
-Hoa Thủy Tiên Khí Lưu
+Thủy Tiên Khí Lưu
 
 [DRAFTODIL_DESCRIPTION]
 {KEYWORD}Phạm vi: {STAT}1 hàng trước mặt
 {KEYWORD}Tính năng: {STAT}Gây khựng quái đi bộ, thổi bay quái bay và Zombie Tiểu Quỷ.
 {KEYWORD}Đặc điểm: {STAT}Khí nén áp suất, Khống chế đẩy lùi tầm xa
-{FLAVOR}Hoa Thủy Tiên Khí Lưu nhìn như một kẻ khoác lác chỉ có khí nóng, nhưng không phải đâu. Người ta là khí nén áp suất cao, khác bọt hoàn toàn nhé!
+{FLAVOR}Thủy Tiên Khí Lưu nhìn như một kẻ khoác lác chỉ có khí nóng, nhưng không phải đâu. Người ta là khí nén áp suất cao, khác bọt hoàn toàn nhé!
 
 [DRAFTODIL_DESCRIPTION_HEADER]
 Phóng luồng khí làm khựng ngắn quái đi bộ, thổi bay quái bay và Zombie Tiểu Quỷ.
@@ -46758,7 +46763,7 @@ Tỷ lệ gây khựng zombie và tỷ lệ thổi bay Zombie Tiểu Quỷ tiế
 Định kỳ bắn đạn khí xuyên thấu: Làm khựng cực lâu mục tiêu đầu và tỷ lệ cao thổi bay quái nhỏ; mục tiêu thứ hai chịu hiệu ứng như đạn thường.
 
 [STORE_PRODUCT_AVATAR_DRAFTODIL_TITLE]
-Trang phục Hoa Thủy Tiên Khí Lưu
+Trang phục Thủy Tiên Khí Lưu
 
 [STORE_PRODUCT_AVATAR_DRAFTODIL]
 Đại chiêu bắn lan tỏa thêm 2 hàng đất lân cận
@@ -48257,7 +48262,7 @@ Phải đặt Rêu Vũ Trụ trước.
 Không thể đặt Rêu Vũ Trụ chồng lên Rêu Vũ Trụ.
 
 [PLANTING_COSMOSS_ONLY_UNIVERSE]
-Rêu Vũ Trụ chỉ có thể được trồng bên trong căn cứ Mặt Trăng.
+Rêu Vũ Trụ chỉ có thể được trồng bên trong Căn Cứ Mặt Trăng Z.
 
 [LIFE_SUPPORT_COLLAPSE_SOON]
 Trường lực duy trì sự sống đã sụp đổ, các thực vật đã trồng sẽ chìm vào trạng thái ngủ đông sau 5 giây.
@@ -50538,13 +50543,13 @@ Hoàn thành cấp độ khó ngày 13 của Thế Giới Dưới Nước
 Hoàn thành Thử Thách Cuối Cùng của Thế Giới Dưới Nước
 
 [TASK_WORLDTASK_MOON1]
-Hoàn thành cấp độ dễ ngày 13 của Căn cứ Mặt Trăng
+Hoàn thành cấp độ dễ ngày 13 của Căn Cứ Mặt Trăng Z
 
 [TASK_WORLDTASK_MOON2]
-Hoàn thành cấp độ khó của ngày 13 của Căn cứ Mặt Trăng
+Hoàn thành cấp độ khó của ngày 13 của Căn Cứ Mặt Trăng Z
 
 [TASK_WORLDTASK_MOON3]
-Hoàn thành Thử Thách Cuối Cùng của Căn cứ Mặt Trăng
+Hoàn thành Thử Thách Cuối Cùng của Căn Cứ Mặt Trăng Z
 
 [TASK_WEEKLYINTEGRAL_DESCRIPTION_PLANTCHALLENGE]
 Sử dụng các loại cây cụ thể để vượt qua các cấp độ giới hạn và nhận phần thưởng rương kho báu hiếm!
@@ -51895,7 +51900,7 @@ Biệt Đội Đậu Tằm - thời gian nghỉ ngơi giảm {Param_1}%
 Violet Thu Nhỏ - sát thương mà zombie phải chịu sau khi bị thu nhỏ tăng {Param_1}%
 
 [GENE_DESCRIPTION_DRAFTODIL]
-Hoa Thủy Tiên Khí Lưu - xác suất thổi bay zombie Tiểu Quỷ tăng {Param_1}%
+Thủy Tiên Khí Lưu - xác suất thổi bay zombie Tiểu Quỷ tăng {Param_1}%
 
 [GENE_DESCRIPTION_SHADOWPEASHOOTER]
 Đậu Bóng Tối - sức tấn công dựa trên số lượng Hoa Nguyệt có trên sân tăng {Param_1}%
@@ -53533,7 +53538,7 @@ Giới thiệu hoạt động Kế hoạch nuôi dưỡng cây trồng
 2. Chọn 1 cây trong danh sách để nhận trải nghiệm cấp 5 (14 ngày) và mở khóa nhiệm vụ.
 3. Đã chọn cây nuôi dưỡng sẽ không thể thay đổi, vui lòng cân nhắc kỹ.
 4. Hoàn thành nhiệm vụ nhận giá trị tăng trưởng. Tích đầy sẽ nhận vĩnh viễn 10 Mảnh cây và trang phục đi kèm.
-5. Chưa hoàn thành sau 14 ngày, có thể đăng nhập từ 4/8 - 8/8 để dùng Kim cương mua tiến độ còn thiếu.
+5. Chưa hoàn thành sau 14 ngày, có thể đăng nhập từ 11/9 - 15/9 để dùng Kim cương mua tiến độ còn thiếu.
 6. Thẻ trải nghiệm xem tại Túi đồ > Vật phẩm khác.
 7. Sau khi vào game, hãy kiểm tra danh sách nhiệm vụ trong Kế hoạch nuôi dưỡng trước khi chơi; không thoát game khi đang thực hiện nhiệm vụ.
 
@@ -55519,7 +55524,7 @@ Nắp Ấm Gorgon - Kính râm
 Tốc độ tấn công tăng 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRAFTODIL_2]
-Hoa Thủy Tiên Khí Lưu - Đèn lồng
+Thủy Tiên Khí Lưu - Đèn lồng
 
 [NEW_AVATAR_DESCRIPTION_DRAFTODIL_2]
 Tốc độ tấn công tăng 20%
@@ -56574,7 +56579,7 @@ Súng Cối Dâu Gấu - Tăng trưởng
 Tốc độ tấn công tăng 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRAFTODIL_1]
-Hoa Thủy Tiên Khí Lưu - Tăng trưởng
+Thủy Tiên Khí Lưu - Tăng trưởng
 
 [NEW_AVATAR_DESCRIPTION_DRAFTODIL_1]
 Tốc độ tấn công tăng 10%
@@ -73907,52 +73912,53 @@ Băng giá và u hỏa
 Kỵ sĩ bí ngô trong lửa đỏ
 
 [ANNIVERSARY_10TH_NAME_01]
-Thử thách kỷ niệm-Ai Cập
+Thử thách kỷ niệm - Ai Cập
 
 [ANNIVERSARY_10TH_NAME_02]
-Thử thách kỷ niệm-Hải tặc
+Thử thách kỷ niệm - Hải tặc
 
 [ANNIVERSARY_10TH_NAME_03]
-Thử thách kỷ niệm-Miền Tây
+Thử thách kỷ niệm - Miền Tây
 
 [ANNIVERSARY_10TH_NAME_04]
-Thử thách kỷ niệm-Tương lai
+Thử thách kỷ niệm - Kung Fu
 
 [ANNIVERSARY_10TH_NAME_05]
-Thử thách kỷ niệm-Bóng tối
+Thử thách kỷ niệm - Tương Lai
 
 [ANNIVERSARY_10TH_NAME_06]
-Thử thách kỷ niệm-Bãi biển
+Thử thách kỷ niệm - Tăm Tối
 
 [ANNIVERSARY_10TH_NAME_07]
-Thử thách kỷ niệm-Kỷ băng hà
+Thử thách kỷ niệm - Bãi biển
 
 [ANNIVERSARY_10TH_NAME_08]
-Thử thách kỷ niệm-Bầu trời
+Thử thách kỷ niệm - Kỷ băng hà
 
 [ANNIVERSARY_10TH_NAME_09]
-Thử thách kỷ niệm-Thành phố đã mất
+Thử thách kỷ niệm - Bầu trời
 
 [ANNIVERSARY_10TH_NAME_10]
-Thử thách kỷ niệm-Nhạc Rock
+Thử thách kỷ niệm - Thành phố đã mất
 
 [ANNIVERSARY_10TH_NAME_11]
-Thử thách kỷ niệm-Khủng long
+Thử thách kỷ niệm - Nhạc Rock
 
 [ANNIVERSARY_10TH_NAME_12]
-Thử thách kỷ niệm-Thời đại hơi nước
+Thử thách kỷ niệm - Khủng long
 
 [ANNIVERSARY_10TH_NAME_13]
-Thử thách kỷ niệm-Truyện cổ tích
+Thử thách kỷ niệm - Hiện Đại
 
 [ANNIVERSARY_10TH_NAME_14]
-Thử thách kỷ niệm-Phục hưng
+Thử thách kỷ niệm - Hơi nước
 
 [ANNIVERSARY_10TH_NAME_15]
-Thử thách kỷ niệm-Công phu
+Thử thách kỷ niệm - Phục hưng
 
 [ANNIVERSARY_10TH_NAME_16]
-Thử thách kỷ niệm-Tiệc tùng
+Thử thách kỷ niệm - Heian
+
 [ANNIVERSARY_10TH_NAME_17]
 Thử thách kỷ niệm - Đáy biển
 
@@ -82825,10 +82831,10 @@ Nấm Đầu Hổ há cái miệng lớn đỏ ngòm thực hiện một cú t�
 Khi có zombie xuất hiện ở bên phải Xạ Thủ Thủy Tiên, Xạ Thủ Thủy Tiên sẽ bắn viên đạn không khí về phía trước, gây sát thương cho zombie trúng đòn, có 50% xác suất gây bất động, có thể thổi bay zombie bay, và có 30% xác suất thổi bay Zombie Tiểu Quỷ.
 
 [DRAFTODIL_NEW_SKILL_LEVEL2_DES]
-Hoa Thủy Tiên Khí Lưu tạo ra luồng khí mạnh hơn, có 40% xác suất thổi bay Zombie Tiểu Quỷ.
+Thủy Tiên Khí Lưu tạo ra luồng khí mạnh hơn, có 40% xác suất thổi bay Zombie Tiểu Quỷ.
 
 [DRAFTODIL_NEW_SKILL_LEVEL3_DES]
-Hoa Thủy Tiên Khí Lưu tạo ra luồng khí mạnh hơn, có 50% xác suất thổi bay Zombie Tiểu Quỷ.
+Thủy Tiên Khí Lưu tạo ra luồng khí mạnh hơn, có 50% xác suất thổi bay Zombie Tiểu Quỷ.
 
 [DRAFTODIL_NEW_SKILL_LEVEL4_DES]
 Khi trồng có xác suất trung bình kích hoạt trực tiếp tuyệt kỹ Plant Food!
@@ -82837,10 +82843,10 @@ Khi trồng có xác suất trung bình kích hoạt trực tiếp tuyệt kỹ 
 Khi tấn công có 15% xác suất bắn ra viên đạn bóng bay mạnh mẽ hơn, có thể xuyên thấu qua một con zombie, gây hiệu ứng bất động lâu hơn cho con zombie thứ nhất, có xác suất cực cao thổi bay zombie cỡ nhỏ, và gây hiệu ứng của viên đạn thông thường lên con zombie thứ hai.
 
 [DRAFTODIL_PLANTFOOD_DESCRIPTION]
-Hoa Thủy Tiên Khí Lưu tạo ra luồng khí cực mạnh bắn liên tiếp 10 viên đạn và thổi bay các zombie bay trên hàng hiện tại.
+Thủy Tiên Khí Lưu tạo ra luồng khí cực mạnh bắn liên tiếp 10 viên đạn và thổi bay các zombie bay trên hàng hiện tại.
 
 [DRAFTODIL_AVATAR_PLANTFOOD_DESCRIPTION]
-Hoa Thủy Tiên Khí Lưu tạo ra luồng khí cực mạnh bắn liên tiếp 10 viên đạn vào ^ff0000^mỗi hàng trong số 3 hàng bên phải và thổi bay các zombie bay trên hàng hiện tại.^oldclr^
+Thủy Tiên Khí Lưu tạo ra luồng khí cực mạnh bắn liên tiếp 10 viên đạn vào ^ff0000^mỗi hàng trong số 3 hàng bên phải và thổi bay các zombie bay trên hàng hiện tại.^oldclr^
 
 [GARDENERGRASS_NEW_SKILL_LEVEL1_DES]
 Khi có zombie bước vào trong vòng 2 ô bên phải Cỏ Răng Cưa, Cỏ Răng Cưa sẽ sử dụng lưỡi cưa trên đỉnh đầu để tấn công toàn bộ zombie, mỗi giây gây sát thương và khống chế zombie, zombie sẽ liên tục run rẩy và không thể hành động, đồng thời lưỡi cưa sẽ dần quá nhiệt trong vòng 15 giây. Trong trạng thái quá nhiệt, Cỏ Răng Cưa không thể tiến hành tấn công, cưa máy quá nhiệt sẽ hồi phục sau 10 giây.
@@ -84731,13 +84737,13 @@ Hoàn thành 1 cấp độ Làn Đường Kí Ức mỗi ngày
 Khiêu chiến 1 lần màn Thế Giới Dưới Biển mới mỗi ngày
 
 [NFSLINKAGE_TASK_NAME_20]
-Hoàn thành 1 cấp độ Căn cứ Mặt Trăng mỗi ngày
+Hoàn thành 1 cấp độ Căn Cứ Mặt Trăng Z mỗi ngày
 
 [NFSLINKAGE_TASK_NAME_10]
-Vượt qua màn 12 Căn Cứ Mặt Trăng
+Vượt qua màn 12 Căn Cứ Mặt Trăng Z
 
 [NFSLINKAGE_TASK_NAME_19]
-Vượt qua màn 12 Căn Cứ Mặt Trăng
+Vượt qua màn 12 Căn Cứ Mặt Trăng Z
 
 [PENNY_GIFT_SHORT_DESCRIPTION]
 Mở Hộp Quà Tương Lai của Penny, nhận phần thưởng siêu giá trị
@@ -84790,16 +84796,19 @@ Dùng để mua đạo cụ trong Hộp Quà Tương Lai Penny
 Nhận khi mua Gói Tiền Vàng trong Hộp Quà Tương Lai Penny
 
 [MAT_LUCKYCHEST]
-Rương May Mắn Mùa 8
+Rương May Mắn Mùa 9
 
 [MAT_LUCKYCHEST_USE]
-Mở rương nhận ngẫu nhiên phần thưởng phong phú, chỉ dùng từ 02/07/2026 - 26/08/2026
+Mở rương nhận ngẫu nhiên phần thưởng phong phú, chỉ dùng từ 30/08/2026 - 24/10/2026
 
 [MAT_LUCKYCHEST_GOT_WAY]
 Nhận từ sự kiện Kho Báu May Mắn hoặc mua Gói Ưu Đãi Hàng Tuần
 
 [NFS_LINKAGE_TAB1]
 Điểm Danh Ngày
+
+[NFS_LINKAGE_TAB2_10]
+Nhiệm vụ kỷ niệm
 
 [NFS_LINKAGE_TAB2_9]
 Nhiệm vụ mùa hè
@@ -84822,6 +84831,9 @@ Nhiệm Vụ Đua Xe
 [NFS_LINKAGE_TAB3]
 Cửa Hàng Đổi Thưởng
 
+[NFSLINKAGE_DESCRIPTION_TITLE_10]
+Hướng dẫn sự kiện Dạ hội Kỷ niệm
+
 [NFSLINKAGE_DESCRIPTION_TITLE_9]
 Hướng dẫn sự kiện Hè Mát Lạnh
 
@@ -84840,7 +84852,7 @@ Hướng dẫn sự kiện Khám Phá Hà Mỗ Độ
 [NFSLINKAGE_DESCRIPTION_TITLE_4]
 Hướng dẫn sự kiện Đại Chiến Bánh Răng
 
-[NFSLINKAGE_DESCRIPTION_9]
+[NFSLINKAGE_DESCRIPTION_10]
 Quy tắc
 1. Điểm danh 14 ngày nhận quà.
 2. Nhiệm vụ ngày làm mới lúc 0h.
@@ -84848,45 +84860,7 @@ Quy tắc
 4. Hoàn thành nhận Kim Vân Chu để đổi quà.
 5. Hãy đổi quà trước khi sự kiện kết thúc.
 
-[NFSLINKAGE_DESCRIPTION_8]
-Quy tắc
-1. Điểm danh 14 ngày nhận quà.
-2. Nhiệm vụ ngày làm mới lúc 0h.
-3. Nhiệm vụ sự kiện mở theo từng giai đoạn.
-4. Hoàn thành nhận Kim Vân Chu để đổi quà.
-5. Hãy đổi quà trước khi sự kiện kết thúc.
 
-[NFSLINKAGE_DESCRIPTION_7]
-Quy tắc
-1. Điểm danh 14 ngày nhận quà.
-2. Nhiệm vụ ngày làm mới lúc 0h.
-3. Nhiệm vụ sự kiện mở theo từng giai đoạn.
-4. Hoàn thành nhận Vàng Nguyên Bảo để đổi quà.
-5. Hãy đổi quà trước khi sự kiện kết thúc.
-
-[NFSLINKAGE_DESCRIPTION_6]
-Quy tắc
-1. Điểm danh 14 ngày nhận quà.
-2. Nhiệm vụ ngày làm mới lúc 0h.
-3. Nhiệm vụ sự kiện mở theo từng giai đoạn.
-4. Hoàn thành nhận Kẹo Gậy để đổi quà.
-5. Hãy đổi quà trước khi sự kiện kết thúc.
-
-[NFSLINKAGE_DESCRIPTION_5]
-Quy tắc
-1. Điểm danh 14 ngày nhận quà.
-2. Nhiệm vụ ngày làm mới lúc 0h.
-3. Nhiệm vụ sự kiện mở theo từng giai đoạn.
-4. Hoàn thành nhận Đá để đổi quà.
-5. Hãy đổi quà trước khi sự kiện kết thúc.
-
-[NFSLINKAGE_DESCRIPTION_4]
-Quy tắc
-1. Điểm danh 14 ngày nhận quà.
-2. Nhiệm vụ ngày làm mới lúc 0h.
-3. Nhiệm vụ sự kiện mở theo từng giai đoạn.
-4. Hoàn thành nhận Bánh Răng để đổi quà.
-5. Hãy đổi quà trước khi sự kiện kết thúc.
 [NFSLINKAGE_TITLE_10]
 Đêm hội kỷ niệm
 
@@ -84907,6 +84881,7 @@ Khám Phá Hà Mỗ Độ
 
 [NFSLINKAGE_TITLE_4]
 Đại Chiến Đua Xe
+
 [MAT_NFSLINKAGE_TICKET_10]
 Bóng bay lễ hội
 
@@ -84927,6 +84902,7 @@ Kẹo Gậy
 
 [MAT_NFSLINKAGE_TICKET_4]
 Bánh Răng
+
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_10]
 Trong thời gian diễn ra sự kiện, người chơi có thể đăng nhập để nhận phần thưởng siêu hời trong 14 ngày, hoàn thành nhiệm vụ sự kiện để nhận bóng bay lễ hội, và tiêu hao bóng bay lễ hội tại cửa hàng đổi thưởng để rinh về những phần thưởng cực kỳ giá trị nhé!
 
@@ -85821,19 +85797,19 @@ Rút thêm {NUMS} lần nữa chắc chắn trúng Giải Lớn
 ^FFFF00 {NAME} ^oldclr đã rút được ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-Màn đêm tĩnh mịch
+Yết kiến Tận Thế
 
 [TOYNIGHT_TITLE]
-Màn đêm tĩnh mịch
+Yết kiến Tận Thế
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-Gói Quà Thanh Viêm Sơ Cấp
+Gói Quà Tận Thế Sơ Cấp
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-Gói Quà Thanh Viêm Trung Cấp
+Gói Quà Tận Thế Trung Cấp
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-Gói Quà Thanh Viêm Cao Cấp
+Gói Quà Tận Thế Cao Cấp
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
 Gói Giới Hạn Sơ Cấp
@@ -85851,22 +85827,22 @@ Nhận Trang Phục Siêu Cấp Laze Bòng Bong Vương - Đèn Lồng Hồn H�
 Nhận đủ 4 trang phục của Laze Bòng Bong Vương (Thường, Trưởng Thành, Trọn bộ, Siêu Cấp)
 
 [MAT_TOY_PARTS_1]
-Tinh Thể Thanh Viêm
+Hủy Diệt Tinh Trần
 
 [MAT_TOY_PARTS_1_USE]
-Dùng để đổi phần thưởng trong Cửa Hàng Thanh Minh thuộc sự kiện Màn đêm tĩnh mịch
+Dùng để đổi phần thưởng trong Cửa Hàng Tận Thế thuộc sự kiện Yết kiến Tận Thế
 
 [MAT_TOY_PARTS_1_GOT_WAY]
-Nhận được thông qua rút thưởng trong sự kiện Màn đêm tĩnh mịch
+Nhận được thông qua rút thưởng trong sự kiện Yết kiến Tận Thế
 
 [MAT_TOY_CLOCKWORK_1]
-Xu Thanh Viêm
+Xu Tận Thế
 
 [MAT_TOY_CLOCKWORK_1_USE]
-Đạo cụ tiêu hao để rút thưởng trong sự kiện Màn đêm tĩnh mịch
+Đạo cụ tiêu hao để rút thưởng trong sự kiện Yết kiến Tận Thế
 
 [MAT_TOY_CLOCKWORK_1_GOT_WAY]
-Nhận được thông qua mua tại Cửa Hàng Gói Quà thuộc sự kiện Màn đêm tĩnh mịch
+Nhận được thông qua mua tại Cửa Hàng Gói Quà thuộc sự kiện Yết kiến Tận Thế
 
 [MAT_TOY_PARTS_2]
 Khối Tinh Thể Tổ Ong
@@ -85887,38 +85863,38 @@ Xu Mật Ong
 Nhận được thông qua mua tại Cửa Hàng Gói Quà thuộc sự kiện Bản Tình Ca Ngọt Ngào
 
 [TOY_NIGHT_EXPIRED]
-Phần thưởng hết hạn Màn đêm tĩnh mịch
+Phần thưởng hết hạn Yết kiến Tận Thế
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
 Quy tắc hoạt động:
-1. Nhận Xu Thanh Viêm thông qua mua gói quà, tiêu hao Xu Thanh Viêm để rút thưởng trong sự kiện. Xu Thanh Viêm và Tinh Thể Thanh Viêm không thể kế thừa sang sự kiện kỳ sau, sau khi sự kiện kết thúc sẽ tự động chuyển đổi thành Kim Cương theo tỷ lệ lần lượt là 1:10 và 1:1.
-2. Mỗi lần rút thưởng đều có tỷ lệ nhận được Tinh Thể Thanh Viêm hoặc các phần thưởng khác, các Bạn Zombie may mắn sẽ có tỷ lệ nhận trực tiếp Trang Phục Siêu Cấp Laze Bòng Bong Vương - Đèn Lồng Hồn Hậu.
+1. Nhận Xu Tận Thế thông qua mua gói quà, tiêu hao Xu Tận Thế để rút thưởng trong sự kiện. Xu Tận Thế và Hủy Diệt Tinh Trần không thể kế thừa sang sự kiện kỳ sau, sau khi sự kiện kết thúc sẽ tự động chuyển đổi thành Kim Cương theo tỷ lệ lần lượt là 1:10 và 1:1.
+2. Mỗi lần rút thưởng đều có tỷ lệ nhận được Hủy Diệt Tinh Trần hoặc các phần thưởng khác, các Bạn Zombie may mắn sẽ có tỷ lệ nhận trực tiếp Trang Phục Siêu Cấp Laze Bòng Bong Vương - Đèn Lồng Hồn Hậu.
 3. Nếu liên tiếp 20 lần rút thưởng không trúng Giải Lớn, lần rút thưởng tiếp theo chắc chắn sẽ nhận được phần thưởng trong Kho Thưởng Bảo Hiểm.
-4. Trang Phục Siêu Cấp nếu rút trùng sẽ tự động chuyển đổi thành phần thưởng gồm 200 Tinh Thể Thanh Viêm.
+4. Trang Phục Siêu Cấp nếu rút trùng sẽ tự động chuyển đổi thành phần thưởng gồm 200 Hủy Diệt Tinh Trần.
 
 Tỷ lệ Kho Thưởng Bảo Hiểm:
 Trang Phục Siêu Cấp Laze Bòng Bong Vương - Đèn Lồng Hồn Hậu: 3.72% Giải Lớn
-Tinh Thể Thanh Viêm *1300: 5.28% Giải Lớn
-Tinh Thể Thanh Viêm *700: 12.55% Giải Lớn
-Tinh Thể Thanh Viêm *500: 11.10% Giải Lớn
+Hủy Diệt Tinh Trần *1300: 5.28% Giải Lớn
+Hủy Diệt Tinh Trần *700: 12.55% Giải Lớn
+Hủy Diệt Tinh Trần *500: 11.10% Giải Lớn
 Kim Cương *1888: 32.17% Giải Lớn
 Vé Bí Bảo Penny *10: 35.18% Giải Lớn
 
 Công bố tỷ lệ phần thưởng:
 Trang Phục Siêu Cấp Laze Bòng Bong Vương - Đèn Lồng Hồn Hậu: 0.17% Giải Lớn
-Tinh Thể Thanh Viêm *1300: 0.21% Giải Lớn
-Tinh Thể Thanh Viêm *700: 0.43% Giải Lớn
-Tinh Thể Thanh Viêm *500: 0.85% Giải Lớn
-Tinh Thể Thanh Viêm *100: 6.09% Thường
-Tinh Thể Thanh Viêm *50: 16.00% Thường
-Tinh Thể Thanh Viêm *20: 12.00% Thường
-Tinh Thể Thanh Viêm *10: 35.00% Thường
+Hủy Diệt Tinh Trần *1300: 0.21% Giải Lớn
+Hủy Diệt Tinh Trần *700: 0.43% Giải Lớn
+Hủy Diệt Tinh Trần *500: 0.85% Giải Lớn
+Hủy Diệt Tinh Trần *100: 6.09% Thường
+Hủy Diệt Tinh Trần *50: 16.00% Thường
+Hủy Diệt Tinh Trần *20: 12.00% Thường
+Hủy Diệt Tinh Trần *10: 35.00% Thường
 Vé Trang Phục *500: 2.50% Thường
 Vé Trang Phục *100: 9.75% Thường
 Vé Bí Bảo Penny *1: 17.00% Thường
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-Nếu đã sở hữu, tự động chuyển đổi thành Phần thưởng Tinh Thể Thanh Viêm
+Nếu đã sở hữu, tự động chuyển đổi thành Phần thưởng Hủy Diệt Tinh Trần
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 Hướng dẫn sự kiện
@@ -86038,7 +86014,7 @@ Ninja Cà Tím - 「Zero」
 Sức tấn công tăng 30%
 
 [GINGLEBELL_TITLE]
-Rộn Ràng Mùa Biển
+Rộn Ràng Kỷ Niệm
 
 [GINGLEBELL_TIPS]
 BXH đang đóng để công bố, không thể khiêu chiến
@@ -86056,36 +86032,36 @@ Giải tham gia
 Lịch sử kỷ lục
 
 [GINGLEBELL_DESCRIPTION_TITLE]
-Hướng dẫn sự kiện Kính Coong
+Hướng dẫn sự kiện Rộn Ràng
 
 [GINGLEBELL_DESCRIPTION]
 Quy tắc hoạt động:
     1. Điểm vượt màn là tổng sát thương gây lên Công Trình Cua Ẩn Sĩ trong thời gian giới hạn.
     2. Điểm từ các màn mới mở khóa dùng để hoàn thành nhiệm vụ phần thưởng hàng ngày (làm mới mỗi ngày).
-    3. Sự kiện gồm 3 chủ đề (Cự Giải Hồi Du, Cua Ngang Lộng Hành, Cự Giải Phục Kích). Mỗi chủ đề có 3 màn, cứ 2 ngày mở 1 cửa mới, 6 ngày mở 1 chủ đề mới.
+    3. Sự kiện gồm 3 chủ đề (Bẫy Ngọt Ngào, Bất Ngờ Chồng Chất, Tiệc Cuồng Hoan). Mỗi chủ đề có 3 màn, cứ 2 ngày mở 1 cửa mới, 6 ngày mở 1 chủ đề mới.
     4. Xem cơ chế đặc biệt của chủ đề tại góc trên bên phải giao diện chính.
     5. BXH xếp theo tổng điểm 3 cửa của chủ đề mới nhất. Khi mở chủ đề mới, BXH sẽ đóng từ 0h - 10h để công bố và khóa các cửa sự kiện. Chơi các chủ đề cũ không tính điểm vào BXH.
-    6. Phần thưởng tự động phát sau khi kết thúc công bố lúc 10h. Riêng ngày 19/07/2026, thời gian công bố kéo dài một ngày và không thể khiêu chiến.
+    6. Phần thưởng tự động phát sau khi kết thúc công bố lúc 10h. Riêng ngày 15/09/2026, thời gian công bố kéo dài một ngày và không thể khiêu chiến.
     7. Người chơi bị phát hiện điểm số dị thường sẽ bị loại khỏi BXH trong suốt thời gian sự kiện.
 
 
 [GINGLEBELL_HOWTOPLAY_1_DESCRIPTION]
-Cua Ẩn Sĩ Khổng Lồ sở hữu thanh Kháng Độc, cần sử dụng các đòn tấn công hệ Độc mới có thể phá vỡ.
+Xe tăng bánh ngọt khi di chuyển, nếu chạm phải thực vật sẽ tiêu diệt ngay lập tức.
 
 [GINGLEBELL_HOWTOPLAY_2_DESCRIPTION]
-Mỗi khi thanh Kháng Độc của Cua Ẩn Sĩ Khổng Lồ về 0, nó sẽ ngẫu nhiên tạo ra các cọc gỗ nhỏ trong phạm vi 8 ô xung quanh; các cọc gỗ này không có cơ chế đặc biệt.
+Khi xe tăng bánh ngọt bị tấn công, nó sẽ triệu hồi 1 cọc gỗ bánh ngọt và 1 cọc gỗ hộp đồ chơi ở xung quanh.
 
 [GINGLEBELL_HOWTOPLAY_3_DESCRIPTION]
-Chủ đề 1: Cọc gỗ sẽ di chuyển tuần hoàn theo lộ trình chỉ định, bắt đầu từ điểm xuất phát, di chuyển lần lượt đến các điểm trung gian và cuối cùng quay trở lại điểm xuất phát.
+Cọc gỗ bánh ngọt là cọc gỗ thông thường; cọc gỗ hộp đồ chơi là cọc gỗ đặc biệt, sau khi tiêu diệt sẽ phát nổ và gây hiệu ứng sát thương chí mạng lên thực vật xung quanh.
 
 [GINGLEBELL_HOWTOPLAY_4_DESCRIPTION]
-Chủ đề 2: Cọc gỗ sẽ di chuyển sang trái hoặc phải trong một phạm vi nhất định trên cùng một hàng.
+Chủ đề 1: Cọc gỗ sẽ di chuyển theo vòng lặp dựa trên tuyến đường chỉ định, bắt đầu từ điểm xuất phát theo thứ tự đến các điểm trung gian, và cuối cùng quay lại điểm xuất phát.
 
 [GINGLEBELL_HOWTOPLAY_5_DESCRIPTION]
-Chủ đề 3: Cọc gỗ truyền thống, chỉ xuất hiện với số lượng giới hạn trên sân và sẽ không di chuyển.
+Chủ đề 2: Trên sân có các tuyến đường ray trên và dưới cố định, khi cọc gỗ bị tấn công, tốc độ di chuyển của nó sẽ tăng lên. Gia tốc này có giới hạn tốc độ tối đa.
 
 [GINGLEBELL_HOWTOPLAY_6_DESCRIPTION]
-Chủ đề 2: Cọc gỗ sẽ di chuyển qua lại trái phải trong một phạm vi nhất định trên cùng một hàng.
+Chủ đề 3: Cứ qua X giây, cọc gỗ sẽ xuất hiện ở vị trí chỉ định và tiếp tục di chuyển sang bên trái hoặc bên phải, sau khi ra khỏi sân đấu cọc gỗ sẽ tự động biến mất.
 
 [GINGLEBELL_HOWTOPLAY_7_DESCRIPTION]
 Chủ đề 3: Trên sân có lộ trình đường ray lên xuống định sẵn, khi cọc gỗ bị tấn công thì tốc độ di chuyển của cọc gỗ sẽ tăng nhanh hơn.
@@ -86205,7 +86181,7 @@ Hạng của bạn: {NUMBER}
 Số người tham gia toàn máy chủ: {NUMBER}
 
 [GINGLEBELL_RANK_REWARD_TITLE]
-Phần thưởng BXH Rộn Ràng Mùa Biển
+Phần thưởng BXH Rộn Ràng
 
 [GINGLEBELL_TAB1]
 Thử Thách Theo Chủ Đề
@@ -86229,7 +86205,7 @@ Sát thương kỷ lục: {NUMBER}
 Gây càng nhiều sát thương càng tốt trong vòng 30 giây
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-Rộn Ràng Mùa Biển
+Rộn Ràng Kỷ Niệm
 
 [GINGLEBELL_TASKDESCRIPTION]
 Gây sát thương trong các màn mới nhất đạt {NUMBER} 
@@ -86262,31 +86238,31 @@ Băng Tan Mây Tạnh - Cửa 2
 Băng Tan Mây Tạnh - Cửa 3
 
 [GINGLEBELL_S1_1_TITLE]
-Cự Giải Hồi Du - Cửa 1
+Bẫy Ngọt Ngào - Cửa 1
 
 [GINGLEBELL_S1_2_TITLE]
-Cự Giải Hồi Du - Cửa 2
+Bẫy Ngọt Ngào - Cửa 2
 
 [GINGLEBELL_S1_3_TITLE]
-Cự Giải Hồi Du - Cửa 3
+Bẫy Ngọt Ngào - Cửa 3
 
 [GINGLEBELL_S2_1_TITLE]
-Cua Ngang Lộng Hành - Cửa 1
+Bất Ngờ Chồng Chất - Cửa 1
 
 [GINGLEBELL_S2_2_TITLE]
-Cua Ngang Lộng Hành - Cửa 2
+Bất Ngờ Chồng Chất - Cửa 2
 
 [GINGLEBELL_S2_3_TITLE]
-Cua Ngang Lộng Hành - Cửa 3
+Bất Ngờ Chồng Chất - Cửa 3
 
 [GINGLEBELL_S3_1_TITLE]
-Cự Giải Phục Kích - Cửa 1
+Tiệc Cuồng Hoan - Cửa 1
 
 [GINGLEBELL_S3_2_TITLE]
-Cự Giải Phục Kích - Cửa 2
+Tiệc Cuồng Hoan - Cửa 2
 
 [GINGLEBELL_S3_3_TITLE]
-Cự Giải Phục Kích - Cửa 3
+Tiệc Cuồng Hoan - Cửa 3
 
 [GINGLEBELL_S4_1_TITLE]
 Điểm Danh Đi Làm - Cửa 1
@@ -86319,16 +86295,16 @@ Băng Tan Mây Tạnh - Cửa 3
 Thử thách gây Sát thương cao nhất trong vòng 30 giây!
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Cự Giải Hồi Du - Cấp {LEVEL_NUMBER}
+Bẫy Ngọt Ngào - Cấp {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE2_LEVEL_NAME]
-Cua Ngang Lộng Hành - Cấp {LEVEL_NUMBER}
+Bất Ngờ Chồng Chất - Cấp {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-Cự Giải Phục Kích - Cấp {LEVEL_NUMBER}
+Tiệc Cuồng Hoan - Cấp {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-Chuyến đi của {PLAYER} đến Rộn Ràng Mùa Biển
+Chuyến đi của {PLAYER} đến Rộn Ràng
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
 Hoa Kim Ngân Nhật Nguyệt - Ngày Đông
@@ -86769,20 +86745,17 @@ Tỷ lệ nhận khi mua Hộp Quà Phúc Lợi trong Gói Quà Khánh Điển.
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
 1. Trong thời gian sự kiện, bạn có thể nhận hồng bao tại giao diện chính vào các khung giờ cố định 12:00-14:00 và 18:00-21:00 hàng ngày (tối đa 2 lần/ngày).
-2. Từ ngày 9/2 đến 22/2, vào lúc 21:00 mỗi ngày, hệ thống sẽ bốc thăm chọn ra 1 người chơi may mắn trên toàn máy chủ (mỗi bên iOS và Android chọn 1 người đã nhận hồng bao trong ngày) để trao Giải Độc Đắc siêu giá trị của ngày đó.
-3. Vào các ngày đặc biệt (từ 15/2 đến 21/2), sự kiện sẽ bổ sung thêm một lượt quay thưởng hiện vật mỗi ngày. Người chơi có thể dùng Vé Quay Thưởng để báo danh tại giao diện Giải May Mắn từ 00:00 đến 21:59 (15/2 - 21/2).
-4. Mỗi chiếc vé tiêu hao sẽ ghi nhận thông tin báo danh một lần. Giải May Mắn sẽ được quay ngẫu nhiên từ danh sách vé đã nhận vào lúc 22:00 hàng ngày từ 15/2 đến 21/2.
-5. Nếu người chơi trúng Giải May Mắn hàng ngày không đăng nhập để nhận quà trước giờ quay thưởng của ngày kế tiếp, phần thưởng sẽ bị hủy bỏ.
-6. Giải May Mắn là ^CDBE70 Thẻ mua sắm JD trị giá 5000 tệ ^oldclr , phần thưởng thực tế làm chuẩn. Người trúng giải cần hoàn tất đăng ký thông tin trước ngày 27/2, quá hạn sẽ coi như từ bỏ phần thưởng.
+2. Từ ngày 28/8 đến 9/10, vào lúc 21:00 mỗi ngày, hệ thống sẽ bốc thăm chọn ra 1 người chơi may mắn trên toàn máy chủ (mỗi bên iOS và Android chọn 1 người đã nhận hồng bao trong ngày) để trao Giải Độc Đắc siêu giá trị của ngày đó.
+3. Giải thưởng hàng ngày nếu không đăng nhập nhận trước thời gian mở thưởng của ngày hôm sau sẽ bị coi như từ bỏ phần thưởng.
 
 [UINEWYEARREDPACKET_DES_TITLE]
-Hướng dẫn sự kiện Nhận Hồng Bao Tết
+Hướng dẫn sự kiện Nhận Hồng Bao
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_1]
-{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave}Cung hỷ phát tài! Đây là hồng bao năm mới dành cho cháu.
+{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave}Chúc mừng! Đây là hồng bao dành cho cháu.
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]
-{SAY:NEWYEARCRAZYDAVE}Hồng bao năm mới!
+{SAY:NEWYEARCRAZYDAVE}Hồng bao!
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_3]
 {NPC_EXIT:newyearcrazydave}
@@ -86798,46 +86771,46 @@ Trong thời gian sự kiện, bạn có thể nhận hồng bao một lần m�
 Người chơi ^FFFF00 {NAME} ^oldclr 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_0]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 9 tháng 2 
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 28/8
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_1]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 10 tháng 2 
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 29/8
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_2]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 11 tháng 2 
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 30/8
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_3]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 12 tháng 2 
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 31/8
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_4]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 13 tháng 2  
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 1/9 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_5]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 14 tháng 2  
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 2/9  
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_6]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 15 tháng 2  
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 3/9 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_7]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 16 tháng 2  
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 4/9 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 17 tháng 2 
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 5/9
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_9]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 18 tháng 2
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 6/9
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_10]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 19 tháng 2 
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 7/9
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_11]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 20 tháng 2 
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 8/9
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_12]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 21 tháng 2 
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 9/9
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_13]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 22 tháng 2
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 10/9
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC3_1]
 ^0775F7 {ITEM} ^oldclr x {NUMS} 
@@ -87040,24 +87013,24 @@ Báo Danh Quay Thưởng
 Nhận Vé Miễn Phí
 
 [PRODUCT_NEWYEARREDPACKETE_TITLE]
-Nhận Hồng Bao Tết
+Nhận Hồng Bao
 
 [UINEWYEARREDPACKET_DES_REWARD_DESCRIPTION]
 Xem trước phần thưởng:
-Ngày 9 tháng 2: ^ff0000^Mảnh vạn năng^oldclr^*200
-Ngày 10 tháng 2: ^ff0000^Sách tăng cấp^oldclr^*10
-Ngày 11 tháng 2: ^ff0000^Mảnh định hướng^oldclr^*300
-Ngày 12 tháng 2: ^ff0000^Kim Cương^oldclr^*20260
-Ngày 13 tháng 2: ^ff0000^Cúp săn bảo giới hạn^oldclr^*5
-Ngày 14 tháng 2: ^ff0000^Mảnh vạn năng^oldclr^*200
-Ngày 15 tháng 2: ^ff0000^Sách tăng cấp^oldclr^*10
-Ngày 16 tháng 2: ^ff0000^Mảnh định hướng^oldclr^*300
-Ngày 17 tháng 2: ^ff0000^Kim Cương^oldclr^*20260
-Ngày 18 tháng 2: ^ff0000^Cúp săn bảo giới hạn^oldclr^*5
-Ngày 19 tháng 2: ^ff0000^Mảnh vạn năng^oldclr^*200
-Ngày 20 tháng 2: ^ff0000^Sách tăng cấp^oldclr^*10
-Ngày 21 tháng 2: ^ff0000^Mảnh định hướng^oldclr^*300
-Ngày 22 tháng 2: ^ff0000^Kim Cương^oldclr^*20260
+Ngày 28/8: ^ff0000^Mảnh vạn năng^oldclr^*200
+Ngày 29/8: ^ff0000^Sách tăng cấp^oldclr^*10
+Ngày 30/8: ^ff0000^Mảnh định hướng^oldclr^*300
+Ngày 31/8: ^ff0000^Kim Cương^oldclr^*20260
+Ngày 1/9: ^ff0000^Cúp săn bảo giới hạn^oldclr^*5
+Ngày 2/9: ^ff0000^Mảnh vạn năng^oldclr^*200
+Ngày 3/9: ^ff0000^Sách tăng cấp^oldclr^*10
+Ngày 4/9: ^ff0000^Mảnh định hướng^oldclr^*300
+Ngày 5/9: ^ff0000^Kim Cương^oldclr^*20260
+Ngày 6/9: ^ff0000^Cúp săn bảo giới hạn^oldclr^*5
+Ngày 7/9: ^ff0000^Mảnh vạn năng^oldclr^*200
+Ngày 8/9: ^ff0000^Sách tăng cấp^oldclr^*10
+Ngày 9/9: ^ff0000^Mảnh định hướng^oldclr^*300
+Ngày 10/9: ^ff0000^Kim Cương^oldclr^*20260
 
 [UINEWYEARREDPACKET_DES_REWARD_TITLE]
 Giải May Mắn Top 1

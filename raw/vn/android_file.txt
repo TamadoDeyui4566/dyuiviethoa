@@ -8996,7 +8996,7 @@ Nhận Xe đẩy ở chế độ dễ của Hang Động Tê Cóng, có thể ch
 Nhận Xe đẩy ở chế độ dễ của Thành Phố Thất Lạc, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_11_INFO]
-Nhận Xe đẩy ở chế độ dễ của Kỉ Nguyên Âm Nhạc Và Ánh Sáng, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận Xe đẩy ở chế độ dễ của Tour Hòa Nhạc Neon, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_12_INFO]
 Nhận Xe đẩy ở chế độ dễ của Đầm Lầy Kỷ Jura, có thể chịu được cuộc tấn công của zombie vào nhà.
@@ -9026,7 +9026,7 @@ Mở khóa Yeti Kho Báu
 Xẻng mặt trời
 
 [WORLDINFO_GOTO]
-ĐI VÀO
+TIẾN VÀO
 
 [WORLDINFO_UNLOCK_BY_STAR]
 MỞ KHÓA NGAY
@@ -14934,7 +14934,7 @@ Sự kiện sẽ bắt đầu sau khi hoàn thành Cấp độ 5 của Ai Cập
 ^FF0000 [Tiêu hao Kim cương rút thăm trúng gối ôm]^oldclr Trước ngày 25 tháng 10, mỗi khi tiêu hao 100 kim cương là bạn có thể nhận được một lượt rút thăm trúng búp bê giới hạn kỷ niệm 3 năm đấy nhé!
 
 [SPEAKER_LENOVO_THREE]
-^FF0000 [Kỉ Nguyên Âm Nhạc Và Ánh Sáng chính thức trình làng]^oldclr Thế giới mới nhất, thử thách hoàn toàn mới, hãy cùng lắc lư với những con zombie của thập niên 80 nào!
+^FF0000 [Tour Hòa Nhạc Neon chính thức trình làng]^oldclr Thế giới mới nhất, thử thách hoàn toàn mới, hãy cùng lắc lư với những con zombie của thập niên 80 nào!
 
 [SPEAKER_LENOVO_FOUR]
 ^FF0000 【Cửa hàng Penny khai trương】^oldclr Mỗi ngày đều có thể mua được các Mảnh cây khác nhau đấy nhé, cuối tuần số lượng chủng loại mảnh sẽ tăng gấp đôi, mau đến xem thử nào~
@@ -26036,12 +26036,12 @@ Xác thực thanh toán thất bại
 Vui lòng nhấn Xác nhận để tiến hành xác thực lại. Nếu vẫn xác thực thất bại, bạn hãy thử đăng nhập lại trò chơi sau để nhận vật phẩm.
 
 [MORNINGGLORY]
-DJ Bìm Bịp
+DJ Bìm Bìm
 
 [MORNINGGLORY_DESCRIPTION]
 {KEYWORD}Tính năng: {STAT}Phản đòn sóng âm của zombie. Khi tiến cấp, các cây sẽ hợp tấu để tăng sức sát thương.
 {KEYWORD}Đặc điểm của cây: {STAT}Cây màu lục, Cây màu tím
-{FLAVOR}Bị tra tấn bởi tiếng ồn sửa nhà của hàng xóm tầng trên, DJ Bìm Bịp đã xin bí kíp từ DJ Củ Cải và lập tức chốt đơn ngay một chiếc tai nghe MSR-7.
+{FLAVOR}Bị tra tấn bởi tiếng ồn sửa nhà của hàng xóm tầng trên, DJ Bìm Bìm đã xin bí kíp từ DJ Củ Cải và lập tức chốt đơn ngay một chiếc tai nghe MSR-7.
 
 [MORNINGGLORY_DESCRIPTION_HEADER]
 Bắn sóng âm tấn công zombie và phản lại các đòn sóng âm từ phía chúng.
@@ -26056,13 +26056,13 @@ Bắn sóng âm tấn công và phản lại sóng âm của zombie.
 Bắn sóng âm tấn công zombie và phản lại các đòn sóng âm từ phía chúng.
 
 [MORNINGGLORY_AVATAR_NAME]
-Trang phục DJ Bìm Bịp
+Trang phục DJ Bìm Bìm
 
 [STORE_PRODUCT_AVATAR_MORNINGGLORY]
 Đại chiêu tạo bức tường âm thanh chặn tới ba hàng zombie tiến lên và gây Sát thương liên tục.
 
 [STORE_PRODUCT_AVATAR_MORNINGGLORY_TITLE]
-Trang phục DJ Bìm Bịp
+Trang phục DJ Bìm Bìm
 
 [MORNINGGLORY_SKILL_LEVEL1]
 Nhịp điệu hợp tấu
@@ -26269,22 +26269,22 @@ Lỗi tải dữ liệu sự kiện
 Mở rương thất bại
 
 [EIGHTIES]
-Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Tour Hòa Nhạc Neon
 
 [EIGHTIES_LAST]
-Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Thử Thách Cuối Cùng
+Tour Hòa Nhạc Neon - Thử Thách Cuối Cùng
 
 [EIGHTIES_LAST1]
-Du hành thời gian - Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Du hành thời gian - Tour Hòa Nhạc Neon
 
 [EIGHTIES_LEVEL_NAME]
-Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày {LEVEL_NUMBER}
+Tour Hòa Nhạc Neon - Ngày {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_EIGHTIES]
-Chuyến đi của {PLAYER} đến Kỉ Nguyên Âm Nhạc Và Ánh Sáng!
+Chuyến đi của {PLAYER} đến Tour Hòa Nhạc Neon!
 
 [WORLD_NAME_EIGHTIES]
-Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Tour Hòa Nhạc Neon
 
 [WARNING_BASSRAIN]
 Zombie Tay Bass có màn xuất hiện tỏa sáng!
@@ -26325,7 +26325,7 @@ Tiêu diệt Zombie Máy Phát Nhạc trước khi nó dùng bài hát để tru
 Gián đoạn
 
 [ACHIEVE_EIGHTIES_DROP_THE_MIC_DESC]
-Hoàn thành hành trình Kỉ Nguyên Âm Nhạc Và Ánh Sáng, Mặt B
+Hoàn thành hành trình Tour Hòa Nhạc Neon, Mặt B
 
 [ACHIEVE_EIGHTIES_DROP_THE_MIC_TITLE]
 Buông Micro
@@ -26923,7 +26923,7 @@ Cúp Ai Cập Cổ Đại
 Bạn đã đánh bại Tiến Sĩ Zomboss huyền thoại của thế hệ mới, Zombot Sân Khấu Sôi Động.
 
 [AWARD_SCREEN_WORLDTROPHY_EIGHTIES_TITLE]
-Cúp Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Cúp Tour Hòa Nhạc Neon
 
 [AWARD_SCREEN_WORLDTROPHY_FUTURE]
 Bạn đã đánh bại Tiến Sĩ Zomboss cùng cỗ máy Tương Lai Cơ Khí.
@@ -28524,55 +28524,55 @@ Sử dụng Cây Ăn Mộ để lập tức nghiền nát các bia mộ! Hoàn t
 Mở khóa Cây Ăn Mộ!
 
 [FINISH_EIGHTIES_1_DESC]
-Củ Dền Phóng Thanh mang theo những nhịp điệu xập xình và tạo ra sát thương diện rộng khắp nơi! Hoàn thành Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 1!
+Củ Dền Phóng Thanh mang theo những nhịp điệu xập xình và tạo ra sát thương diện rộng khắp nơi! Hoàn thành Tour Hòa Nhạc Neon - Ngày 1!
 
 [FINISH_EIGHTIES_1_TITLE]
 Mở khóa Củ Dền Phóng Thanh!
 
 [FINISH_EIGHTIES_16_DESC]
-Tiêu diệt Zombie Khổng Lồ hệ âm nhạc ở Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 16 để giành chiếc Chìa khóa Thời Không của chính nghĩa!
+Tiêu diệt Zombie Khổng Lồ hệ âm nhạc ở Tour Hòa Nhạc Neon - Ngày 16 để giành chiếc Chìa khóa Thời Không của chính nghĩa!
 
 [FINISH_EIGHTIES_16_TITLE]
 Giành lấy một Chìa khóa Thời Không!
 
 [FINISH_EIGHTIES_17_DESC]
-Sử dụng Tỏi để đáp ứng tất cả các nhu cầu đổi làn di chuyển của bạn! Hoàn thành Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 17!
+Sử dụng Tỏi để đáp ứng tất cả các nhu cầu đổi làn di chuyển của bạn! Hoàn thành Tour Hòa Nhạc Neon - Ngày 17!
 
 [FINISH_EIGHTIES_17_TITLE]
 Mở khóa Tỏi!
 
 [FINISH_EIGHTIES_20_DESC]
-Tận dụng lũ zombie đầy nhịp điệu này để giành phần thưởng trong trận chiến âm nhạc! Hoàn thành Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 20!
+Tận dụng lũ zombie đầy nhịp điệu này để giành phần thưởng trong trận chiến âm nhạc! Hoàn thành Tour Hòa Nhạc Neon - Ngày 20!
 
 [FINISH_EIGHTIES_20_TITLE]
 Mở khóa Ngôi nhà nguy hiểm 80 giây!
 
 [FINISH_EIGHTIES_21_DESC]
-Nấm Bào Tử có khả năng sinh ra thêm nhiều nấm nhỏ khác! Hoàn thành Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 21!
+Nấm Bào Tử có khả năng sinh ra thêm nhiều nấm nhỏ khác! Hoàn thành Tour Hòa Nhạc Neon - Ngày 21!
 
 [FINISH_EIGHTIES_21_TITLE]
 Mở khóa Nấm Bào Tử!
 
 [FINISH_EIGHTIES_26_DESC]
-Tận dụng Cà Rốt Hồi Sinh kiên cường để hồi sinh những cây trồng đã bị ăn mất! Hoàn thành Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 26!
+Tận dụng Cà Rốt Hồi Sinh kiên cường để hồi sinh những cây trồng đã bị ăn mất! Hoàn thành Tour Hòa Nhạc Neon - Ngày 26!
 
 [FINISH_EIGHTIES_26_TITLE]
 Mở khóa Cà Rốt Hồi Sinh!
 
 [FINISH_EIGHTIES_32_DESC]
-Chọc giận Tiến Sĩ Zomboss gắt gỏng trong trận chiến công thủ âm nhạc ở Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 32 để giành chiến tích!
+Chọc giận Tiến Sĩ Zomboss gắt gỏng trong trận chiến công thủ âm nhạc ở Tour Hòa Nhạc Neon - Ngày 32 để giành chiến tích!
 
 [FINISH_EIGHTIES_32_TITLE]
 Đối kháng Tiến Sĩ Zomboss!
 
 [FINISH_EIGHTIES_5_DESC]
-Không một tiếng động, im hơi lặng tiếng... Cần Tây Phục Kích ẩn mình dưới đất, rồi bất ngờ nhô lên nện cho zombie một trận ra trò từ phía sau! Hoàn thành Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 5!
+Không một tiếng động, im hơi lặng tiếng... Cần Tây Phục Kích ẩn mình dưới đất, rồi bất ngờ nhô lên nện cho zombie một trận ra trò từ phía sau! Hoàn thành Tour Hòa Nhạc Neon - Ngày 5!
 
 [FINISH_EIGHTIES_5_TITLE]
 Mở khóa Cần Tây Phục Kích!
 
 [FINISH_EIGHTIES_9_DESC]
-Muốn tống khứ bọn zombie quay lại điểm xuất phát ư? Vậy thì làm một nháy Cỏ Xạ Hương Thời Gian nào! Hoàn thành Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Ngày 9!
+Muốn tống khứ bọn zombie quay lại điểm xuất phát ư? Vậy thì làm một nháy Cỏ Xạ Hương Thời Gian nào! Hoàn thành Tour Hòa Nhạc Neon - Ngày 9!
 
 [FINISH_EIGHTIES_9_TITLE]
 Mở khóa Cỏ Xạ Hương Thời Gian!
@@ -29029,15 +29029,15 @@ Một hộp chứa thêm các vật phẩm tốt.
 Hộp quà bí ẩn
 
 [GOLDBLOOM]
-Nụ Hoa Hoàng Kim
+Nụ Hoa Nắng
 
 [GOLDBLOOM_DESCRIPTION]
 {KEYWORD}Cách sử dụng: {STAT}Sử dụng một lần, có hiệu lực ngay lập tức
 {KEYWORD}Đặc điểm của cây: {STAT}Cây màu lục
-{FLAVOR}“Các nhà cây học các người lúc nào cũng vắt óc suy nghĩ xem có làm được hay không,” Nụ Hoa Hoàng Kim nói điều này không nhằm vào việc hay ai cụ thể, “nhưng chẳng bao giờ dừng lại để nghĩ xem có nên làm hay không.”
+{FLAVOR}“Các nhà cây học các người lúc nào cũng vắt óc suy nghĩ xem có làm được hay không,” Nụ Hoa Nắng nói điều này không nhằm vào việc hay ai cụ thể, “nhưng chẳng bao giờ dừng lại để nghĩ xem có nên làm hay không.”
 
 [GOLDBLOOM_DESCRIPTION_HEADER]
-Nụ Hoa Hoàng Kim có thể lập tức tạo ra một lượng lớn Mặt trời.
+Nụ Hoa Nắng có thể lập tức tạo ra một lượng lớn Mặt trời.
 
 [GOLDBLOOM_TOOLTIP]
 Lập tự tạo ra một lượng lớn Mặt trời
@@ -29473,10 +29473,10 @@ Tôi đã đọc và chấp nhận:
 phút
 
 [MKTG_EIGHTIES_1]
-Xin chào các fan của Plants vs. Zombies 2! Kỉ Nguyên Âm Nhạc Và Ánh Sáng (Mặt A) đã tới đây. Chúng tôi đã thực hiện một số điều chỉnh nhỏ để đảm bảo mang lại niềm vui bất tận cho các bạn. Cảm ơn sự tham gia nhiệt tình của mọi người! Như thường lệ, hãy chia sẻ cảm nhận của bạn về trò chơi và đánh giá cho chúng tôi sau mỗi bản cập nhật nhé.
+Xin chào các fan của Plants vs. Zombies 2! Tour Hòa Nhạc Neon (Mặt A) đã tới đây. Chúng tôi đã thực hiện một số điều chỉnh nhỏ để đảm bảo mang lại niềm vui bất tận cho các bạn. Cảm ơn sự tham gia nhiệt tình của mọi người! Như thường lệ, hãy chia sẻ cảm nhận của bạn về trò chơi và đánh giá cho chúng tôi sau mỗi bản cập nhật nhé.
 
 [MKTG_EIGHTIES_2]
-Xin chào các fan của Plants vs. Zombies 2! Kỉ Nguyên Âm Nhạc Và Ánh Sáng (Mặt A) đã tới đây. Chúng tôi đã thực hiện một số điều chỉnh nhỏ để đảm bảo mang lại niềm vui bất tận cho các bạn. Cảm ơn sự tham gia nhiệt tình của mọi người! Như thường lệ, hãy chia sẻ cảm nhận của bạn về trò chơi và đánh giá cho chúng tôi sau mỗi bản cập nhật nhé.
+Xin chào các fan của Plants vs. Zombies 2! Tour Hòa Nhạc Neon (Mặt A) đã tới đây. Chúng tôi đã thực hiện một số điều chỉnh nhỏ để đảm bảo mang lại niềm vui bất tận cho các bạn. Cảm ơn sự tham gia nhiệt tình của mọi người! Như thường lệ, hãy chia sẻ cảm nhận của bạn về trò chơi và đánh giá cho chúng tôi sau mỗi bản cập nhật nhé.
 
 [MODE_NAME_BEGHOULED]
 Mê trận đá quý
@@ -30419,7 +30419,7 @@ Khốn khổ.
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Chờ đã! Tôi nhớ hồi nhỏ lúc đi đuổi sóc đã từng ngửi thấy cái mùi này rồi!
 
 [NARRATIVE_EIGHTIES_1_INTRO_2]
-{SAY:WINNIE}Chính xác, cậu Dave. Xem ra chúng ta đã tới Kỉ Nguyên Âm Nhạc Và Ánh Sáng.
+{SAY:WINNIE}Chính xác, cậu Dave. Xem ra chúng ta đã tới Tour Hòa Nhạc Neon.
 
 [NARRATIVE_EIGHTIES_1_INTRO_3]
 {SAY:WINNIE}Tôi ngờ rằng nhịp điệu âm nhạc có thể gây ảnh hưởng đến tốc độ của zombie đấy.
@@ -31926,7 +31926,7 @@ Nhiệm vụ Sử thi của {PLAYER}: Ban nhạc Đá quý!
 [PLAYERS_TRIP_TO_DINO]
 Chuyến đi của {PLAYER} đến Đầm Lầy Kỷ Jura!
 [PLAYERS_TRIP_TO_EIGHTIES]
-Chuyến đi của {PLAYER} đến Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Chuyến đi của {PLAYER} đến Tour Hòa Nhạc Neon
 [PLAYERS_TRIP_TO_HOLIDAY]
 Chuyến đi của {PLAYER} đến Bữa Tiệc!
 [PLAYERS_TRIP_TO_LOD]
@@ -33045,7 +33045,7 @@ Cần thêm cây non sao? Hãy chọn một gói ở bên dưới.
 Sống sót sau một cuộc tấn công lớn trong Đầm Lầy Kỷ Jura
 
 [STARCHALLENGE_EIGHTIES_FINALE]
-Sống sót sau một cuộc tấn công lớn trong Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Sống sót sau một cuộc tấn công lớn trong Tour Hòa Nhạc Neon
 
 [STARCHALLENGE_EVILSHROOMS]
 Sống sót trước zombie được tăng cường bằng thuốc độc
@@ -33188,10 +33188,10 @@ Sử dụng Chìa khóa Thế giới để mở khóa màn Trung sinh Điên cu�
 Mở khóa Đầm Lầy Kỷ Jura!
 
 [UNLOCK_EIGHTIES_DESC]
-Sử dụng Chìa khóa Thế giới để mở khóa màn Âm nhạc Đại hỗn loạn tại Kỉ Nguyên Âm Nhạc Và Ánh Sáng!
+Sử dụng Chìa khóa Thế giới để mở khóa màn Âm nhạc Đại hỗn loạn tại Tour Hòa Nhạc Neon!
 
 [UNLOCK_EIGHTIES_TITLE]
-Mở khóa Kỉ Nguyên Âm Nhạc Và Ánh Sáng!
+Mở khóa Tour Hòa Nhạc Neon!
 
 [UNLOCK_FUTURE_DESC]
 Sử dụng Chìa khóa Thế giới để mở khóa màn Kích điện Kịch tính tại Tương Lai Xa!
@@ -33482,7 +33482,7 @@ Quất roi tấn công phía trước và phía sau
 [WORLD_NAME_DINO]
 Đầm Lầy Kỷ Jura
 [WORLD_NAME_EIGHTIES]
-Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Tour Hòa Nhạc Neon
 [WORLD_NAME_MODERN]
 Thời Hiện Đại
 [WORLD_PREVIEW_BEACH_HIGHLIGHT_COUNT]
@@ -33525,7 +33525,7 @@ Kết thúc cũng chính là khởi đầu! Quay trở lại khoảnh khắc nga
 39
 
 [WORLD_PREVIEW_EIGHTIES_TITLE]
-Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Tour Hòa Nhạc Neon
 
 [WORLD_PREVIEW_FUTURE_HIGHLIGHT_COUNT]
 34
@@ -33691,25 +33691,25 @@ Phần 2 của Đầm Lầy Kỷ Jura hiện đã chính thức khai mở!
 Quá khứ nguyên thủy sắp sửa cập bến!
 
 [WORLDMAP_EVENT_LOD_EIGHTIES_HERE_DESC]
-Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Mặt A, hiện đã khai mở!
+Tour Hòa Nhạc Neon - Mặt A, hiện đã khai mở!
 
 [WORLDMAP_EVENT_LOD_EIGHTIES_HERE_TITLE]
 Tóc vuốt ngược - Sẽ có nhiều não hơn chăng?
 
 [WORLDMAP_EVENT_LOD_EIGHTIES_TEASER_DESC]
-Xem trước nội dung Kỉ Nguyên Âm Nhạc Và Ánh Sáng trong Tiệc Piñata ngày hôm nay.
+Xem trước nội dung Tour Hòa Nhạc Neon trong Tiệc Piñata ngày hôm nay.
 
 [WORLDMAP_EVENT_LOD_EIGHTIES_TEASER_TITLE]
 Trở lại thập niên 80 - Mau gọi cảnh sát thời thượng đến nào!
 
 [WORLDMAP_EVENT_LOD_EIGHTIES2_HERE_DESC]
-Kỉ Nguyên Âm Nhạc Và Ánh Sáng - Mặt B, hiện đã khai mở!
+Tour Hòa Nhạc Neon - Mặt B, hiện đã khai mở!
 
 [WORLDMAP_EVENT_LOD_EIGHTIES2_HERE_TITLE]
 Hãy cầm chắc chiếc đài radio của bạn lên nào.
 
 [WORLDMAP_EVENT_LOD_EIGHTIES2_TEASER_DESC]
-Hơn nữa, hãy nhanh chân đến trải nghiệm phần xem trước nội dung Mặt B của Kỉ Nguyên Âm Nhạc Và Ánh Sáng nhé!
+Hơn nữa, hãy nhanh chân đến trải nghiệm phần xem trước nội dung Mặt B của Tour Hòa Nhạc Neon nhé!
 
 [WORLDMAP_EVENT_LOD_EIGHTIES2_TEASER_TITLE]
 Hòa mình vào bầu không khí sôi động này nào.
@@ -34253,7 +34253,7 @@ Dưới tầm ảnh hưởng của sức mạnh nhạc Rap, anh ta có thể đ�
 Anh ta đang giảm bớt số lần dùng đầu để đập phá, nhằm tránh việc vô tình làm cái đầu bay mất luôn.
 
 [ZOMBIE_EIGHTIES_DESCRIPTION_HEADER]
-Một Zombie Thường yêu âm nhạc đến từ Kỉ Nguyên Âm Nhạc Và Ánh Sáng.
+Một Zombie Thường yêu âm nhạc đến từ Tour Hòa Nhạc Neon.
 
 [ZOMBIE_EIGHTIES_FLAG]
 Zombie Cầm Cờ Neon
@@ -34717,7 +34717,7 @@ Zombie Tay Bass
 Giẫm lên chiếc loa thùng khổng lồ từ trên trời rơi xuống, tiện tay đè bẹp luôn cây trồng của bạn.
 
 [ZOMBIE_EIGHTIES_BASS_DESCRIPTION]
-{KEYWORD}Tính năng:  {STAT} Điên cuồng gảy đàn bass, phóng ra sóng âm chết chóc, nhưng sẽ bị DJ Bìm Bịp phản đòn.
+{KEYWORD}Tính năng:  {STAT} Điên cuồng gảy đàn bass, phóng ra sóng âm chết chóc, nhưng sẽ bị DJ Bìm Bìm phản đòn.
 
 {FLAVOR}Bạn không thể ngăn cản một Zombie Tay Bass đang gảy đàn bằng cả sinh mạng, cho đến khi chiếc loa thùng của hắn bị phá hủy. À đúng rồi, câu nói yêu thích nhất của Zombie Tay Bass chính là: "Không phục thì ra giữa solo!"
 
@@ -34836,7 +34836,7 @@ Cấp 1 Cây Xương Rồng + trang phục
 Cấp 1 Cỏ Đuôi Mèo + trang phục
 
 [GEMS_RESTORE_CODE_RECHARGE_MORNINGGLORY_LV0_SUCCEED_CONTENT]
-Cấp 1 DJ Bìm Bịp + trang phục
+Cấp 1 DJ Bìm Bìm + trang phục
 
 [GEMS_RESTORE_CODE_RECHARGE_AKEE_LV3_SUCCEED_CONTENT]
 Cấp 3 E-Ki
@@ -34908,7 +34908,7 @@ Cấp 3 Cây Xương Rồng
 Cấp 3 Cỏ Đuôi Mèo
 
 [GEMS_RESTORE_CODE_RECHARGE_MORNINGGLORY_LV3_SUCCEED_CONTENT]
-Cấp 3 DJ Bìm Bịp
+Cấp 3 DJ Bìm Bìm
 
 [GEMS_RESTORE_CODE_RECHARGE_ROSESWORDMAN_LV2_SUCCEED_CONTENT]
 Cấp 2 Kiếm Sĩ Hoa Hồng
@@ -36958,7 +36958,7 @@ Thành Phố Bầu Trời
 Thành Phố Thất Lạc
 
 [TIMETRAVELGAMEMODE_DAYS_TITLE5]
-Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Tour Hòa Nhạc Neon
 
 [TIMETRAVELGAMEMODE_DAYS_TITLE6]
 Đầm Lầy Kỷ Jura
@@ -36979,7 +36979,7 @@ Thành Phố Bầu Trời
 Thành Phố Thất Lạc
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE5]
-Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Tour Hòa Nhạc Neon
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE6]
 Đầm Lầy Kỷ Jura
@@ -39110,10 +39110,10 @@ Hoa Hướng Dương（Helianthus annuus L.）
 [MORNINGGLORY_GENUS]
 番薯属
 [MORNINGGLORY_PEDIA]
-牵牛——清晨绽放的“DJ Bìm Bịp”
+牵牛——清晨绽放的“DJ Bìm Bìm”
     一年生缠绕草本。
     茎密被毛；叶宽卵形，基部心形，3-5裂，两面均被毛；花腋生，漏斗状，蓝紫或紫红色；蒴果近球形，种子三棱形，被褐色绒毛。花果期6-10月。
-    因其种子的药效被类比为具“牵牛之力”而得名；因花朵清晨绽放、午前凋谢的特性别名“朝颜”；因花冠形似喇叭俗称“DJ Bìm Bịp”。原产于热带美洲，现广泛分布于全球热带及亚热带地区。在我国，除西北和东北部分省份外均有分布。除栽培供观赏外，种子入药名“丑牛子”，具有泻水利尿、逐痰杀虫的功效。
+    因其种子的药效被类比为具“牵牛之力”而得名；因花朵清晨绽放、午前凋谢的特性别名“朝颜”；因花冠形似喇叭俗称“DJ Bìm Bìm”。原产于热带美洲，现广泛分布于全球热带及亚热带地区。在我国，除西北和东北部分省份外均有分布。除栽培供观赏外，种子入药名“丑牛子”，具有泻水利尿、逐痰杀虫的功效。
     花语：爱情永固、虚幻的恋
 
 [CAULIPOWER_FAMILY]
@@ -45431,7 +45431,7 @@ Tay Trống Rau Má mang lại lượng lớn thuộc tính gia tăng cho các c
 Tay Trống Rau Má mang lại lượng lớn thuộc tính gia tăng cho các cây trồng, đặc biệt tăng nhiều nhất cho hệ ban nhạc
 
 [STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER]
-Có thể mang lại hiệu quả tăng 40% sức tấn công và 35% tốc độ đánh cho các cây hệ ban nhạc trên sân (DJ Bìm Bịp, Tulip Thổi Kèn, Củ Dền Phóng Thanh, Vũ Công Chuối, Ớt Ma), các cây trồng còn lại tăng 25% sức tấn công và tốc độ đánh
+Có thể mang lại hiệu quả tăng 40% sức tấn công và 35% tốc độ đánh cho các cây hệ ban nhạc trên sân (DJ Bìm Bìm, Tulip Thổi Kèn, Củ Dền Phóng Thanh, Vũ Công Chuối, Ớt Ma), các cây trồng còn lại tăng 25% sức tấn công và tốc độ đánh
 
 [STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER_TITLE]
 Trang phục Tay Trống Rau Má
@@ -45440,7 +45440,7 @@ Trang phục Tay Trống Rau Má
 Đại Ban Nhạc
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL1_DES]
-Mang lại hiệu quả tăng 25% sức tấn công và tốc độ đánh cho các cây hệ ban nhạc được trồng ở lân cận (DJ Bìm Bịp, Tulip Thổi Kèn, Củ Dền Phóng Thanh, Vũ Công Chuối, Ớt Ma)
+Mang lại hiệu quả tăng 25% sức tấn công và tốc độ đánh cho các cây hệ ban nhạc được trồng ở lân cận (DJ Bìm Bìm, Tulip Thổi Kèn, Củ Dền Phóng Thanh, Vũ Công Chuối, Ớt Ma)
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL2]
 Ban Nhạc Cuồng Hoan
@@ -50360,7 +50360,7 @@ Nếu bạn muốn chứng minh sức mạnh thì hãy thách đấu Tiến Sĩ 
 Nếu bạn muốn chứng minh sức mạnh thì hãy thách đấu Tiến Sĩ Zomboss trong Tương Lai Xa!
 
 [TASK_WORLDTASK_DESCRIPTION_EIGHTIES3]
-Nếu bạn muốn chứng minh sức mạnh thì hãy thách đấu Tiến Sĩ Zomboss trong Kỉ Nguyên Âm Nhạc Và Ánh Sáng!
+Nếu bạn muốn chứng minh sức mạnh thì hãy thách đấu Tiến Sĩ Zomboss trong Tour Hòa Nhạc Neon!
 
 [TASK_WORLDTASK_DESCRIPTION_DARK3]
 Nếu bạn muốn chứng minh sức mạnh thì hãy thách đấu Tiến Sĩ Zomboss trong Thời Kì Tăm Tối!
@@ -50435,13 +50435,13 @@ Hoàn thành cấp độ ngày 13 khó của Tương Lai Xa
 Hoàn thành Thử Thách Cuối Cùng của Tương Lai Xa
 
 [TASK_WORLDTASK_EIGHTIES1]
-Hoàn thành cấp độ dễ ngày 13 của Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Hoàn thành cấp độ dễ ngày 13 của Tour Hòa Nhạc Neon
 
 [TASK_WORLDTASK_EIGHTIES2]
-Hoàn thành cấp độ khó ngày 13 của Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Hoàn thành cấp độ khó ngày 13 của Tour Hòa Nhạc Neon
 
 [TASK_WORLDTASK_EIGHTIES3]
-Hoàn thành Thử Thách Cuối Cùng của Kỉ Nguyên Âm Nhạc Và Ánh Sáng
+Hoàn thành Thử Thách Cuối Cùng của Tour Hòa Nhạc Neon
 
 [TASK_WORLDTASK_DARK1]
 Hoàn thành cấp độ dễ ngày 10 của Thời Kì Tăm Tối
@@ -51756,7 +51756,7 @@ Nấm Khói Độc - sức tấn công tăng {Param_1}%
 Đậu Phộng - thời gian hồi cây giảm  {Param_1}%
 
 [GENE_DESCRIPTION_GOLDBLOOM]
-Nụ Hoa Hoàng Kim - thời gian hồi cây giảm  {Param_1}%
+Nụ Hoa Nắng - thời gian hồi cây giảm  {Param_1}%
 
 [GENE_DESCRIPTION_MAGNETSHROOM]
 Nấm Nam Châm - thời gian nghỉ ngơi giảm {Param_1}%
@@ -52335,7 +52335,7 @@ Xu 22.66%, Kim cương27.20%, hiện vật19.26%, 植物24.25%, 超级hiện v�
 蓝色品质植物:Biệt Đội Hạt Dẻ, Cung Thủ Gỗ Sồi, Thanh Long, Nấm Bào Tử, Bơ Cá Sấu
 紫色品质植物1:Việt Quất Điện, Bồ Công Anh, Đại Bác Dừa, Hỏa Tiễn Tầm Gửi, Cải Vệ Sĩ
 紫色品质植物2:Kiwi Ngộ không, Tay Trống Rau Má, Vani Bóng Đêm, Khai Khẩu Tiễn Tàng Hình, Nấm Pháp Sư Hỏa
-橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bịp, Lý Chua Điện
+橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bìm, Lý Chua Điện
 橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Pháo Ngô
 橙色品质植物3:Măng Cụt Điện, Đậu Hoa Ăn Thịt, Hố Ô Liu, Dâu Tằm Lựu Đạn, Cỏ Răng Cưa
 橙色品质植物4:Súng Máy Hoa Chuối Pháo, Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, Lý Chua Điện
@@ -52359,7 +52359,7 @@ Xu 22.66%, Kim cương27.20%, hiện vật19.26%, 植物24.25%, 超级hiện v�
 蓝色品质植物:Biệt Đội Hạt Dẻ, Cung Thủ Gỗ Sồi, Thanh Long, Nấm Bào Tử, Bơ Cá Sấu
 紫色品质植物1:Việt Quất Điện, Bồ Công Anh, Đại Bác Dừa, Hỏa Tiễn Tầm Gửi, Cải Vệ Sĩ
 紫色品质植物2:Kiwi Ngộ không, Tay Trống Rau Má, Vani Bóng Đêm, Khai Khẩu Tiễn Tàng Hình, Nấm Pháp Sư Hỏa
-橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bịp, Lý Chua Điện
+橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bìm, Lý Chua Điện
 橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Pháo Ngô
 橙色品质植物3:Măng Cụt Điện, Đậu Hoa Ăn Thịt, Hố Ô Liu, Dâu Tằm Lựu Đạn, Cỏ Răng Cưa
 橙色品质植物4:Súng Máy Hoa Chuối Pháo, Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, Lý Chua Điện
@@ -52383,7 +52383,7 @@ Xu 22.66%, Kim cương27.20%, hiện vật19.26%, 植物24.25%, 超级hiện v�
 蓝色品质植物:Biệt Đội Hạt Dẻ, Cung Thủ Gỗ Sồi, Thanh Long, Nấm Bào Tử, Bơ Cá Sấu
 紫色品质植物1:Việt Quất Điện, Bồ Công Anh, Đại Bác Dừa, Hỏa Tiễn Tầm Gửi, Cải Vệ Sĩ
 紫色品质植物2:Kiwi Ngộ không, Tay Trống Rau Má, Vani Bóng Đêm, Khai Khẩu Tiễn Tàng Hình, Nấm Pháp Sư Hỏa
-橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bịp, Lý Chua Điện
+橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bìm, Lý Chua Điện
 橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Pháo Ngô
 橙色品质植物3:Măng Cụt Điện, Đậu Hoa Ăn Thịt, Hố Ô Liu, Dâu Tằm Lựu Đạn, Cỏ Răng Cưa
 蓝色品质hiện vật:Phân bón thường, Xô sắt thường, Cột điện thường, Hộp thuốc thường, Bông tuyết thường
@@ -52407,7 +52407,7 @@ Xu 22.66%, Kim cương27.20%, hiện vật19.26%, 植物24.25%, 超级hiện v�
 蓝色品质植物:Biệt Đội Hạt Dẻ, Cung Thủ Gỗ Sồi, Thanh Long, Nấm Bào Tử, Bơ Cá Sấu
 紫色品质植物1:Việt Quất Điện, Bồ Công Anh, Đại Bác Dừa, Hỏa Tiễn Tầm Gửi, Cải Vệ Sĩ
 紫色品质植物2:Kiwi Ngộ không, Tay Trống Rau Má, Vani Bóng Đêm, Khai Khẩu Tiễn Tàng Hình, Nấm Pháp Sư Hỏa
-橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bịp, Lý Chua Điện
+橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bìm, Lý Chua Điện
 橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Pháo Ngô
 橙色品质植物3:Măng Cụt Điện, Đậu Hoa Ăn Thịt, Hố Ô Liu, Dâu Tằm Lựu Đạn, Cỏ Răng Cưa
 橙色品质植物4:Hải Quỳ Vực Sâu, Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, Lý Chua Điện
@@ -52431,7 +52431,7 @@ Xu 22.66%, Kim cương27.20%, hiện vật19.26%, 植物24.25%, 超级hiện v�
 蓝色品质植物:Biệt Đội Hạt Dẻ, Cung Thủ Gỗ Sồi, Thanh Long, Nấm Bào Tử, Bơ Cá Sấu
 紫色品质植物1:Việt Quất Điện, Bồ Công Anh, Đại Bác Dừa, Hỏa Tiễn Tầm Gửi, Cải Vệ Sĩ
 紫色品质植物2:Kiwi Ngộ không, Tay Trống Rau Má, Vani Bóng Đêm, Khai Khẩu Tiễn Tàng Hình, Nấm Pháp Sư Hỏa
-橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bịp, Lý Chua Điện
+橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bìm, Lý Chua Điện
 橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Pháo Ngô
 橙色品质植物3:Măng Cụt Điện, Đậu Hoa Ăn Thịt, Hố Ô Liu, Dâu Tằm Lựu Đạn, Cỏ Răng Cưa
 橙色品质植物4:Nấm Dạ Tối, Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, Lý Chua Điện
@@ -55443,7 +55443,7 @@ Hoa Ăn Thịt Thép - Siêu cấp
 Bác Sĩ Nha Đam - Kỷ niệm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GOLDBLOOM_1]
-Nụ Hoa Hoàng Kim - Kỷ niệm
+Nụ Hoa Nắng - Kỷ niệm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LASER_BEAN_3]
 Đậu Laze - Kỷ niệm
@@ -55937,7 +55937,7 @@ Máu tăng 20%
 Tăng xác suất đẩy lùi zombie khi đạn trúng đích
 
 [STORE_PRODUCT_AVATAR_GOLDBLOOM_TITLE]
-Trang phục Nụ Hoa Hoàng Kim
+Trang phục Nụ Hoa Nắng
 
 [STORE_PRODUCT_AVATAR_GOLDBLOOM]
 Giảm 20% thời gian hồi cây
@@ -80889,13 +80889,13 @@ Ngưng tụ tia laze để phóng pháo điện từ cực mạnh tấn công zo
 Ngưng tụ tia laze để phóng pháo điện từ mạnh mẽ hơn nữa tấn công zombie, gây lượng lớn sát thương cho zombie trong vòng 5 giây, ^ff0000^đồng thời gây ra sát thương bão lôi trong phạm vi trúng đích 3x3 xung quanh.^oldclr^
 
 [MORNINGGLORY_NEW_SKILL_LEVEL1_DES]
-Khi có zombie xuất hiện ở bên phải DJ Bìm Bịp, DJ Bìm Bịp sẽ gảy tấu nhạc cụ để phóng sóng âm về phía trước tấn công zombie, đồng thời có thể phản bật lại đòn tấn công bằng sóng âm của Zombie Khổng Lồ Nhạc Metal Rock, Kẻ Diệt Vong Cuồng Vũ (狂舞灭碎者), và Zombie Tay Bass.
+Khi có zombie xuất hiện ở bên phải DJ Bìm Bìm, DJ Bìm Bìm sẽ gảy tấu nhạc cụ để phóng sóng âm về phía trước tấn công zombie, đồng thời có thể phản bật lại đòn tấn công bằng sóng âm của Zombie Khổng Lồ Nhạc Metal Rock, Kẻ Diệt Vong Cuồng Vũ (狂舞灭碎者), và Zombie Tay Bass.
 
 [MORNINGGLORY_NEW_SKILL_LEVEL2_DES]
-Khi hai cây DJ Bìm Bịp nằm liền kề nhau, chúng sẽ tấu lên bản hòa tấu, cứ mỗi một cây DJ Bìm Bịp, lực tấn công của DJ Bìm Bịp tăng lên 15%, tích lũy tối đa 2 cây DJ Bìm Bịp.
+Khi hai cây DJ Bìm Bìm nằm liền kề nhau, chúng sẽ tấu lên bản hòa tấu, cứ mỗi một cây DJ Bìm Bìm, lực tấn công của DJ Bìm Bìm tăng lên 15%, tích lũy tối đa 2 cây DJ Bìm Bìm.
 
 [MORNINGGLORY_NEW_SKILL_LEVEL3_DES]
-Khi ba cây DJ Bìm Bịp nằm liền kề nhau, chúng sẽ tấu lên bản hòa tấu, cứ mỗi một cây DJ Bìm Bịp, lực tấn công của DJ Bìm Bịp tăng lên 15%, tích lũy tối đa 3 cây DJ Bìm Bịp.
+Khi ba cây DJ Bìm Bìm nằm liền kề nhau, chúng sẽ tấu lên bản hòa tấu, cứ mỗi một cây DJ Bìm Bìm, lực tấn công của DJ Bìm Bìm tăng lên 15%, tích lũy tối đa 3 cây DJ Bìm Bìm.
 
 [MORNINGGLORY_NEW_SKILL_LEVEL4_DES]
 Khi trồng có xác suất cao kích hoạt trực tiếp tuyệt kỹ Plant Food!
@@ -80904,10 +80904,10 @@ Khi trồng có xác suất cao kích hoạt trực tiếp tuyệt kỹ Plant Fo
 Khi tấn công có 25% xác suất bắn ra hai luồng sóng âm lớn có 900 sát thương có thể tấn công trên 3 hàng và một luồng sóng âm lớn có 1200 sát thương có thể tấn công trên 3 hàng.
 
 [MORNINGGLORY_PLANTFOOD_DESCRIPTION]
-Đẩy ra một bức tường chắn sóng âm trên một ô đơn lẻ, đẩy thối lui zombie về phía bên phải DJ Bìm Bịp 3 ô và gây sát thương kéo dài trong 6 giây.
+Đẩy ra một bức tường chắn sóng âm trên một ô đơn lẻ, đẩy thối lui zombie về phía bên phải DJ Bìm Bìm 3 ô và gây sát thương kéo dài trong 6 giây.
 
 [MORNINGGLORY_AVATAR_PLANTFOOD_DESCRIPTION]
-Đẩy ra ^ff0000^một bức tường chắn sóng âm có phạm vi phủ rộng 3 hàng, đẩy thối lui zombie về phía bên phải DJ Bìm Bịp 3 ô và gây sát thương kéo dài trong 6 giây.^oldclr^
+Đẩy ra ^ff0000^một bức tường chắn sóng âm có phạm vi phủ rộng 3 hàng, đẩy thối lui zombie về phía bên phải DJ Bìm Bìm 3 ô và gây sát thương kéo dài trong 6 giây.^oldclr^
 
 [GRAPESHOT_NEW_SKILL_LEVEL1_DES]
 Sau khi trồng, Bom Nho lập tức phát nổ gây sát thương nổ cho zombie trong phạm vi 3x3 xung quanh. Sau vụ nổ, Bom Nho sẽ bắn văng ra tám quả nho nhỏ và bắn tán xạ về 8 hướng khác nhau. Nho nhỏ sẽ nảy nẩy bắn nhiều lần và gây sát thương cho zombie.
@@ -81510,7 +81510,7 @@ Quái Thú Kiwi lập tức trưởng thành lên hình thái tối đại và l
 Quái Thú Kiwi lập tức trưởng thành lên hình thái tối đại và liên tục nhảy dậm đất 3 lần, ^ff0000^gây lượng lớn sát thương cho zombie trong phạm vi và dậm hất tung lên không trung 1 lần.^oldclr^
 
 [GOLDBLOOM_NEW_SKILL_LEVEL1_DES]
-Nụ Hoa Hoàng Kim sau khi trồng lập tức sản sinh 375 điểm Mặt trời, lần đầu tiên trồng không có thời gian hồi chiêu.
+Nụ Hoa Nắng sau khi trồng lập tức sản sinh 375 điểm Mặt trời, lần đầu tiên trồng không có thời gian hồi chiêu.
 
 [GOLDBLOOM_PLANTFOOD_DESCRIPTION]
 Loại cây này không có tuyệt kỹ Plant Food.
@@ -82274,7 +82274,7 @@ Khi trồng có xác suất trung bình kích hoạt trực tiếp tuyệt kỹ 
 Đậu Bắp Kiếm Gai lập tức bắn 3 phát đạn gai độc lớn xuyên thấu toàn bộ hàng, gây sát thương cho tất cả zombie kèm hiệu ứng ^701edf^nhiễm độc I^oldclr^, ^ff0000^đồng thời để lại sương độc gây sát thương liên tục trên lộ trình bay.^oldclr^ Số lượng đạn gai độc lớn tăng theo cấp bậc: cấp 2 bắn 4 viên, cấp 3 và 4 bắn 5 viên, cấp 5 bắn 6 viên.
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL1_DES]
-Mỗi 15 giây gõ trống một hồi, mang lại 10% lực tấn công và tăng tốc độ tấn công cho các cây trong phạm vi 3x3 xung quanh, cây hệ phòng thủ hồi phục 10% lượng máu. Các cây thuộc ban nhạc (DJ Bìm Bịp, Tulip Thổi Kèn, Củ Dền Phóng Thanh, Vũ Công Chuối, Ớt Ma) được tăng cường thêm 5% lực tấn công và tốc độ tấn công.
+Mỗi 15 giây gõ trống một hồi, mang lại 10% lực tấn công và tăng tốc độ tấn công cho các cây trong phạm vi 3x3 xung quanh, cây hệ phòng thủ hồi phục 10% lượng máu. Các cây thuộc ban nhạc (DJ Bìm Bìm, Tulip Thổi Kèn, Củ Dền Phóng Thanh, Vũ Công Chuối, Ớt Ma) được tăng cường thêm 5% lực tấn công và tốc độ tấn công.
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL2_DES]
 Tỷ lệ tăng lực tấn công và tốc độ tấn công nâng lên 15%, lượng máu hồi phục nâng lên 15%, biên độ tăng thêm của cây ban nhạc nâng lên 10%.
@@ -84375,7 +84375,7 @@ Không
 Thời gian nghỉ tấn công giảm 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GOLDBLOOM_2]
-Nụ Hoa Hoàng Kim - Cầu Hoa
+Nụ Hoa Nắng - Cầu Hoa
 
 [NEW_AVATAR_DESCRIPTION_GOLDBLOOM_2]
 Có 50% tỷ lệ sản xuất thêm 75 điểm Mặt Trời

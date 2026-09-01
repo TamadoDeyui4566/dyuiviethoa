@@ -6,6 +6,7 @@
 - Thông tin cập nhập:
   + 21:20, 26/8/2026 cập nhập file mới bản v4.2.0
   + 23:12, 26/8/2026 đã cập nhập văn bản nhưng còn một số zombie chưa được việt hóa
+  + 11:15, 1/9/2026: cập nhập nhỏ file bản v4.2.2 nhưng file 4.2.0 vẫn hoạt động bình thường ở bản hiện tại (chắc vậy)
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa

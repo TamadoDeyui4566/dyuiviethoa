@@ -615,7 +615,7 @@ Số lượng não đã đạt tối đa
 {SAY:CRAZYDAVE}Oa ồ! Ta không muốn ông ta đình công đâu nhé!
 
 [NARRATIVE_PVZ1_S27_2_H_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Pháo Ngô muốn có một cuộc tỉ thí với Đại Bác Dừa.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Ngô Thần Công muốn có một cuộc tỉ thí với Đại Bác Dừa.
 
 [NARRATIVE_PVZ1_S27_2_H_INTRO_2]
 {SAY:WINNIE}Tôi đoán, có phải ngài đang muốn ăn thử món bắp rang bơ vị dừa không?
@@ -825,7 +825,7 @@ Chìa khóa Ai Cập!
 ^ff0000 Mục tiêu Thất bại
 
 [AWARD_SCREEN_LAWN_MOWER_TRIGGERED]
-MỘT HOẶC NHIỀU Xe đẩy ĐÃ ĐƯỢC KÍCH HOẠT!
+MỘT HOẶC NHIỀU MÁY CẮT CỎ ĐÃ ĐƯỢC KÍCH HOẠT!
 
 [AWARD_SCREEN_MAPGADGET_DESCRIPTION]
 Một tờ giấy da của vùng đất cổ đại, với những hàm ý về vũ trụ.
@@ -1518,7 +1518,7 @@ Còn Sống:
 Cột mốc:
 
 [DANGER_ROOM_MOWERS_LEFT]
-Số Xe đẩy còn:
+Số máy cắt cỏ còn:
 
 [DANGER_ROOM_NEW_HIGHEST_LEVEL_REACHED]
 Màn cao nhất mới đạt được!
@@ -1551,10 +1551,10 @@ Chào mừng đến với Chiến lợi phẩm của người chết!
 Plant Food:
 
 [DANGER_ROOM_REWARD_MOWER_DESC]
-Khôi phục {MOWER_COUNT} Xe đẩy bị mất khi bắt đầu cấp độ.
+Khôi phục {MOWER_COUNT} máy cắt cỏ bị mất khi bắt đầu cấp độ.
 
 [DANGER_ROOM_REWARD_MOWER_DESC_SINGULAR]
-Khôi phục một Xe đẩy bị mất khi bắt đầu cấp độ.
+Khôi phục một máy cắt cỏ bị mất khi bắt đầu cấp độ.
 
 [DANGER_ROOM_REWARD_PLANTFOOD_DESC]
 Bắt đầu với {PF_COUNT} ô Plant Food bổ sung
@@ -5885,7 +5885,7 @@ Nấm mốc tấn công, nhiều khó khăn
 Khủng hoảng nấm mốc
 
 [STARCHALLENGE_LAWN_MOWER_WARNING]
-Hoàn thành mục tiêu mà không cần kích hoạt Xe đẩy.
+Hoàn thành mục tiêu mà không cần kích hoạt máy cắt cỏ.
 
 [STARCHALLENGE_MASTER_THE_CONVEYOR]
 Chống lại thành công cuộc xâm lược của zombie.
@@ -6125,10 +6125,10 @@ Vượt qua cấp độ thành công và bảo vệ các loài cây gặp nguy h
 Bảo Vệ Hạt Giống
 
 [STARCHALLENGE_RETAIN_MOWERS]
-Đừng để mất bất kỳ Xe đẩy nào
+Đừng để mất bất kỳ máy cắt cỏ nào
 
 [STARCHALLENGE_RETAIN_MOWERS_NAME]
-Giữ Lại Xe đẩy
+Giữ Lại máy cắt cỏ
 
 [STARCHALLENGE_SPEND_SUN_HOLDOUT]
 Không sử dụng mặt trời trong {COUNT} giây
@@ -8541,7 +8541,7 @@ Bơ Cá Sấu bắn hạt tấn công và có thể tự lao lên húc mạnh.
 Rong Biển quấn chặt một mục tiêu và lôi tuột xuống nước.
 
 [HOMINGTHISTLE_PRODUCT_SHORT_DESC]
-Kế Sữa tự động bắn đạn tầm nhiệt vào mục tiêu gần nhất.
+Tia Kế Sữa tự động bắn đạn tầm nhiệt vào mục tiêu gần nhất.
 
 [LEMON_PRODUCT_SHORT_DESC]
 Chanh Chua Mạnh có khả năng ăn mòn các loại giáp sắt.
@@ -8952,10 +8952,11 @@ Có thể mang theo nhiều mặt trời hơn khi bắt đầu cấp độ.
 Có thể mang theo nhiều mặt trời hơn khi bắt đầu cấp độ.
 
 [OBTAIN_MOWER]
-Nhận Xe đẩy
+Nhận máy cắt cỏ
 
 [UPGRADE_MOWER]
-Xe đẩy
+Máy cắt cỏ
+
 [DATA_COLLECTION_TERMINAL]
 Trạm thu thập dữ liệu
 
@@ -8980,41 +8981,43 @@ Ngón tay kéo
 
 [SCISSOR_FINGER_21_INFO]
 Dùng hai ngón tay hướng vào zombie thực hiện động tác chụm lại, cắt đứt đầu zombie giống như dùng kéo để nhanh chóng giải trừ mối đe dọa.
+
+
 [UPGRADE_MOWER_1_INFO]
-Nhận Xe đẩy ở chế độ dễ của Ai Cập Cổ Đại, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Ai Cập Cổ Đại, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_2_INFO]
-Nhận Xe đẩy ở chế độ dễ của Biển Hải Tặc, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Biển Hải Tặc, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_3_INFO]
-Nhận Xe đẩy ở chế độ dễ của Miền Tây Hoang Dã, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Miền Tây Hoang Dã, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_8_INFO]
-Nhận Xe đẩy ở chế độ dễ của Hang Động Tê Cóng, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Hang Động Tê Cóng, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_10_INFO]
-Nhận Xe đẩy ở chế độ dễ của Thành Phố Thất Lạc, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Thành Phố Thất Lạc, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_11_INFO]
-Nhận Xe đẩy ở chế độ dễ của Tour Hòa Nhạc Neon, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Tour Hòa Nhạc Neon, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_12_INFO]
-Nhận Xe đẩy ở chế độ dễ của Đầm Lầy Kỷ Jura, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Đầm Lầy Kỷ Jura, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_13_INFO]
-Nhận Xe đẩy ở chế độ dễ của Thời Hiện Đại, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Thời Hiện Đại, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_14_INFO]
-Nhận Xe đẩy ở chế độ dễ của Thời Kì Hơi Nước, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Thời Kì Hơi Nước, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_15_INFO]
-Nhận Xe đẩy ở chế độ dễ của Thời Kì Phục Hưng, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Thời Kì Phục Hưng, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_16_INFO]
-Nhận Xe đẩy ở chế độ dễ của Thời Kì Heian, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Thời Kì Heian, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_17_INFO]
-Nhận Xe đẩy ở chế độ dễ của Thế Giới Dưới Nước, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Thế Giới Dưới Nước, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_TREASURE_YETI]
 Mở khóa Yeti Kho Báu
@@ -9786,7 +9789,7 @@ Cấp 1 Bơ Cá Sấu + trang phục
 Cấp 1 Rong Biển  + trang phục
    
 [GEMS_RESTORE_CODE_RECHARGE_HOMINGTHISTLE_LV0_SUCCEED_CONTENT]
-Cấp 1 Kế Sữa + trang phục
+Cấp 1 Tia Kế Sữa + trang phục
    
 [GEMS_RESTORE_CODE_RECHARGE_SWEETPOTATO_LV0_SUCCEED_CONTENT]
 Cấp 1 Khoai Lang Ngọt + trang phục
@@ -9855,7 +9858,7 @@ Cấp 1 Hông Môn Ion Hóa + trang phục
 Cấp 1 Đội Quân Đậu + trang phục
    
 [GEMS_RESTORE_CODE_RECHARGE_SAUCER_LV0_SUCCEED_CONTENT]
-Cấp 1 Dưa Đĩa Bay + trang phục
+Cấp 1 Bí Đĩa Bay + trang phục
    
 [GEMS_RESTORE_CODE_RECHARGE_SAPFLING_LV0_SUCCEED_CONTENT]
 Cấp 1 Thông Sáp + trang phục
@@ -10107,7 +10110,7 @@ Cấp 3 Bơ Cá Sấu
 Cấp 3 Rong Biển 
    
 [GEMS_RESTORE_CODE_RECHARGE_HOMINGTHISTLE_LV3_SUCCEED_CONTENT]
-Cấp 3 Kế Sữa
+Cấp 3 Tia Kế Sữa
    
 [GEMS_RESTORE_CODE_RECHARGE_SWEETPOTATO_LV3_SUCCEED_CONTENT]
 Cấp 3 Khoai Lang Ngọt
@@ -10176,7 +10179,7 @@ Cấp 3 Hông Môn Ion Hóa
 Cấp 3 Đội Quân Đậu
    
 [GEMS_RESTORE_CODE_RECHARGE_SAUCER_LV3_SUCCEED_CONTENT]
-Cấp 3 Dưa Đĩa Bay
+Cấp 3 Bí Đĩa Bay
    
 [GEMS_RESTORE_CODE_RECHARGE_SAPFLING_LV3_SUCCEED_CONTENT]
 Cấp 3 Thông Sáp
@@ -11076,11 +11079,11 @@ Gói quà Bơ Cá Sấu
 Tiến hóa Bơ Cá Sấu và trang phục
 
 [STORE_GIFT_LABORDAY_HOMINGTHISTLE_GIFT]
-Gói quà Kế Sữa
+Gói quà Tia Kế Sữa
 
 [STORE_GIFT_LABORDAY_HOMINGTHISTLE_GIFT_DESC]
 ^009900 Thời gian có hạn từ nay đến 16/9^oldclr
-Tiến hóa Kế Sữa và trang phục
+Tiến hóa Tia Kế Sữa và trang phục
 
 [STORE_GIFT_LABORDAY_CARROTLAUNCHER_GIFT]
 Gói quà Cà Rốt
@@ -11508,7 +11511,7 @@ Trang phục Bơ Cá Sấu
 Trang phục Rong Biển
 
 [HOMINGTHISTLE_AVATAR_NAME]
-Trang phục Kế Sữa
+Trang phục Tia Kế Sữa
 
 [LOTUSSHOWER_AVATAR_NAME]
 Trang phục Đài Sen
@@ -12703,16 +12706,16 @@ Tiến Sĩ Zomboss sắp sửa xuất hiện!
 Tiến Sĩ Zomboss cũng đã xuyên không đến Thế Giới Kung Fu, các chiến binh cây sẽ phải đối mặt với những thử thách chưa từng có trước đây, hãy giữ chặt lấy bộ não của bạn!
 
 [UPGRADE_MOWER_4_INFO]
-Nhận Xe đẩy ở chế độ dễ của Thế Giới Kung Fu, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Thế Giới Kung Fu, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_5_INFO]
-Nhận Xe đẩy ở chế độ dễ của Tương Lai Xa, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Tương Lai Xa, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_6_INFO]
-Nhận Xe đẩy ở chế độ dễ của Thời Kì Tăm Tối, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Thời Kì Tăm Tối, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [UPGRADE_MOWER_7_INFO]
-Nhận Xe đẩy ở chế độ dễ của Bãi Biển Sóng Lớn, có thể chịu được cuộc tấn công của zombie vào nhà.
+Nhận máy cắt cỏ ở chế độ dễ của Bãi Biển Sóng Lớn, có thể chịu được cuộc tấn công của zombie vào nhà.
 
 [SEED_CHOOSER_NEED_PLANTS]
 Sẽ rất khó để vượt qua cấp độ này nếu không có cây {PLANT_NAME}. Bạn có chắc muốn tiếp tục không?
@@ -12896,7 +12899,7 @@ Trang phục Nấm Bản Dẹt
 Trang phục Trái Mít
 
 [STORE_PRODUCT_AVATAR_OLIVE_TITLE]
-Trang phục Ô-liu
+Trang phục Dầu Ô-liu
 
 [STORE_PRODUCT_AVATAR_IMITATER_TITLE]
 Trang phục Khoai Bắt Chước
@@ -13332,7 +13335,7 @@ Trang phục Bơ Cá Sấu
 Trang phục Tảo Biển
 
 [STORE_PRODUCT_AVATAR_HOMINGTHISTLE_TITLE]
-Trang phục Kế Sữa
+Trang phục Tia Kế Sữa
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOWER_TITLE]
 Trang phục Đài Sen
@@ -14496,7 +14499,7 @@ Cường hóa Vung quật dũng mãnh, giúp Rong Biển tấn công càn quét 
 Gai nhọn liên kích
 
 [HOMINGTHISTLE_SKILL_LEVEL1_DES]
-Giúp Kế Sữa có 25% tỷ lệ phóng liên tiếp hai quả đạn gai cùng lúc.
+Giúp Tia Kế Sữa có 25% tỷ lệ phóng liên tiếp hai quả đạn gai cùng lúc.
 
 [HOMINGTHISTLE_SKILL_LEVEL2]
 Cường hóa liên kích
@@ -15485,7 +15488,7 @@ Vũ Công Phản Lực
 {KEYWORD}Tính năng: {STAT}Có thể sử dụng động cơ phản lực để bay xuyên qua hầu hết các loại cây tầm thấp
 {KEYWORD}Đặc điểm: {STAT}Sẽ bị chặn lại bởi các loại cây trồng tầm cao
 
-{FLAVOR}Một con zombie "sống" chỉ vì vũ đạo, hắn là một trong những thành viên thuộc đội ngũ nguyên bản của vở nhạc kịch "Vũ điệu Đĩa co phục hưng! Phục thù!", và điệu nhảy thương hiệu của hắn có tên là "Xe đẩy".
+{FLAVOR}Một con zombie "sống" chỉ vì vũ đạo, hắn là một trong những thành viên thuộc đội ngũ nguyên bản của vở nhạc kịch "Vũ điệu Đĩa co phục hưng! Phục thù!", và điệu nhảy thương hiệu của hắn có tên là "máy cắt cỏ".
 
 [ZOMBIE_FUTURE_JETPACK_DISCO_DESCRIPTION_HEADER]
 Ngoại trừ việc bị các cây trồng tầm cao chặn lại, hắn có thể nhờ vào ba lô phản lực để vượt qua tất cả các cây trồng, ngoài ra còn biết nhảy nhảy đĩa co theo nhịp điệu.
@@ -16141,6 +16144,15 @@ Zombie Kị Sĩ
 
 [ZOMBIE_DARK_ARMOR3_DESCRIPTION_HEADER]
 Chiếc mũ giáp được nhà vua ban tặng giúp cung cấp khả năng chống lại lượng Sát thương kinh ngạc.
+
+[ZOMBIE_DARK_ARMOR4]
+Zombie Đầu Lâu Đài
+
+[ZOMBIE_DARK_ARMOR4_DESCRIPTION]
+{FLAVOR}Tiến sĩ Zombie vốn nức tiếng trong giới kiến trúc toàn cầu khi từng 20 lần ẵm trọn giải thưởng "Thiết Kế Thời Trung Cổ Gây Chấn Động Nhất Năm" do Tạp chí Kiến Trúc bình chọn. Những biến thể lâu đài độc lập mà hắn dựng lên giữa chốn hoang vu dường như nhiều vô số kể.
+
+[ZOMBIE_DARK_ARMOR4_DESCRIPTION_HEADER]
+Mũ lâu đài giúp hắn chống chịu những đòn tấn công nặng nề hơn.
 
 [ZOMBIE_DARK_FLAG]
 Zombie Nông Dân Cầm Cờ
@@ -17320,10 +17332,10 @@ Mảnh Rong Biển
 Nhận mảnh Rong Biển
 
 [BONUS_CARD_PIECE_HOMINGTHISTLE]
-Mảnh Kế Sữa
+Mảnh Tia Kế Sữa
 
 [BONUS_CARD_PIECE_HOMINGTHISTLE_DESCRIPTION]
-Nhận mảnh Kế Sữa
+Nhận mảnh Tia Kế Sữa
 
 [BONUS_CARD_PIECE_LOTUSSHOWER]
 Mảnh Đài Sen
@@ -17387,7 +17399,7 @@ Bơ Cá Sấu không thể tự cắn mình~ Tiêu ^00e46e {GEM_COUNT} kim cươ
 Đừng chạy ra khỏi địa điểm~ Tiêu ^00e46e {GEM_COUNT} kim cương ^oldclr để tiếp tục trò chơi?
 
 [SNAKE_REVIVE_TIP4]
-Zombies sẽ ăn não bạn! Tiêu ^00e46e {GEM_COUNT} kim cương ^oldclr để triệu hồi một chiếc xe đẩy?
+Zombies sẽ ăn não bạn! Tiêu ^00e46e {GEM_COUNT} kim cương ^oldclr để triệu hồi một chiếc máy cắt cỏ?
 
 [REVIVE_DODORIDER_DIED_OUT]
 Không còn thử thách nào nữa. Bạn có muốn tiêu ^00e46e {GEM_COUNT} kim cương ^oldclr để mua 1 thử thách không?
@@ -17639,6 +17651,7 @@ Tăng tốc độ hồi phục lá của cây.
 
 [NIGHTSHADE_SKILL_LEVEL2]
 Sinh trưởng thần tốc
+
 [NIGHTSHADE_SKILL_LEVEL2_DES]
 Hiệu ứng Sinh trưởng thần tốc tăng 100%.
 
@@ -17780,15 +17793,15 @@ Bơ Cá Sấu có thể bắn hạt từ cự ly xa. Khi bị tấn công, chún
 Bắn hạt, khi bị tấn công sẽ lao thẳng về phía trước cắn xé zombie.
 
 [HOMINGTHISTLE]
-Kế Sữa
+Tia Kế Sữa
 
 [HOMINGTHISTLE_DESCRIPTION]
 {KEYWORD}Phạm vi: {STAT} Toàn sân đấu
 {KEYWORD}Đặc điểm của cây: {STAT} Cây màu lục
-{FLAVOR}Đừng hòng nghĩ đến chuyện tiếp cận Kế Sữa. Cậu ấy đã khóa mục tiêu vào bạn từ lâu rồi. Cậu nhìn thấu mọi lớp ngụy trang, giống như đang sở hữu một khẩu súng laser... nhắm thẳng vào linh hồn bạn vậy.
+{FLAVOR}Đừng hòng nghĩ đến chuyện tiếp cận Tia Kế Sữa. Cậu ấy đã khóa mục tiêu vào bạn từ lâu rồi. Cậu nhìn thấu mọi lớp ngụy trang, giống như đang sở hữu một khẩu súng laser... nhắm thẳng vào linh hồn bạn vậy.
 
 [HOMINGTHISTLE_DESCRIPTION_HEADER]
-Kế Sữa bắn đạn tầm nhiệt tự động đuổi theo mục tiêu gần mình nhất.
+Tia Kế Sữa bắn đạn tầm nhiệt tự động đuổi theo mục tiêu gần mình nhất.
 
 [HOMINGTHISTLE_TOOLTIP]
 Tấn công zombie ở vị trí ngoài cùng bên trái
@@ -19520,10 +19533,10 @@ Tiến hóa Biệt Đội Đậu Tằm và trang phục
 ^009900 Thời gian có hạn từ nay đến 16/9^oldclr
 
 [STORE_GIFT_LABORDAY_SAUCER_GIFT]
-Gói Quà Dưa Đĩa Bay
+Gói Quà Bí Đĩa Bay
 
 [STORE_GIFT_LABORDAY_SAUCER_GIFT_DESC]
-Tiến hóa Dưa Đĩa Bay và trang phục
+Tiến hóa Bí Đĩa Bay và trang phục
 ^009900 Thời gian có hạn từ nay đến 16/9^oldclr
 
 [STORE_GIFT_LABORDAY_GROUDCHERRY_GIFT]
@@ -20546,6 +20559,15 @@ Khối băng gạch trên đầu cung cấp khả năng bảo vệ siêu cấp t
 [ZOMBIE_ICEAGE_ARMOR3_DESCRIPTION]
 {FLAVOR}Vào một ngày nọ, một tên Zombie Hang Động cúi đầu nhìn xuống dòng sông băng và vô tình trải qua một ngày tồi tệ, thế là hắn quyết định nằm im trong cột băng một thời gian dài để suy ngẫm về sự nhỏ bé của cuộc đời. Đến khi đứng dậy, hắn mới phát hiện đầu mình đã bị bọc kín trong một khối băng lớn. Nhưng cuối cùng, cuộc sống của hắn đã tìm thấy ý nghĩa! Hắn là độc nhất vô nhị! Hắn chính là Zombie Đầu Khối Băng! Ít nhất thì, câu chuyện đời hắn đã được mở ra kể từ khi cái đầu bị đóng băng cứng ngắc như thế này.
 
+[ZOMBIE_ICEAGE_ARMOR4]
+Zombie Đầu Voi Ma Mút
+
+[ZOMBIE_ICEAGE_ARMOR4_DESCRIPTION_HEADER]
+Mũ voi ma mút giúp hắn chống chịu những đòn tấn công nặng nề hơn.
+
+[ZOMBIE_ICEAGE_ARMOR4_DESCRIPTION]
+{FLAVOR}Thực ra trước đây Zombie Đầu Voi Ma Mút chỉ là một zombie hang động bình thường. Ngày nào hắn cũng cắm đầu vào dòng sông băng với mong muốn trở thành một Zombie Khối Băng. Thế nhưng vào một ngày nọ, một con voi ma mút đã giẫm bẹp dí tên Zombie Khối Băng đứng ngay cạnh hắn. "Hóa ra voi ma mút mới là kẻ mạnh nhất!" — hắn nghĩ thầm. Vậy là hắn nài nỉ Tiến sĩ Zombie rèn cho một chiếc mũ voi ma mút; có món này rồi, nhất định hắn sẽ xơi được những bộ não ngon lành!
+
 [ZOMBIE_ICEAGE_DODO]
 Zombie Cưỡi Chim Dodo
 
@@ -20905,13 +20927,16 @@ Zombie tiểu binh mũ sắt thường xuyên dùng cái thứ này để múc n
 
 [ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION_HEADER]
 Chiếc mũ sắt trên đầu cung cấp cho nó nhiều tầng phòng ngự hơn
+
 [ZOMBIE_MAUSOLEUM_ARMOR4]
 Zombie Đầu Tượng Đất Nung
+
 [ZOMBIE_MAUSOLEUM_ARMOR4_DESCRIPTION]
 {FLAVOR}Không biết được bới lên từ cái hố nào, độ cứng thì miễn bàn — dù sao cũng bị chôn vùi dưới lòng đất hai nghìn năm mà không hề nứt vỡ. Tiếc nuối duy nhất là thứ này dính chặt vào đầu như hàn chết không thể gỡ ra được, chuyện tắm gội coi như bó tay.
 
 [ZOMBIE_MAUSOLEUM_ARMOR4_DESCRIPTION_HEADER]
 Mũ tượng đất nung có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
+
 [ZOMBIE_MAUSOLEUM_GARGANTUAR]
 Zombie Khổng Lồ Bách Phu Trưởng
 
@@ -21010,8 +21035,10 @@ Zombie Mũ Sắt U Minh đã dùng chiếc mũ giáp để bảo vệ phần đ�
 
 [ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION_HEADER]
 Hình thái linh thể thường gặp của Zombie Tiểu Binh Mũ Sắt
+
 [ZOMBIE_MAUSOLEUM_ARMOR4_GHOST_SPIRIT]
 Zombie Đầu Tượng Đất Nung U Minh
+
 [ZOMBIE_MAUSOLEUM_ARMOR4_GHOST_SPIRIT_DESCRIPTION]
 {FLAVOR}Phần mô tả ẩn của mũ tượng đất nung thực ra được khắc ở mặt trong chiếc mũ — sau khi chết sẽ tự động chuyển sang trạng thái linh thể. Tiếc là lúc đội mũ thì hắn không nhìn thấy, đến khi mũ vỡ thì hắn cuối cùng cũng thấy được, nhưng lúc này hắn đã bay lơ lửng giữa không trung rồi.
 
@@ -21158,6 +21185,7 @@ Zombie Thủ Môn
 
 [GOALKEEPER_ZOMBIE_DESCRIPTION_HEADER]
 Zombie Thủ Môn có thể phản bật lại một số loại đạn bắn thẳng
+
 
 [ZOMBIE_SWIMMINGRING]
 Zombie Phao Bơi
@@ -21974,7 +22002,7 @@ Có thể nhận
 
 [BUY_MOWER_DESC]
 Zombie sắp ăn mất não...
-Dùng ^FF0000 Xe đẩy tiêu diệt zombie^oldclr để chơi tiếp chứ?
+Dùng ^FF0000 máy cắt cỏ tiêu diệt zombie^oldclr để chơi tiếp chứ?
 
 [BUY_AD_MOWER_LEFT_TIMES]
 Còn {NUMBER} lần
@@ -22443,29 +22471,31 @@ Phóng ra một loạt mưa hoa mai dày đặc càn quét theo một góc hình
 
 
 [SAUCER_PRODUCT_SHORT_DESC]
-Dưa Đĩa Bay có thể phát ra luồng ánh sáng bắt giữ và khóa chặt những con zombie đang tiến lại gần.
+Bí Đĩa Bay có thể phát ra luồng ánh sáng bắt giữ và khóa chặt những con zombie đang tiến lại gần.
 
 [SAUCER_AVATAR_NAME]
-Trang phục Dưa Đĩa Bay
+Trang phục Bí Đĩa Bay
 
 [STORE_PRODUCT_AVATAR_SAUCER_TITLE]
-Trang phục Dưa Đĩa Bay
+Trang phục Bí Đĩa Bay
 
 [STORE_PRODUCT_AVATAR_SAUCER]
 Đại chiêu giúp kéo dài thêm đáng kể thời gian định thân bất động của mục tiêu ngoại lệ.
 
 [SAUCER]
-Dưa Đĩa Bay
+Bí Đĩa Bay
+
+[SAUCER_DESCRIPTION_HEADER]
+Bí Đĩa Bay có thể phát ra luồng ánh sáng bắt giữ và khóa chặt những con zombie đang tiến lại gần.
 
 [SAUCER_DESCRIPTION]
 {KEYWORD}Đặc điểm của cây: {STAT}Cây màu vàng, Cây bay, Người ngoài hành tinh
-{FLAVOR}Mọi người xung quanh lúc nào cũng nhìn cậu ấy với ánh mắt nghi ngại và lầm tưởng Dưa Đĩa Bay là một sinh vật quái dị đến từ hành tinh khác, thế nhưng qua thời gian dài tiếp xúc, họ mới dần phát hiện ra rằng cậu ấy thực chất chỉ là một gã có tính cách quá đỗi hướng nội, rụt rè nên không đủ dũng khí để chủ động hòa nhập với đám đông mà thôi. Dẫu vậy, xin cảnh báo là đừng bao giờ dại dột chọc giận Dưa Đĩa Bay, bởi vì một khi bị luồng ánh sáng tối thượng của cậu ấy chiếu thẳng vào người thì cái kết nhận về hoàn toàn chẳng dễ chịu chút nào đâu.
+{FLAVOR}Mọi người xung quanh lúc nào cũng nhìn cậu ấy với ánh mắt nghi ngại và lầm tưởng Bí Đĩa Bay là một sinh vật quái dị đến từ hành tinh khác, thế nhưng qua thời gian dài tiếp xúc, họ mới dần phát hiện ra rằng cậu ấy thực chất chỉ là một gã có tính cách quá đỗi hướng nội, rụt rè nên không đủ dũng khí để chủ động hòa nhập với đám đông mà thôi. Dẫu vậy, xin cảnh báo là đừng bao giờ dại dột chọc giận Bí Đĩa Bay, bởi vì một khi bị luồng ánh sáng tối thượng của cậu ấy chiếu thẳng vào người thì cái kết nhận về hoàn toàn chẳng dễ chịu chút nào đâu.
 
-[SAUCER_DESCRIPTION_HEADER]
-Dưa Đĩa Bay có thể phát ra luồng ánh sáng bắt giữ và khóa chặt những con zombie đang tiến lại gần.
+
 
 [SAUCER_TOOLTIP]
-Dưa Đĩa Bay có thể phát ra luồng ánh sáng bắt giữ và khóa chặt những con zombie đang tiến lại gần.
+Bí Đĩa Bay có thể phát ra luồng ánh sáng bắt giữ và khóa chặt những con zombie đang tiến lại gần.
 
 [SAUCER_PLANTFOOD]
 Đại chiêu kích hoạt luồng quang năng bao phủ toàn sân, khiến toàn bộ zombie hiện diện tạm thời rơi vào trạng thái định thân bất động, hoàn toàn không thể di chuyển.
@@ -22474,14 +22504,13 @@ Dưa Đĩa Bay có thể phát ra luồng ánh sáng bắt giữ và khóa chặ
 Quang năng bắt giữ
 
 [SAUCER_SKILL_LEVEL1_DES]
-Nâng cấp giúp luồng ánh sáng của Dưa Đĩa Bay có thể trực tiếp bắt giữ triệt tiêu những con zombie đang có lượng máu thấp.
+Nâng cấp giúp luồng ánh sáng của Bí Đĩa Bay có thể trực tiếp bắt giữ triệt tiêu những con zombie đang có lượng máu thấp.
 
 [SAUCER_SKILL_LEVEL2]
 Thiết bị phản trọng lực
 
 [SAUCER_SKILL_LEVEL2_DES]
-Tăng cường công năng giúp luồng ánh sáng bắt giữ của Dưa Đĩa Bay có thể khóa chặt và xử lý được những con zombie sở hữu lượng máu cao hơn.
-
+Tăng cường công năng giúp luồng ánh sáng bắt giữ của Bí Đĩa Bay có thể khóa chặt và xử lý được những con zombie sở hữu lượng máu cao hơn.
 
 [GROUNDCHERRY_PRODUCT_SHORT_DESC]
 Cỏ Đèn Lồng sở hữu năng lực thấu thị phát hiện ra những con zombie đang nằm trong trạng thái tàng hình ẩn thân.
@@ -23198,7 +23227,7 @@ Cỏ Đuôi Mèo
 [NEKOTAIL_DESCRIPTION]
 {KEYWORD}Tính năng: {STAT}Bắn gai định vị tấn công zombie và có tỷ lệ gây tê liệt.
 {KEYWORD}Đặc điểm của cây: {STAT}Cây màu trắng, 100.000 vôn
-{FLAVOR}Khi Cỏ Đuôi Mèo tham gia phỏng vấn, phóng viên có hỏi: "Cậu nghĩ sao về mối quan hệ cạnh tranh giữa mình và Kế Sữa?" Cỏ Đuôi Mèo mặt không đổi sắc trả lời: "Meo meo meo~" Dịch sang ngôn ngữ loài người nghĩa là: "Chẳng có vấn đề gì mà một cái nũng nịu không giải quyết được cả~"
+{FLAVOR}Khi Cỏ Đuôi Mèo tham gia phỏng vấn, phóng viên có hỏi: "Cậu nghĩ sao về mối quan hệ cạnh tranh giữa mình và Tia Kế Sữa?" Cỏ Đuôi Mèo mặt không đổi sắc trả lời: "Meo meo meo~" Dịch sang ngôn ngữ loài người nghĩa là: "Chẳng có vấn đề gì mà một cái nũng nịu không giải quyết được cả~"
 
 [NEKOTAIL_DESCRIPTION_HEADER]
 Bắn gai định vị tấn công zombie và có tỷ lệ gây tê liệt.
@@ -24208,7 +24237,7 @@ Quy tắc
 4. Reset & Kế thừa: Mua lượt reset bằng Kim Cương (Thứ Bảy, Chủ Nhật miễn phí 1 lần). Tiến trình kế thừa sang ngày mở tiếp theo, không sang mùa sau.
 5. Tính điểm: Vượt màn tăng Điểm hiện tại và Điểm cao nhất. Reset sẽ đưa Điểm hiện tại về 0, giữ Điểm cao nhất để xếp hạng.
 6. Huân Chương & BXH: Vượt màn nhận Huân Chương đổi đồ. BXH chốt và thưởng vào 24h Thứ Sáu, Thứ Bảy, Chủ Nhật.
-7. Giữ nguyên trạng thái: Mặt Trời, Dưa Leo, Xe Đẩy, lượt Cổ Vật và cây trên sân giữ nguyên sang màn sau; khôi phục khi reset.
+7. Giữ nguyên trạng thái: Mặt Trời, Dưa Leo, máy cắt cỏ, lượt Cổ Vật và cây trên sân giữ nguyên sang màn sau; khôi phục khi reset.
 8. Dưa Leo: Số lượng tính độc lập với chế độ khác.
 9. Giới hạn cây: Số lượng cây trồng bị giới hạn, khôi phục một phần sau mỗi trận thắng.
 10. Màn Boss: Xuất hiện ở các màn bội số của 5. Được rút 1 thẻ bổ trợ miễn phí, thẻ thứ 2 tốn Kim Cương.
@@ -24853,46 +24882,32 @@ Số lượng Mặt Trời sử dụng không được vượt quá giới hạn
 
 [PVP_ERROR_25601]
 Thông tin phòng thí nghiệm chưa được khởi tạo
-
 [PVP_ERROR_25602]
 Căn cứ đã đạt cấp độ tối đa
-
 [PVP_ERROR_25603]
 Phòng thí nghiệm hiện đang nghiên cứu hạng mục khác, vui lòng quay lại sau
-
 [PVP_ERROR_25605]
 Cấp độ căn cứ không đủ
-
 [PVP_ERROR_25606]
 Mặt Trời phòng thủ đã đạt cấp độ tối đa
-
 [PVP_ERROR_25607]
 Dân số zombie đã đạt cấp độ tối đa
-
 [PVP_ERROR_25608]
 Zombie đã đạt cấp bậc cao nhất
-
 [PVP_ERROR_25609]
 Zombie phải đạt cấp độ tối đa mới có thể đột phá
-
 [PVP_ERROR_25610]
 Không đủ huy chương
-
 [PVP_ERROR_25611]
 Zombie đã đạt cấp độ đột phá tối đa
-
 [PVP_ERROR_25612]
 Cấp độ kỹ năng đã chạm giới hạn cấp độ căn cứ
-
 [PVP_ERROR_25613]
 Cây trồng đã đạt cấp độ đột phá tối đa
-
 [PVP_ERROR_25614]
 Kỹ năng đã đạt cấp độ tối đa
-
 [PVP_ERROR_25615]
 Không có hạng mục nào đang trong quá trình nâng cấp
-
 [PVP_ERROR_25212]
 Điểm tài nguyên này đã bị chiếm đóng từ trước
 
@@ -26735,7 +26750,7 @@ Quá nhiều cây, không thể trồng kịp!
 Đã đạt giới hạn trồng cây! Hãy nhổ bớt một cây để trồng cây khác.
 
 [PLANTING_COBCANNON_CANNOT_ON_VINES]
-Pháo Ngô không thể trồng trên các loại cây dây leo.
+Ngô Thần Công không thể trồng trên các loại cây dây leo.
 
 [ADVICE_POTATOMINE_ON_PLANKS]
 Cây trên cạn không thể trồng trên ván gỗ.
@@ -26855,13 +26870,11 @@ Thà trong túi có một đồng Xu còn hơn là phải nhìn vào miệng c�
 
 [AWARD_SCREEN_MONEYBAG_TITLE]
 Túi Xu!
-
 [AWARD_SCREEN_OBJECTIVE_MET]
  
 
 [AWARD_SCREEN_OBJECTIVE_NOT_MET]
 Mục tiêu ngày {X}
-
 [AWARD_SCREEN_POWERUP_VASEBREAKERBUTTER_DESCRIPTION]
 Dùng bơ đập zombie trong chế độ Đập Bình
 
@@ -26879,10 +26892,8 @@ Hiển thị vật phẩm bên trong bình trong chế độ Đập Bình
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERREVEAL_TITLE]
 Kỹ năng Thấu Thị Bình
-
 [AWARD_SCREEN_TREASURE_CHEST_DESCRIPTION]
 10000 xu 
-
 [AWARD_SCREEN_WORLDTROPHY_BEACH]
 Bạn đã đánh bại Tiến Sĩ Zomboss cùng cỗ máy Cá Mập Cơ Khí.
 
@@ -26915,7 +26926,6 @@ Bạn đã đánh bại Tiến Sĩ Zomboss cùng cỗ máy Khủng Long Cơ Khí
 
 [AWARD_SCREEN_WORLDTROPHY_DINO_TITLE]
 Cúp Đầm Lầy Kỷ Jura
-
 [AWARD_SCREEN_WORLDTROPHY_EGYPT_TITLE]
 Cúp Ai Cập Cổ Đại
 
@@ -26927,7 +26937,6 @@ Cúp Tour Hòa Nhạc Neon
 
 [AWARD_SCREEN_WORLDTROPHY_FUTURE]
 Bạn đã đánh bại Tiến Sĩ Zomboss cùng cỗ máy Tương Lai Cơ Khí.
-
 [AWARD_SCREEN_WORLDTROPHY_ICEAGE]
 Bạn đã đánh bại Tiến Sĩ Zomboss cùng cỗ máy Voi Ma Mút Cơ Khí.
 
@@ -26945,13 +26954,10 @@ Bạn đã Nhận được một chiếc bánh Tacos, phía trên còn đính k�
 
 [AWARD_SCREEN_WORLDTROPHY_MODERN_TITLE]
 Bánh Tacos dính bánh quy
-
 [AWARD_SCREEN_WORLDTROPHY_PIRATE_TITLE]
 Cúp Biển Hải Tặc
-
 [BEACH_DANGER_ROOM_NAME]
 Đuốc Tiki
-
 [BEGHOULED_METER_TEXT]
 Đã ghép: {COUNT}/{TOTAL}
 
@@ -27023,7 +27029,6 @@ Xẻng Thần Công
 
 [BOOST_TITLE_SUN_DISCOUNT]
 Trợ Giá Mặt Trời
-
 [BUTTON_KEEP]
 Giữ
 
@@ -27032,16 +27037,13 @@ Giữ
 
 [BUTTON_NEW_QUEST_AVAILABLE]
 Nhiệm vụ mới đã mở khóa!
-
 [BUTTON_QUEST_COMPLETED]
 Nhiệm vụ đã hoàn thành!
 
 [BUTTON_REFRESH]
 Làm mới
-
 [BUY_NOW]
 Mua ngay
-
 [CACTUS]
 Cây Xương Rồng
 
@@ -27056,13 +27058,10 @@ Cây Xương Rồng có thể bắn gai xuyên thấu, gây Sát thương lên n
 
 [CACTUS_TOOLTIP]
 Bắn gai xuyên thấu và có thể ẩn nấp để né sát thương mặt đất.
-
 [CATEGORY_4_DESCRIPTION]
 Xu 
-
 [CATEGORY_6_DESCRIPTION]
 Cây
-
 [CATEGORY_7_DESCRIPTION]
 Nâng cấp
 
@@ -27088,10 +27087,8 @@ Cần Tây Phục Kích bất ngờ trồi lên và tấn công zombie từ phí
 
 [CELERYSTALKER_TOOLTIP]
 Bất ngờ trồi lên và tấn công zombie từ phía sau.
-
 [COIN_BALANCE_ALERT]
 Không đủ xu
-
 [COLDSNAPDRAGON]
 Hoa Mõm Rồng Lạnh
 
@@ -27141,6 +27138,7 @@ Có tỷ lệ triệu hồi Băng Long bay ra, tấn công toàn bộ zombie ở
 ...Trang phục!
 
 [CONVERSION_KEY_COSTUME_REWARD]
+
 {COSTUME_AMT} trang phục mới!
 
 [CONVERSION_KEY_COSTUME_SINGULAR]
@@ -27183,19 +27181,14 @@ Bạn đã Nhận được một chiếc Chìa khóa Thời Không. Hãy dùng n
 
 [CONVERSION_WORLDKEY_TITLE]
 Mở khóa thế giới mới!
-
 [COWBOY_DANGER_ROOM_NAME]
 Ngọn Đồi Ma Ám
-
 [CREDITS_DARK_AGES_AUDIO_LEADS]
 Chỉ đạo Âm thanh Thời Kì Tăm Tối
-
 [CREDITS_MARKETING]
 Tiếp Thị
-
 [CREDITS_PLATFORMS_PRODUCER]
 Nhà Sản Xuất Nền Tảng
-
 [CREDITS_VA_BEACH_FEMALE_BASIC_ZOMBIES]
 Zombie Bikini
 
@@ -27243,7 +27236,6 @@ Bí Ngô Lồng Đèn
 
 [CREDITS_VA_JURASSIC_MARSH_ZOMBIES]
 Zombie Đầm Lầy Kỷ Jura
-
 [CREDITS_VA_LAWN_ZOMBIES]
 Zombie Bãi Cỏ
 
@@ -27252,7 +27244,6 @@ Zombie Cầm Xẻng
 
 [CREDITS_VA_LOST_CITY_JANE]
 Zombie Quý Bà Cầm Ô
-
 [CREDITS_VA_LOST_CITY_ZOMBIES]
 Zombie Tiểu Quỷ Thất Lạc
 
@@ -27297,7 +27288,6 @@ Dâu Tây Nổ
 
 [CREDITS_VA_SWEET_POTATO]
 Khoai Lang Ngọt
-
 [CREDITS_VA_WILD_WEST_ZOMBIES]
 Zombie Miền Tây Hoang Dã
 
@@ -27309,13 +27299,11 @@ Zombie Tử Vong
 
 [CREDITS_VA_ZOMBIE_DARK_WIZARD]
 Pháp Sư
-
 [DANGER_ROOM_BEACH_LEVEL_NAME]
 Quái Vật Biển Sâu - Cấp {LEVEL_NUMBER}
 
 [DANGER_ROOM_BEACH_TITLE_WELCOME]
 Chào mừng đến với Quái Vật Biển Sâu!
-
 [DANGER_ROOM_DARK_TITLE_WELCOME]
 Chào mừng đến với Thử Thách Của Arthur!
 
@@ -27326,8 +27314,7 @@ Thử Thách Của Arthur - Cấp {LEVEL_NUMBER}
 Hố Nhựa Não Người - Cấp {LEVEL_NUMBER}
 
 [DANGER_ROOM_DINO_TITLE_WELCOME]
-Chào mừng đến với Hố Nhựa Não Người!
-
+Chào mừng đến với Hố Nhựa Não Người
 [DANGER_ROOM_EIGHTIES_LEVEL_NAME]
 Album đỉnh cao của Zombie - Cấp {LEVEL_NUMBER}
 
@@ -27339,13 +27326,11 @@ Nỗi Sợ Tương Lai - Cấp {LEVEL_NUMBER}
 
 [DANGER_ROOM_FUTURE_TITLE_WELCOME]
 Chào mừng đến với Nỗi Sợ Tương Lai!
-
 [DANGER_ROOM_ICEAGE_LEVEL_NAME]
 Chiến trường băng giá - Cấp {LEVEL_NUMBER}
 
 [DANGER_ROOM_ICEAGE_TITLE_WELCOME]
 Chào mừng đến với Chiến trường băng giá!
-
 [DANGER_ROOM_LOSTCITY_LEVEL_NAME]
 Nỗi sợ thất lạc - Cấp {LEVEL_NUMBER}
 
@@ -27354,7 +27339,6 @@ Gió lốc bình an - Cấp {LEVEL_NUMBER}
 
 [DANGER_ROOM_LOSTCITY_TITLE_WELCOME]
 Chào mừng đến với Nỗi sợ thất lạc!
-
 [DANGER_ROOM_MODERN_LEVEL_NAME]
 Phòng nguy hiểm tốc hành - Cấp {LEVEL_NUMBER}
 
@@ -27396,19 +27380,15 @@ Hiển thị giá tiền
 
 [DANGER_ROOM_REWARD_FOURTH_CARD_DESC]
 Dùng Xu để hiện lựa chọn thứ tư
-
 [DANGER_ROOM_REWARD_SNOWBALL]
 Thêm một Vuốt Băng miễn phí
-
 [DANGER_ROOM_REWARD_WIZARD_FINGER]
 Thêm một Vuốt Điện miễn phí
-
 [DARK_DANGER_ROOM_NAME]
 Thử Thách Của Arthur
 
 [DARKAGES_DANGER_ROOM_NAME]
 Thử Thách Của Arthur
-
 [DAYS]
 ngày
 
@@ -28596,10 +28576,10 @@ Sức nóng Mặt Trời! Sử dụng Cỏ Lăng Kính để biến các điểm
 Mở khóa Cỏ Lăng Kính!
 
 [FINISH_FUTURE_20_DESC]
-Nhấp và giữ để tự tay kích hoạt phóng một chiếc Xe đẩy! San phẳng chúng đi! Hoàn thành Tương Lai Xa - Ngày 20!
+Nhấp và giữ để tự tay kích hoạt phóng một chiếc máy cắt cỏ! San phẳng chúng đi! Hoàn thành Tương Lai Xa - Ngày 20!
 
 [FINISH_FUTURE_20_TITLE]
-Mở khóa PHÓNG Xe đẩy!
+Mở khóa PHÓNG MÁY CẮT CỎ!
 
 [FINISH_FUTURE_24_DESC]
 Ô gạch năng lượng có thể cường hóa hiệu ứng của Plant Food. Hãy dùng Củ Cải Ô để tạo ra chúng nhé! Hoàn thành Tương Lai Xa - Ngày 24!
@@ -29321,7 +29301,6 @@ Cây Hoa Cúc vừa mới kiếm về cho bạn một khoản Xu kha khá đấy
 
 [LOCAL_NOTE_ZEN_PLANT_READY_SINGLE_MARIGOLD_01]
 Cây Hoa Cúc của bạn đã cao hơn rồi! Tưới thêm chút nước cho nó để lại kiếm thêm một khoản lớn nữa nào.
-
 [LOCAL_PUSH_YETI_EVENT_01]
 Hộp cơm của Yeti Kho Báu đang giấu thứ gì bên trong? Đánh bại hắn là biết ngay thôi!
 
@@ -29351,7 +29330,6 @@ Yeti Kho Báu dám khinh thường nghĩ rằng bạn quá yếu ớt. Hãy bắ
 
 [LOCAL_PUSH_YETI_EVENT_10]
 Chỉ có một cách duy nhất để chiếm đoạt tài sản của Yeti Kho Báu. Đó chính là đánh bại hắn!
-
 [LOD_AVAILABLE_FOR]
 Có thể dùng cho
 
@@ -29459,16 +29437,13 @@ Hôm nay
 
 [LOSTCITY_DANGER_ROOM_NAME]
 Ngôi Đền Rộ Hoa
-
 [MAGENTO_SCHEDULE_DAYS_REMAINING]
 Kết thúc sau {NUMBER} ngày!
 
 [MAINMENU_ACCEPT]
 Chấp nhận
-
 [MAINMENU_LEGAL_READ_AND_ACCEPTED]
 Tôi đã đọc và chấp nhận: 
-
 [MINUTES]
 phút
 
@@ -29570,10 +29545,8 @@ Không, cảm ơn
 
 [MORE_INFO_BUTTON]
 Thông tin thêm
-
 [MULTIPLE_QUEST_ROLLUP_AWARD_DESCRIPTION]
 Bạn đã hoàn thành rất nhiều nhiệm vụ và nhận vô số phần thưởng!
-
 [NARRATIVE_BEACH_INTRO_BANANA_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Cậu Dave. Hãy chú ý đến dãy Chuối Thần Công kia kìa.
 
@@ -29712,7 +29685,7 @@ Bạn đã hoàn thành rất nhiều nhiệm vụ và nhận vô số phần th
 {SAY:CRAZYDAVE}Ý tôi "máu mặt" ở đây là thái độ lồi lõm gắt gỏng ấy. Giải thích một tí kẻo cô lại không hiểu.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_4]
-{SAY:WINNIE}Thế thì tôi đề xuất gọi Kế Sữa đến trợ giúp.
+{SAY:WINNIE}Thế thì tôi đề xuất gọi Tia Kế Sữa đến trợ giúp.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_5]
 {SAY:WINNIE}Tôi tin là cái sự gắt gỏng của nó hoàn toàn đúng ý cậu đấy.
@@ -29749,6 +29722,7 @@ Bạn đã hoàn thành rất nhiều nhiệm vụ và nhận vô số phần th
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_6]
 {SAY:ZOMBOSSICON}Hãy nhai ngấu nghiến những kẻ yêu đất liền kia đi! Lên nào các anh em phía sau!
 Tiến Sĩ Zomboss
+
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_7]
 {NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Chuyện tình lãng mạn giữa cây và zombie á? Penny... đầu tôi sắp nổ tung đến nơi rồi!
 
@@ -29773,6 +29747,7 @@ Tiến Sĩ Zomboss
 [NARRATIVE_BEACH_OUTRO_DANGER_ROOM_KEY_5]
 {TIRED:WINNIE}Cậu Dave, tôi phải thừa nhận rằng, mấy câu chơi chữ của cậu đúng thực là một sự... 
 Khốn khổ.
+
 [NARRATIVE_BEACH_OUTRO_ZOMBOSS_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Chuyện tình lãng mạn giữa cây và zombie á? Điên rồ hết sức!
 
@@ -30807,10 +30782,10 @@ Khốn khổ.
 {NPC_ENTER:CRAZYDAVE}{SAY}Ối chà, cậu thực sự nên thử lại lần nữa xem sao!
 
 [NARRATIVE_FUTURE_MANUAL_MOWERS_1]
-{NPC_ENTER:WINNIE}Cậu có thể chủ động quyết định việc sử dụng Xe đẩy sớm hơn.
+{NPC_ENTER:WINNIE}Cậu có thể chủ động quyết định việc sử dụng máy cắt cỏ sớm hơn.
 
 [NARRATIVE_FUTURE_MANUAL_MOWERS_2]
-{EXCITED:WINNIE}Hãy canh chuẩn thời cơ và ấn giữ vào Xe đẩy.
+{EXCITED:WINNIE}Hãy canh chuẩn thời cơ và ấn giữ vào máy cắt cỏ.
 
 [NARRATIVE_FUTURE_MANUAL_MOWERS_3]
 {NPC_ENTER:CRAZYDAVE}{SAY:CRAZYDAVE}Đôi khi đó lại chính là việc làm hợp logic nhất đấy!
@@ -31262,13 +31237,13 @@ Khốn khổ.
 {SAY:WINNIE}Nhấp và ấn giữ để kéo dài thời gian phun lửa, đồng thời gia tăng lượng sát thương!
 
 [NARRATIVE_LAWN_MOWERS_FILL_1]
-{NPC_ENTER:CRAZYDAVE}{EXCITED:WINNIE}Oài, Xe đẩy có thể liên tục truy kích càn quét zombie kìa!
+{NPC_ENTER:CRAZYDAVE}{EXCITED:WINNIE}Oài, máy cắt cỏ có thể liên tục truy kích càn quét zombie kìa!
 
 [NARRATIVE_LAWN_MOWERS_FILL_2]
-{SAY:CRAZYDAVE}Phải chú ý đến những chiếc Xe đẩy do zombie đánh rơi, nhưng đồng thời thì...
+{SAY:CRAZYDAVE}Phải chú ý đến những chiếc máy cắt cỏ do zombie đánh rơi, nhưng đồng thời thì...
 
 [NARRATIVE_LAWN_MOWERS_FILL_3]
-{SAY:CRAZYDAVE}Hãy để tôi giúp khôi phục lại Xe đẩy của cô về trạng thái chiến đấu nhé.
+{SAY:CRAZYDAVE}Hãy để tôi giúp khôi phục lại máy cắt cỏ của cô về trạng thái chiến đấu nhé.
 
 [NARRATIVE_LAWN_MOWERS_FILL_4]
 {PLAYFUL:CRAZYDAVE}Đừng lo lắng, lần này hoàn toàn miễn phí, và phải xếp đặt đặt chúng sát sạt ngay cạnh ngôi nhà đấy nhé.
@@ -31867,10 +31842,10 @@ Trang phục Nấm Nước Hoa
 Giảm 20% CD hồi cây
 
 [PERM_LAWN_MOWER_TUTORIAL_1]
-Xe đẩy đã cứu bạn một mạng!
+Máy cắt cỏ đã cứu bạn một mạng!
 
 [PERM_LAWN_MOWER_TUTORIAL_2]
-Hãy giữ chặt lấy bộ não của mình, tặng bạn một chiếc Xe đẩy khác nhé!
+Hãy giữ chặt lấy bộ não của mình, tặng bạn một chiếc máy cắt cỏ khác nhé!
 
 [PERSISTENT_MESSAGING_OFFLINE]
 Chào mừng, nhà du hành thời không.
@@ -32126,13 +32101,13 @@ Trái Khế
 Gói Kim Cương 20
 
 [PRODUCT_241Z_DESCRIPTION]
-Kích hoạt Xe đẩy bổ sung!
+Kích hoạt máy cắt cỏ bổ sung!
 
 [PRODUCT_241Z_NAME]
-Nâng cấp - Phóng Xe đẩy bổ sung
+Nâng cấp - Phóng máy cắt cỏ bổ sung
 
 [PRODUCT_241Z_SHORT_DESCRIPTION]
-Phóng Xe đẩy bổ sung
+Phóng máy cắt cỏ bổ sung
 
 [PRODUCT_242_DESCRIPTION]
 Kim Cương rơi tựa mưa sa!
@@ -32419,7 +32394,7 @@ Gói quà Cường hóa Óc Chó Nổ
 Phát nổ tung trời khi bị zombie ăn mất!
 
 [PRODUCT_EXPLODEONUT_HOMINGTHISTLE_BUNDLE_DESCRIPTION]
-Cho Kế Sữa tầm nhiệt phối hợp chung đội với Óc Chó Nổ nào!
+Cho Tia Kế Sữa tầm nhiệt phối hợp chung đội với Óc Chó Nổ nào!
 
 [PRODUCT_EXPLODEONUT_HOMINGTHISTLE_BUNDLE_NAME]
 Gói quà - Song tấu nổ tung
@@ -32476,10 +32451,10 @@ Bom Nho
 Nã đạn càn quét vào con zombie ở vị trí gần nhà nhất
 
 [PRODUCT_HOMINGTHISTLE_NAME]
-Cây - Kế Sữa
+Cây - Tia Kế Sữa
 
 [PRODUCT_HOMINGTHISTLE_SHORT_DESCRIPTION]
-Kế Sữa
+Tia Kế Sữa
 
 [PRODUCT_HURRIKALE_DESCRIPTION]
 Đẩy lùi và đóng băng toàn bộ zombie trên cùng một làn chạy!
@@ -33156,13 +33131,10 @@ Cỏ Xạ Hương Thời Gian có thể đảo ngược thời gian, đưa zombi
 
 [TIME_TWIST_PINATA_PARTIES]
 Tiệc Pinata Vòng Xoáy Thời Gian bắt đầu!
-
 [TRAVEL_LOG_CARD]
 Nhật ký du lịch
-
 [UNIVERSE_DIFFICULTY]
 Độ khó
-
 [UNLOCK_BEACH_DESC]
 Sử dụng Chìa khóa Thế giới để mở khóa màn Ngày lễ Kinh hoàng tại Bãi Biển Sóng Lớn!
 
@@ -33244,10 +33216,10 @@ Chỉnh sửa zombie, xác minh nội dung: {DOWNLOAD_PCT}%
 [UPDATED_WEEKLY]
 Cập nhật hàng tuần
 [UPGRADE_MANUAL_MOWERS_1]
-Kích hoạt Xe đẩy
+Kích hoạt máy cắt cỏ
 
 [UPGRADE_MANUAL_MOWERS_DESCRIPTION_1]
-Nhấp và giữ để tự tay kích hoạt phóng một chiếc Xe đẩy!
+Nhấp và giữ để tự tay kích hoạt phóng một chiếc máy cắt cỏ!
 
 [VASEBREAKER_EGYPT_LEVEL_NAME]
 Đập Bình Ai Cập - Cấp {LEVEL_NUMBER}
@@ -33460,13 +33432,11 @@ Thế Giới Dưới Nước: Ôi... rơi xuống rồi
 Hiển thị lựa chọn
 [WARNING_BEGHOULED_SWAP]
 Tráo!
-
 [WARNING_LEPRACHAUNS]
 Yêu tinh!
 
 [WARNING_LOD]
 Bảo vệ ngôi nhà của bạn!
-
 [WASABIWHIP]
 Mù Tạt Roi Lửa
 
@@ -33490,7 +33460,6 @@ Thời Hiện Đại
 
 [WORLD_PREVIEW_BEACH_TITLE]
 Bãi Biển Sóng Lớn!
-
 [WORLD_PREVIEW_BUY_NOW_HEADER]
 Mua ngay
 
@@ -33505,22 +33474,18 @@ Miền Tây Hoang Dã!
 
 [WORLD_PREVIEW_DARK_TITLE]
 Thời Kì Tăm Tối!
-
 [WORLD_PREVIEW_DESCRIPTION_DINO]
 Dưới bàn chân thô kệch của loài thằn lằn đáng sợ này, toàn bộ mặt đất đều đang rung chuyển. Khủng long lang thang trong quá khứ, chế nhạo lũ zombie tiền sử, khiến bọn chúng vô cùng chán ghét thời cổ đại.
 
 [WORLD_PREVIEW_DESCRIPTION_EIGHTIES]
 Hãy chuẩn bị sẵn keo xịt tóc và quay trở lại thập niên 1980 nào! Bạn chắc chắn sẽ vô cùng phấn khích trước bữa tiệc rùng rợn được tạo nên từ nhạc tổng hợp và những con zombie háu ăn!
-
 [WORLD_PREVIEW_DESCRIPTION_MODERN]
 Kết thúc cũng chính là khởi đầu! Quay trở lại khoảnh khắc ngay trước khi bạn rời khỏi thời đương đại, nơi ngập tràn những con zombie đến từ đủ loại thời đại khác nhau!
-
 [WORLD_PREVIEW_DINO_HIGHLIGHT_COUNT]
 38
 
 [WORLD_PREVIEW_DINO_TITLE]
 Đầm Lầy Kỷ Jura
-
 [WORLD_PREVIEW_EIGHTIES_HIGHLIGHT_COUNT]
 39
 
@@ -33566,19 +33531,16 @@ Biển Hải Tặc!
 +1 Vùng vô tận!
 +5 Cây trồng
 +1 Trận đấu Thủ lĩnh!
-
 [WORLD_PREVIEW_TEASER_EIGHTIES]
 +31 Màn
 +1 Vùng vô tận!
 +6 Cây trồng
 +1 Trận đấu Thủ lĩnh!
-
 [WORLD_PREVIEW_TEASER_MODERN]
 +31 Màn
 +1 Vùng vô tận!
 +5 Cây trồng
 +3 Trận đấu Thủ lĩnh!
-
 [WORLD_PREVIEW_USE_KEY]
 Sử dụng chìa khóa
 
@@ -33622,7 +33584,7 @@ Hòa mình vào bữa tiệc tại Bãi Biển Sóng Lớn nào!
 Xem trước nội dung của Phần 2 Bãi Biển Sóng Lớn!
 
 [WORLDMAP_EVENT_LOD_BEACH2_TEASER_TITLE]
-Kế Sữa chính thức xuất hiện hoành tráng cùng những làn sóng lớn!
+Tia Kế Sữa chính thức xuất hiện hoành tráng cùng những làn sóng lớn!
 
 [WORLDMAP_EVENT_LOD_BIRTHDAYZ_DEFAULT_DESC]
 Nhận ngay Kim Cương sau mỗi lần giành chiến thắng vào ngày 12 tháng 5.
@@ -34106,6 +34068,7 @@ Zombie Đầu Hổ Phách
 
 [ZOMBIE_DINO_ARMOR4_DESCRIPTION_HEADER]
 Mũ hổ phách có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
+
 [ZOMBIE_DINO_BULLY]
 Zombie Người Rừng Kỷ Jura
 
@@ -34117,11 +34080,13 @@ Một con zombie bước đi loạng choạng, có khả năng kháng Sát thư�
 
 [ZOMBIE_DINO_BULLY_VETERAN]
 Zombie Người Rừng Đánh Quyền
+
 [ZOMBIE_DINO_BULLY_VETERAN_DESCRIPTION]
 {FLAVOR}Ai đó đã buộc những tảng đá vào tay của Zombie Người Rừng Đánh Quyền. Vì không thể tháo đá xuống được (bởi vì đá đã buộc chết trên tay hắn), hắn không còn sự lựa chọn nào khác ngoài việc "quẩy" lên thôi.
 
 [ZOMBIE_DINO_BULLY_VETERAN_DESCRIPTION_HEADER]
 Trên mỗi tay buộc một tảng đá lớn, dùng sức mạnh man rợ đập mạnh vào thực vật để tiêu diệt ngay lập tức. Sau khi đập nát thực vật sẽ khiến ô đất đó bị cháy xém, không thể trồng bất kỳ loại thực vật nào trong một khoảng thời gian nhất định.
+
 [ZOMBIE_DINO_DESCRIPTION]
 Zombie Kỷ Jura không hề nguyên thủy đâu nhé. Nhìn xem, họ còn thắt cà vạt và mặc đủ thứ đồ kìa!
 
@@ -34222,6 +34187,7 @@ Zombie Đội Xô Neon phải lục tung cả bãi rác chỉ để tìm đượ
 
 [ZOMBIE_EIGHTIES_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt giúp hấp thụ Sát thương, không có lý do tại sao cả.
+
 [ZOMBIE_EIGHTIES_ARMOR4]
 Zombie Đầu Đài Phát Thanh
 
@@ -34230,6 +34196,7 @@ Thứ phát ra từ bên trong chiếc mũ lúc nào cũng chỉ là một bài 
 
 [ZOMBIE_EIGHTIES_ARMOR4_DESCRIPTION_HEADER]
 Mũ đài phát thanh có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
+
 [ZOMBIE_EIGHTIES_BOOMBOX]
 Zombie Máy Phát Nhạc
 
@@ -36283,13 +36250,13 @@ Gia tăng tỷ lệ kích hoạt bộc phá kịch độc.
 Giảm một giây
 
 [COBCANNON_SKILL_LEVEL1_DES]
-Rút ngắn thời gian chuẩn bị của pháo ngô.
+Rút ngắn thời gian chuẩn bị của Ngô Thần Công.
 
 [COBCANNON_SKILL_LEVEL2]
 Giảm thêm giây
 
 [COBCANNON_SKILL_LEVEL2_DES]
-Tiếp tục rút ngắn thời gian chuẩn bị của pháo ngô.
+Tiếp tục rút ngắn thời gian chuẩn bị của Ngô Thần Công.
 
 [COBCANNON_SUPERSKILL_NAME]
 Tên lửa tầm nhiệt
@@ -36298,13 +36265,13 @@ Tên lửa tầm nhiệt
 Tiến hóa thêm hai tên lửa ngô tầm nhiệt, định kỳ tự động phóng ra tấn công mục tiêu ngẫu nhiên.
 
 [COBCANNON_REQ_KERNELPULT_HINT]
-Sử dụng Pháo Ngô cần phải trồng Cẩu Bắp trước, bạn có muốn chọn lại đội hình không
+Sử dụng Ngô Thần Công cần phải trồng Cẩu Bắp trước, bạn có muốn chọn lại đội hình không
 
 [PLANTING_COBCANNON_CANNOT_BE_HERE]
-Không thể trồng Pháo Ngô trên xe mỏ
+Không thể trồng Ngô Thần Công trên xe mỏ
 
 [PLANTING_COBCANNON_MUST_BE_ON_TWO_KERNELPULT]
-Vui lòng trồng Pháo Ngô đè lên 2 cây Cẩu Bắp nằm liền kề nhau
+Vui lòng trồng Ngô Thần Công đè lên 2 cây Cẩu Bắp nằm liền kề nhau
 
 [PLANTING_FLATTENEDSHROOM_CANNOT_BE_HERE]
 Không thể trồng Nấm Bản Dẹt trên đất bằng
@@ -36415,18 +36382,18 @@ Bậc Thầy Mía có thể sử dụng cặp côn mía để tấn công nhiề
 Sử dụng cặp côn mía để tấn công nhiều zombie ở phía trước.
 
 [COBCANNON]
-Pháo Ngô
+Ngô Thần Công
 
 [COBCANNON_DESCRIPTION]
-{KEYWORD}Cách sử dụng: {STAT}Ấn giữ Pháo Ngô, kéo đến mục tiêu muốn oanh tạc
+{KEYWORD}Cách sử dụng: {STAT}Ấn giữ Ngô Thần Công, kéo đến mục tiêu muốn oanh tạc
 {KEYWORD}Phạm vi: {STAT}Toàn bộ phạm vi bãi cỏ
 {KEYWORD}Tính năng: {STAT}Lấy mục tiêu oanh tạc làm trung tâm, tạo ra vụ nổ trong phạm vi 9 ô
 {KEYWORD}Đặc điểm của cây: {STAT}Cây màu vàng, Họ vũ khí
 
-{FLAVOR}Vị Pháo Ngô tự xưng là Đại tá Texas này rốt cuộc là người như thế nào? Ờm——anh ấy từng học cao học tại Harvard và làm việc tại một công ty luật nổi tiếng ở New York, vì vậy đừng hỏi tôi tại sao một luật sư cuối cùng lại chạy đến Khu vực 51 làm một việc chẳng liên quan như thế này, dù sao thì đây cũng là thời đại mà ngay cả một người mù cũng có thể làm luật sư mà...
+{FLAVOR}Vị Ngô Thần Công tự xưng là Đại tá Texas này rốt cuộc là người như thế nào? Ờm——anh ấy từng học cao học tại Harvard và làm việc tại một công ty luật nổi tiếng ở New York, vì vậy đừng hỏi tôi tại sao một luật sư cuối cùng lại chạy đến Khu vực 51 làm một việc chẳng liên quan như thế này, dù sao thì đây cũng là thời đại mà ngay cả một người mù cũng có thể làm luật sư mà...
 
 [COBCANNON_DESCRIPTION_HEADER]
-Pháo Ngô can phát tên lửa ngô tới bất kỳ ô nào trên bãi cỏ.
+Ngô Thần Công can phát tên lửa ngô tới bất kỳ ô nào trên bãi cỏ.
 
 [COBCANNON_TOOLTIP]
 Có thể phát tên lửa ngô tới bất kỳ ô nào trên bãi cỏ.
@@ -36549,7 +36516,7 @@ Tiễn Cũ Đón Mới
 Gà Rán Đại Tá
 
 [STORE_PRODUCT_AVATAR_COBCANNON_TITLE]
-Trang phục Pháo Ngô
+Trang phục Ngô Thần Công
 
 [STORE_PRODUCT_AVATAR_COBCANNON]
 Khi tuyệt chiêu kết thúc, lõi ngô sẽ biến thành tên lửa tầm nhiệt tấn công Zombie.
@@ -37541,7 +37508,7 @@ Bù đắp đơn hàng
 Người chơi thân mến, vui lòng nhận lại các đạo cụ mà bạn đã mua thành công vào lúc {TIME} ngày {DAY} tháng {MONTH} năm {YEAR} nhưng chưa được phát
 
 [REDEEM_SPECIAL_TIPS1]
-Do đạo cụ Xe đẩy bạn mua có tính thời hạn, không thể phát bù, nên hiện tại sẽ phát bù 30 Kim cương, bạn vui lòng nhận lấy nhé.
+Do đạo cụ máy cắt cỏ bạn mua có tính thời hạn, không thể phát bù, nên hiện tại sẽ phát bù 30 Kim cương, bạn vui lòng nhận lấy nhé.
 
 [REDEEM_SPECIAL_TIPS2]
 Do đạo cụ Giảm hồi chiêu PVP bạn mua có tính thời hạn, không thể phát bù, nên hiện tại sẽ phát bù {QUANTITY} Kim cương, bạn vui lòng nhận lấy nhé.
@@ -38994,7 +38961,7 @@ Hoa Hướng Dương（Helianthus annuus L.）
     《中国植物志》中的中文名为“大翅蓟”，广泛分布于中国新疆天山、准噶尔盆地及阿拉套地区，欧洲、俄罗斯、伊朗等地也有分布。为苏格兰国花，故常被称为苏格兰蓟。据传为13世纪维京军队夜袭苏格兰时，士兵因踩到蓟的尖刺发出惨叫，暴露行踪，苏格兰人趁机反击获胜。自此，蓟被视为“救国植物”，并被印入国徽、货币及纹章中。苏格兰最高骑士团“蓟花骑士团”的座右铭“无人能挑衅我而不受惩罚”即源于此传说。而在希腊神话中，大地女神因单恋牧羊人克利斯无果而化身蓟，象征“心如针刺”的单恋之苦。在基督教传说中，圣母玛利亚将钉死耶稣的钉子埋入地下后长出了蓟，故其被称为“受祝福的蓟”。
     花语：严格、独立、复仇、天佑
 [HOMINGTHISTLE_PEDIA_EXTRA]
-    特别说明：原名为蓟，因为蓟作为杂草知名度比较小，查阅Kế Sữa的英文名Thistle指的是比较有名的苏格兰蓟，《中国植物志》的中文名为大翅蓟
+    特别说明：原名为蓟，因为蓟作为杂草知名度比较小，查阅Tia Kế Sữa的英文名Thistle指的是比较有名的苏格兰蓟，《中国植物志》的中文名为大翅蓟
 
 [SWEETPOTATO_FAMILY]
 旋花科
@@ -40328,11 +40295,11 @@ Khí độc suy yếu
 Phạm vi bao phủ của luồng khí độc do zombie xả ra được mở rộng, đồng thời khiến zombie dính phải gánh chịu thêm tổn thương tăng tiến.
 
 [OLIVE]
-Ô-liu
+Dầu Ô-liu
 
 [OLIVE_DESCRIPTION]
 {KEYWORD}Đặc điểm của cây: {STAT}Cây màu lục
-{FLAVOR}Ô-liu đã lặn lội một chặng đường vô cùng xa xôi từ vùng Địa Trung Hải để đặt chân đến vương quốc huyền bí hòng học tập các kỹ nghệ nấu nướng tinh thâm. Cậu ấy vừa mới lĩnh hội được kỹ thuật hất chảo điêu luyện: đổ một chút dầu vào lòng chảo, nhấc chảo lên hất nhẹ hai cái, ngọn lửa lập tức bùng cháy rực rỡ ngập chảo, trông vừa ngầu vừa chất chơi vô cùng.
+{FLAVOR}Dầu Ô-liu đã lặn lội một chặng đường vô cùng xa xôi từ vùng Địa Trung Hải để đặt chân đến vương quốc huyền bí hòng học tập các kỹ nghệ nấu nướng tinh thâm. Cậu ấy vừa mới lĩnh hội được kỹ thuật hất chảo điêu luyện: đổ một chút dầu vào lòng chảo, nhấc chảo lên hất nhẹ hai cái, ngọn lửa lập tức bùng cháy rực rỡ ngập chảo, trông vừa ngầu vừa chất chơi vô cùng.
 
 [OLIVE_DESCRIPTION_HEADER]
 Có thể khiến Zombie Múa Ba Lê bị trượt chân té ngã, vũng dầu tạo ra còn có thể bị đốt cháy bởi các đòn tấn công thuộc hệ lửa.
@@ -43888,22 +43855,22 @@ Số 42 Cẩu Ngô
 Vô tích sự
 
 [PARALLEL_KERNELPULT_DESCRIPTION_HEADER]
-Chỉ làm bia đỡ đạn để nâng cấp lên Pháo Ngô.
+Chỉ làm bia đỡ đạn để nâng cấp lên Ngô Thần Công.
 
 [PARALLEL_KERNELPULT_DESCRIPTION]
 Vô tích sự
 
 [PARALLEL_COBCANNON]
-Số 42 Pháo Ngô
+Số 42 Ngô Thần Công
 
 [PARALLEL_COBCANNON_TOOLTIP]
-Pháo Ngô tiêu diệt tức thời Zombie thể hình vừa và nhỏ, gây sát thương bằng 50% giới hạn sinh mệnh lên Zombie thể hình lớn
+Ngô Thần Công tiêu diệt tức thời Zombie thể hình vừa và nhỏ, gây sát thương bằng 50% giới hạn sinh mệnh lên Zombie thể hình lớn
 
 [PARALLEL_COBCANNON_DESCRIPTION_HEADER]
 Đúc lại vinh quang chính là ngày hôm nay
 
 [PARALLEL_COBCANNON_DESCRIPTION]
-Pháo Ngô tiêu diệt tức thời Zombie thể hình vừa và nhỏ, gây sát thương bằng 50% giới hạn sinh mệnh lên Zombie thể hình lớn
+Ngô Thần Công tiêu diệt tức thời Zombie thể hình vừa và nhỏ, gây sát thương bằng 50% giới hạn sinh mệnh lên Zombie thể hình lớn
 
 [PARALLEL_POTATOMINE]
 Số 42 Mìn Khoai Tây
@@ -44184,7 +44151,7 @@ Zombie hư hóa bị nổ tung bởi tuyệt chiêu sẽ khiến thời gian cho
 Zombie hư hóa bị nổ tung bởi tuyệt chiêu sẽ khiến thời gian choáng của các Zombie khác tăng thêm 2 giây.
 
 [poisonvine]
-Dây Leo Thanh Xà
+Dây Leo Lục Xà
 
 [poisonvine_DESCRIPTION_HEADER]
 Phun đạn khí độc tạo ra màn sương độc tấn công Zombie
@@ -44192,7 +44159,7 @@ Phun đạn khí độc tạo ra màn sương độc tấn công Zombie
 [poisonvine_DESCRIPTION]
 {KEYWORD}Tính năng: {STAT}Tạo sương độc tấn công Zombie, đồng thời tăng cường sức mạnh cho cây hệ độc trồng trên bản thân.
 {KEYWORD}Đặc điểm của cây: {STAT}Cây màu Lục
-{FLAVOR}Dây Leo Thanh Xà đôi khi tự nghĩ mình là một chú rắn thực sự, cho đến một ngày cậu ấy thực sự mọc ra một chiếc đuôi biết mở miệng nói chuyện.
+{FLAVOR}Dây Leo Lục Xà đôi khi tự nghĩ mình là một chú rắn thực sự, cho đến một ngày cậu ấy thực sự mọc ra một chiếc đuôi biết mở miệng nói chuyện.
 
 [poisonvine_TOOLTIP]
 Phun đạn khí độc tạo ra màn sương độc tấn công Zombie
@@ -44201,13 +44168,13 @@ Phun đạn khí độc tạo ra màn sương độc tấn công Zombie
 Phun sương độc
 
 [poisonvine_SKILL_LEVEL1_DES]
-Khi cây được trồng trên Dây Leo Thanh Xà thuộc hệ độc, sát thương từ đòn tấn công độc của cây đó tăng 20%, và tăng thêm 1 giây thời gian duy trì sương độc của bản thân.
+Khi cây được trồng trên Dây Leo Lục Xà thuộc hệ độc, sát thương từ đòn tấn công độc của cây đó tăng 20%, và tăng thêm 1 giây thời gian duy trì sương độc của bản thân.
 
 [poisonvine_SKILL_LEVEL2]
 Sương độc bùng phát
 
 [poisonvine_SKILL_LEVEL2_DES]
-Khi cây được trồng trên Dây Leo Thanh Xà thuộc hệ độc, sát thương từ đòn tấn công độc của cây đó tăng lên thành 30%, và tăng thêm 1 giây thời gian duy trì sương độc của bản thân.
+Khi cây được trồng trên Dây Leo Lục Xà thuộc hệ độc, sát thương từ đòn tấn công độc của cây đó tăng lên thành 30%, và tăng thêm 1 giây thời gian duy trì sương độc của bản thân.
 
 [poisonvine_SKILL_LEVEL5]
 Bạn có độc à
@@ -44225,13 +44192,13 @@ Khi tấn công có tỷ lệ phun ra đạn đặc biệt, đạn đặc biệt
 Tuyệt chiêu sau khi bắn trúng Zombie sẽ khiến những Zombie chịu sát thương bị choáng trong 1 giây.
 
 [poisonvine_NEW_SKILL_LEVEL1_DES]
-Phun ra đạn khí độc tạo sương độc tấn công Zombie. Khi cây được trồng trên Dây Leo Thanh Xà thuộc hệ độc, sát thương từ đòn tấn công độc của cây đó tăng 15%, đồng thời sức tấn công của bản thân dây leo tăng 30%, khoảng thời gian giãn cách giữa các đòn đánh giảm 10%. Nếu cây ký chủ có tỷ lệ kích hoạt đòn tấn công độc, tỷ lệ này sẽ được nhân đôi.
+Phun ra đạn khí độc tạo sương độc tấn công Zombie. Khi cây được trồng trên Dây Leo Lục Xà thuộc hệ độc, sát thương từ đòn tấn công độc của cây đó tăng 15%, đồng thời sức tấn công của bản thân dây leo tăng 30%, khoảng thời gian giãn cách giữa các đòn đánh giảm 10%. Nếu cây ký chủ có tỷ lệ kích hoạt đòn tấn công độc, tỷ lệ này sẽ được nhân đôi.
 
 [poisonvine_NEW_SKILL_LEVEL2_DES]
-Khi cây được trồng trên Dây Leo Thanh Xà thuộc hệ độc, sát thương từ đòn tấn công độc của cây đó tăng 20%, và tăng thêm 1 giây thời gian duy trì sương độc của bản thân.
+Khi cây được trồng trên Dây Leo Lục Xà thuộc hệ độc, sát thương từ đòn tấn công độc của cây đó tăng 20%, và tăng thêm 1 giây thời gian duy trì sương độc của bản thân.
 
 [poisonvine_NEW_SKILL_LEVEL3_DES]
-Khi cây được trồng trên Dây Leo Thanh Xà thuộc hệ độc, sát thương từ đòn tấn công độc của cây đó tăng lên thành 30%, và tăng thêm 1 giây thời gian duy trì sương độc của bản thân.
+Khi cây được trồng trên Dây Leo Lục Xà thuộc hệ độc, sát thương từ đòn tấn công độc của cây đó tăng lên thành 30%, và tăng thêm 1 giây thời gian duy trì sương độc của bản thân.
 
 [poisonvine_NEW_SKILL_LEVEL4_DES]
 Khi trồng có tỷ lệ vừa trực tiếp giải phóng tuyệt chiêu Plant Food.
@@ -44240,10 +44207,10 @@ Khi trồng có tỷ lệ vừa trực tiếp giải phóng tuyệt chiêu Plant
 Khi tấn công có 30% tỷ lệ phun ra đạn đặc biệt, đạn đặc biệt khi bắn trúng Zombie sẽ tạo ra vụ nổ khí độc trong phạm vi 3*3, đồng thời khuếch tán hiệu ứng trúng độc trên người Zombie đó sang các kẻ địch lân cận.
 
 [STORE_PRODUCT_AVATAR_poisonvine_TITLE]
-Trang phục Dây Leo Thanh Xà
+Trang phục Dây Leo Lục Xà
 
 [poisonvine_AVATAR_NAME]
-Trang phục Dây Leo Thanh Xà
+Trang phục Dây Leo Lục Xà
 
 [poisonvine_PLANTFOOD_DESCRIPTION]
 Tuyệt chiêu sau khi bắn trúng Zombie sẽ khiến những Zombie chịu sát thương bị choáng trong 1 giây.
@@ -45093,7 +45060,7 @@ Vỏ Bí Ngô khi tử trận sẽ phát nổ, gây ra 1000 Sát thương cho Zo
 Cây dây leo phải được trồng cùng với một cây khác!
 
 [PLANTING_VINE_CAN_NOT_PLANT_ON_COBCANNON]
-không thể trồng cây dây leo trên Pháo Ngô.
+không thể trồng cây dây leo trên Ngô Thần Công.
 
 [OLIVEPIT]
 Hố Ô Liu
@@ -48082,6 +48049,15 @@ Zombie Công Nhân Đội Xô vài ngày trước vừa được thăng chức t
 [ZOMBIE_STEAM_ARMOR2_DESCRIPTION_HEADER]
 Chiếc xô sắt được rèn đúc này bảo vệ hắn rất tốt khỏi các sát thương
 
+[ZOMBIE_STEAM_ARMOR4]
+Zombie Đầu Đồng Hồ
+
+[ZOMBIE_STEAM_ARMOR4_DESCRIPTION]
+Chiếc đồng hồ hơi nước trên đỉnh đầu điểm giờ chuẩn xác ngày hai lần, tiếc là cả hai lần đều cùng một mốc giờ, mà lại còn chẳng bao giờ đúng cả.
+																											
+[ZOMBIE_STEAM_ARMOR4_DESCRIPTION_HEADER]
+Mũ đồng hồ giúp hắn chống chịu những đòn tấn công nặng nề hơn.
+
 [ZOMBIE_STEAM_FLAG]
 Zombie Cầm Cờ Hơi Nước
 
@@ -50591,7 +50567,7 @@ Thử thách cây——Đậu Lửa!
 Thử thách cây——Bom Nho!
 
 [TASK_WEEKLY_PLANTCHALLENGE_HOMINGTHISTLE]
-Thử thách cây——Kế Sữa!
+Thử thách cây——Tia Kế Sữa!
 
 [TASK_WEEKLY_PLANTCHALLENGE_HOTDATE]
 Thử thách cây——Chà Là Nóng!
@@ -51641,19 +51617,19 @@ Cửa hàng chuỗi gen
 Chuỗi gen mới thêm
 
 [WHITE]
-Màu trắng-
+Màu trắng
 
 [GREEN]
-Màu lục-
+Màu lục
 
 [BLUE]
-Màu lam-
+Màu lam
 
 [PURPLE]
-Màu tím-
+Màu tím
 
 [ORANGE]
-Màu cam-
+Màu cam
 
 [GENE_SEQUENCE_LEVEL_LEFT]
 Cấp độ chuỗi gen: {PARAM}
@@ -51819,7 +51795,7 @@ Cà Rốt Hồi Sinh - thời gian hồi cây giảm {Param_1}%
 Tỏi - phục hồi {Param_1}% máu mỗi 5 giây
 
 [GENE_DESCRIPTION_SAUCER]
-Dưa Đĩa Bay - thời gian hồi cây giảm {Param_1}%
+Bí Đĩa Bay - thời gian hồi cây giảm {Param_1}%
 
 [GENE_DESCRIPTION_CHERRY_BOMB]
 Bom Anh Đào - thời gian hồi cây giảm {Param_1}%
@@ -52020,7 +51996,7 @@ Hoa Boomerang - tốc độ tấn công tăng {Param_1}%
 Hồng Môn Ion Hóa - sát thương của quả cầu điện lớn tăng {Param_1}%.
 
 [GENE_DESCRIPTION_HOMINGTHISTLE]
-Kế Sữa - xác suất bắn liên tiếp hai viên đạn tăng {Param_1}% (có hiệu lực từ cấp 2).
+Tia Kế Sữa - xác suất bắn liên tiếp hai viên đạn tăng {Param_1}% (có hiệu lực từ cấp 2).
 
 [GENE_DESCRIPTION_AGAVE]
 Thùa - Khi tấn công có {Param_1}% xác suất vung thêm một đường kiếm khí có sức tấn công tương đương với đòn chém, gây sát thương cho các zombie từ ô thứ 3 đến ô thứ 5 ở phía bên phải.
@@ -52336,7 +52312,7 @@ Xu 22.66%, Kim cương27.20%, hiện vật19.26%, 植物24.25%, 超级hiện v�
 紫色品质植物1:Việt Quất Điện, Bồ Công Anh, Đại Bác Dừa, Hỏa Tiễn Tầm Gửi, Cải Vệ Sĩ
 紫色品质植物2:Kiwi Ngộ không, Tay Trống Rau Má, Vani Bóng Đêm, Khai Khẩu Tiễn Tàng Hình, Nấm Pháp Sư Hỏa
 橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bìm, Lý Chua Điện
-橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Pháo Ngô
+橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Ngô Thần Công
 橙色品质植物3:Măng Cụt Điện, Đậu Hoa Ăn Thịt, Hố Ô Liu, Dâu Tằm Lựu Đạn, Cỏ Răng Cưa
 橙色品质植物4:Súng Máy Hoa Chuối Pháo, Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, Lý Chua Điện
 蓝色品质hiện vật:Phân bón thường, Xô sắt thường, Cột điện thường, Hộp thuốc thường, Bông tuyết thường
@@ -52360,7 +52336,7 @@ Xu 22.66%, Kim cương27.20%, hiện vật19.26%, 植物24.25%, 超级hiện v�
 紫色品质植物1:Việt Quất Điện, Bồ Công Anh, Đại Bác Dừa, Hỏa Tiễn Tầm Gửi, Cải Vệ Sĩ
 紫色品质植物2:Kiwi Ngộ không, Tay Trống Rau Má, Vani Bóng Đêm, Khai Khẩu Tiễn Tàng Hình, Nấm Pháp Sư Hỏa
 橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bìm, Lý Chua Điện
-橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Pháo Ngô
+橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Ngô Thần Công
 橙色品质植物3:Măng Cụt Điện, Đậu Hoa Ăn Thịt, Hố Ô Liu, Dâu Tằm Lựu Đạn, Cỏ Răng Cưa
 橙色品质植物4:Súng Máy Hoa Chuối Pháo, Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, Lý Chua Điện
 蓝色品质hiện vật:Phân bón thường, Xô sắt thường, Cột điện thường, Hộp thuốc thường, Bông tuyết thường
@@ -52384,7 +52360,7 @@ Xu 22.66%, Kim cương27.20%, hiện vật19.26%, 植物24.25%, 超级hiện v�
 紫色品质植物1:Việt Quất Điện, Bồ Công Anh, Đại Bác Dừa, Hỏa Tiễn Tầm Gửi, Cải Vệ Sĩ
 紫色品质植物2:Kiwi Ngộ không, Tay Trống Rau Má, Vani Bóng Đêm, Khai Khẩu Tiễn Tàng Hình, Nấm Pháp Sư Hỏa
 橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bìm, Lý Chua Điện
-橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Pháo Ngô
+橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Ngô Thần Công
 橙色品质植物3:Măng Cụt Điện, Đậu Hoa Ăn Thịt, Hố Ô Liu, Dâu Tằm Lựu Đạn, Cỏ Răng Cưa
 蓝色品质hiện vật:Phân bón thường, Xô sắt thường, Cột điện thường, Hộp thuốc thường, Bông tuyết thường
 紫色品质hiện vật:Phân bón tiên tiến, Thùng sắt cao cấp, Cột điện chắc chắn, Hộp thuốc tiên tiến, Bông tuyết tinh tế
@@ -52408,7 +52384,7 @@ Xu 22.66%, Kim cương27.20%, hiện vật19.26%, 植物24.25%, 超级hiện v�
 紫色品质植物1:Việt Quất Điện, Bồ Công Anh, Đại Bác Dừa, Hỏa Tiễn Tầm Gửi, Cải Vệ Sĩ
 紫色品质植物2:Kiwi Ngộ không, Tay Trống Rau Má, Vani Bóng Đêm, Khai Khẩu Tiễn Tàng Hình, Nấm Pháp Sư Hỏa
 橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bìm, Lý Chua Điện
-橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Pháo Ngô
+橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Ngô Thần Công
 橙色品质植物3:Măng Cụt Điện, Đậu Hoa Ăn Thịt, Hố Ô Liu, Dâu Tằm Lựu Đạn, Cỏ Răng Cưa
 橙色品质植物4:Hải Quỳ Vực Sâu, Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, Lý Chua Điện
 蓝色品质hiện vật:Phân bón thường, Xô sắt thường, Cột điện thường, Hộp thuốc thường, Bông tuyết thường
@@ -52432,7 +52408,7 @@ Xu 22.66%, Kim cương27.20%, hiện vật19.26%, 植物24.25%, 超级hiện v�
 紫色品质植物1:Việt Quất Điện, Bồ Công Anh, Đại Bác Dừa, Hỏa Tiễn Tầm Gửi, Cải Vệ Sĩ
 紫色品质植物2:Kiwi Ngộ không, Tay Trống Rau Má, Vani Bóng Đêm, Khai Khẩu Tiễn Tàng Hình, Nấm Pháp Sư Hỏa
 橙色品质植物1:Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, DJ Bìm Bìm, Lý Chua Điện
-橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Pháo Ngô
+橙色品质植物2:机枪Cây Bắn Đậu, Ninja Cà Tím, Cỏ Đuôi Mèo, Hoa Mõm Rồng Lạnh, Ngô Thần Công
 橙色品质植物3:Măng Cụt Điện, Đậu Hoa Ăn Thịt, Hố Ô Liu, Dâu Tằm Lựu Đạn, Cỏ Răng Cưa
 橙色品质植物4:Nấm Dạ Tối, Nấm Pháp Sư Băng, Chanh Chua Mạnh, Mù Tạt Roi Lửa, Lý Chua Điện
 蓝色品质hiện vật:Phân bón thường, Xô sắt thường, Cột điện thường, Hộp thuốc thường, Bông tuyết thường
@@ -52812,7 +52788,7 @@ Giới thiệu gói tăng trưởng
 [GROWTH_PACKAGE_DESCRIPTION]
 Nội dung hoạt động: 
 
-1. Cứ mỗi 3 lần tưới nước sẽ kết trái, nhận được số lượng lớn Mảnh cây, Kim cương, Xu và các phần thưởng khác. Danh sách cây có thể nhận: ^FF8000^Nấm DJ, Bìm Bịp Bowling^oldclr^ ^8600FF^Lan Thủy Tinh, Bồ Công Anh^oldclr^ ^2828FF^Dây Leo Thiên Kim, Lạc Tiên Cơ Khí, Cần Tây Phục Kích^oldclr^ ^82D900^Dưa Đĩa Bay, Lựu Súng Máy, Khoai Lang Ngọt^oldclr^
+1. Cứ mỗi 3 lần tưới nước sẽ kết trái, nhận được số lượng lớn Mảnh cây, Kim cương, Xu và các phần thưởng khác. Danh sách cây có thể nhận: ^FF8000^Nấm DJ, Bìm Bịp Bowling^oldclr^ ^8600FF^Lan Thủy Tinh, Bồ Công Anh^oldclr^ ^2828FF^Dây Leo Thiên Kim, Lạc Tiên Cơ Khí, Cần Tây Phục Kích^oldclr^ ^82D900^Bí Đĩa Bay, Lựu Súng Máy, Khoai Lang Ngọt^oldclr^
 
 2. Có thể nhận bình tưới thông qua nhiệm vụ tăng trưởng hoặc nhận qua các gói quà Kim cương.
 
@@ -53049,6 +53025,7 @@ Bạn cần phải lựa chọn hết toàn bộ các bong bóng phần thưởn
 [PLEASE_RESELECT_WARNING]
 Thay đổi phần thưởng ước nguyện sẽ đặt lại số lượng bong bóng phần thưởng còn lại trong Hồ Ước Nguyện về số lượng bong bóng ban đầu.
 Bạn có chắc chắn muốn thay đổi không?
+
 [WISHING_POOL_DESCRIPTION_1_VERSION1]
 Quy tắc hoạt động:
 1. Mua gói quà để nhận Xu Ước Nguyện. Ném xu vào hồ để nhận thưởng. Xu chỉ có hiệu lực trong sự kiện lần này, không thể tích lũy sang kỳ sau.
@@ -53080,11 +53057,11 @@ Mảnh Hoa Xác Thối*10 6.00%   Mảnh Hoa Ăn Thịt*10       4.50%
 Mảnh Biệt Đội Đậu Tằm*10 3.81% Mảnh Nắp Ấm Gorgon*1      2.55%
 Bong bóng phần thưởng 10.00%
 9. Phần thưởng tích lũy theo số lần quay:
-Tích lũy 10 lần:  Mảnh Nắp Ấm Gorgon*10
-Tích lũy 30 lần:  Mảnh Nắp Ấm Gorgon*10
-Tích lũy 60 lần:  Mảnh Nắp Ấm Gorgon*20
-Tích lũy 100 lần: Mảnh Nắp Ấm Gorgon*40
-Tích lũy 150 lần: Mảnh Nắp Ấm Gorgon*60
+Tích lũy 10 lần:  Mảnh *10
+Tích lũy 30 lần:  Mảnh *10
+Tích lũy 60 lần:  Mảnh *20
+Tích lũy 100 lần: Mảnh *40
+Tích lũy 150 lần: Mảnh *60
 
 [WISHING_POOL_DESCRIPTION_1_VERSION2]
 Quy tắc hoạt động:
@@ -55050,6 +55027,7 @@ Chiếc mũ thùng dây sắt này tuy nhìn bề ngoài cứ như làm bằng g
 
 [ZOMBIE_HEIAN_ARMOR2_DESCRIPTION_HEADER]
 Chiếc mũ thùng dây sắt này có thể cung cấp hiệu quả bảo vệ rất tốt, ít nhất thì các Zombie Samurai đều nghĩ như vậy.
+
 [ZOMBIE_HEIAN_ARMOR4]
 Zombie Đầu Đèn Đá
 
@@ -55058,6 +55036,7 @@ Zombie Đầu Đèn Đá
 
 [ZOMBIE_HEIAN_ARMOR4_DESCRIPTION_HEADER]
 Mũ đèn đá có thể giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
+
 [ZOMBIE_HEIAN_FLAG]
 Zombie Samurai Cầm Cờ
 
@@ -55506,7 +55485,7 @@ Cỏ Đuôi Rắn Nữ Oa - Vòng hoa
 Tốc độ tấn công của thực thể con tăng 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOMINGTHISTLE_2]
-Kế Sữa - Bánh kem
+Tia Kế Sữa - Bánh kem
 
 [NEW_AVATAR_DESCRIPTION_HOMINGTHISTLE_2]
 Sức tấn công tăng 10%
@@ -56171,7 +56150,7 @@ Tường Óc Chó - Giáng sinh
 Giảm 10% thời gian hồi trồng cây
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COBCANNON_1]
-Pháo Ngô - Mũ Giáng sinh
+Ngô Thần Công - Mũ Giáng sinh
 
 [NEW_AVATAR_DESCRIPTION_COBCANNON_1]
 Giảm tiêu hao Mặt Trời xuống 50 điểm
@@ -56249,7 +56228,7 @@ Cẩu Côm Gạo - Quốc tế Thiếu nhi
 Lông vũ tấn công thường có thêm 1 lần nảy bật
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOMINGTHISTLE_1]
-Kế Sữa - Quốc tế Thiếu nhi
+Tia Kế Sữa - Quốc tế Thiếu nhi
 
 [NEW_AVATAR_DESCRIPTION_HOMINGTHISTLE_1]
 Giảm 50 tiêu hao Mặt Trời
@@ -56597,7 +56576,7 @@ Súng Cối Táo - Siêu cấp
 Tốc độ tấn công tăng 30%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COBCANNON_2]
-Pháo Ngô - Hoài cổ
+Ngô Thần Công - Hoài cổ
 
 [NEW_AVATAR_DESCRIPTION_COBCANNON_2]
 Giảm 10% thời gian nghỉ ngơi
@@ -57843,10 +57822,10 @@ Sức chứa Mặt Trời
 Số lượng Mặt Trời tối đa có thể tích trữ trong trận đấu
 
 [MUTATOR_MOWERS]
-Xe đẩy
+Máy cắt cỏ
 
 [MUTATOR_MOWERS_DESC]
-Số lần hồi sinh của Xe đẩy
+Số lần hồi sinh của máy cắt cỏ
 
 [MUTATOR_POWERUPS]
 Tăng cường sức mạnh
@@ -58895,7 +58874,7 @@ Phần thưởng đại bảo
 Hoàn thành mục tiêu nạp tiền và tích lũy đăng nhập 3 ngày để Có thể nhận các Phần thưởng siêu hậu hĩnh, có cơ hội nhận Sách tiến giai, cây & Trang phục hiếm, hiện vật thực dụng, ảnh đại diện giới hạn và các phần thưởng khác.
 Lưu ý: Sau khi tính năng 「Gói quà nạp lần đầu」 được đặt lại vào lúc 11 giờ ngày 31 tháng 1 năm 2024, số tiền nạp mới bắt đầu được tích lũy và tính vào gói quà nạp hiện tại.
 Gói quà nạp tiền bao gồm ba mốc Phần thưởng, lần lượt là Gói quà nạp đạt 2 tệ, Gói quà nạp tích lũy đạt 60 tệ và Gói quà nạp tích lũy đạt 198 tệ. Dưới đây là nội dung Phần thưởng chi tiết trong các gói quà nạp:
-Gói quà nạp đạt 2 tệ bao gồm: Chọn 1 trong 3 Cây màu cam (Nấm Pháp Sư Băng, Cỏ Đuôi Mèo, Pháo Ngô), Khung ảnh đại diện nạp lần đầu; 10 Dung dịch cam; Chọn 1 trong 3 Trang phục Cây màu cam (Trang phục đi kèm của Nấm Pháp Sư Băng, Cỏ Đuôi Mèo, Pháo Ngô).
+Gói quà nạp đạt 2 tệ bao gồm: Chọn 1 trong 3 Cây màu cam (Nấm Pháp Sư Băng, Cỏ Đuôi Mèo, Ngô Thần Công), Khung ảnh đại diện nạp lần đầu; 10 Dung dịch cam; Chọn 1 trong 3 Trang phục Cây màu cam (Trang phục đi kèm của Nấm Pháp Sư Băng, Cỏ Đuôi Mèo, Ngô Thần Công).
 Gói quà nạp tích lũy đạt 60 tệ bao gồm: Chọn 1 trong 3 cây tấn công hệ Rồng (Hoa Mõm Rồng Lạnh, Hoa Mõm Rồng Điện, Hoa Mõm Rồng); 10 Nguyên chất gen; 10 Mảnh định hướng.
 Gói quà nạp tích lũy đạt 198 tệ bao gồm: hiện vật Súng cao su kim loại; 300 Kim cương; Sách nâng cao cây.
 
@@ -63364,6 +63343,7 @@ Lãng Du Mùa Hè
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25902]
 Dành tặng những người bạn đồng hành trong chuyến du ngoạn ký ức.
+
 [SUMMER_MEMORIES_HEAD_ID_25915]
 Sóng Nước Bồng Bềnh
 
@@ -63690,6 +63670,7 @@ Thế Giới Tô Màu
 
 [LEVEL_EDITOR_HEAD_DES_ID_25903]
 Nét bút rơi, màu sắc tan; ngòi dừng lại, thế giới hình thành
+
 [LEVEL_EDITOR_HEAD_ID_25917]
 Nghệ thuật bùng nổ
 
@@ -63701,6 +63682,7 @@ Lạnh như băng giá
 
 [LEVEL_EDITOR_HEAD_DES_ID_25918]
 Đứa nào vặn điều hòa của tôi xuống 25 độ đấy?
+
 [QUESTIONNAIRE_HEAD_ID_25840]
 Tầm tích con đường tơ lụa
 
@@ -63754,6 +63736,7 @@ Nghi lễ tỏa sáng
 
 [LEVEL_EDITOR_HEAD_DES_ID_25897]
 Ảnh đại diện giới hạn của sự kiện Tùy chỉnh Sắc màu
+
 [LEVEL_EDITOR_HEAD_ID_25919]
 Khách du hành liên hành tinh
 
@@ -63883,7 +63866,6 @@ Một tiếng sấm vang lên, Zombie tay guitar bass xuất hiện đầy hoàn
 
 [PVZ1MODE_MOULD]
 Vùng đất nấm mốc
-
 [PVZ1MODE_MOULD_NORMAL_DESC]
 Không thể trồng cây trên vùng đất nấm mốc
 
@@ -63907,31 +63889,26 @@ Zombie đại chiến cây
 
 [PVZ1MODE_ZOMBOTANY]
 Cây Zombie
-
 [PVZ1MODE_ZOMBOTANY_NORMAL_DESC]
 Cẩn thận với những zombie đầu cây đến từ thời không bí ẩn
 
 [PVZ1MODE_SEED_RAIN]
 Mưa hạt giống
-
 [PVZ1MODE_SEED_RAIN_NORMAL_DESC]
 Thẻ cây trồng sẽ rơi xuống từ bầu trời sau mỗi khoảng thời gian
 
 [PVZ1MODE_INDESTRUCTIBLE]
 Cầm Cự
-
 [PVZ1MODE_INDESTRUCTIBLE_NORMAL_DESC]
 Xây dựng tuyến phòng thủ của bạn để chống lại sự tấn công của zombie
 
 [PVZ1MODE_SKI]
 Khu trượt tuyết
-
 [PVZ1MODE_SKI_NORMAL_DESC]
 Cẩn thận với hải mã và zombie trượt tuyết trên đường băng
 
 [PVZ1MODE_RUN]
 Zombie chạy nhanh
-
 [PVZ1MODE_RUN_NORMAL_DESC]
 Bứt tốc! Bứt tốc! Tốc độ của zombie trở nên nhanh hơn
 
@@ -79827,13 +79804,13 @@ Khi trồng có xác suất trung bình kích hoạt trực tiếp tuyệt kỹ 
 Đẩy lùi zombie ở 1 ô phía trước, đồng thời giải phóng hai chú Bơ Cá Sấu nhỏ mang tính chất thuộc tính xung phong lao lên hệt như bản thân, ^ff0000^chú Bơ Cá Sấu nhỏ sau khi lao chạm tới cột thứ chín sẽ tự động đảo ngược xoay chuyển phương hướng để di chuyển sang trái lao vút thẳng ra ngoài sân đấu từ rìa bên trái.^oldclr^
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL1_DES]
-Khi có zombie xuất hiện lọt vào sân đấu, Kế Sữa sẽ phóng gai nhọn đinh châm ra để phát động đòn tấn công mục tiêu. Kế Sữa luôn luôn ưu tiên khóa chặt mục tiêu tấn công vào con zombie nằm ngoài cùng bên trái trên sân đấu.
+Khi có zombie xuất hiện lọt vào sân đấu, Tia Kế Sữa sẽ phóng gai nhọn đinh châm ra để phát động đòn tấn công mục tiêu. Tia Kế Sữa luôn luôn ưu tiên khóa chặt mục tiêu tấn công vào con zombie nằm ngoài cùng bên trái trên sân đấu.
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL2_DES]
-Kế Sữa có 25% xác suất liên tục phóng liền hai cây gai nhọn liên tiếp.
+Tia Kế Sữa có 25% xác suất liên tục phóng liền hai cây gai nhọn liên tiếp.
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL3_DES]
-Kế Sữa có 50% xác suất liên tục phóng liền hai cây gai nhọn liên tiếp.
+Tia Kế Sữa có 50% xác suất liên tục phóng liền hai cây gai nhọn liên tiếp.
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL4_DES]
 Khi trồng có xác suất cao kích hoạt trực tiếp tuyệt kỹ Plant Food!
@@ -79842,10 +79819,10 @@ Khi trồng có xác suất cao kích hoạt trực tiếp tuyệt kỹ Plant Fo
 Gai nhọn phóng ra từ đòn tấn công thông thường và tuyệt kỹ có 40% xác suất chuyển đổi thành gai xuyên thấu, gai xuyên thấu sẽ tự động truy đuổi và xuyên thấu qua zombie, biến mất hoàn toàn sau khi xuyên thấu qua đủ 5 lần.
 
 [HOMINGTHISTLE_PLANTFOOD_DESCRIPTION]
-Phóng loạt ít nhất 10 cây gai nhọn sở hữu sức sát thương bằng 4 lần lực tấn công của chính mình, nếu số lượng zombie trên sân lớn hơn 10 con, lượng gai nhọn do Kế Sữa phóng ra sẽ định lượng khớp bằng với số lượng zombie hiện có trên sân.
+Phóng loạt ít nhất 10 cây gai nhọn sở hữu sức sát thương bằng 4 lần lực tấn công của chính mình, nếu số lượng zombie trên sân lớn hơn 10 con, lượng gai nhọn do Tia Kế Sữa phóng ra sẽ định lượng khớp bằng với số lượng zombie hiện có trên sân.
 
 [HOMINGTHISTLE_AVATAR_PLANTFOOD_DESCRIPTION]
-Phóng loạt ít nhất 10 cây gai nhọn sở hữu sức sát thương bằng 4 lần lực tấn công của chính mình, ^ff0000^gai nhọn có xác suất đính kèm thêm thuộc tính hệ hỏa hoặc hệ băng rực rỡ,^oldclr^ nếu số lượng zombie trên sân lớn hơn 10 con, lượng gai nhọn do Kế Sữa phóng ra sẽ định lượng khớp bằng với số lượng zombie hiện có trên sân.
+Phóng loạt ít nhất 10 cây gai nhọn sở hữu sức sát thương bằng 4 lần lực tấn công của chính mình, ^ff0000^gai nhọn có xác suất đính kèm thêm thuộc tính hệ hỏa hoặc hệ băng rực rỡ,^oldclr^ nếu số lượng zombie trên sân lớn hơn 10 con, lượng gai nhọn do Tia Kế Sữa phóng ra sẽ định lượng khớp bằng với số lượng zombie hiện có trên sân.
 
 [CHOMPER_NEW_SKILL_LEVEL1_DES]
 Khi có zombie kích thước nhỏ sở hữu cấp bậc không cao hơn Hoa Ăn Thịt xuất hiện ở 1 ô phía trước Hoa Ăn Thịt, Hoa Ăn Thịt sẽ há rộng cái miệng lớn đỏ ngòm tớp nuốt chửng nó trong một ngụm, và tiến vào thời gian tiêu hóa nuốt kéo dài 30 giây; khi gặp phải đơn vị mục tiêu địch không thể nuốt chửng, Hoa Ăn Thịt chuyển sang phát động đòn cắn xé gây sát thương gặm nhấm.
@@ -80229,22 +80206,22 @@ Chiến Binh Măng Tây đội mũ bảo hiểm khai hỏa toàn lực, lần l�
 Chiến Binh Măng Tây đội mũ bảo hiểm khai hỏa toàn lực, lần lượt nổ súng vào zombie ở ba hàng để gây sát thương ^ff0000^và đẩy lùi chúng đi 1 ô.^oldclr^
 
 [SAUCER_NEW_SKILL_LEVEL1_DES]
-Khi có zombie bước đến ngay dưới chân Dưa Đĩa Bay, Dưa Đĩa Bay sẽ bay lên cao, giải phóng tia sáng khiến con zombie đó bị ^848484^choáng I^oldclr^ trong 10 giây. Toàn bộ zombie đi qua sau đó trong thời gian Dưa Đĩa Bay giải phóng tia sáng đều sẽ bị ^848484^choáng I^oldclr^ ngay tại chính ô đất đó.
+Khi có zombie bước đến ngay dưới chân Bí Đĩa Bay, Bí Đĩa Bay sẽ bay lên cao, giải phóng tia sáng khiến con zombie đó bị ^848484^choáng I^oldclr^ trong 10 giây. Toàn bộ zombie đi qua sau đó trong thời gian Bí Đĩa Bay giải phóng tia sáng đều sẽ bị ^848484^choáng I^oldclr^ ngay tại chính ô đất đó.
 
 [SAUCER_NEW_SKILL_LEVEL2_DES]
-Dưa Đĩa Bay có thể bắt giữ zombie có lượng máu thấp hơn 500 điểm.
+Bí Đĩa Bay có thể bắt giữ zombie có lượng máu thấp hơn 500 điểm.
 
 [SAUCER_NEW_SKILL_LEVEL3_DES]
-Dưa Đĩa Bay có thể bắt giữ zombie có lượng máu thấp hơn 800 điểm.
+Bí Đĩa Bay có thể bắt giữ zombie có lượng máu thấp hơn 800 điểm.
 
 [SAUCER_NEW_SKILL_LEVEL4_DES]
-Khi trồng có xác suất thấp kích hoạt trực tiếp tuyệt kỹ Plant Food! Dưa Đĩa Bay có thể bắt giữ zombie có lượng máu thấp hơn 1000 điểm.
+Khi trồng có xác suất thấp kích hoạt trực tiếp tuyệt kỹ Plant Food! Bí Đĩa Bay có thể bắt giữ zombie có lượng máu thấp hơn 1000 điểm.
 
 [SAUCER_PLANTFOOD_DESCRIPTION]
-Dưa Đĩa Bay giải phóng tia sáng khống chế toàn sân, làm zombie trên toàn bộ màn hình bị ^848484^choáng I^oldclr^ suốt 10 giây.
+Bí Đĩa Bay giải phóng tia sáng khống chế toàn sân, làm zombie trên toàn bộ màn hình bị ^848484^choáng I^oldclr^ suốt 10 giây.
 
 [SAUCER_AVATAR_PLANTFOOD_DESCRIPTION]
-Dưa Đĩa Bay giải phóng tia sáng khống chế toàn sân, làm zombie trên toàn bộ màn hình bị ^848484^choáng I^oldclr^ ^ff0000^suốt 20 giây.^oldclr^
+Bí Đĩa Bay giải phóng tia sáng khống chế toàn sân, làm zombie trên toàn bộ màn hình bị ^848484^choáng I^oldclr^ ^ff0000^suốt 20 giây.^oldclr^
 
 [HORSEBEAN_NEW_SKILL_LEVEL1_DES]
 Khi có zombie xuất hiện ở ba hàng bên phải Biệt Đội Đậu Tằm, Biệt Đội Đậu Tằm sẽ tiến vào trạng thái tác chiến giải phóng thả 3 thành viên đậu tằm bay ra ngoài, mỗi thành viên đậu tằm bắn một viên đậu tằm và gây sát thương lan phạm vi nhỏ. Kế đó thành viên đậu tằm bay trở về, quá trình này cần tốn 9 giây thời gian, sau khi trở về khoang chứa Biệt Đội Đậu Tằm tiến vào thời gian nghỉ ngơi kéo dài 15 giây.
@@ -81138,25 +81115,25 @@ Quăng ra rất nhiều côn nhị khúc xoay vòng gây sát thương cho phạ
 Quăng ra rất nhiều côn nhị khúc xoay vòng gây ^ff0000^sát thương lớn hơn^oldclr^ cho phạm vi 3x3 phía trước.
 
 [COBCANNON_NEW_SKILL_LEVEL1_DES]
-Bắt buộc phải trồng trên hai cây Cẩu Bắp xếp hàng ngang nằm liền kề nhau. Nhấp vào Pháo Ngô sau đó nhận tâm ngắm, tiếp tục nhấp vào bất kỳ một ô đất nào trên sân, Pháo Ngô sẽ bắn pháo đạn ngô, gây sát thương cho zombie trong phạm vi 3x3, sau đó tiến vào thời gian nghỉ ngơi kéo dài 50 giây.
+Bắt buộc phải trồng trên hai cây Cẩu Bắp xếp hàng ngang nằm liền kề nhau. Nhấp vào Ngô Thần Công sau đó nhận tâm ngắm, tiếp tục nhấp vào bất kỳ một ô đất nào trên sân, Ngô Thần Công sẽ bắn pháo đạn ngô, gây sát thương cho zombie trong phạm vi 3x3, sau đó tiến vào thời gian nghỉ ngơi kéo dài 50 giây.
 
 [COBCANNON_NEW_SKILL_LEVEL2_DES]
-Thời gian nghỉ ngơi của Pháo Ngô giảm xuống còn 42 giây.
+Thời gian nghỉ ngơi của Ngô Thần Công giảm xuống còn 42 giây.
 
 [COBCANNON_NEW_SKILL_LEVEL3_DES]
-Thời gian nghỉ ngơi của Pháo Ngô giảm xuống còn 35 giây.
+Thời gian nghỉ ngơi của Ngô Thần Công giảm xuống còn 35 giây.
 
 [COBCANNON_NEW_SKILL_LEVEL4_DES]
 Khi trồng có xác suất cao kích hoạt trực tiếp tuyệt kỹ Plant Food!
 
 [COBCANNON_NEW_SKILL_LEVEL5_DES]
-Pháo Ngô được lắp đặt thêm hệ thống tên lửa tự động, cứ sau mỗi 4 giây bắn ra hai quả tên lửa truy đuổi có 210 sát thương.
+Ngô Thần Công được lắp đặt thêm hệ thống tên lửa tự động, cứ sau mỗi 4 giây bắn ra hai quả tên lửa truy đuổi có 210 sát thương.
 
 [COBCANNON_PLANTFOOD_DESCRIPTION]
-Bắn ra một quả pháo ngô bay lơ lửng, sau đó Pháo Ngô tiến vào trạng thái nghỉ ngơi, bắp ngô sẽ tự động bắn ra các hạt ngô tấn công zombie trên sân.
+Bắn ra một quả Ngô Thần Công bay lơ lửng, sau đó Ngô Thần Công tiến vào trạng thái nghỉ ngơi, bắp ngô sẽ tự động bắn ra các hạt ngô tấn công zombie trên sân.
 
 [COBCANNON_AVATAR_PLANTFOOD_DESCRIPTION]
-Bắn ra một quả pháo ngô bay lơ lửng, sau đó Pháo Ngô tiến vào trạng thái nghỉ ngơi, bắp ngô sẽ tự động bắn ra các hạt ngô tấn công zombie trên sân, ^ff0000^lõi bắp ngô biến thành một quả tên lửa hành trình.^oldclr^
+Bắn ra một quả Ngô Thần Công bay lơ lửng, sau đó Ngô Thần Công tiến vào trạng thái nghỉ ngơi, bắp ngô sẽ tự động bắn ra các hạt ngô tấn công zombie trên sân, ^ff0000^lõi bắp ngô biến thành một quả tên lửa hành trình.^oldclr^
 
 [APPLEMORTAR_NEW_SKILL_LEVEL1_DES]
 Khi zombie xuất hiện ở ba hàng bên phải Súng Cối Táo, cây bắn pháo đạn táo vào một con zombie nằm ngoài cùng bên trái của mỗi hàng, sau khi trúng đích gây hiệu ứng ^848484^choáng I^oldclr^ trong 0.5 giây.
@@ -87298,6 +87275,7 @@ Trói quỷ thành bóng, săn lùng kẻ ác!
 
 [AVATARCOLLECTIONS_THEME_DES23]
 Lửa thiêu linh hồn, tất phải tắt bằng linh hồn
+
 [AVATARCOLLECTIONS_THEME_TITLE24]
 Điểm tận cùng vạn giới
 
@@ -87968,11 +87946,13 @@ Chiếc xô sắt úp trên đầu mang lại sự bảo hộ cực kỳ lớn g
 
 [ZOMBIE_ATLANTIS_ARMOR4]
 Zombie Đầu San Hô Đại Dương
+
 [ZOMBIE_ATLANTIS_ARMOR4_DESCRIPTION]
 Zombie Đầu San Hô luôn cảm thấy đầu lúc nặng lúc nhẹ, suy nghĩ mãi không thông và cứ tưởng đó chỉ là ảo giác của mình. Thật ra sự thật rất đơn giản — khi dòng hải dương chảy qua rặng san hô trên đầu hắn, nó tiện tay mang cả đàn cá bơi ra bơi vào.
 
 [ZOMBIE_ATLANTIS_ARMOR4_DESCRIPTION_HEADER]
 Mũ san hô giúp hắn chịu đựng những đòn tấn công nặng nề hơn.		
+
 [ZOMBIE_ATLANTIS_gargantuar]
 Zombie Khổng Lồ Di Tích
 
@@ -88047,6 +88027,7 @@ Zombie Đầu San Hô vẫn luôn cho rằng chiếc mũ bảo hiểm của mìn
 
 [ZOMBIE_ATLANTIS_LAND_ARMOR4_DESCRIPTION_HEADER]
 Mũ san hô giúp hắn chịu đựng những đòn tấn công nặng nề hơn.
+
 [ZOMBIE_ATLANTIS_LAND_FLAG]
 Zombie Cầm Cờ Di Tích
 
@@ -88309,6 +88290,7 @@ Chứng nhận cho việc vượt qua hoàn mỹ Bí cảnh Kỷ niệm ngày th
 
 [UNCHARTED_BIRTHDAY_HEAD_DES_ID_25914]
 Minh chứng cho việc vượt qua hoàn hảo bí cảnh kỷ niệm
+
 [PLAYERS_TRIP_TO_ZOMBIERUSH]
 Chuyến đi của {PLAYER} đến Tiêu Diệt Zombie!
 
@@ -88341,6 +88323,7 @@ Công Ty Z luôn tuân thủ nghiêm ngặt các quy định về xử lý chấ
 
 [ZOMBIE_ZCORP_ARMOR2_DESCRIPTION_HEADER]
 Người nhân viên này sử dụng một chiếc thùng tái chế thân thiện với môi trường để bảo vệ cái đầu của mình.
+
 [ZOMBIE_ZCORP_ARMOR4]
 Zombie Đầu Vi Tính Công Ty Z
 
@@ -88385,12 +88368,16 @@ Công Ty Z luôn khuyến khích các nhân viên hợp đồng mở rộng tư 
 
 [ZOMBIE_ZCORP_FEM_ARMOR2_DESCRIPTION_HEADER]
 Chiếc thùng tái chế không chỉ có thể bảo vệ đầu não, mà còn có thể bảo vệ môi trường của Trái Đất tốt hơn.
+
+[ZOMBIE_ZCORP_FEM_ARMOR4]
 Zombie Đầu Vi Tính Nhân Viên Hợp Đồng Công Ty Z
+
 [ZOMBIE_ZCORP_FEM_ARMOR4_DESCRIPTION]
 Công Ty Z luôn tự hào vỗ ngực xưng tên là doanh nghiệp xanh thân thiện với môi trường, cho đến khi có người phát hiện ra bí quyết tiết kiệm điện của họ — bắt toàn bộ nhân viên hợp đồng dùng chiếc máy tính trên đầu để làm việc, hóa đơn tiền điện trực tiếp giảm một nửa.
 
 [ZOMBIE_ZCORP_FEM_ARMOR4_DESCRIPTION_HEADER]
 Mũ máy tính giúp ả chịu đựng những đòn tấn công nặng nề hơn.
+
 [ZOMBIE_ZCORP_GARGANTUAR]
 Zombie Thượng Cấp Khổng Lồ Tổng Bộ Công Ty Z
 
@@ -89752,7 +89739,7 @@ Biến động điểm
 Điểm hiện tại
 
 [DAVECUP_NEXT_ROUND_START_COUNTDOWN]
-{TIME}s
+{TIME}S
 
 [DAVECUP_SETTLEMENT_TILE]
 Kết quả chung cuộc
@@ -90118,7 +90105,7 @@ Giáp sắt của Tường Óc Chó
 Sốt tacos của Dave
 
 [SOUDACHE_COLLECTION_DESCRIPTION_DAVE_SALSA]
-Lọ sốt dự phòng mà Dave Khùng nhét vào xe đẩy trước chuyến viễn chinh, nghe nói có thể làm cho bất kỳ chiếc bánh tacos nào cũng trông giống bánh tacos hơn.
+Lọ sốt dự phòng mà Dave Khùng nhét vào máy cắt cỏ trước chuyến viễn chinh, nghe nói có thể làm cho bất kỳ chiếc bánh tacos nào cũng trông giống bánh tacos hơn.
 
 [SOUDACHE_COLLECTION_ZEN_WATERING_CAN]
 Bình tưới cây Vườn Thiền
@@ -90235,10 +90222,10 @@ Trứng rồng
 Quả trứng rồng cổ đại tình cờ phát hiện được trong dòng loạn lưu thời gian, sờ vào thấy hơi ấm, không ai biết nó còn có thể nở được nữa hay không.
 
 [SOUDACHE_COLLECTION_GOLD_CART]
-Mô hình xe đẩy nhỏ bằng vàng
+Mô hình máy cắt cỏ nhỏ bằng vàng
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GOLD_CART]
-Mô hình kỷ niệm bằng vàng được chế tác dựa theo nguyên mẫu chiếc xe đẩy viễn chinh, tượng trưng cho một chuyến viễn chinh thành công và đủ sâu sắc.
+Mô hình kỷ niệm bằng vàng được chế tác dựa theo nguyên mẫu chiếc máy cắt cỏ viễn chinh, tượng trưng cho một chuyến viễn chinh thành công và đủ sâu sắc.
 
 [SOUDACHE_COLLECTION_PHARAOH_SCEPTER]
 Vương trượng của Pharaon
@@ -90540,7 +90527,7 @@ Càng đi sâu, các ô đất sẽ được mở khóa thêm, chỉ có thể t
 Cân nhắc rủi ro, thu thập tài nguyên
 
 [SOUDACHE_HOWTOPLAY_DESC_05]
-Nhấp vào xe đẩy di động để thu thập các điểm tài nguyên, việc thu thập cần có thời gian, khi bắt đầu thu thập sẽ đánh thức zombie trong các ngôi mộ gần điểm tài nguyên đó.
+Nhấp vào máy cắt cỏ di động để thu thập các điểm tài nguyên, việc thu thập cần có thời gian, khi bắt đầu thu thập sẽ đánh thức zombie trong các ngôi mộ gần điểm tài nguyên đó.
 
 [SOUDACHE_HOWTOPLAY_SUBTITLE_06]
 Phẩm chất càng cao, phần thưởng và rủi ro càng lớn
@@ -91393,7 +91380,7 @@ Sử dụng Khoai lang để thu hút gà, Đại Bác Dừa để tiêu diệt 
 Gà Khổng lồ
 
 [DINOSAURDANGER_INFO_DINOSAURDANGER2]
-Sử dụng Cải Xoăn Bão tố để chặn Gã khổng lồ, Pháo Ngô để đánh bại hắn.
+Sử dụng Cải Xoăn Bão tố để chặn Gã khổng lồ, Ngô Thần Công để đánh bại hắn.
 
 [DINOSAURDANGER_TITLE_DINOSAURDANGER3]
 Khủng long ăn thịt cuồng nộ
@@ -91411,7 +91398,7 @@ Sử dụng Bồ Công Anh và Bồ Công Anh Cổ Đại để phòng thủ ch�
 Đại tá gà rán
 
 [DINOSAURDANGER_INFO_DINOSAURDANGER5]
-Sử dụng Cẩu Ngô và Pháo Ngô để phòng thủ chống lại Zombie Cướp biển.
+Sử dụng Cẩu Ngô và Ngô Thần Công để phòng thủ chống lại Zombie Cướp biển.
 
 [DINOSAURDANGER_END]
 Sự kiện kết thúc sau ^ff0000^ {PIECES} ^oldclr^ ngày

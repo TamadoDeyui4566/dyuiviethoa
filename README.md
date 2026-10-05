@@ -4,7 +4,7 @@
 - Thành lập: 30/6/2023
 - Ngày đăng đầu tiên: 11/7/2023 + [video](https://youtu.be/wXcEynKn25Q)
 - Thông tin cập nhập:
-  Đã cập nhập lên v4.2.4
+ 1h40, 6/10/2026, fix nhanh missing trong bản v4.2.4
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa

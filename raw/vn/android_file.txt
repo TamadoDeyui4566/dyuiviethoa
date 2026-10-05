@@ -1384,9 +1384,9 @@ Từ một cây ban đầu có thể tiến hóa nâng cấp thành nhiều lo�
 (Tạo người chơi mới)
 
 [CREDITS_PVZ_TITLE]
-Plants Vs Zombies 2
-Một cuộc hành trình tuyệt vời qua thời không gian
-Từ PopCap, Được dịch bởi "Dyui (Duy) VV" (YT: @DYUI_YT)
+Plants Vs Zombies 2 (Thực Vật Đại Chiến Thây Ma 2)
+Chuyến du hành thời không kỳ diệu
+Được Việt Hóa bởi "Dyui (Duy) VV" (YT: @DYUI_YT)
 
 [CREDTIS_CHINA_PRODUCER]
 Nhà sản xuất
@@ -1394,11 +1394,11 @@ Nhà sản xuất
 [CREDTIS_CHINA_DEVELOPER]
 Nhà sản xuất điều hành
 
-[CREDTIS_CHINA_GOUDAN]
-Giám đốc phát triển
+[CREDTIS_CHINA_ASSOCIATEPRODUCER]
+Trợ lý sản xuất
 
 [CREDTIS_CHINA_MANAGER]
-Quản lý sản phẩm cấp cao
+Giám đốc sản phẩm
 
 [CREDTIS_CHINA_PM]
 Giám đốc điều hành
@@ -1407,13 +1407,19 @@ Giám đốc điều hành
 Hoạt động sản phẩm
 
 [CREDTIS_CHINA_DESIGNER]
-Thiết kế trò chơi
+Người lập kế hoạch trò chơi
 
 [CREDTIS_CHINA_TD]
-Giám đốc kỹ thuật
+Giám đốc Kỹ thuật Client
 
 [CREDTIS_CHINA_ENGINEER]
-Kỹ sư phần mềm trò chơi
+Lập trình viên Client
+
+[CREDTIS_CHINA_SERVERDEVELOPMENTDIRECTOR]
+Giám đốc phát triển Server
+
+[CREDTIS_CHINA_SERVERENGINEER]
+Lập trình viên Server
 
 [CREDTIS_CHINA_LEAD_ARTIST]
 Quản lý nghệ thuật
@@ -1426,6 +1432,9 @@ Quản lý đảm bảo chất lượng
 
 [CREDTIS_CHINA_QA]
 Đảm bảo chất lượng
+
+[CREDTIS_CHINA_MT_MANAGER]
+Giám đốc tiếp thị
 
 [CREDTIS_CHINA_BN_MANAGER]
 Giám đốc thương mại
@@ -1863,6 +1872,32 @@ Phần thưởng bậc Tông sư mùa giải Đối đầu đôi 48
 [RANK_AVATAR_CONTENT_TITLE_61068]
 Thiên lý cộng thiền quyên
 
+[rank_avatar_diy_72]
+Xung Phong La Mã
+
+[RANK_AVATAR_CONTENT_CONTENT_61069]
+Phần thưởng giới hạn Vết Nứt Thời Không
+
+[RANK_AVATAR_CONTENT_TITLE_61069]
+Xung Phong La Mã
+
+[rank_avatar_diy_73]
+Đột Phá Trận Địa
+
+[RANK_AVATAR_CONTENT_CONTENT_61070]
+Phần thưởng bậc Tông Sư mùa giải 49 - Quyết Đấu Đôi
+
+[RANK_AVATAR_CONTENT_TITLE_61070]
+Đột Phá Trận Địa
+
+[rank_avatar_diy_74]
+Mùa Thu Hoạch Bội Thu
+
+[RANK_AVATAR_CONTENT_CONTENT_61071]
+Phần thưởng dành cho người chơi tham gia sự kiện Du Hành Tháng Mười năm 2026
+
+[RANK_AVATAR_CONTENT_TITLE_61071]
+Mùa Thu Hoạch Bội Thu
 
 [rank_avatar_diy_60]
 Sắc Xuân Ngắm Hoa
@@ -2799,6 +2834,12 @@ Tăng tốc
 
 [START_GAME_BUTTON]
 BẮT ĐẦU
+
+[START_GAME_BUTTON_OFFSKIPNEXT]
+BẮT ĐẦU NGAY
+
+[START_GAME_BUTTON_ONSKIPNEXT]
+ĐÓNG VÀ BẮT ĐẦU
 
 [CHOOSER_RESET_BUTTON]
 Xóa ô
@@ -4988,6 +5029,9 @@ Bạn không chọn cây tạo ra mặt trời. Bạn có chắc chắn muốn t
 [SEED_CHOOSER_WARNING_TITLE]
 Cảnh báo
 
+[SEED_CHOOSER_WARNING_PVZ1SKIPNEXTWAVE]
+Phát hiện tính năng "Tự động bỏ qua đợt" đang bật. Tính năng này sẽ tăng tần suất xuất hiện của zombie, khiến độ khó của màn chơi tăng lên. Bạn có muốn tắt tính năng này trước khi bắt đầu không?
+
 [SEED_CHOOSER_SKY_CITY_PLANT_SURVIVE_WARNING]
 Yêu cầu xếp hạng sao cho cấp độ này yêu cầu sử dụng cây trên không. Bạn có chắc chắn không muốn sử dụng bất kỳ cây trên không nào để thử thách cấp độ này không?
 
@@ -5011,6 +5055,12 @@ Hủy liên kết thiết bị
 
 [SETTINGS_DEFINEID_TITLE]
 ID người dùng
+
+[SETTINGS_SECOND_LOCK_TITLE]
+Quản lý mật khẩu cấp 2
+
+[SECOND_LOCK_VERIFY_FAILED]
+Nhập sai mật khẩu 5 lần, vui lòng thử lại sau 24 giờ.
 
 [SETTINGS_DATASHARING_DISABLE]
 Tắt tính năng chia sẻ
@@ -6260,7 +6310,7 @@ Tôi đã nhấn nhầm
 Đừng nhắc tôi nữa
 
 [STARCHALLENGE_PROTECT_PLANT]
-Bảo vệ những cây có sẵn trên sân khỏi bị zombie ăn
+Bảo vệ những cây có sẵn trên sân
 
 [STARCHALLENGE_PROTECT_PLANT_NAME]
 Bảo Vệ Hạt Giống
@@ -7058,6 +7108,12 @@ Kẻ thù đến!
 
 [WARNING_BLACK_HOLE_TIP]
 Lỗ đen đang hút cây!
+
+[WARNING_GRAVITY_GENERATOR_ANTI]
+Phản Trọng Lực!
+
+[WARNING_GRAVITY_GENERATOR_HEAVY]
+Siêu Trọng Lực!
 
 [WELCOME_USER_NAME_2]
 Xin chào, %s!
@@ -9019,6 +9075,9 @@ Nhận máy cắt cỏ ở chế độ dễ của Thời Kì Heian, có thể ch
 [UPGRADE_MOWER_17_INFO]
 Nhận máy cắt cỏ ở chế độ dễ của Thế Giới Dưới Nước, có thể chịu được cuộc tấn công của zombie vào nhà.
 
+[UPGRADE_MOWER_18_INFO]
+Nhận máy cắt cỏ ở chế độ dễ của Căn Cứ Mặt Trăng Z, có thể chịu được cuộc tấn công của zombie vào nhà.
+
 [UPGRADE_TREASURE_YETI]
 Mở khóa Yeti Kho Báu
 
@@ -10699,6 +10758,39 @@ Tiến độ cũ đã chọn
 
 [SUMMARY_USE_OLDER_DATA_BODY]
 Bạn định ghi đè một tiến độ mới bằng một tiến độ cũ, bạn có chắc chắn sẽ làm vậy không?
+
+[SUMMARY_MIGRATION_CONFIRM_HEADER]
+Xác nhận bản lưu cuối cùng
+
+[SUMMARY_ALMANAC_UNLOCK_COUNT]
+Mục đã mở khóa
+
+[SUMMARY_ALMANAC_AMOUNT]
+{ALMANAC_COUNT} loài
+
+[SUMMARY_MAIN_WORLD_STAR_COUNT]
+Ngôi sao thế giới chính
+
+[SUMMARY_RECENT_LEVEL]
+Màn chơi gần nhất
+
+[SUMMARY_FULL_STAR_WORLD_COUNT]
+Số thế giới đạt tối đa sao
+
+[SUMMARY_MIGRATION_LOCAL_BODY]
+Chuẩn bị dùng bản lưu trên máy để vào game. Sau khi xác nhận, bản lưu này sẽ được chọn làm bản lưu mặc định về sau.
+
+[SUMMARY_MIGRATION_CLOUD_BODY]
+Chuẩn bị dùng bản lưu đám mây để vào game. Sau khi xác nhận, bản lưu này sẽ được chọn làm bản lưu mặc định về sau.
+
+[SUMMARY_MIGRATION_OLDER_HEADER]
+Chưa chọn bản lưu mới nhất
+
+[SUMMARY_MIGRATION_OLDER_LOCAL_BODY]
+Chuẩn bị dùng bản lưu trên máy để vào game. ^FF0000 Đây có thể không phải là bản lưu mới nhất ^oldclr, sau khi xác nhận sẽ trở thành bản lưu mặc định về sau và hệ thống sẽ không nhắc chọn lại nữa. Tiếp tục?
+
+[SUMMARY_MIGRATION_OLDER_CLOUD_BODY]
+Chuẩn bị dùng bản lưu đám mây để vào game. ^FF0000 Đây có thể không phải là bản lưu mới nhất ^oldclr, sau khi xác nhận sẽ trở thành bản lưu mặc định về sau và hệ thống sẽ không nhắc chọn lại nữa. Tiếp tục?
 
 [SUMMARY_TITLE]
 Tiến độ khác nhau giữa cục bộ và đám mây
@@ -15930,6 +16022,12 @@ Song hành công kích
 
 [PEANUT_SKILL1_LEVEL2_DES]
 Tỷ lệ kích hoạt đòn đánh đồng loạt bắn tăng thêm 100%.
+
+[PEANUT_SKILL1_LEVEL5]
+Động cơ thịnh nộ
+
+[PEANUT_SKILL1_LEVEL5_DES]
+Càng có nhiều cây cấp 5 khác xung quanh, đạn của Đậu Phộng gây sát thương nổ càng cao và tốc độ đánh càng nhanh.
 
 [MAGNETSHROOM_SKILL1_LEVEL1]
 Từ trường mạnh
@@ -25599,6 +25697,9 @@ Chúc mừng bạn đã nhận được các phần thưởng sau trong sự ki�
 [SUPER_BOSS_COMING_SOON]
 Mở khóa sau khi vượt qua tất cả các màn chơi độ Khó của thế giới này
 
+[SUPER_BOSS_COMING_SOON_MOON]
+Mở khóa sau khi vượt qua tất cả màn Chuyên Gia của thế giới này.
+
 [PVP_UPDATE_NOTICE_TEXT]
 Chúng tôi đã điều chỉnh lại cấu trúc bản đồ Chiến Tranh Sân Vườn.
 Giờ đây bạn có thể vừa tìm kiếm người chơi vừa tranh đoạt các điểm tài nguyên cùng lúc trên bản đồ.
@@ -25677,6 +25778,9 @@ Thu thập Mặt Trời để trồng cây, chống lại sự xâm lăng của 
 
 [KILL_ALL_ZOMBIE_MOON]
 Thu thập tinh khoáng để trồng thực vật, chống lại sự xâm chiếm của zombie
+
+[KILL_ALL_ZOMBIE_MOON_MINIGAME]
+Điều khiển móc câu gắp các vật phẩm vũ trụ, đạt đủ điểm để qua màn
 
 [EVIL_DAVID_CHALLENGE_FINISH]
 Bạn đã đánh bại Dave Độc Ác.
@@ -26124,11 +26228,20 @@ Hạng {RANK}
 [PVZ_ERROR_76113]
 Đã tồn tại đơn hàng thanh toán đang được tiến hành
 
+[PVZ_ERROR_76114]
+Bạn có một đơn hàng Đặt Làm Ảo Sắc chưa hoàn tất, vui lòng thoát game vào lại và đợi phần thưởng vào tài khoản rồi mới tiếp tục mua
+
+[PVZ_ERROR_76127]
+Dữ liệu chưa được làm mới, vui lòng thoát ra và vào lại sự kiện
+
 [PVZ_ERROR_20017]
 Máy chủ bận, vui lòng thử lại sau
 
 [PVZ_ERROR_20711]
 Tên không hợp lệ
+
+[PVZ_ERROR_20730]
+Thiếu mảnh tăng cấp
 
 [PVZ_ERROR_21508]
 Số lượt đã đầy, không thể mua thêm
@@ -37017,6 +37130,9 @@ Không thể trồng cây trên ván bật nảy
 [PLANTING_NOT_ON_OBSTACLE]
 Không thể trồng cây trên băng
 
+[PLANTING_NOT_ON_GLADIATOR_TROPHY]
+Không thể trồng trên cúp
+
 [PLANTING_NOT_ON_COAL_TRUCK]
 Không thể trồng cây trên xe mỏ than
 
@@ -42714,6 +42830,72 @@ Thổi ra một quả bong bóng siêu to khổng lồ, sau khi nổ tung sẽ p
 [PAPHIOPEDILUM]
 Lan Hài Bách Bảo
 
+[NAGASALAK]
+Quả Mây Na-gia
+
+[NAGASALAK_DESCRIPTION]
+{KEYWORD}范围：{STAT}整行
+{KEYWORD}特点：{STAT}水龙卷穿透攻击，造成冻结效果
+{KEYWORD}植物特征：{STAT}绿色植物
+{FLAVOR}"感受深海的力量吧！"娜迦蛇皮果甩动蛇尾，卷起水龙卷席卷前方所有敌人。
+
+[NAGASALAK_DESCRIPTION_HEADER]
+甩动蛇尾卷起水龙卷前进，对前方僵尸造成持续伤害和冻结效果
+
+[NAGASALAK_TOOLTIP]
+甩动蛇尾卷起水龙卷前进，对前方僵尸造成持续伤害和冻结效果
+
+[NAGASALAK_PRODUCT_SHORT_DESC]
+甩动蛇尾卷起水龙卷前进，对前方僵尸造成持续伤害和冻结效果
+
+[NAGASALAK_SKILL_LEVEL1]
+娜迦水旋
+
+[NAGASALAK_SKILL_LEVEL1_DES]
+水龙卷会穿透所有目标，未接触僵尸时移速为1秒2格、接触到僵尸时降低为1秒1格，接触僵尸期间每0.5秒造成140点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_SKILL_LEVEL2]
+娜迦回旋
+
+[NAGASALAK_SKILL_LEVEL2_DES]
+水龙卷会穿透所有目标，未接触僵尸时移速为1秒2格、接触到僵尸时降低为1秒1格，接触僵尸期间每0.3秒造成210点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_SKILL_LEVEL5]
+水神之怒
+
+[NAGASALAK_SKILL_LEVEL5_DES]
+普攻有60%概率甩出双水龙卷，双水龙卷同样会穿透所有目标，以超高频率造成420点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_AVATAR_NAME]
+娜迦蛇皮果装扮
+
+[STORE_PRODUCT_AVATAR_NAGASALAK]
+漩涡随机包含海洋生物一起旋转
+
+[STORE_PRODUCT_AVATAR_NAGASALAK_TITLE]
+娜迦蛇皮果装扮
+
+[NAGASALAK_NEW_SKILL_LEVEL1_DES]
+娜迦蛇皮果甩动蛇尾卷起水龙卷前进，水龙卷会穿透所有目标，接触僵尸时造成伤害和冻结效果。
+
+[NAGASALAK_NEW_SKILL_LEVEL2_DES]
+水龙卷接触僵尸期间每0.4秒造成210点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_NEW_SKILL_LEVEL3_DES]
+水龙卷接触僵尸期间每0.3秒造成280点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招
+
+[NAGASALAK_NEW_SKILL_LEVEL5_DES]
+普攻有60%概率甩出双水龙卷，每0.15秒造成420点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_PLANTFOOD_DESCRIPTION]
+自身周围出现水流，形成水球后飞向最近僵尸，破开形成巨大漩涡将僵尸向中心聚拢，中小体型僵尸被秒杀。
+
+[NAGASALAK_AVATAR_PLANTFOOD_DESCRIPTION]
+漩涡随机包含海洋生物一起旋转
+
 [PAPHIOPEDILUM_DESCRIPTION]
 {KEYWORD}Phạm vi: {STAT}Đơn
 {KEYWORD}Đặc điểm: {STAT}Ném ra đạo cụ ngẫu nhiên
@@ -43095,70 +43277,70 @@ Cây Trọng Lực sau khi tụ lực sẽ tung ra một đợt trọng lực si
 [GRAVITREE_AVATAR_PLANTFOOD_DESCRIPTION]
 Khi đòn tấn công được tung ra, sẽ nện thêm một quả táo khổng lồ xuống ô của bản thân, vụ nổ quả táo gây sát thương lên phạm vi 3x3.
 
-[DARKMATTER_DRAGONFRUIT]
+[DMDRAGONFRUIT]
 Thanh Long Vật Chất Tối
 
-[DARKMATTER_DRAGONFRUIT_DESCRIPTION]
+[DMDRAGONFRUIT_DESCRIPTION]
 {KEYWORD}Phạm vi: {STAT}Một hàng
 {KEYWORD}Đặc điểm cây: {STAT}Cây màu đỏ, họ vũ trụ
 {FLAVOR}Tổ tiên của chúng từng bị truy sát đến tận sâu thẳm vũ trụ. Giờ đây, hậu duệ đã trở về, chỉ vì một màn trả thù đẫm vị trái cây lạnh buốt.
 
-[DARKMATTER_DRAGONFRUIT_DESCRIPTION_HEADER]
+[DMDRAGONFRUIT_DESCRIPTION_HEADER]
 Khạc đạn lửa vật chất tối để tấn công, gây sát thương thuộc tính vũ trụ cho zombie bị trúng đòn, đồng thời áp dụng trạng thái lượng tử. Ở trạng thái lượng tử, zombie hệ pháp sư bị giảm tốc độ thi pháp đi 3 lần; đạn bắn thẳng khi trúng zombie ở trạng thái lượng tử sẽ không bị tiêu hủy, vẫn gây sát thương và kích hoạt hiệu ứng trúng đòn của viên đạn đó.
 
-[DARKMATTER_DRAGONFRUIT_TOOLTIP]
+[DMDRAGONFRUIT_TOOLTIP]
 Khạc đạn lửa vật chất tối tấn công gây sát thương thuộc tính vũ trụ, đồng thời áp dụng trạng thái lượng tử.
 
-[DARKMATTER_DRAGONFRUIT_PRODUCT_SHORT_DESC]
+[DMDRAGONFRUIT_PRODUCT_SHORT_DESC]
 Khạc đạn lửa vật chất tối để tấn công, gây sát thương thuộc tính vũ trụ cho zombie bị trúng đòn, đồng thời áp dụng trạng thái lượng tử. Ở trạng thái lượng tử, zombie hệ pháp sư bị giảm tốc độ thi pháp đi 3 lần; đạn bắn thẳng khi trúng zombie ở trạng thái lượng tử sẽ không bị tiêu hủy, vẫn gây sát thương và kích hoạt hiệu ứng trúng đòn của viên đạn đó.
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL1]
+[DMDRAGONFRUIT_SKILL_LEVEL1]
 Kiểm soát năng lượng
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL1_DES]
+[DMDRAGONFRUIT_SKILL_LEVEL1_DES]
 Sau khi đạn lửa trúng mục tiêu sẽ tạo ra một vụ nổ phạm vi 1 ô về phía sau mục tiêu, gây sát thương vũ trụ và áp dụng trạng thái lượng tử cho zombie trong phạm vi.
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL2]
+[DMDRAGONFRUIT_SKILL_LEVEL2]
 Điều khiển năng lượng
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL2_DES]
+[DMDRAGONFRUIT_SKILL_LEVEL2_DES]
 Phạm vi nổ của đạn lửa tăng lên thành phạm vi hình quạt, gây sát thương vũ trụ và áp dụng trạng thái lượng tử cho zombie trong phạm vi.
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL5]
+[DMDRAGONFRUIT_SKILL_LEVEL5]
 Hơi thở rồng hủy diệt
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL5_DES]
+[DMDRAGONFRUIT_SKILL_LEVEL5_DES]
 Có 30% xác suất khạc ra đạn co sụp, sau khi hủy diệt (tiêu diệt tức thì) trúng con zombie đầu tiên (trừ zombie tinh anh và boss), viên đạn sẽ biến thành đạn tấn công thông thường. Sau khi sử dụng tuyệt chiêu Năng Lượng Đậu, lần kích hoạt tấn công thường tiếp theo chắc chắn sẽ khạc ra đạn co sụp.
 
-[DARKMATTER_DRAGONFRUIT_AVATAR_NAME]
+[DMDRAGONFRUIT_AVATAR_NAME]
 Trang phục Thanh Long Vật Chất Tối
 
-[STORE_PRODUCT_AVATAR_DARKMATTER_DRAGONFRUIT]
+[STORE_PRODUCT_AVATAR_DMDRAGONFRUIT]
 Số lần khạc hơi thở tăng lên thành 5 lần.
 
-[STORE_PRODUCT_AVATAR_DARKMATTER_DRAGONFRUIT_TITLE]
+[STORE_PRODUCT_AVATAR_DMDRAGONFRUIT_TITLE]
 Trang phục Thanh Long Vật Chất Tối
 
-[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL1_DES]
+[DMDRAGONFRUIT_NEW_SKILL_LEVEL1_DES]
 Khạc đạn lửa vật chất tối để tấn công, gây sát thương thuộc tính vũ trụ cho zombie bị trúng đòn, đồng thời áp dụng trạng thái lượng tử.
 Trạng thái lượng tử: Zombie hệ pháp sư bị giảm tốc độ thi pháp đi 3 lần; đạn bắn thẳng khi trúng zombie ở trạng thái lượng tử sẽ xuyên qua và không biến mất, gây sát thương bình thường và kích hoạt hiệu ứng trúng đòn của viên đạn đó.
 
-[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL2_DES]
+[DMDRAGONFRUIT_NEW_SKILL_LEVEL2_DES]
 Sau khi đạn lửa trúng mục tiêu sẽ tạo ra một vụ nổ phạm vi 1 ô về phía sau mục tiêu, gây sát thương vũ trụ và áp dụng trạng thái lượng tử cho zombie trong phạm vi.
 
-[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL3_DES]
+[DMDRAGONFRUIT_NEW_SKILL_LEVEL3_DES]
 Phạm vi nổ của đạn lửa tăng lên thành phạm vi hình quạt, gây sát thương vũ trụ và áp dụng trạng thái lượng tử cho zombie trong phạm vi.
 
-[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
+[DMDRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
 Khi trồng có xác suất thấp lập tức tung ra tuyệt chiêu Năng Lượng Đậu.
 
-[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
+[DMDRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
 Có 30% xác suất khạc ra đạn co sụp, sau khi hủy diệt (tiêu diệt tức thì) trúng con zombie đầu tiên (trừ zombie tinh anh và boss), viên đạn sẽ biến thành đạn tấn công thông thường. Sau khi sử dụng tuyệt chiêu Năng Lượng Đậu, lần kích hoạt tấn công thường tiếp theo chắc chắn sẽ khạc ra đạn co sụp.
 
-[DARKMATTER_DRAGONFRUIT_PLANTFOOD_DESCRIPTION]
+[DMDRAGONFRUIT_PLANTFOOD_DESCRIPTION]
 Thanh Long Vật Chất Tối triệu hồi rồng thiêng, lần lượt khạc ra mỗi viên đạn vật chất tối khổng lồ hướng về vị trí của 3 zombie ngẫu nhiên trên sân, gây 1500 điểm sát thương lên zombie trong phạm vi 5×5 tại điểm rơi và áp dụng trạng thái lượng tử.
 
-[DARKMATTER_DRAGONFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
+[DMDRAGONFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
 Số lần rồng thiêng khạc hơi thở tăng lên thành 5 lần.
 
 [COSMICNUT]
@@ -49560,7 +49742,7 @@ Vui lòng kết nối Internet và thử lại.
 Thông báo về khả năng thử thách trò chơi zombie
 
 [BOSSCHALLENGE_LEGENDPLANTS_PIECE]
-Mảnh cây Pháo Hoa Cỏ Hộp
+Mảnh cây Tỏi Tây Mặt Trời
 
 [BOSSCHALLENGE_EPICPLANTS_PIECE]
 Mảnh cây Tím khác
@@ -49807,9 +49989,9 @@ Quy tắc hoạt động:
 1. Chìa Khóa Bí Bảo (xu rút thưởng) và Xu Lăng Tiêu (xu đổi thưởng) chưa sử dụng sẽ được kế thừa nguyên vẹn khi làm mới hàng tháng và cập nhật phiên bản.
 2. Mua gói quà trong hoạt động Cung Đình Săn Bảo để nhận Chìa Khóa Bí Bảo, tiêu hao Chìa Khóa Bí Bảo để rút {NAME1} và các phần thưởng lớn xa xỉ khác.
 3. Số lần rút tích lũy, giới hạn lượt mua và số lần đổi thưởng của Cung Đình Săn Bảo sẽ làm mới vào ngày 1 hàng tháng. Số lần rút bảo hiểm (quay chắc chắn trúng) sẽ được kế thừa.
-4. Mỗi 10 lần rút, lần rút tiếp theo sẽ nhận được mức giảm giá ngẫu nhiên từ 10% đến 90% (giảm 1-9折). Mỗi 20 lần rút chắc chắn nhận được phần thưởng bảo hiểm, phần thưởng bảo hiểm được rút từ kho giải thưởng bảo hiểm.
+4. Mỗi 10 lần rút, lần rút tiếp theo sẽ nhận được mức giảm giá ngẫu nhiên từ 10% đến 90%. Mỗi 20 lần rút chắc chắn nhận được phần thưởng bảo hiểm, phần thưởng bảo hiểm được rút từ kho giải thưởng bảo hiểm.
 Quy tắc gói quà ưu đãi:
-    1. Gói quà ưu đãi làm mới một lần vào ngày 1 hàng tháng. Gói quà ưu đãi sau khi mua với giá gốc sẽ tạo ra một mã ưu đãi, người chơi khác điền mã ưu đãi này tại giao diện hoạt động sẽ được mua gói quà ưu đãi với giá giảm 70% (3折).
+    1. Gói quà ưu đãi làm mới một lần vào ngày 1 hàng tháng. Gói quà ưu đãi sau khi mua với giá gốc sẽ tạo ra một mã ưu đãi, người chơi khác điền mã ưu đãi này tại giao diện hoạt động sẽ được mua gói quà ưu đãi với giá giảm 70%.
     2. Nếu mã ưu đãi của bạn được người khác sử dụng thành công, bạn sẽ nhận được phần thưởng xu hoàn trả 70%.
     3. Một mã ưu đãi chỉ có thể sử dụng một lần.
     4. Mã ưu đãi sau khi được điền thành công sẽ không thể bị người chơi khác điền lại. Nếu người chơi điền mã ưu đãi đó không mua gói quà trong vòng 120 giây, mã ưu đãi đó có thể được người chơi khác điền lại.
@@ -52126,6 +52308,18 @@ Cỏ Gầm - tốc độ nuốt và tiêu hóa tăng {Param_1}%.
 [GENE_DESCRIPTION_RHEUMNOBILE]
 Đại Hoàng - chiêu cuối có {Param_1}% xác suất hấp thụ thêm 2 zombie.
 
+[GENE_DESCRIPTION_OAKSHOOTER]
+Sức tấn công tăng {Param_1}%.
+
+[GENE_DESCRIPTION_OXYGENALGAE]
+Hiệu ứng tăng cường sức tấn công ở cấp 2 và 3 tăng {Param_1}%.
+
+[GENE_DESCRIPTION_PASSIONFLOWER]
+Thời gian duy trì toàn bộ bánh răng tăng {Param_1}%.
+
+[GENE_DESCRIPTION_HOYACORDATA]
+Tỉ lệ diễn lại tăng {Param_1}%.
+
 [BATTLE_ORDER_AUTUMN]
 Chuyến du xuân mùa thu
 
@@ -53511,7 +53705,7 @@ Hoàn thành một lần Song Nhân Dối Quyết
 Giới thiệu hoạt động Kế hoạch nuôi dưỡng cây trồng
 
 [PLANT_CULTIVATE_DESCRIPTION]
-1. Thời gian: 30/8 - 12/9 (14 ngày).
+1. Thời gian: 1/10 - 14/10 (14 ngày).
 2. Chọn 1 cây trong danh sách để nhận trải nghiệm cấp 5 (14 ngày) và mở khóa nhiệm vụ.
 3. Đã chọn cây nuôi dưỡng sẽ không thể thay đổi, vui lòng cân nhắc kỹ.
 4. Hoàn thành nhiệm vụ nhận giá trị tăng trưởng. Tích đầy sẽ nhận vĩnh viễn 10 Mảnh cây và trang phục đi kèm.
@@ -55099,6 +55293,26 @@ Balo hiện vật
 
 [NEW_AVATAR_EFFECT]
 Hiệu ứng trang phục
+[PLANT_AVATAR_EFFECT_BUTTON_ON]
+Hiệu ứng trang phục: Mở
+[PLANT_AVATAR_EFFECT_BUTTON_OFF]
+Hiệu ứng trang phục: Đóng
+[PLANT_AVATAR_EFFECT_BUTTON_DISABLED]
+Hiệu ứng trang phục
+[PLANT_AVATAR_EFFECT_DIALOG_TITLE]
+Bật hiệu ứng trang phục
+[PLANT_AVATAR_EFFECT_OPEN]
+Mở
+[PLANT_AVATAR_EFFECT_CLOSE]
+Đóng
+[PLANT_AVATAR_EFFECT_CANCEL]
+Hủy
+[PLANT_AVATAR_EFFECT_CONFIRM]
+Xác nhận
+[PLANT_AVATAR_EFFECT_INFO]
+Bật: Hiệu ứng trang phục có hiệu lực bình thường \n Tắt: Mất hiệu ứng, nhưng ngoại hình trang phục vẫn giữ nguyên
+[PLANT_AVATAR_EFFECT_DISABLED_NOTICE]
+Tắt hiệu ứng trang phục
 
 [NEW_AVATAR_WEAR]
 Mặc
@@ -56393,7 +56607,7 @@ Sức tấn công tăng 10%
 Hoa Nguyệt - Kỷ niệm
 
 [NEW_AVATAR_DESCRIPTION_MOONFLOWER_1]
-Rút ngắn 5 giây thời gian tạo mặt trời
+Tốc độ sản xuất mặt trời tăng 15%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_1]
 Nấm Phun - Kỷ niệm
@@ -62155,10 +62369,10 @@ Zombie Khổng Lồ Cận Vệ
 {FLAVOR}Ném chiếc khiên xuống để chống đỡ Sát thương.
 
 [ZOMBIE_FAIRY_TALE_GARGANTUAR_DESCRIPTION_HEADER]
-Cận vệ thân tín của Zombie Tiểu Quỷ Nữ Hoàng Đỏ, tay thục trọng thuẫn, năng lực xuất chúng.
+Tay thục trọng thuẫn, năng lực xuất chúng.
 
 [ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR]
-Zombie Khổng Lồ Cận Vệ
+Zombie Khổng Lồ Cận Vệ Hoàng Gia
 
 [ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Tính năng: {STAT}Khả năng giảm sát thương cực mạnh, chiếc khiên trên tay sẽ rơi ra khi hắn tử trận!!
@@ -62627,17 +62841,32 @@ Zombie Đặc Biệt Ngày Tết.
 [ZOMBIE_CHILDREN_TOCAR]
 Zombie Xe Đồ Chơi
 
+[ZOMBIE_CHILDREN_TOCAR_DESCRIPTION]
+Zombie Tiểu Quỷ Xe Đồ Chơi rất thích mạo hiểm. Nó luôn ba hoa rằng chiếc xe đồ chơi này đã đồng hành cùng mình nhiều năm trời, tính ra là được khoảng một năm hai tháng ba ngày
+
 [ZOMBIE_CHILDREN_TOYGUN]
-Zombie Tiểu Quỷ Súng Đồ Chơi
+Zombie Tiểu Quỷ Súng Bong Bóng
+
+[ZOMBIE_CHILDREN_TOYGUN_DESCRIPTION]
+Dung dịch pha chế của khẩu súng bong bóng này đã được trộn thêm loại keo siêu dính mới nhất do Tiến sĩ Zomboss phát minh, khiến bong bóng trở nên vô cùng cứng cáp
 
 [ZOMBIE_CHILDREN_LOLIPOPS]
 Zombie Kẹo Mút
 
+[ZOMBIE_CHILDREN_LOLIPOPS_DESCRIPTION]
+Khoảnh khắc liếm được viên kẹo, Zombie Kẹo Mút thậm chí đã từng thoáng nghĩ đến việc từ bỏ niềm đam mê với não. Nhưng sau một hồi đấu tranh tư tưởng dữ dội, hắn dứt khoát ném phăng cây kẹo mút trên tay đi... rồi rút ra một cây khác
+
 [ZOMBIE_CHILDREN_BALLON]
-Zombie Ba Lô Bong Bóng
+Zombie Tiểu Quỷ Ba Lô Thiếu Nhi
+
+[ZOMBIE_CHILDREN_BALLON_DESCRIPTION]
+Zombie Tiểu Quỷ Bóng Bay chẳng thích thú gì cảnh trôi nổi lơ lửng thế này đâu, khổ nỗi hắn ta lại chẳng kiếm đâu ra con zombie nào chịu tháo chùm bóng bay xuống giùm cả
 
 [ZOMBIE_CHILDREN_SCHOOLBAG]
-Zombie Ba Lô
+Zombie Tiểu Quỷ Thiếu Nhi
+
+[ZOMBIE_CHILDREN_SCHOOLBAG_DESCRIPTION]
+Zombie Tiểu Quỷ Thiếu Nhi hí hửng tậu hẳn vé trọn gói cả năm của 'Công Viên Xác Sống Nhí', khổ nỗi nó lại quên khuấy mất công viên này mỗi năm chỉ mở cửa đúng một lần
 
 [ZOMBIE_CHILDRENSDAY]
 Zombie Ngày Thiếu Nhi
@@ -62736,22 +62965,34 @@ Zombie Tiểu Quỷ Máy Thổi Bong Bóng
 Trong khi những con tiểu quỷ khác vẫn còn đang dùng đá để chọi vỡ kính cửa sổ, thì nhóc này đã hoàn thành việc nâng cấp công nghệ từ "trò nghịch ngợm" lên thành "vũ khí hạng nhẹ". Nguồn kinh phí chủ yếu: Tiền tiêu vặt tích cóp từ việc chạy vặt cho Tiến Sĩ Zomboss. Nguồn khiếu nại chủ yếu: Đến từ tất cả các cây trồng từng bị bong bóng xà phòng của nó làm cho ngập lụt.
 
 [ZOMBIE_BUBBLE_MACHINE_IMP_DESCRIPTION_HEADER]
-Gatling Bong Bóng: Xả một lượng lớn đạn bong bóng về phía trước, những cây trồng bị trúng đạn liên tục sẽ bị bọc trong một quả bong bóng khổng lồ và bay ra khỏi sân đấu. Bom Đường Pháo Kích: Tiểu quỷ máy thổi bong bóng bay qua bay lại trên không trung và thả các viên kẹo tròn gây nổ xuống mặt đất.
+Gatling Bong Bóng: Xả một lượng lớn đạn bong bóng về phía trước, những cây trồng bị trúng đạn liên tục sẽ bị bọc trong một quả bong bóng khổng lồ và bay ra khỏi sân đấu. Bom Đường Pháo Kích: Tiểu quỷ máy thổi bong bóng bay qua bay lại trên không trung và thả các viên kẹo tròn gây nổ xuống mặt đất
+
 [ZOMBIE_ZOMBIE_COSMIC_IMP]
 Zombie Tiểu Quỷ Vũ Trụ
+
 [ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION]
 Đứng trước mặt bạn lúc này chính là: Ngọn núi cao nhất trong giới Cosplay zombie! Dòng sông dài nhất trong làng điện ảnh zombie!
 
 [ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION_HEADER]
-Vạn tượng vũ trụ: Khi di chuyển đến cột thứ 7, sẽ biến thân thành zombie tiểu quỷ của thế giới khác, lượng máu được đặt lại thành máu của tiểu quỷ sau khi biến thân.
+Vạn tượng vũ trụ: Khi di chuyển đến cột thứ 7, sẽ biến thân thành zombie tiểu quỷ của thế giới khác, lượng máu được đặt lại thành máu của tiểu quỷ sau khi biến thân
+
 [ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR]
 Zombie Khổng Lồ Siêu Tân Tinh
+
 [ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION]
 Zombie Khổng Lồ Siêu Tân Tinh từng là trợ lý của... nhà vô địch cuộc thi câu cá vũ trụ. Nhiệm vụ của hắn với tư cách là trợ lý là đi đến vị trí của các thí sinh khác, dùng quyền trượng siêu Tân Tinh của mình làm cần câu để đi câu cá. Mỗi khi hắn câu thành công một con cá, toàn bộ số cá xung quanh hắn sẽ bị hố đen hút sạch. Thật là một thủ đoạn đê tiện.
 
 [ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION_HEADER]
 Mỗi khi Zombie Khổng Lồ Siêu Tân Tinh tấn công tiêu diệt thực vật, hắn sẽ in dấu thực vật đó lên quyền trượng, sau đó phóng ra hố đen tiêu diệt tức thì toàn bộ thực vật có cùng tên trên sân.
 
+[ZOMBIE_LUNAR_RADIATION_GARGANTUAR]
+Zombie Khổng Lồ Bức Xạ Vũ Trụ
+
+[ZOMBIE_LUNAR_RADIATION_GARGANTUAR_DESCRIPTION]
+Trước khi nhiễm bức xạ, hắn chỉ là một con zombie bình thường. Sau khi nhiễm bức xạ, hắn mọc ra cơ bắp cuồn cuộn đáng kinh ngạc, lại còn học được ngón tay không đập tường. May mắn là quần áo cũng tiến hóa cùng hắn, nên không đến mức chỉ mặc mỗi cái quần cộc.
+
+[ZOMBIE_LUNAR_RADIATION_GARGANTUAR_DESCRIPTION_HEADER]
+Đột biến cường hóa cơ thể, khi chết sẽ nổ tung thi thể, gây nhiễm xạ cho cây trồng và zombie xung quanh.
 
 [ZOMBIE_PARKOUR]
 Zombie Bảo Vệ
@@ -63392,6 +63633,12 @@ A ba a ba
 [UNCHARTED_NO42_HEAD_DES_ID_10001]
 Chứng nhận thông quan hoàn mỹ Vũ Trụ Song Song số 41
 
+[UNCHARTED_ROMAN_HEAD_ID_25940]
+Kẻ Chinh Phục Vinh Quang La Mã
+
+[UNCHARTED_ROMAN_HEAD_DES_ID_25940]
+Chứng nhận vượt màn Vinh Quang La Mã đạt mức hoàn hảo
+
 [UNCHARTED_CHILDRENSDAY_HEAD_ID_25709]
 Tôi là đại ca
 
@@ -63742,6 +63989,12 @@ Khách du hành liên hành tinh
 
 [LEVEL_EDITOR_HEAD_DES_ID_25919]
 Ảnh đại diện giới hạn của sự kiện tùy chỉnh sắc màu huyền ảo
+
+[LEVEL_EDITOR_HEAD_ID_25944]
+Dưa Băng Mùa Hè
+
+[LEVEL_EDITOR_HEAD_DES_ID_25944]
+Ảnh đại diện giới hạn từ sự kiện Tùy Biến Ảo Sắc
 
 [UNCHARTED_CHILDRENSDAY_ID_25547]
 Măng cụt trẻ em
@@ -66864,16 +67117,16 @@ Song Nhân Dối Quyết
 精英僵尸来袭
 
 [S24_MEMORY_LEVEL_NAME_9]
-回忆之旅（困难）第九天
+回忆之旅（Khó）第九天
 
 [S24_MEMORY_LEVEL_NAME_10]
-回忆之旅（困难）第十天
+回忆之旅（Khó）第十天
 
 [S24_MEMORY_LEVEL_NAME_11]
-回忆之旅（困难）第十一天
+回忆之旅（Khó）第十一天
 
 [S24_MEMORY_LEVEL_NAME_12]
-回忆之旅（困难）第十二天
+回忆之旅（Khó）第十二天
 
 [S24_MEMORY_LEVEL_NAME_13]
 终止交易
@@ -69275,6 +69528,87 @@ Phong rơi nguyên thu - Ngày 7
 [S32_MEMORY_LEVEL_NAME_040]
 Phong rơi nguyên thu - Ngày 8
 
+[S32_MEMORY_LEVEL_NAME_041]
+Đại Khai Hoang Vùng Đất Hoang Của Dave - Ngày 1
+
+[S32_MEMORY_LEVEL_NAME_042]
+Đại Khai Hoang Vùng Đất Hoang Của Dave - Ngày 2
+
+[S32_MEMORY_LEVEL_NAME_043]
+Đại Khai Hoang Vùng Đất Hoang Của Dave - Ngày 3
+
+[S32_MEMORY_LEVEL_NAME_044]
+Đại Khai Hoang Vùng Đất Hoang Của Dave - Ngày 4
+
+[S32_MEMORY_LEVEL_NAME_045]
+Đại Khai Hoang Vùng Đất Hoang Của Dave - Ngày 5
+
+[S32_MEMORY_LEVEL_NAME_046]
+Đại Khai Hoang Vùng Đất Hoang Của Dave - Ngày 6
+
+[S32_MEMORY_LEVEL_NAME_047]
+Đại Khai Hoang Vùng Đất Hoang Của Dave - Ngày 7
+
+[S32_MEMORY_LEVEL_NAME_048]
+Đại Khai Hoang Vùng Đất Hoang Của Dave - Ngày 8
+
+[S32_MEMORY_LEVEL_NAME_049]
+Trời Cao Thu Mát - Ngày 1
+
+[S32_MEMORY_LEVEL_NAME_050]
+Trời Cao Thu Mát - Ngày 2
+
+[S32_MEMORY_LEVEL_NAME_051]
+Trời Cao Thu Mát - Ngày 3
+
+[S32_MEMORY_LEVEL_NAME_052]
+Trời Cao Thu Mát - Ngày 4
+
+[S32_MEMORY_LEVEL_NAME_053]
+Trời Cao Thu Mát - Ngày 5
+
+[S32_MEMORY_LEVEL_NAME_054]
+Trời Cao Thu Mát - Ngày 6
+
+[S32_MEMORY_LEVEL_NAME_055]
+Trời Cao Thu Mát - Ngày 7
+
+[S32_MEMORY_LEVEL_NAME_056]
+Trời Cao Thu Mát - Ngày 8
+
+[S32_MEMORY_LEVEL_NAME_057]
+Du Hành Mặt Trăng - Ngày 1
+
+[S32_MEMORY_LEVEL_NAME_058]
+Du Hành Mặt Trăng - Ngày 2
+
+[S32_MEMORY_LEVEL_NAME_059]
+Du Hành Mặt Trăng - Ngày 3
+
+[S32_MEMORY_LEVEL_NAME_060]
+Du Hành Mặt Trăng - Ngày 4
+
+[S32_MEMORY_LEVEL_NAME_061]
+Du Hành Mặt Trăng - Ngày 5
+
+[S32_MEMORY_LEVEL_NAME_062]
+Du Hành Mặt Trăng - Ngày 6
+
+[S32_MEMORY_LEVEL_NAME_063]
+Du Hành Mặt Trăng - Ngày 7
+
+[S32_MEMORY_LEVEL_NAME_064]
+Du Hành Mặt Trăng - Ngày 8
+
+[S32_MEMORY_LEVEL_NAME_BOSS_6]
+Kẻ Bay Lượn Hoang Dã
+
+[S32_MEMORY_LEVEL_NAME_BOSS_7]
+Kền Kền Liệt Không
+
+[S32_MEMORY_LEVEL_NAME_BOSS_8]
+Lữ Khách Mặt Trăng
+
 [S32_MEMORY_LEVEL_NAME_1]
 Mãnh hổ xuất sơn
 
@@ -71274,6 +71608,30 @@ Mỗi màn đều có nhiệm vụ chỉ định, hoàn thành có thể nhận 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_CHILDRENSDAY_2026]
 Phần thưởng của mỗi màn không thể nhận trùng lặp.
 
+[ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_ROMA]
+1. Thời gian mở
+
+[ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_ROMA]
+Các màn Thường sẽ mở toàn bộ sau khi Bí Cảnh kích hoạt, độ khó Khó mở khóa mỗi ngày hai màn.
+
+[ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_ROMA]
+2. Màn Thường
+
+[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_ROMA]
+Zombie ở màn Thường là cấp 3, zombie ở màn Khó sẽ thay đổi bậc theo nhiệm vụ được chọn.
+
+[ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_ROMA]
+3. Màn Khó
+
+[ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_ROMA]
+Mỗi màn đều có nhiệm vụ chỉ định, hoàn thành có thể nhận thưởng.
+
+[ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_ROMA]
+4. Mục tiêu thử thách
+
+[ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_ROMA]
+Phần thưởng của mỗi màn không thể nhận trùng lặp.
+
 
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_NEEDFORSPEED_202406]
 1. Thời gian mở
@@ -73135,7 +73493,7 @@ Liên kết thiết bị
 [BIND_UNIQUE_ID_DESC]
 1. Giúp đồng bộ tài khoản, thiết bị và dữ liệu lưu trữ.
 2. Khi đổi sang thiết bị mới, cần liên kết để tiếp tục sử dụng dữ liệu cũ.
-3. Sau khi liên kết, cần chờ 12 giờ mới có thể đổi sang thiết bị khác.
+3. Sau khi liên kết, cần chờ 1 giờ mới có thể đổi sang thiết bị khác.
 4. Reset máy, format, cài lại phần mềm sẽ tính là thiết bị mới.
 5. Giới hạn liên kết 4 thiết bị/năm, làm mới vào ngày 1/1 hằng năm.
 
@@ -73149,7 +73507,7 @@ Tài khoản hiện tại không khớp với máy. Nhấn Xác nhận để xó
 Liên kết
 
 [PVZ_ERROR_20320]
-Cần chờ 12 giờ mới có thể liên kết thiết bị khác
+Cần chờ 1 giờ mới có thể liên kết thiết bị khác
 
 [PVZ_ERROR_20321]
 Chỉ được liên kết tối đa 4 thiết bị một năm
@@ -74299,11 +74657,30 @@ Như mọi khi
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_NOMOD]
 Chế độ cổ điển, không có cơ chế đặc biệt.
-[PVZ2_UNCHARTED_MODE_MODE_TITLE_NOMOD]
-Như thường lệ
 
-[PVZ2_UNCHARTED_MODE_MODE_DESC_NOMOD]
-Chế độ cổ điển, không có cơ chế đặc biệt nào
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_AQUILA]
+Cờ Đại Bàng La Mã
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_AQUILA]
+Lấy kẻ cầm cờ làm trung tâm tạo hào quang 3×3, giảm 50% sát thương nhận vào và miễn nhiễm khống chế; Nấm Nam Châm / Nam Châm Vàng có thể phá hủy vĩnh viễn Cờ Đại Bàng.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_COLOSSEUM]
+Hàng Giác Đấu
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_COLOSSEUM]
+Tạm thời phong tỏa một hàng ngang gồm 5 ô trên chiến trường để tạo thành "Hàng Giác Đấu". Thắng bại của trận đấu sẽ quyết định trao cho người chơi lượng lớn Đậu Thần hoặc thả thêm nhiều zombie đối địch sau khi kết toán
+
+[PVZ2_UNCHARTED_MODE_AQUILA_TITLE_NOMOD]
+Cờ Đại Bàng La Mã
+
+[PVZ2_UNCHARTED_MODE_AQUILA_DESC_NOMOD]
+Lấy kẻ cầm cờ làm trung tâm tạo hào quang 3×3, giảm 50% sát thương nhận vào và miễn nhiễm khống chế; Nấm Nam Châm / Nam Châm Vàng có thể phá hủy vĩnh viễn Cờ Đại Bàng.
+
+[PVZ2_UNCHARTED_MODE_COLOSSEUM_TITLE_NOMOD]
+Hàng Giác Đấu
+
+[PVZ2_UNCHARTED_MODE_COLOSSEUM_DESC_NOMOD]
+Tạm thời phong tỏa một hàng ngang gồm 5 ô trên chiến trường để tạo thành "Hàng Giác Đấu". Thắng bại của trận đấu sẽ quyết định trao cho người chơi lượng lớn Đậu Thần hoặc thả thêm nhiều zombie đối địch sau khi kết toán
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICEAGE1]
 Món khai vị
@@ -74482,6 +74859,77 @@ Kéo các phương tiện để di chuyển, hãy giúp Dave có thể quay tr�
 
 [PLAYERS_TRIP_TO_ICEAGENIGHTMARE]
 Chuyến đi của {PLAYER} đến Ác Mộng Băng Giá
+
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ROMA]
+1. Bí Cảnh Thời Không sở hữu nhiều thế giới mới cùng các zombie hoàn toàn mới đang chờ bạn đến khám phá; mỗi thế giới đều được chia thành các màn Thường và Khó.
+2. Các màn chế độ Thường và Khó lần lượt có Phần Thưởng Vượt Màn Lần Đầu và Phần Thưởng Qua Màn Tiêu Chuẩn. Phần Thưởng Vượt Màn Lần Đầu chỉ nhận được trong lần đầu tiên qua màn và không thể nhận lại nhiều lần.
+3. Sau khi vượt qua toàn bộ các màn ở chế độ Thường, các màn ở chế độ Khó sẽ được mở khóa.
+4. Các màn chế độ Khó sẽ lần lượt được mở khóa theo tiến trình thời gian.
+5. Chế độ Khó có các mục tiêu thử thách đặc thù riêng; tích chọn mục tiêu thử thách và hoàn thành nhiệm vụ sẽ nhận thêm phần thưởng, việc chưa hoàn thành mục tiêu này không ảnh hưởng đến kết quả qua màn thông thường.
+6. Chế độ Thường cố định bao gồm 3 mục tiêu thử thách; khi hoàn thành mục tiêu thử thách lần đầu tiên sẽ nhận được phần thưởng tương ứng với mục tiêu đó
+
+[ROMA_LEVEL_NAME_01_N]
+Bí Cảnh La Mã - Ngày 1
+
+[ROMA_LEVEL_NAME_02_N]
+Bí Cảnh La Mã - Ngày 2
+
+[ROMA_LEVEL_NAME_03_N]
+Bí Cảnh La Mã - Ngày 3
+
+[ROMA_LEVEL_NAME_04_N]
+Bí Cảnh La Mã - Ngày 4
+
+[ROMA_LEVEL_NAME_05_N]
+Bí Cảnh La Mã - Ngày 5
+
+[ROMA_LEVEL_NAME_06_N]
+Bí Cảnh La Mã - Ngày 6
+
+[ROMA_LEVEL_NAME_07_N]
+Bí Cảnh La Mã - Ngày 7
+
+[ROMA_LEVEL_NAME_08_N]
+Bí Cảnh La Mã - Ngày 8
+
+[ROMA_LEVEL_NAME_09_N]
+Bí Cảnh La Mã - Ngày 9
+
+[ROMA_LEVEL_NAME_10_N]
+Bí Cảnh La Mã - Ngày 10
+
+[ROMA_LEVEL_NAME_01_H]
+Bí Cảnh La Mã - Ngày 1（Khó）
+
+[ROMA_LEVEL_NAME_02_H]
+Bí Cảnh La Mã - Ngày 2（Khó）
+
+[ROMA_LEVEL_NAME_03_H]
+Bí Cảnh La Mã - Ngày 3（Khó）
+
+[ROMA_LEVEL_NAME_04_H]
+Bí Cảnh La Mã - Ngày 4（Khó）
+
+[ROMA_LEVEL_NAME_05_H]
+Bí Cảnh La Mã - Ngày 5（Khó）
+
+[ROMA_LEVEL_NAME_06_H]
+Bí Cảnh La Mã - Ngày 6（Khó）
+
+[ROMA_LEVEL_NAME_07_H]
+Bí Cảnh La Mã - Ngày 7（Khó）
+
+[ROMA_LEVEL_NAME_08_H]
+Bí Cảnh La Mã - Ngày 8（Khó）
+
+[ROMA_LEVEL_NAME_09_H]
+Bí Cảnh La Mã - Ngày 9（Khó）
+
+[ROMA_LEVEL_NAME_10_H]
+Bí Cảnh La Mã - Ngày 10（Khó）
+
+[PLAYERS_TRIP_TO_ROMA]
+Chuyến đi của {PLAYER} đến Bí Cảnh La Mã
 
 [PLAYERS_TRIP_TO_CHRISTMAS]
 Tiệc Giáng sinh của {PLAYER}
@@ -76570,6 +77018,9 @@ Băng giá
 [PLANT_TAG_38]
 Tâm linh
 
+[PLANT_TAG_39]
+Vũ trụ
+
 [PLANT_TAG_37]
 Ma pháp
 
@@ -77923,6 +78374,156 @@ Hoàn thành ba thử thách kết hợp: Tăng tiêu hao thực vật đặc bi
 Đạt mốc lịch sử 6 sao cao nhất
 
 [ANNIVERSARY_2026_TASK_NAME_10_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_1_1]
+Hoàn thành ba thử thách kết hợp: Cờ Đại Bàng Xuất Hiện (1 sao)，Giảm Ô Chọn Cây (2 sao)，Tăng Sức Tấn Công Của Zombie (3 sao)
+
+[UNCHARTED_ROMA_TASK_NAME_1_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_1_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_1_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_1_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_2_1]
+Hoàn thành ba thử thách kết hợp: Tăng Sức Tấn Công Của Zombie (1 sao)，Giảm Thu Thập Mặt Trời (2 sao)，Giảm Ô Chọn Cây (3 sao)
+
+[UNCHARTED_ROMA_TASK_NAME_2_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_2_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_2_4]
+Đạt mốc lịch sử 6 sao cao nhất	
+
+[UNCHARTED_ROMA_TASK_NAME_2_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_3_1]
+Hoàn thành ba thử thách kết hợp: Tăng Hồi Chiêu Cây Tầm Xa (3 sao)，Cờ Đại Bàng Xuất Hiện (2 sao)，Tăng Sức Tấn Công Của Zombie (3 sao)
+
+[UNCHARTED_ROMA_TASK_NAME_3_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_3_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_3_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_3_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_4_1]
+Hoàn thành ba thử thách kết hợp: Tăng Tiêu Hao Cây Kỳ Binh (1 sao)，Miễn Khống Chế (2 sao)，Cờ Đại Bàng Xuất Hiện (3 sao)
+
+[UNCHARTED_ROMA_TASK_NAME_4_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_4_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_4_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_4_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_5_1]
+Hoàn thành ba thử thách kết hợp: Tăng Tiêu Hao Cây Tầm Xa (1 sao)，Tăng Tốc Độ Zombie (2 sao)，Tăng Sức Tấn Công Của Zombie (3 sao)
+
+[UNCHARTED_ROMA_TASK_NAME_5_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_5_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_5_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_5_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_6_1]
+Hoàn thành ba thử thách kết hợp: Tăng Tiêu Hao Cây Kỳ Binh (1 sao)，Giảm Sát Thương Thực Vật (2 sao)，Tăng Sức Tấn Công Của Zombie (3 sao)
+
+[UNCHARTED_ROMA_TASK_NAME_6_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_6_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_6_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_6_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_7_1]
+Hoàn thành ba thử thách kết hợp: Tăng Tiêu Hao Cây Hỗ Trợ (1 sao)，Tăng Sức Tấn Công Của Zombie (2 sao)，Giảm Ô Chọn Cây (3 sao)
+
+[UNCHARTED_ROMA_TASK_NAME_7_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_7_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_7_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_7_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_8_1]
+Hoàn thành ba thử thách kết hợp: Giảm Thu Thập Mặt Trời (1 sao)，Giảm Ô Chọn Cây (2 sao)，Tiệc Giác Đấu (3 sao)
+
+[UNCHARTED_ROMA_TASK_NAME_8_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_8_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_8_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_8_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_9_1]
+Hoàn thành ba thử thách kết hợp: Tăng Tiêu Hao Cây Tầm Xa (1 sao)，Tăng Tốc Độ Zombie (2 sao)，Tăng Cấp Zombie (3 sao)
+
+[UNCHARTED_ROMA_TASK_NAME_9_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_9_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_9_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_9_5]
+Đạt mốc lịch sử 10 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_10_1]
+Hoàn thành ba thử thách kết hợp: Giảm Ô Chọn Cây (1 sao)，Tăng Tốc Độ Zombie (2 sao)，Tăng Sức Tấn Công Của Zombie (3 sao)
+
+[UNCHARTED_ROMA_TASK_NAME_10_2]
+Đạt mốc lịch sử 2 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_10_3]
+Đạt mốc lịch sử 4 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_10_4]
+Đạt mốc lịch sử 6 sao cao nhất
+
+[UNCHARTED_ROMA_TASK_NAME_10_5]
 Đạt mốc lịch sử 10 sao cao nhất
 
 [ANNIVERSARY_2026_TASK_NAME_11_1]
@@ -79550,6 +80151,9 @@ Mức độ ăn ý của đậu phộng được nâng lên một tầm cao mớ
 
 [PEANUT_NEW_SKILL_LEVEL4_DES]
 Khi trồng có xác suất trung bình kích hoạt trực tiếp tuyệt kỹ Plant Food!
+
+[PEANUT_NEW_SKILL_LEVEL5_DES]
+Số lượng cây cấp 5 khác ở các ô lân cận càng nhiều, Đậu Phộng càng thêm giận dữ. Cơn giận giúp Bắn Đậu Phộng tăng mốc nộ; mốc càng cao, đạn đậu phộng tạo ra sát thương nổ càng lớn và tốc độ tấn công cũng càng nhanh
 
 [PEANUT_PLANTFOOD_DESCRIPTION]
 Đậu Phộng nhanh chóng bắn ra một lượng lớn hạt đậu phộng, khôi phục lượng máu của bản thân đồng thời nhận một chiếc mũ bảo hiểm kim loại có thể hấp thụ 4000 điểm sát thương.
@@ -83706,7 +84310,7 @@ Không thể nhận trùng lặp
 Hướng dẫn sự kiện Hộp Quà Tương Lai
 
 [TOURISM_OCTOBER_TITLE]
-Đồng Hành Tháng 7
+Đồng Hành Tháng 10
 
 [TOURISM_OCTOBER_DEFAULT_TEXT2]
 Đã ở trong đội, không đủ điều kiện điền
@@ -83765,6 +84369,12 @@ Không thể điền mã mời của chính mình
 [TOURISM_OCTOBER_INVITATION_SUCCESS]
 Đã gửi yêu cầu vào đội
 
+[TOURISM_OCTOBER_REWARD_EMPTY_TITLE]
+Nhắc Nhở
+
+[TOURISM_OCTOBER_REWARD_EMPTY]
+Xu đã đạt giới hạn nhận tối đa
+
 [PVP_ERROR_75525]
 Đã gia nhập đội, không thể xin vào đội khác
 
@@ -83798,11 +84408,25 @@ Không thể gửi yêu cầu gia nhập trùng lặp
 [PVP_ERROR_75535]
 Thành viên này đã gia nhập đội khác, vui lòng mở lại trang để làm mới
 
+[PVZ_ERROR_75536]
+Đội trưởng không thể rời nhóm khi còn thành viên
+
+[PVZ_ERROR_75537]
+Đang trong thời gian hồi xin vào đội sau khi rời nhóm
+
+[PVZ_ERROR_75538]
+Đang trong thời gian hồi đá thành viên khỏi đội
+
+[PVZ_ERROR_75539]
+Xu Tình Bạn đã đạt giới hạn có thể nhận tối đa
+
 [PVP_ERROR_76000]
 Mở khóa đổi thưởng sau khi vượt màn 4 độ khó Thường
 
 [PVP_ERROR_76001]
 Mở khóa đổi thưởng sau khi vượt màn 7 độ khó Khó
+
+
 [ALL_ARTIFACT]
 (Duy Nhất) Tất cả Cổ Vật
 
@@ -84398,6 +85022,84 @@ Pháp Sư Đen - Vòng Hào Quang
 
 [NEW_AVATAR_DESCRIPTION_AEONIUM_1]
 Thời gian nghỉ tấn công giảm 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GLACIERSHROOM_2]
+冰川菇断魂魔剑装扮
+
+[NEW_AVATAR_DESCRIPTION_GLACIERSHROOM_2]
+主动技能冷却减少35%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_4]
+曼德拉草燃极音浪装扮
+
+[NEW_AVATAR_DESCRIPTION_MANDRAKE_4]
+种植冷却减少20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_4]
+冰西瓜泳池焦点装扮
+
+[NEW_AVATAR_DESCRIPTION_WINTERMELON_4]
+攻击速度提升25%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_5]
+冰西瓜泳池焦点-彩棱
+
+[NEW_AVATAR_DESCRIPTION_WINTERMELON_5]
+无
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DMDRAGONFRUIT_1]
+暗物质火龙果龙翼装扮
+
+[NEW_AVATAR_DESCRIPTION_DMDRAGONFRUIT_1]
+攻击力提升15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BROCCOLI_1]
+大力花菜拳套装扮
+
+[NEW_AVATAR_DESCRIPTION_BROCCOLI_1]
+生命值提升15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HYDROCOTYLEDRUMMER_3]
+铜钱草鼓手摇滚装扮
+
+[NEW_AVATAR_DESCRIPTION_HYDROCOTYLEDRUMMER_3]
+阳光消耗减少20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_JALAPENO_1]
+火爆辣椒时髦眼镜装扮
+
+[NEW_AVATAR_DESCRIPTION_JALAPENO_1]
+种植冷却减少15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_3]
+暗影豌豆井盖装扮
+
+[NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_3]
+攻击力提升20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BOOPHONEGEISHA_1]
+刺眼花艺伎折扇装扮
+
+[NEW_AVATAR_DESCRIPTION_BOOPHONEGEISHA_1]
+攻击力提升20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_3]
+逃脱树根骑士套装装扮
+
+[NEW_AVATAR_DESCRIPTION_ESCAPEROOT_3]
+降低阳光消耗30
+
+[NEW_AVATAR_SHORT_DESCRIPTION_AQUAWEED_3]
+海神草潜水镜装扮
+
+[NEW_AVATAR_DESCRIPTION_AQUAWEED_3]
+攻击速度提升15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_3]
+小喷菇炫目节拍装扮
+
+[NEW_AVATAR_DESCRIPTION_PUFFSHROOM_3]
+四阶落地开大概率提升10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EAGLECLAW_2]
 Hoa Móng Rồng Điện - Cục Pin
@@ -85720,12 +86422,14 @@ Nhiệm vụ tháng kéo dài đến hết ngày 31 tháng 10
 
 [TOURISMOCTOBER_MAIN_TIPS_INFO]
 1. Hoàn thành nhiệm vụ ngày và nhiệm vụ tháng để nhận Xu sự kiện.
-2. Dùng Xu để đổi Phần thưởng tại Cửa hàng, Xu không kế thừa sang kỳ sau.
-3. Nhiệm vụ ngày làm mới mỗi ngày; nhiệm vụ tháng không làm mới, chỉ làm 1 lần.
-4. Đội tối đa 3 người. Người đầu tiên duyệt thành viên khác vào đội sẽ làm Đội trưởng.
-5. Chỉ Đội trưởng mới có quyền duyệt người vào đội. Thành viên đã có đội không thể nhập mã mời khác.
-6. Khi một thành viên hoàn thành nhiệm vụ, cả đội đều được Nhận Phần thưởng tương ứng.
-7. Làm nhiệm vụ cá nhân để lấy thêm điểm đổi quà (Xu cá nhân tự nhận, không chia sẻ cho đồng đội).
+2. Số lượng Xu có thể nhận trong mỗi kỳ sự kiện đều có giới hạn tối đa (Xu nhận từ Nhiệm vụ Cá nhân không tính vào giới hạn này).
+3. Dùng Xu để đổi Phần thưởng tại Cửa hàng, Xu không kế thừa sang kỳ sau.
+4. Nhiệm vụ ngày làm mới mỗi ngày; nhiệm vụ tháng không làm mới, chỉ làm 1 lần.
+5. Đội tối đa 3 người. Người đầu tiên duyệt thành viên khác vào đội sẽ làm Đội trưởng.
+6. Chỉ Đội trưởng mới có quyền duyệt người vào đội. Thành viên đã có đội không thể nhập mã mời khác.
+7. Khi một thành viên hoàn thành nhiệm vụ, cả đội đều được Nhận Phần thưởng tương ứng.
+8. Tại giao diện Quản Lý, Đội Trưởng có thể trục xuất thành viên khỏi tiểu đội, thành viên cũng có thể tự ý rời khỏi tiểu đội. Khi thực hiện thao tác trục xuất hoặc rời nhóm, tất cả thành viên sẽ tự động nhận toàn bộ phần thưởng chia sẻ tích lũy được.
+9. Làm nhiệm vụ cá nhân để lấy thêm điểm đổi quà (Xu cá nhân tự nhận, không chia sẻ cho đồng đội).
 
 [ZOMBIE_DARK_KING_ELITE]
 Zombie Quốc Vương Tinh Anh
@@ -85750,10 +86454,10 @@ Zombie Nữ Hoàng Gương Thần Tinh Anh sở hữu cơ chế thanh Định M�
 Zombie Nữ Hoàng Gương Thần mỗi ngày đều dành ra rất nhiều thời gian để say đắm nhan sắc của chính mình trong gương. Ả luôn ảo tưởng rằng bản thân ở trong gương thần còn mạnh mẽ hơn, xinh đẹp hơn hiện tại gấp bội phần. Cho đến một ngày nọ, gương thần cuối cùng cũng đã đưa ra lời hồi đáp cho tâm nguyện của nữ hoàng.
 
 [NIGHTTHETOY_TIP]
-Cửa Hàng Thanh Minh
+Cửa Hàng
 
 [NIGHTTHETOY_SHOP]
-Cửa Hàng Thanh Minh
+Cửa Hàng
 
 [NIGHTTHETOY_TASK]
 Nhiệm Vụ Sự Kiện
@@ -85774,19 +86478,19 @@ Rút thêm {NUMS} lần nữa chắc chắn trúng Giải Lớn
 ^FFFF00 {NAME} ^oldclr đã rút được ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-Yết kiến Tận Thế
+Trang Phục Siêu Cấp
 
 [TOYNIGHT_TITLE]
-Yết kiến Tận Thế
+Trang Phục Siêu Cấp
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-Gói Quà Tận Thế Sơ Cấp
+Gói Quà Sơ Cấp
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-Gói Quà Tận Thế Trung Cấp
+Gói Quà Trung Cấp
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-Gói Quà Tận Thế Cao Cấp
+Gói Quà Cao Cấp
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
 Gói Giới Hạn Sơ Cấp
@@ -85798,28 +86502,28 @@ Gói Giới Hạn Cao Cấp
 Lần đầu vào sự kiện
 
 [TOYNIGHT_TASK_2]
-Nhận Trang Phục Siêu Cấp Laze Bòng Bong Vương - Đèn Lồng Hồn Hậu
+Nhận Trang Phục Siêu Cấp
 
 [TOYNIGHT_TASK_3]
-Nhận đủ 4 trang phục của Laze Bòng Bong Vương (Thường, Trưởng Thành, Trọn bộ, Siêu Cấp)
+Nhận đủ 4 trang phục (Thường, Trưởng Thành, Trọn bộ, Siêu Cấp)
 
 [MAT_TOY_PARTS_1]
-Hủy Diệt Tinh Trần
+Viên Đá
 
 [MAT_TOY_PARTS_1_USE]
-Dùng để đổi phần thưởng trong Cửa Hàng Tận Thế thuộc sự kiện Yết kiến Tận Thế
+Dùng để đổi phần thưởng trong Cửa Hàng thuộc sự kiện Trang Phục Siêu Cấp
 
 [MAT_TOY_PARTS_1_GOT_WAY]
-Nhận được thông qua rút thưởng trong sự kiện Yết kiến Tận Thế
+Nhận được thông qua rút thưởng trong sự kiện Trang Phục Siêu Cấp
 
 [MAT_TOY_CLOCKWORK_1]
-Xu Tận Thế
+Xu
 
 [MAT_TOY_CLOCKWORK_1_USE]
-Đạo cụ tiêu hao để rút thưởng trong sự kiện Yết kiến Tận Thế
+Đạo cụ tiêu hao để rút thưởng trong sự kiện Trang Phục Siêu Cấp
 
 [MAT_TOY_CLOCKWORK_1_GOT_WAY]
-Nhận được thông qua mua tại Cửa Hàng Gói Quà thuộc sự kiện Yết kiến Tận Thế
+Nhận được thông qua mua tại Cửa Hàng Gói Quà thuộc sự kiện Trang Phục Siêu Cấp
 
 [MAT_TOY_PARTS_2]
 Khối Tinh Thể Tổ Ong
@@ -85840,38 +86544,38 @@ Xu Mật Ong
 Nhận được thông qua mua tại Cửa Hàng Gói Quà thuộc sự kiện Bản Tình Ca Ngọt Ngào
 
 [TOY_NIGHT_EXPIRED]
-Phần thưởng hết hạn Yết kiến Tận Thế
+Phần thưởng hết hạn Trang Phục Siêu Cấp
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
 Quy tắc hoạt động:
-1. Nhận Xu Tận Thế thông qua mua gói quà, tiêu hao Xu Tận Thế để rút thưởng trong sự kiện. Xu Tận Thế và Hủy Diệt Tinh Trần không thể kế thừa sang sự kiện kỳ sau, sau khi sự kiện kết thúc sẽ tự động chuyển đổi thành Kim Cương theo tỷ lệ lần lượt là 1:10 và 1:1.
-2. Mỗi lần rút thưởng đều có tỷ lệ nhận được Hủy Diệt Tinh Trần hoặc các phần thưởng khác, các Bạn Zombie may mắn sẽ có tỷ lệ nhận trực tiếp Trang Phục Siêu Cấp Laze Bòng Bong Vương - Đèn Lồng Hồn Hậu.
+1. Nhận Xu thông qua mua gói quà, tiêu hao Xu để rút thưởng trong sự kiện. Xu và viên đá không thể kế thừa sang sự kiện kỳ sau, sau khi sự kiện kết thúc sẽ tự động chuyển đổi thành Kim Cương theo tỷ lệ lần lượt là 1:10 và 1:1.
+2. Mỗi lần rút thưởng đều có tỷ lệ nhận được Viên Đá hoặc các phần thưởng khác, các Bạn Zombie may mắn sẽ có tỷ lệ nhận trực tiếp Trang Phục Siêu Cấp.
 3. Nếu liên tiếp 20 lần rút thưởng không trúng Giải Lớn, lần rút thưởng tiếp theo chắc chắn sẽ nhận được phần thưởng trong Kho Thưởng Bảo Hiểm.
-4. Trang Phục Siêu Cấp nếu rút trùng sẽ tự động chuyển đổi thành phần thưởng gồm 200 Hủy Diệt Tinh Trần.
+4. Trang Phục Siêu Cấp nếu rút trùng sẽ tự động chuyển đổi thành phần thưởng gồm 200 viên đá.
 
 Tỷ lệ Kho Thưởng Bảo Hiểm:
-Trang Phục Siêu Cấp Laze Bòng Bong Vương - Đèn Lồng Hồn Hậu: 3.72% Giải Lớn
-Hủy Diệt Tinh Trần *1300: 5.28% Giải Lớn
-Hủy Diệt Tinh Trần *700: 12.55% Giải Lớn
-Hủy Diệt Tinh Trần *500: 11.10% Giải Lớn
+Trang Phục Siêu Cấp: 3.72% Giải Lớn
+Viên Đá *1300: 5.28% Giải Lớn
+Viên Đá *700: 12.55% Giải Lớn
+Viên Đá *500: 11.10% Giải Lớn
 Kim Cương *1888: 32.17% Giải Lớn
 Vé Bí Bảo Penny *10: 35.18% Giải Lớn
 
 Công bố tỷ lệ phần thưởng:
-Trang Phục Siêu Cấp Laze Bòng Bong Vương - Đèn Lồng Hồn Hậu: 0.17% Giải Lớn
-Hủy Diệt Tinh Trần *1300: 0.21% Giải Lớn
-Hủy Diệt Tinh Trần *700: 0.43% Giải Lớn
-Hủy Diệt Tinh Trần *500: 0.85% Giải Lớn
-Hủy Diệt Tinh Trần *100: 6.09% Thường
-Hủy Diệt Tinh Trần *50: 16.00% Thường
-Hủy Diệt Tinh Trần *20: 12.00% Thường
-Hủy Diệt Tinh Trần *10: 35.00% Thường
+Trang Phục Siêu Cấp: 0.17% Giải Lớn
+Viên Đá *1300: 0.21% Giải Lớn
+Viên Đá *700: 0.43% Giải Lớn
+Viên Đá *500: 0.85% Giải Lớn
+Viên Đá *100: 6.09% Thường
+Viên Đá *50: 16.00% Thường
+Viên Đá *20: 12.00% Thường
+Viên Đá *10: 35.00% Thường
 Vé Trang Phục *500: 2.50% Thường
 Vé Trang Phục *100: 9.75% Thường
 Vé Bí Bảo Penny *1: 17.00% Thường
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-Nếu đã sở hữu, tự động chuyển đổi thành Phần thưởng Hủy Diệt Tinh Trần
+Nếu đã sở hữu, tự động chuyển đổi thành Phần thưởng Viên Đá
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 Hướng dẫn sự kiện
@@ -85991,7 +86695,7 @@ Ninja Cà Tím - 「Zero」
 Sức tấn công tăng 30%
 
 [GINGLEBELL_TITLE]
-Rộn Ràng Kỷ Niệm
+Sự Kiện Rộn Ràng
 
 [GINGLEBELL_TIPS]
 BXH đang đóng để công bố, không thể khiêu chiến
@@ -86013,12 +86717,12 @@ Hướng dẫn sự kiện Rộn Ràng
 
 [GINGLEBELL_DESCRIPTION]
 Quy tắc hoạt động:
-    1. Điểm vượt màn là tổng sát thương gây lên Công Trình Cua Ẩn Sĩ trong thời gian giới hạn.
+    1. Điểm vượt màn là tổng sát thương gây ra trong thời gian giới hạn.
     2. Điểm từ các màn mới mở khóa dùng để hoàn thành nhiệm vụ phần thưởng hàng ngày (làm mới mỗi ngày).
     3. Sự kiện gồm 3 chủ đề (Bẫy Ngọt Ngào, Bất Ngờ Chồng Chất, Tiệc Cuồng Hoan). Mỗi chủ đề có 3 màn, cứ 2 ngày mở 1 cửa mới, 6 ngày mở 1 chủ đề mới.
     4. Xem cơ chế đặc biệt của chủ đề tại góc trên bên phải giao diện chính.
     5. BXH xếp theo tổng điểm 3 cửa của chủ đề mới nhất. Khi mở chủ đề mới, BXH sẽ đóng từ 0h - 10h để công bố và khóa các cửa sự kiện. Chơi các chủ đề cũ không tính điểm vào BXH.
-    6. Phần thưởng tự động phát sau khi kết thúc công bố lúc 10h. Riêng ngày 15/09/2026, thời gian công bố kéo dài một ngày và không thể khiêu chiến.
+    6. Phần thưởng tự động phát sau khi kết thúc công bố lúc 10h. Riêng ngày 18/10/2026, thời gian công bố kéo dài một ngày và không thể khiêu chiến.
     7. Người chơi bị phát hiện điểm số dị thường sẽ bị loại khỏi BXH trong suốt thời gian sự kiện.
 
 
@@ -86163,6 +86867,9 @@ Phần thưởng BXH Rộn Ràng
 [GINGLEBELL_TAB1]
 Thử Thách Theo Chủ Đề
 
+[GINGLEBELL_TAB2]
+Phần Thưởng Xếp Hạng
+
 [GINGLEBELL_TAB3]
 Phần thưởng Hàng Ngày
 
@@ -86182,7 +86889,7 @@ Sát thương kỷ lục: {NUMBER}
 Gây càng nhiều sát thương càng tốt trong vòng 30 giây
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-Rộn Ràng Kỷ Niệm
+Sự Kiện Rộn Ràng
 
 [GINGLEBELL_TASKDESCRIPTION]
 Gây sát thương trong các màn mới nhất đạt {NUMBER} 
@@ -86674,7 +87381,17 @@ Hướng dẫn mua Gói Quà Khánh Điển:
 Hướng dẫn Nạp Tích Lũy Khánh Điển:
 Trong thời gian diễn ra sự kiện, mọi giao dịch nạp tiền tại bất kỳ giao diện nào trong game đều được tính vào thanh tiến trình Nạp Tích Lũy.
 
-[NEWYEARPACK_MAIN_TIPS_INFO]
+[NEWYEARPACK_MAIN_TIPS_INFO_16]
+Quà Gặp Mặt 0 Đồng Hàng Ngày: Kim Cương *15
+Gói Phúc Lợi 2 Tệ: Kim Cương *30, 10% tỷ lệ nhận Rương Trang Phục Sơ Cấp
+Gói Phúc Lợi 3 Tệ: Kim Cương *90, 10% tỷ lệ nhận Rương Trang Phục Trung Cấp
+Gói Phúc Lợi 6 Tệ: Kim Cương *180, 10% tỷ lệ nhận Rương Trang Phục Cao Cấp
+
+Trang phục tự chọn trong Rương Sơ Cấp：...
+Trang phục tự chọn trong Rương Trung Cấp：...
+Trang phục tự chọn trong Rương Cao Cấp：...
+
+[NEWYEARPACK_MAIN_TIPS_INFO_15]
 Quà Gặp Mặt 0 Đồng Hàng Ngày: Kim Cương *15
 Gói Phúc Lợi 2 Tệ: Kim Cương *30, 10% tỷ lệ nhận Rương Trang Phục Sơ Cấp
 Gói Phúc Lợi 3 Tệ: Kim Cương *90, 10% tỷ lệ nhận Rương Trang Phục Trung Cấp
@@ -86722,7 +87439,7 @@ Tỷ lệ nhận khi mua Hộp Quà Phúc Lợi trong Gói Quà Khánh Điển.
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
 1. Trong thời gian sự kiện, bạn có thể nhận hồng bao tại giao diện chính vào các khung giờ cố định 12:00-14:00 và 18:00-21:00 hàng ngày (tối đa 2 lần/ngày).
-2. Từ ngày 28/8 đến 9/10, vào lúc 21:00 mỗi ngày, hệ thống sẽ bốc thăm chọn ra 1 người chơi may mắn trên toàn máy chủ (mỗi bên iOS và Android chọn 1 người đã nhận hồng bao trong ngày) để trao Giải Độc Đắc siêu giá trị của ngày đó.
+2. Từ ngày 1/10 đến 14/10, vào lúc 21:00 mỗi ngày, hệ thống sẽ bốc thăm chọn ra 1 người chơi may mắn trên toàn máy chủ (mỗi bên iOS và Android chọn 1 người đã nhận hồng bao trong ngày) để trao Giải Độc Đắc siêu giá trị của ngày đó.
 3. Giải thưởng hàng ngày nếu không đăng nhập nhận trước thời gian mở thưởng của ngày hôm sau sẽ bị coi như từ bỏ phần thưởng.
 
 [UINEWYEARREDPACKET_DES_TITLE]
@@ -86748,46 +87465,46 @@ Trong thời gian sự kiện, bạn có thể nhận hồng bao một lần m�
 Người chơi ^FFFF00 {NAME} ^oldclr 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_0]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 28/8
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 1/10
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_1]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 29/8
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 2/10
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_2]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 30/8
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 3/10
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_3]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 31/8
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 4/10
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_4]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 1/9 
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 5/10 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_5]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 2/9  
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 6/10  
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_6]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 3/9 
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 7/10 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_7]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 4/9 
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 8/10 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 5/9
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 9/10
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_9]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 6/9
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 10/10
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_10]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 7/9
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 11/10
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_11]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 8/9
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 12/10
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_12]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 9/9
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 13/10
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_13]
-Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 10/9
+Chúc mừng ^FFFF00 {NAME} ^oldclr trúng Giải Độc Đắc ngày 14/10
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC3_1]
 ^0775F7 {ITEM} ^oldclr x {NUMS} 
@@ -86971,6 +87688,12 @@ Cây cối thành râm
 [NEWYEAR_GIFT_HEAD_DES_ID_25921]
 Nhận được khi đạt tiến trình nạp tích lũy trong sự kiện gói quà lễ hội.	 
 
+[NEWYEAR_GIFT_HEAD_ID_25945]
+Đậu Phộng Đón Hỷ
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25945]
+Đạt mốc nạp tích lũy sự kiện Gói Quà Đại Lễ để nhận
+
 [TEN_THOUSAND_HEAD_ID_25636]
 Tín Đồ Yêu Cây
 
@@ -86994,23 +87717,23 @@ Nhận Hồng Bao
 
 [UINEWYEARREDPACKET_DES_REWARD_DESCRIPTION]
 Xem trước phần thưởng:
-Ngày 28/8: ^ff0000^Mảnh vạn năng^oldclr^*200
-Ngày 29/8: ^ff0000^Sách tăng cấp^oldclr^*10
-Ngày 30/8: ^ff0000^Mảnh định hướng^oldclr^*300
-Ngày 31/8: ^ff0000^Kim Cương^oldclr^*20260
-Ngày 1/9: ^ff0000^Cúp săn bảo giới hạn^oldclr^*5
-Ngày 2/9: ^ff0000^Mảnh vạn năng^oldclr^*200
-Ngày 3/9: ^ff0000^Sách tăng cấp^oldclr^*10
-Ngày 4/9: ^ff0000^Mảnh định hướng^oldclr^*300
-Ngày 5/9: ^ff0000^Kim Cương^oldclr^*20260
-Ngày 6/9: ^ff0000^Cúp săn bảo giới hạn^oldclr^*5
-Ngày 7/9: ^ff0000^Mảnh vạn năng^oldclr^*200
-Ngày 8/9: ^ff0000^Sách tăng cấp^oldclr^*10
-Ngày 9/9: ^ff0000^Mảnh định hướng^oldclr^*300
-Ngày 10/9: ^ff0000^Kim Cương^oldclr^*20260
+Ngày thứ 1: ^ff0000^Mảnh vạn năng^oldclr^*200
+Ngày thứ 2: ^ff0000^Sách tăng cấp^oldclr^*10
+Ngày thứ 3: ^ff0000^Mảnh định hướng^oldclr^*300
+Ngày thứ 4: ^ff0000^Kim Cương^oldclr^*20260
+Ngày thứ 5: ^ff0000^Cúp săn bảo giới hạn^oldclr^*5
+Ngày thứ 6: ^ff0000^Mảnh vạn năng^oldclr^*200
+Ngày thứ 7: ^ff0000^Sách tăng cấp^oldclr^*10
+Ngày thứ 8: ^ff0000^Mảnh định hướng^oldclr^*300
+Ngày thứ 9: ^ff0000^Kim Cương^oldclr^*20260
+Ngày thứ 10: ^ff0000^Cúp săn bảo giới hạn^oldclr^*5
+Ngày thứ 11: ^ff0000^Mảnh vạn năng^oldclr^*200
+Ngày thứ 12: ^ff0000^Sách tăng cấp^oldclr^*10
+Ngày thứ 13: ^ff0000^Mảnh định hướng^oldclr^*300
+Ngày thứ 14: ^ff0000^Kim Cương^oldclr^*20260 
 
 [UINEWYEARREDPACKET_DES_REWARD_TITLE]
-Giải May Mắn Top 1
+Giải May Mắn
 
 [ACTIVITY_NEWYEARPACK_SHORT_DESCRIPTION]
 Mở Gói Khánh Điển, nhận lượng lớn Kim Cương và Trang Phục hiếm.
@@ -87399,6 +88122,12 @@ Hồi kết hoàn vũ
 [TOYS_HEAD_DES_ID_25920]
 Nhận được khi tham gia sự kiện yết kiến đấng tận thế.
 
+[TOYS_HEAD_ID_25941]
+Huyền Băng Triệt Kiếm
+
+[TOYS_HEAD_DES_ID_25941]
+Nhận khi tham gia sự kiện Ma Tinh Hóa Kiếm
+
 [PARALLEL_SPIKEWEED]
 Số 41 Cỏ Gai
 
@@ -87641,7 +88370,13 @@ Bãi Binh Đình Chiến
 Siêu Sao Tỏa Sáng
 
 [HARVEST_BATTLE_HEAD_DES_ID_25894]
-Đổi bằng Ngô Siêu Cấp trong sự kiện Nông Trại Đại Chiến
+Đổi bằng Ngô Siêu Cấp trong sự kiện Đại Chiến Nông Trại
+
+[HARVEST_BATTLE_HEAD_ID_25946]
+Sóng Âm Khổng Lồ
+
+[HARVEST_BATTLE_HEAD_DES_ID_25946]
+Đổi bằng Ngô Siêu Cấp trong sự kiện Đại Chiến Nông Trại
 
 [TIANGONG_HEAD_ID_25712]
 DJ Nha Đam
@@ -87731,7 +88466,13 @@ Nhận khi rút tích lũy mốc thưởng trong sự kiện Tìm Báu Thiên Cu
 Lữ khách hư không
 
 [TIANGONG_HEAD_DES_ID_25913]
-Nhận được bằng cách tích lũy số lần rút thưởng để đạt mốc phần thưởng trong sự kiện Truy tìm báu vật Thiên Cung.
+Nhận khi rút tích lũy mốc thưởng trong sự kiện Tìm Báu Thiên Cung
+
+[TIANGONG_HEAD_ID_25942]
+Ma Cương Ảo Ảnh
+
+[TIANGONG_HEAD_DES_ID_25942]
+Nhận khi rút tích lũy mốc thưởng trong sự kiện Tìm Báu Thiên Cung
 
 [PVP_ERROR_76030]
 Phát hiện gian lận đạo cụ
@@ -88207,8 +88948,12 @@ Bạn có muốn tiêu hao {NUMS} mảnh vỡ để mua không?
 Bạn có muốn tiêu hao {NUMS} Tinh Hoa để mua không?
 Lưu ý: Bạn cần phải sở hữu trang phục gốc mới có thể sử dụng trang phục này.
 
-[ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION]
+[ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION_8]
 1. Có thể nhận trang phục Nấm Nhút Nhát - Giấc Đêm Tinh Tú, trang phục Ánh Quang Huyền Ảo cùng nhiều phần thưởng giá trị khác.
+2. Trang phục sắc màu của cây chỉ có thể sử dụng sau khi bạn đã sở hữu trang phục gốc, có thể tiến hành Thay đổi trang phục sắc màu tại giao diện đeo trang phục.
+
+[ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION_9]
+1. Có thể nhận trang phục, trang phục Ánh Quang Huyền Ảo cùng nhiều phần thưởng giá trị khác.
 2. Trang phục sắc màu của cây chỉ có thể sử dụng sau khi bạn đã sở hữu trang phục gốc, có thể tiến hành Thay đổi trang phục sắc màu tại giao diện đeo trang phục.
 
 [COLORCUSTOMIZATION_DESCRIPTION_TITLE_1]
@@ -88220,8 +88965,15 @@ Công bố tỷ lệ nhận Trang phục Sắc Màu:
     Nếu mua gói quà liên tiếp 9 lần vẫn không rơi ra Trang phục Sắc Màu, thì ở lần mua gói quà thứ 10 chắc chắn sẽ rơi ra Trang phục Sắc Màu.
 Trang phục sắc màu của cây chỉ có thể sử dụng sau khi bạn đã sở hữu trang phục gốc, có thể tiến hành Thay đổi trang phục sắc màu tại giao diện đeo trang phục.
 
-[COLORCUSTOMIZATION_DESCRIPTION]
+[COLORCUSTOMIZATION_DESCRIPTION_8]
 Quy tắc hoạt động:
+1. Mua gói quà sắc màu có thể nhận được Kim Cương, Phần thưởng tự chọn cùng Tinh Hoa Sắc Màu và các phần thưởng khác.
+2. Mỗi lần mua gói quà sắc màu đều có tỷ lệ nhận được Trang phục Nấm Nhút Nhát - Giấc Đêm Tinh Tú, trang phục Ánh Quang Huyền Ảo, cơ chế bảo hiểm chắc chắn nhận được sau 10 lần mua gói quà.
+3. Cứ tích lũy mua đủ 5 lần gói quà sắc màu bất kỳ sẽ được nhận miễn phí thêm 1 lần mua gói quà nữa.
+4. Trang phục Nấm Nhút Nhát - Giấc Đêm Tinh Tú, trang phục Ánh Quang Huyền Ảo nếu nhận trùng lặp sẽ tự động chuyển hóa thành Mảnh trang Nấm Nhút Nhát - Giấc Đêm Tinh Tú, trang phục Ánh Quang Huyền Ảo. Mảnh trang phục này có thể dùng để đổi thành Kim Cương tại Cửa hàng đổi quà trong thời gian diễn ra sự kiện. Nếu có nhu cầu, vui lòng đổi thưởng càng sớm càng tốt.
+5. Tinh Hoa Sắc Màu chưa tiêu hao hết có thể giữ lại để sử dụng cho kỳ sau.
+
+[COLORCUSTOMIZATION_DESCRIPTION_9]
 1. Mua gói quà sắc màu có thể nhận được Kim Cương, Phần thưởng tự chọn cùng Tinh Hoa Sắc Màu và các phần thưởng khác.
 2. Mỗi lần mua gói quà sắc màu đều có tỷ lệ nhận được Trang phục Nấm Nhút Nhát - Giấc Đêm Tinh Tú, trang phục Ánh Quang Huyền Ảo, cơ chế bảo hiểm chắc chắn nhận được sau 10 lần mua gói quà.
 3. Cứ tích lũy mua đủ 5 lần gói quà sắc màu bất kỳ sẽ được nhận miễn phí thêm 1 lần mua gói quà nữa.
@@ -88506,7 +89258,7 @@ Phần thưởng "Điểm cống hiến toàn máy chủ" bao gồm:
 2. Vé trang phục *399
 3. Dung dịch dinh dưỡng cam *5
 4. Danh thiếp giới hạn Khe Nứt Thời Không
-5. Siêu trang phục Hướng Dương - Mộng Tình Dễ Thương
+5. Siêu trang phục
 6. Vé bí bảo *5
 
 Trong ngày diễn ra sự kiện, khi tổng sát thương do người chơi và các thành viên trong đội cùng nhau gây ra đạt mốc quy định, người chơi có thể nhận phần thưởng mốc "Sát thương tích lũy thử thách đội nhóm hôm nay".
@@ -88606,11 +89358,11 @@ Thưởng Bí Cảnh
 Hướng dẫn sự kiện Khe Nứt Thời Không
 
 [SPACETIMERIFT_MAIN_DES_DESCRIPTION]
-1. Giai đoạn khiêu chiến diễn ra từ 8/7/2026 đến 14/7/2026, mỗi ngày người chơi có 3 lượt khiêu chiến Boss.
+1. Giai đoạn khiêu chiến diễn ra từ 30/9/2026 đến 6/10/2026, mỗi ngày người chơi có 3 lượt khiêu chiến Boss.
 2. Ngày đầu tiên bắt đầu lúc 0:00, người chơi có thể vào khiêu chiến ngay. Từ ngày thứ hai, hệ thống sẽ tổng kết Bảng xếp hạng từ 0:00 - 8:00 và tạm đóng tính năng khiêu chiến trong thời gian này.
 3. Sau khi kết thúc tổng kết, phần thưởng sẽ được phát cho tất cả người chơi tham gia dựa trên thứ hạng.
 4. Một người chơi may mắn nhất cũng sẽ được chọn sau mỗi đợt tổng kết để nhận Thưởng Cẩm Lý (Kim Cương *2888 + Mảnh Vạn Năng *20).
-5. Sau khi kết thúc giai đoạn khiêu chiến sẽ có ba ngày trưng bày. Trong thời gian này, bạn không thể khiêu chiến/trợ chiến nhưng vẫn có thể nhận quà hoặc vào luyện tập bình thường.
+5. Sau khi kết thúc giai đoạn khiêu chiến sẽ có một ngày trưng bày. Trong thời gian này, bạn không thể khiêu chiến/trợ chiến nhưng vẫn có thể nhận quà hoặc vào luyện tập bình thường.
 
 [SPACETIMERIFT_CHEAT_DES_DESCRIPTION]
 Dữ liệu tài khoản của bạn có dấu hiệu bất thường và tạm thời bị cấm tham gia sự kiện này, vui lòng liên hệ CSKH để được xử lý.
@@ -88661,6 +89413,12 @@ Băng Hỏa Băng Hỏa Băng
 
 [TIME_SPACE_HEAD_DES_ID_25898]
 Avatar phần thưởng tích lũy hỗ trợ chiến đấu trong Khe Nứt Thời Không
+
+[TIME_SPACE_HEAD_ID_25943]
+Chung Tay Hợp Lực
+
+[TIME_SPACE_HEAD_DES_ID_25943]
+Avatar phần thưởng tích lũy trợ chiến trong Vết Nứt Thời Không
 
 [SEARCH_MODE_HEAD_ID_25912]
 Hành trình vương đạo
@@ -90939,6 +91697,52 @@ Màn 20
 [POINTSCHALLENGE_MEMORY_NODE_6]
 Màn 26
 
+[ZOMBIE_ZOMBIE_MOON_BLADE]
+星际剑客僵尸
+
+[ZOMBIE_ZOMBIE_MOON_BLADE_DESCRIPTION]
+星际剑客僵尸手持一把高科技量子切割刃，这把切割刃甚至能够切开空间！星际剑客僵尸得到了这把剑后总能在一次次的冒险中成功回到家，因为他可以切开空间拿到落在家里的钥匙。
+
+[ZOMBIE_ZOMBIE_MOON_BLADE_DESCRIPTION_HEADER]
+能切割植物发射的实体子弹，还能将同行植物牵引至面前处决
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST]
+维度幻象僵尸
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION]
+他原本只是月球剧团的道具师，因为总偷穿主角戏服被开除，一气之下把道具改装成了武器。
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION_HEADER]
+可随机变身为埃及Boss、气功教主或Z机甲释放技能，半血时进入无敌变身
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST]
+维度幻象僵尸
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION]
+他原本只是月球剧团的道具师，因为总偷穿主角戏服被开除，一气之下把道具改装成了武器。
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION_HEADER]
+可随机变身为埃及Boss、气功教主或Z机甲释放技能，半血时进入无敌变身
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_IMP]
+超新星小鬼僵尸
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_IMP_DESCRIPTION]
+“嘿！我的枪呢？”每次超新星巨人将他发射出来的时候都会把他的枪留在背上。多亏如此，这家伙在地上时毫无威胁。
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_IMP_DESCRIPTION_HEADER]
+普通小鬼，无任何能力
+
+[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI]
+超新星双子僵尸
+
+[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI_DESCRIPTION]
+“你知道的，我们是宇宙中最臭名昭著，最恶贯满盈的——宇宙无敌双子星组合！”自从他们夺得了复制松果的复制科技，这两只臭味相投的僵尸就一直在一起搭档了
+
+[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI_DESCRIPTION_HEADER]
+背上的超新星小鬼会瞄准前方植物，随后将目标周围3×3范围内的其他植物同化为目标植物；濒死时会被投掷出去。
+
+
 [DAVE_SHOP_TITLE]
 Cửa hàng Penny
 
@@ -91714,6 +92518,87 @@ Nhấn vào trạm thu thập để mở bảng điều phối
 [METEOR_TUTORIAL_TERMINAL_DRAG]
 Kéo trạm thu thập ra chiến trường
 
+[NARRATIVE_GRAVITY_TUTORIAL_1_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}前方怎么有一块巨大的磁铁？
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_2]
+{EXCITED:WINNIE}那是重力发生器！能够改变目标范围内的重力！
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_3]
+{SAY:WINNIE}磁铁会发出紫色的反重力子弹，落到场上后会让目标区域的单位进入反重力状态
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_4]
+{SAY:WINNIE}植物会一直上浮，而僵尸会进入上升前进状态
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_5]
+{SAY:ASTRONAUTCRAZYDAVE}噢,我不喜欢飘来飘去的！
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_6]
+{SAY:WINNIE}是时候让重力树接管这里了！重力树可以解除反重力状态。
+
+[GRAVITY_TUTORIAL_PLANT_GRAVITREE]
+把重力树拖至目标地块上
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}磁铁还会发出绿色的超重力子弹，落到场上后会让目标区域的单位进入超重力状态
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_2]
+{SAY:WINNIE}植物会陷入地里，而僵尸会免疫击退效果
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_3]
+{SAY:ASTRONAUTCRAZYDAVE}陷在地里？怎么感觉和僵尸一样？
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_4]
+{SAY:WINNIE}种植宇宙飞碟瓜吧！宇宙飞碟瓜可以解除超重力状态！
+
+[NARRATIVE_GRAVITY_TUTORIAL_3_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}灵活运用这两株植物来反制重力发生器吧！
+
+[NARRATIVE_GRAVITY_TUTORIAL_3_2]
+{SAY:ASTRONAUTCRAZYDAVE}看上去很简单啊！直接开战吧！
+
+[GRAVITY_TUTORIAL_PLANT_COSMICSAUCER]
+把宇宙飞碟瓜拖至目标地块上
+
+[NARRATIVE_MOON_13_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}怎么有一块奇怪的矿石？
+
+[NARRATIVE_MOON_13_INTRO_2]
+{EXCITED:WINNIE}那是坚壳矿石！只有打破坚壳才可以采集里面的晶矿！
+
+[NARRATIVE_MOON_13_INTRO_3]
+{SAY:WINNIE}多种些植物将坚壳打碎吧！
+
+[NARRATIVE_MOON_14_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}滴滴！检测到易碎晶矿！
+
+[NARRATIVE_MOON_14_INTRO_2]
+{SAY:ASTRONAUTCRAZYDAVE}这个也需要打碎吗？
+
+[NARRATIVE_MOON_14_INTRO_3]
+{SAY:WINNIE}不！易碎晶矿在采集一段时间后会碎掉，之后就无法采集了
+
+[NARRATIVE_MOON_14_INTRO_4]
+{SAY:WINNIE}部分易碎晶矿中有能量豆，晶矿碎掉后可以获得
+
+[NARRATIVE_MOON_14_INTRO_5]
+{SAY:ASTRONAUTCRAZYDAVE}好吧！没办法好好采个尽兴了！
+
+[NARRATIVE_MOON_20_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}危险！前方检测到辐射晶矿！
+
+[NARRATIVE_MOON_20_INTRO_2]
+{SAY:WINNIE}辐射晶矿会周期性对周围的植物和僵尸进行辐射
+
+[NARRATIVE_MOON_20_INTRO_3]
+{SAY:WINNIE}植物会随机变成其他植物，僵尸会有概率变成辐射巨人
+
+[NARRATIVE_MOON_20_INTRO_4]
+{SAY:ASTRONAUTCRAZYDAVE}那我过去会变成什么呢？
+
+[NARRATIVE_MOON_20_INTRO_5]
+{SAY:WINNIE}呃，我不知道，但最好别那样做
+
 [MOON1_TUTORIAL_PLANT_PEASHOOTER]
 Kéo Cây Bắn Đậu lên ô đất rêu
 
@@ -91731,6 +92616,24 @@ Nhấn vào trạm thu thập để mở bảng điều phối
 
 [MOON1_TUTORIAL_TERMINAL_DRAG]
 Kéo trạm thu thập ra chiến trường
+
+[NARRATIVE_ARENA_TUTORIAL_1_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}是奖杯！它是属于我的了！
+
+[NARRATIVE_ARENA_TUTORIAL_1_2]
+{SAY:WINNIE}这是角斗场在进行表演！我们要和僵尸进行角斗！
+
+[NARRATIVE_ARENA_TUTORIAL_2_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}哇！好多能量豆！大招用个爽！
+
+[NARRATIVE_ARENA_TUTORIAL_2_2]
+{SAY:WINNIE}在角斗胜利后，奖杯会爆发出大量能量豆
+
+[NARRATIVE_ARENA_TUTORIAL_2_3]
+{SAY:WINNIE}但如果角斗失败，会从天上降下大量的僵尸铁笼！
+
+[NARRATIVE_ARENA_TUTORIAL_2_4]
+{SAY:CRAZYDAVE}那我要赢下每一场角斗！
 
 [ANNIVERSARY_2026_1_ZOMBIE_MODIFIER]
 Giảm Sát Thương Zombie Pharaoh
@@ -91851,5 +92754,207 @@ Tăng Tốc Zombie Bay Kỷ Niệm
 
 [ANNIVERSARY_2026_20_ZOMBIE_MODIFIER_DESCRIPTION]
 Tốc độ di chuyển của Zombie Bay Kỷ Niệm tăng 50%
+
+[MOON_GRAPPLE_UPGRADE_WINCH]
+强力绞盘
+
+[MOON_GRAPPLE_UPGRADE_LAUNCHER]
+高速发射器
+
+[MOON_GRAPPLE_UPGRADE_MAGNET]
+月晶磁铁
+
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK]
+双钩发射架
+
+[MOON_GRAPPLE_UPGRADE_BOUNTY]
+僵王估价系统
+
+[MOON_GRAPPLE_GUIDE_DESC_1]
+按住瞄准，拖动调整，松开发射！抓取物品获得分数和经验。每局限时内达到目标分，连续通过三局即可获胜！
+
+[MOON_GRAPPLE_GUIDE_DESC_2]
+经验攒满即可选择一次升级。选中卡牌后，点击“确认”生效；选择期间游戏暂停。
+
+[MOON_GRAPPLE_GUIDE_DESC_3]
+狂热：连续10次抓取或击碎物品即可触发，期间发射和抓空返回速度翻倍。
+
+[MOON_GRAPPLE_GUIDE_DESC_4]
+流星雨：抓取并回收每局仅出现一次的流星花即可触发，期间不刷新月球岩石，回收分数翻倍
+
+[MOON_GRAPPLE_UPGRADE_WINCH_DESC_1]
+回收速度提高35%
+[MOON_GRAPPLE_UPGRADE_WINCH_DESC_2]
+回收速度累计提高70%
+[MOON_GRAPPLE_UPGRADE_WINCH_DESC_3]
+回收速度累计提高110%，重物额外减速削弱25%
+
+[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_1]
+发射速度提高35%，抓空返回速度提高20%
+[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_2]
+发射速度累计提高70%，抓空返回速度累计提高50%
+[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_3]
+发射速度累计提高110%，抓空返回速度累计提高90%
+
+[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_1]
+吸附小范围内1枚小月晶
+[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_2]
+提高吸附半径和牵引速度
+[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_3]
+进一步提高吸附半径，一次最多吸附并带回2枚
+
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_1]
+主钩发射后可再次瞄准，以70%速度发射副钩；两钩归位后开启下一轮
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_2]
+副钩速度提高至主钩的90%；继续等待两钩归位
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_3]
+副钩达到主钩100%速度；任意钩爪归位后均可独立再发
+
+[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_1]
+每12秒标记1个悬赏目标；回收分数提高50%
+[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_2]
+每10秒标记1个悬赏目标；回收分数提高100%
+[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_3]
+回收悬赏后标记转移至其他编队的合格物品，并保持100%加分，可持续连锁
+
+[MOON_GRAPPLE_FRENZY_WARNING]
+进入狂热！
+
+[MOON_GRAPPLE_LOSS_MESSAGE]
+挑战失败！
+
+[MOON_GRAPPLE_CANNOT_FIRE]
+当前不能出钩
+
+[EAGLE_FLAG_ARRIVAL]
+鹰旗降临
+
+[EAGLE_FLAG_ARRIVAL_DIFFICULTY_1_DESCRIPTION]
+开局在右侧第8、9列的空位中随机额外生成1个鹰旗
+
+[EAGLE_FLAG_ARRIVAL_DIFFICULTY_2_DESCRIPTION]
+开局在右侧第8、9列的空位中随机额外生成3个鹰旗
+
+[EAGLE_FLAG_ARRIVAL_DIFFICULTY_3_DESCRIPTION]
+开局在右侧第8、9列的空位中随机额外生成5个鹰旗
+
+[ADVICE_GLADIATOR_ROW_WARNING]
+角斗行即将开启！
+
+[ADVICE_GLADIATOR_ROW_PLANTS_WIN]
+植物赢得角斗！
+
+[ADVICE_GLADIATOR_ROW_ZOMBIES_WIN]
+僵尸赢得角斗！
+
+[ADVICE_GLADIATOR_ROW_ACTION_INSIDE]
+角斗期间只能操作角斗场内区域！
+
+[COSMICSAUCER]
+宇宙飞碟瓜
+
+[COSMICSAUCER_DESCRIPTION]
+{KEYWORD}范围：{STAT}单格
+{KEYWORD}植物特征：{STAT}紫色植物、宇宙家族
+{FLAVOR}宇宙飞碟瓜约坚果去附近兜风。听说目的地在三十八万公里外，坚果默默放下了野餐篮。“怎么了？”宇宙飞碟瓜问，“我还特意挑了个能看见家的地方。”
+
+[COSMICSAUCER_DESCRIPTION_HEADER]
+将同格的中小型僵尸吸至空中，并救出周围陷入强引力的植物。
+
+[COSMICSAUCER_TOOLTIP]
+悬浮靠近的中小型僵尸
+
+[COSMICSAUCER_PRODUCT_SHORT_DESC]
+控制靠近的僵尸，并解除植物的强引力状态。
+
+[COSMICSAUCER_AVATAR_NAME]
+宇宙飞碟瓜装扮
+
+[STORE_PRODUCT_AVATAR_COSMICSAUCER_TITLE]
+宇宙飞碟瓜装扮
+
+[STORE_PRODUCT_AVATAR_COSMICSAUCER]
+大招可吸收的中小型僵尸数量上限由3个提升至6个。
+
+[COSMICSAUCER_SKILL_LEVEL1]
+引力捕手
+
+[COSMICSAUCER_SKILL_LEVEL1_DES]
+可吸收同格内剩余总生命值低于1000的中小型僵尸，休息时间缩短至12秒。
+
+[COSMICSAUCER_SKILL_LEVEL2]
+引力升级
+
+[COSMICSAUCER_SKILL_LEVEL2_DES]
+可吸收同格内剩余总生命值低于2000的中小型僵尸，休息时间缩短至10秒。
+
+[COSMICSAUCER_SKILL_LEVEL5]
+迷幻光束
+
+[COSMICSAUCER_SKILL_LEVEL5_DES]
+悬浮僵尸落地后有20%概率被魅惑，巨人、精英和首领单位免疫。
+
+[COSMICSAUCER_NEW_SKILL_LEVEL1_DES]
+将同格内符合条件的中小型僵尸吸至空中，悬浮4秒，攻击结束后休息14秒。自身免疫强引力，并能救出周围3×3范围内陷入强引力的植物。
+
+[COSMICSAUCER_NEW_SKILL_LEVEL2_DES]
+可吸收同格内剩余总生命值低于1000的中小型僵尸，休息时间缩短至12秒。
+
+[COSMICSAUCER_NEW_SKILL_LEVEL3_DES]
+可吸收同格内剩余总生命值低于2000的中小型僵尸，休息时间缩短至10秒。
+
+[COSMICSAUCER_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招！
+
+[COSMICSAUCER_NEW_SKILL_LEVEL5_DES]
+悬浮僵尸落地后有20%概率被魅惑，无法魅惑的僵尸不受此效果影响。
+
+[COSMICSAUCER_PLANTFOOD_DESCRIPTION]
+依次吸收以自身为中心3×3范围内最多3个符合条件的中小型僵尸，优先吸收距离较近的目标。
+
+[COSMICSAUCER_AVATAR_PLANTFOOD_DESCRIPTION]
+依次吸收以自身为中心3×3范围内最多6个符合条件的中小型僵尸，优先吸收距离较近的目标。
+
+[PLANT_FAMILY_NAME_50052]
+步月登云
+
+[ROMAN_BALLISTA_PARTY]
+罗马攻城车派对
+[ROMAN_BALLISTA_PARTY_DESCRIPTION]
+罗马攻城车的生命值提升至300%，每次额外投掷1个罐子
+
+[ROMAN_HEALER_PARTY]
+治愈者派对
+[ROMAN_HEALER_PARTY_DESCRIPTION]
+治愈者僵尸的生命值提升至300%，治疗间隔缩短至2.5秒
+
+[GLADIATOR_PARTY]
+角斗士派对
+[GLADIATOR_PARTY_DESCRIPTION]
+角斗士僵尸的移动速度和攻击力提升至300%
+
+[UNCHARTED_ROMA_N_CHALLENGE_2]
+击败{NUMBER}只罗马盾牌僵尸
+
+[UNCHARTED_ROMA_N_CHALLENGE_3]
+累计击败{NUMBER}只罗马铁桶僵尸、百夫长僵尸或石像僵尸
+
+[UNCHARTED_ROMA_N_CHALLENGE_4]
+累计击败{NUMBER}只罗马盾牌僵尸
+
+[UNCHARTED_ROMA_N_CHALLENGE_5]
+击败{NUMBER}只治愈者僵尸
+
+[UNCHARTED_ROMA_N_CHALLENGE_6]
+击败{NUMBER}只美杜莎僵尸
+
+[UNCHARTED_ROMA_N_CHALLENGE_9]
+击败{NUMBER}只角斗士僵尸
+
+[UNCHARTED_ROMA_N_CHALLENGE_10]
+击败罗马僵王，完成关卡
+
+[ARENA_TUTORIAL_PLANT_PEASHOOTER]
+把豌豆射手拖至目标地块上
 
 [PVZ2_CHINESE_END]

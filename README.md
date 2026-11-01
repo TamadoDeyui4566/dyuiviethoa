@@ -50,8 +50,9 @@ III. MOD
 - Tôi đã add mod của [Evilhack28](https://github.com/evilhack28) vào trong Việt Hóa rồi thì nên **né** các chế độ online (pvp, arena, penny,..), không nên đứng top 100 người chơi,... vì có thể bị quét và cấm chơi ngay lúc đó và không bị cấm nếu chỉ là "bản Việt Hóa bình thường".
 - **NẾU KHÔNG VIỆT HÓA ĐƯỢC THÌ DO THỰC HIỆN KHÔNG ĐÚNG CÁCH HÃY XEM KỸ LẠI NẾU KHÔNG BIẾT THÌ LIÊN HỆ TÔI**
 ## Đa phương tiện
-- [Discord Server - PvZ VietNam]( https://discord.gg/ytTCgC9D3M)
+- Discord Server - [PvZ VietNam by Quang Phat]( https://discord.gg/ytTCgC9D3M)
 - [Group Facebook - Hỗ trợ bản Việt Hóa của Plant Vs Zombies 2](https://www.facebook.com/groups/1540381394319503/?ref=share&mibextid=NSMWBT)
-- [YouTube - Dyui VV](https://m.youtube.com/@DYUI_YT)
+- Liên hệ chủ Mod Việt Hóa: [Facebook](https://www.facebook.com/duy.86399) hoặc [Discord](https://discord.com/users/696414319310667816)
+- YouTube: [Dyui VV](https://m.youtube.com/@DYUI_YT)
 - [Cho tôi một ly cà phê](https://me.momo.vn/23uzf3TyFqFeFet7)
 - Scan bằng qr: [MOMO](https://github.com/TamadoDeyui4566/dyuiviethoa/blob/Main/Donate%20me/QR-MOMO.jpg) hoặc [Vietcombank](https://github.com/TamadoDeyui4566/dyuiviethoa/blob/Main/Donate%20me/QR-Vietcombank.jpg)

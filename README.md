@@ -4,7 +4,7 @@
 - Thành lập: 30/6/2023
 - Ngày đăng đầu tiên: 11/7/2023 + [video](https://youtu.be/wXcEynKn25Q)
 - Thông tin cập nhập:
- 13h45, 1/11/2026, v4.2.7 việt hóa đã cập nhập, văn bản v4.2.4 và cảnh cáo có missing nên thông cảm :(
+ 13h45, 1/11/2026, v4.2.7 việt hóa đã cập nhập cho android và ios, văn bản v4.2.4 và cảnh cáo có missing nên thông cảm :(
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa

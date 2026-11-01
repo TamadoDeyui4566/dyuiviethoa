@@ -35,7 +35,7 @@ I. Android
   - Tận hưởng và chúc may mắn
 
 II. Ios
-- Link tải: [ĐÂY](https://drive.google.com/drive/folders/1zmeYb0VYpUJW1GbGMWWSkv5gwKs9KfHs)
+- Link tải: [ĐÂY](https://drive.google.com/drive/folders/1OCSFUkhHNspH-JEPO8ZAuXNWEaoHJs3k)
 - Link video hướng dẫn bởi [Evilhack28](https://github.com/evilhack28): [Nhấp vào ĐÂY để xem video](https://youtu.be/4PrktGp7dJg?si=1TOQLEY730WN5pyy)
 - Đừng liên hệ tôi vì tôi **không phải người dùng IOS**, nếu có thể liên hệ chủ video đó (phải chat bằng tiếng anh) để hỗ trợ.
 ## Vấn đề khác

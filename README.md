@@ -26,9 +26,9 @@ II. Ios
 2. [Link](https://apps.apple.com/cn/app/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B82/id639516529) (không cần thiết)
 ## Cách sử dụng
 I. Android
-1. Đầu tiên, chuẩn bị 2 file đó là "dynamic.rsb.smf" và "init.rsb.smf" nằm ngay trong mục release bằng các kéo xuống CUỐI trang đối với điện thoại và bên phải đối với pc, khó quá vô [ĐÂY](https://github.com/TamadoDeyui4566/dyuiviethoa/releases)
-2. Tải app [ZAchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en) về điện thoại. Lưu ý, nếu hệ điều hành android từ 15 trở lên nên cài thêm app [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en) hoặc [link này](https://shizuku-manager.en.uptodown.com/android) nếu không thể cài đặt trên ch play (mục đích cái apk đó để cấp quyền truy cập file **Android/Data**, bạn có thể xem video của tôi xem cách làm.)
-3. Cách thực hiện:
+ 1. Đầu tiên, chuẩn bị 2 file đó là "dynamic.rsb.smf" và "init.rsb.smf" nằm ngay trong mục release bằng các kéo xuống CUỐI trang đối với điện thoại và bên phải đối với pc, khó quá vô [ĐÂY](https://github.com/TamadoDeyui4566/dyuiviethoa/releases)
+ 2. Tải app [ZAchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en) về điện thoại. Lưu ý, nếu hệ điều hành android từ 15 trở lên nên cài thêm app [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en) hoặc [link này](https://shizuku-manager.en.uptodown.com/android) nếu không thể cài đặt trên ch play (mục đích cái apk đó để cấp quyền truy cập file **Android/Data**, bạn có thể xem video của tôi xem cách làm.)
+ 3. Cách thực hiện:
   - Tải 2 file *dynamic.rsb.smf* và *init.rsb.smf* và nó sẽ được lưu ở mục *Download*
   - Sao chép 2 file đó vào mục ***Android/Data/com.popcap.pvz2…/files/***
   - Dán file mục đó thì nó hiện thông báo "Bạn có muốn ghi đè/thay thế không". Chọn **ghi đè/thay thế**
@@ -38,12 +38,17 @@ II. Ios
 - Link tải: [ĐÂY](https://drive.google.com/drive/folders/1OCSFUkhHNspH-JEPO8ZAuXNWEaoHJs3k)
 - Link video hướng dẫn bởi [Evilhack28](https://github.com/evilhack28): [Nhấp vào ĐÂY để xem video](https://youtu.be/4PrktGp7dJg?si=1TOQLEY730WN5pyy)
 - Đừng liên hệ tôi vì tôi **không phải người dùng IOS**, nếu có thể liên hệ chủ video đó (phải chat bằng tiếng anh) để hỗ trợ.
+
+III. MOD
+- [LINK MOD CHÍNH THỨC CHỈ DÀNH CHO ANDROID](https://drive.google.com/drive/folders/1zmeYb0VYpUJW1GbGMWWSkv5gwKs9KfHs) (IOS SỚM CÓ)
+- **Android** Nếu mod thì lưu ý tải thêm "init.rsb.smf" để tránh lỗi font và cách làm như mục I.
+- **Ios**
+   - Tải file IPA, sau đó đổi tên dạng ".zip" và giải nén nó (nếu có) và cuối cùng đưa file "config.rsb" vô đường dẫn ".../Payload/PvZ2.app/"
+   - Cách làm như mục II.
 ## Vấn đề khác
-- Trong qua trình tải file mà không mang theo "init.rsb.smf" thì gây ra tình trạng lỗi font nên lưu ý vấn đề này
 - Đây là bản Việt Hóa **hoàn toàn miễn phí** nếu ai đang kinh doanh liên quan đến bản VH thì ***tôi sẽ không hoàn toàn chịu trách nhiệm vấn đề đó***
 - Tôi đã add mod của [Evilhack28](https://github.com/evilhack28) vào trong Việt Hóa rồi thì nên **né** các chế độ online (pvp, arena, penny,..), không nên đứng top 100 người chơi,... vì có thể bị quét và cấm chơi ngay lúc đó và không bị cấm nếu chỉ là "bản Việt Hóa bình thường".
-- [lINK MOD CHÍNH THỨC CHỈ DÀNH CHO ANDROID](https://drive.google.com/drive/folders/1zmeYb0VYpUJW1GbGMWWSkv5gwKs9KfHs) (IOS SỚM CÓ)
-- **NẾU KHÔNG VIỆT HÓA ĐƯỢC THÌ DO THỰC HIỆN KHÔNG ĐÚNG CÁCH HÃY XEM KỸ LẠI NẾU MÀ NHẮN TUI THÌ CHO ĂN TÁT**
+- **NẾU KHÔNG VIỆT HÓA ĐƯỢC THÌ DO THỰC HIỆN KHÔNG ĐÚNG CÁCH HÃY XEM KỸ LẠI NẾU KHÔNG BIẾT THÌ LIÊN HỆ TÔI**
 ## Đa phương tiện
 - [Discord Server - PvZ VietNam]( https://discord.gg/ytTCgC9D3M)
 - [Group Facebook - Hỗ trợ bản Việt Hóa của Plant Vs Zombies 2](https://www.facebook.com/groups/1540381394319503/?ref=share&mibextid=NSMWBT)

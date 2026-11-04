@@ -5,6 +5,7 @@
 - Ngày đăng đầu tiên: 11/7/2023 + [video](https://youtu.be/wXcEynKn25Q)
 - Thông tin cập nhập:
  13h45, 1/11/2026, v4.2.7 việt hóa đã cập nhập cho android và ios; 1h14, 3/11/2026 văn bản v4.2.7 đã được thêm và đã Việt Hóa gần như hoàn tất
+- Bản vá lỗi nhỏ vẫn dùng một cách bình thường xin cảm ơn 😏
 
 ## Lời cảm ơn
 - [Nvdtn19](https://github.com/Nvdtn19) là người tạo bản English Translation và là người hướng dẫn cách mod bản Việt Hóa

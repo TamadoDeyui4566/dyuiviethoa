@@ -41,7 +41,7 @@ II. Ios
 - Đừng liên hệ tôi vì tôi **không phải người dùng IOS**, nếu có thể liên hệ chủ video đó (phải chat bằng tiếng anh) để hỗ trợ.
 
 III. MOD
-- [LINK MOD CHÍNH THỨC CHỈ DÀNH CHO ANDROID VÀ IOS](https://drive.google.com/drive/folders/1zmeYb0VYpUJW1GbGMWWSkv5gwKs9KfHs) 
+- [LINK MOD CHÍNH THỨC CHỈ DÀNH CHO ANDROID VÀ IOS](https://drive.google.com/drive/folders/140ER6QCJi5g3L-hkF3uKQo1BIPNCZahp)
 - **Android** Nếu mod thì lưu ý tải thêm "init.rsb.smf" để tránh lỗi font và cách làm như mục I.
 - **Ios**
    - Tải file IPA, sau đó đổi tên dạng ".zip" và giải nén nó (nếu có) và cuối cùng đưa file "config.rsb" vô đường dẫn ".../Payload/PvZ2.app/"
